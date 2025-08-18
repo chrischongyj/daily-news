@@ -43,4 +43,4 @@ In short, it’s like having a personal AI news analyst, working 24/7 to keep yo
 3. Run the pipeline:
 
 ```bash
-python news_analyst.py --run
+python news_analysis.py --run
