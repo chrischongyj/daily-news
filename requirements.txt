@@ -1,0 +1,12 @@
+langchain>=0.2.14
+langgraph>=0.2.35
+langchain-openai>=0.1.22
+pydantic>=2.7
+feedparser>=6.0.11
+python-dateutil>=2.9.0.post0
+readability-lxml>=0.8.1
+beautifulsoup4>=4.12.3
+requests>=2.32.3
+tqdm>=4.66.4
+uvicorn>=0.30.1
+fastapi>=0.111.0
