@@ -25,7 +25,7 @@ if not OPENAI_API_KEY:
     print("⚠️  Set OPENAI_API_KEY in your environment for best results.")
 
 DB_PATH = os.getenv("NEWS_DB", "news_feed.sqlite")
-MARKDOWN_OUT = os.getenv("NEWS_MD", "feed.md")
+MARKDOWN_OUT = os.getenv("NEWS_MD", "./docs/index.md")
 MAX_PER_SOURCE = int(os.getenv("MAX_PER_SOURCE", "20"))  # pull up to N items per source run
 MAX_ITEMS_PER_RUN = int(os.getenv("MAX_ITEMS_PER_RUN", "80"))  # global cap per run
 
