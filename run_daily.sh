@@ -10,7 +10,7 @@ python news_analysis.py --run
 #commit
 git add .
 git commit -m "daily update"
-git push
+git push origin main
 
 # Automate by adding to crontab
 # crontab -e
