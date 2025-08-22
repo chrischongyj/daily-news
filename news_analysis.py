@@ -11,6 +11,9 @@ from dateutil import parser as dateparser
 from readability import Document
 from tqdm import tqdm
 
+from dotenv import load_dotenv
+load_dotenv()  # will read from .env
+
 # LangChain / LangGraph
 from langchain_openai import ChatOpenAI
 from langchain.schema import HumanMessage, SystemMessage
