@@ -1,5 +1,55 @@
 # AI Curated News Analyst — Latest
 
+**[Meta to license AI technology from start-up as in-house models lag rivals](https://www.ft.com/content/feccb649-ce95-43d2-b30a-057d64b38cdf)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Tickers: META — Entities: Meta, start-up
+
+Meta is set to license AI technology from a start-up due to its in-house models falling behind competitors. This move highlights the growing importance of external partnerships in advancing AI capabilities.
+
+**[US to take 10% stake in troubled chipmaker Intel](https://www.ft.com/content/aec7bdce-d9ca-4416-a1b4-a0da5d11c715)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Tickers: INTC — Entities: US government, Intel
+
+The US government plans to acquire a 10% stake in Intel, a struggling chipmaker, as part of efforts to bolster domestic semiconductor production and innovation.
+
+**[Powell paves the way for Fed rate cut in September](https://www.ft.com/content/cdd1dd0f-f0ba-41f3-be97-e598785676f5)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
+
+Federal Reserve Chair Jerome Powell signals a potential interest rate cut in September, influencing market expectations and investor strategies.
+
+**[Tariff revenue will cut US deficits by $4tn, fiscal watchdog says](https://www.ft.com/content/f996ece9-d9e2-4a06-957a-487994f6a7e7)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: US government, fiscal watchdog
+
+A fiscal watchdog reports that tariff revenue could reduce US deficits by $4 trillion, highlighting the potential impact of trade policies on national finances.
+
+**[Canada to drop retaliatory tariffs on billions of dollars’ worth of US products](https://www.ft.com/content/32188ecb-c454-43db-8d1f-5c5ea7b5d30e)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: Canada, US, businesses
+
+Canada will eliminate retaliatory tariffs on US goods worth billions, potentially improving trade relations and benefiting businesses on both sides of the border.
+
+**[Microsoft tests letting you resume Android apps on Windows 11](https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11)**  
+*tech* · 2025-08-22 · **Imp 4/5** — Tickers: MSFT, SPOT — Entities: Microsoft, Spotify
+
+Microsoft is testing a feature in Windows 11 that allows users to resume Android apps on their PC, starting with Spotify. This capability is currently available to Windows Insiders and aims to enhance cross-device functionality.
+
+**[The twilight of the central banking elite](https://www.ft.com/content/3b5a3fde-6110-4e40-88b1-04f71ed5b0f1)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: central banks, monetary policy, financial markets
+
+The article discusses the diminishing influence of central banking elites in the financial landscape, highlighting shifts in monetary policy and market dynamics.
+
+**[Trump must not reward Putin for his aggression in Ukraine](https://www.ft.com/content/e91df3ac-c649-46f7-a9ad-5d1a626c3ad7)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
+
+The article emphasizes that Trump should not incentivize Putin's aggressive actions in Ukraine, highlighting the geopolitical implications for global stability and finance.
+
+**[Hollywood mogul backs Musk brother’s ‘drone entertainment company’](https://www.ft.com/content/3981779d-d21a-4518-b4db-1eeb87afdea3)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: Hollywood mogul, Kimbal Musk, Elon Musk, drone entertainment company
+
+A Hollywood mogul is investing in a drone entertainment company founded by Elon Musk's brother, Kimbal Musk, highlighting the intersection of entertainment and technology.
+
+**[Will Trump avoid a Republican backlash over his tariff plans?](https://www.ft.com/content/f689fc2e-2dc4-47b5-8fc2-dfed15a84233)**  
+*finance* · 2025-08-22 · **Imp 4/5** — Entities: Trump, Republican Party
+
+The article discusses the potential repercussions of Trump's tariff plans on the Republican Party and whether he can mitigate backlash from party members.
+
 **[Is the Flipper Zero the next big car theft gadget?](https://www.theverge.com/cars/763446/flipper-zero-car-theft-firmware-hack-key-fob)**  
 *tech* · 2025-08-21 · **Imp 4/5** — Entities: Flipper Zero, Hyundai, Kia, Ford, Audi, Volkswagen, Subaru, Genesis
 
@@ -76,176 +126,126 @@ Investors are facing significant losses as 'pump and dump' scams proliferate in 
 India's oil lobby is reportedly financing Russia's military efforts in Ukraine, raising concerns about the ethical implications and potential backlash for investors and stakeholders involved in the oil sector.
 
 **[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, U.S. stocks, AI infrastructure
+*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, DeepSeek, AI infrastructure
 
-U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares by 16%. This decline reflects broader concerns over AI infrastructure companies amid market volatility.
+U.S. stocks fell, particularly in the AI sector, following a significant decline in Nvidia's shares, which dropped 16%. This downturn was triggered by concerns over China's DeepSeek technology impacting AI infrastructure companies.
 
 **[DeepSeek Won't Sink U.S. AI Titans](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: DeepSeek, Nvidia, Broadcom
 
-The recent selloff of Nvidia, Broadcom, and other tech giants is driven by panic, which analysts believe is exaggerated. DeepSeek's analysis suggests that these companies remain strong despite market fluctuations.
+The recent selloff of Nvidia, Broadcom, and other U.S. tech giants is driven by panic, which analysts believe is overblown. DeepSeek's insights suggest these companies remain strong despite market fluctuations.
 
 **[Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, U.S., Colombia, President Trump
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, President Trump, Colombia
 
-Arabica coffee prices reached a record high following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics.
+Arabica coffee prices have reached record highs following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics and trader sentiment.
 
 **[Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Swiss franc, Japanese yen, DeepSeek, U.S. tech stocks
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: DeepSeek, Swiss franc, Japanese yen, U.S. tech stocks
 
-The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's AI model on U.S. tech stocks.
+The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's new AI model on U.S. tech stocks.
 
 **[Building-Products Distributor QXO Launches Hostile Bid for Beacon](https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: QXO, Beacon
 
-Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections.
+Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections. This move indicates QXO's aggressive strategy to expand its market presence.
 
 **[Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player](https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Diversified Energy, Maverick Natural Resources
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Diversified Energy, Maverick Natural Resources, Permian Basin
 
-Diversified Energy has acquired Maverick Natural Resources, expanding its operations in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
+Diversified Energy has acquired Maverick Natural Resources, enhancing its operations in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
 
 **[What's New This Tax Season That Can Save You Money](https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: online sellers, electric vehicle buyers
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: taxpayers, online sellers, electric vehicle purchasers
 
-This tax season introduces new savings opportunities for online sellers and electric vehicle (EV) buyers, potentially impacting their financial outcomes.
+This tax season introduces new opportunities for savings, particularly for online sellers and electric vehicle (EV) purchasers. Understanding these changes can help taxpayers maximize their refunds.
 
 **[Chinese Investors With Few Options Turn to Dividends](https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Chinese investors, companies
 
-Chinese investors are increasingly favoring companies with strong dividend payouts as attractive investment options amid limited alternatives in the market.
+Chinese investors are increasingly focusing on companies with strong dividend payouts as attractive investment options amidst limited choices in the market.
 
 **[Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S.
 
-Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, leading to a stable export situation despite geopolitical tensions. Oil prices have slightly declined in early trading.
+Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, despite a slight decline in oil prices. This stability may influence market perceptions and investor strategies.
 
 **[The Extra Reward for Owning Stocks Over Bonds Has Disappeared](https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: individual investors, equities, bonds
 
-The traditional extra reward for owning stocks over bonds has diminished, yet individual investors continue to show strong demand for equities, remaining optimistic following two years of significant gains.
+The premium for owning stocks over bonds has diminished, yet individual investors continue to show strong demand for equities, remaining optimistic following two years of significant gains.
 
 **[Heard on the Street's Stock-Picking Series](https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Heard on the Street, stock-picking contest
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Heard on the Street, stock-picking contest, investors
 
-Heard on the Street features its eighth annual stock-picking contest, showcasing favored stocks by its writers, providing insights for investors on potential market opportunities.
+Heard on the Street's eighth annual stock-picking contest highlights favored stocks by its writers, providing insights for investors on potential investment opportunities.
 
 **[What Will It Take for Home Buyers to Start Asking for a Disaster Discount?](https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, real estate, neighborhoods, flooding, wildfires
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, real estate, flooding, wildfires
 
-Home buyers are increasingly aware of the risks associated with purchasing properties in flood and wildfire-prone areas, leading to potential demands for disaster discounts.
+Home buyers are increasingly aware of the risks associated with purchasing properties in areas prone to flooding and wildfires, prompting discussions about potential 'disaster discounts' in pricing.
 
 **[Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: venture-capital firms, accounting, property management, AI
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: Venture-capital firms, accounting, property management, AI
 
-Venture-capital firms are increasingly investing in traditional, low-margin businesses like accounting and property management, leveraging AI and innovative dealmaking strategies to enhance profitability.
+Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, leveraging AI and dealmaking strategies despite their thin profit margins. This shift indicates a growing interest in less glamorous but potentially stable business models.
 
 **[In China, a Cat-and-Mouse Game to Rein In Crypto](https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: China, crypto trade, middlemen, government
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: China, crypto market, regulators, middlemen
 
-Recent court cases in China highlight the ongoing struggle to regulate the booming crypto trade, as middlemen find ways to circumvent government crackdowns.
+Recent court cases in China highlight the ongoing struggle between regulators and middlemen in the crypto market, as these intermediaries continue to facilitate a thriving trade despite government crackdowns.
 
 **[One House, Three Owners: The Ballooning Cost of the American Dream](https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: homeownership, affordability, American Dream
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: U.S. housing market, homeownership, American Dream
 
 The article explores the rising costs of homeownership in the U.S. through the lens of a single property shared by three owners, highlighting the challenges of achieving the American Dream.
 
 **[Open Office Hours at NYC Tech Week](https://avc.com/2023/10/open-office-hours-at-nyc-tech-week/)**  
-*startup* · 2023-10-12 · **Imp 4/5** — Entities: NYC Tech Week, VC Open Office Hours
+*startup* · 2023-10-12 · **Imp 4/5** — Entities: NYC Tech Week, VC investors
 
-NYC Tech Week features VC Open Office Hours with over 100 investors. Participants can schedule up to four 20-minute meetings to pitch ideas, though immediate investment commitments are unlikely. Slots are filling quickly, urging prompt registration.
+NYC Tech Week features VC Open Office Hours with over 100 investors available for meetings. Participants can select four investors for 20-minute discussions to pitch their ideas, although immediate investment commitments are not expected. Slots are filling quickly, urging prompt registration.
 
-**[How Burning Man VR rebuilt after Microsoft shut it down](https://www.theverge.com/lowpass-newsletter/762887/burning-man-vr-microsoft-rebuilt)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Burning Man, Big Rock Creative, Altspace, Meta, VRChat"
+**[Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Apple, Oppo, Dr. Chen Shi"
 
-": "After Microsoft shut down Altspace, the team behind BRCvr created their own social VR app, BurnerSphere, to provide a permanent digital home for Burning Man enthusiasts. This platform aims to capture the festival's spirit without commercial pressures, relying on member dues for sustainability.",
+": "Apple is suing former employee Dr. Chen Shi for allegedly stealing trade secrets related to the Apple Watch to benefit Oppo. The lawsuit claims Shi downloaded confidential documents and communicated with Oppo about gathering information before his departure.",
 
-**[Africa Is Buying a Record Number of Chinese Solar Panels](https://www.wired.com/story/african-imports-of-chinese-solar-panels-increase/)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Africa, China, Pakistan, South Africa, Global Solar Council, Carbon Brief"
+**[US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "US government, Intel, Biden administration, Trump administration, SoftBank"
 
-": "African countries are increasingly importing Chinese solar panels, marking a shift towards renewable energy. This trend is driven by the affordability of solar installations compared to traditional coal and gas options, enabling rural communities to access electricity independently.",
+": "The US government is investing $8.9 billion in Intel, acquiring a 10% stake, primarily funded by previously allocated grants under the CHIPS Act. This move aims to stabilize Intel amid ongoing challenges in the chip industry.",
 
-**[Apple TV Plus is getting more expensive and will cost $12.99 per month](https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "AAPL" — Entities: ": "Apple, Apple TV Plus, NBCUniversal, Peacock"
+**[Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "NFLX" — Entities: ": "Netflix, Ted Sarandos, Jenny Popplewell"
 
-": "Apple TV Plus will increase its monthly subscription price from $9.99 to $12.99, effective immediately for new subscribers. Existing subscribers will see the change after their billing cycle. This marks the third price hike since its 2019 launch.",
+": "Netflix has outlined guidelines for partners using generative AI, emphasizing responsible use to avoid legal risks and maintain audience trust. The company views AI as a valuable tool for creativity while cautioning against potential misinformation.",
 
-**[Silksong finally launches in September](https://www.theverge.com/news/680636/hollow-knight-silksong-release-date-trailer)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Team Cherry, Nintendo, PlayStation, Xbox, Steam"
+**[Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Bluesky, Mississippi, Supreme Court"
 
-": "Hollow Knight: Silksong will launch on September 4th, featuring new gameplay elements and environments. Developed by Team Cherry, it has been highly anticipated since its announcement in 2019 and is the most wishlisted game on Steam.",
+": "Bluesky blocks access from Mississippi IPs due to a new age verification law, citing privacy concerns and resource constraints. The law, HB 1126, could fundamentally alter user access and has faced legal challenges for potential First Amendment violations.",
 
-**[Raising multiple rounds of venture capital might be wrong for your startup](https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/)**  
-*startup* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Pukar Hamal, SecurityPal AI, Craft Ventures, Andreessen Horowitz, Okta, Airtable, Figma, LangChain, Grammarly"
+**[Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "META" — Entities: ": "Meta, Midjourney, Alexandr Wang, Mark Zuckerberg, David Holz"
 
-": "Pukar Hamal, CEO of SecurityPal AI, advocates for sustainable growth over traditional VC fundraising. After facing financial challenges post-Series A, he emphasizes the importance of achieving profitability before seeking further investment, promoting a model of durable growth instead of rapid expansion.",
+": "Meta partners with Midjourney to license AI image technology, enhancing its AI capabilities across platforms. This collaboration aims to improve user-generated content and strengthen Meta's position in the competitive AI landscape.",
 
-**[StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track](https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/)**  
-*startup* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "StrictlyVC, Cendana Capital, Makena Capital, TechCrunch, A*"
+**[The power shift inside OpenAI](https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "OpenAI, Fidji Simo, Sam Altman, Greg Brockman, Jony Ive, Alex Blania, Google, Amazon, Meta"
 
-": "StrictlyVC returns to TechCrunch Disrupt 2025, focusing on liquidity challenges in venture capital. The event features discussions on LP-GP dynamics, fundraising strategies, and market opportunities, aiming to equip investors with actionable insights.",
+": "Fidji Simo has joined OpenAI as CEO of Applications, tasked with transforming the company into a disciplined tech giant. CEO Sam Altman shifts focus to fundraising and new ventures, while Simo will oversee key operations and monetization strategies, including potential affiliate links in ChatGPT.",
 
-**[Amazon is betting on agents to win the AI race](https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Amazon, OpenAI, Adept, Google"
+**[The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Entities: Sony, Roborock, TP-Link
 
-": "Amazon is focusing on AI agents to enhance task completion reliability, led by David Luan, a former OpenAI leader. His insights on AI model maturity and convergence highlight the industry's evolution, especially post-GPT-5 release.",
+Labor Day offers significant discounts on tech gadgets, with notable deals on Sony headphones, Roborock vacuums, and TP-Link routers. Early shopping is encouraged as prices may not drop further during the holiday sales.
 
-**[Google Search’s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "GOOGL" — Entities: ": "Google, OpenTable, Resy, Tock, Ticketmaster, StubHub, SeatGeek, Booksy"
+**[Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "World Health Organization, World Meteorological Organization, International Labour Organization, Biden administration"
 
-": "Google is expanding its AI Mode in Search to 180 countries, enhancing user experience with features like restaurant bookings and personalized responses. The service is currently available only in English and is aimed at improving search efficiency and user engagement.",
+": "The WHO and WMO report highlights the urgent need for better heat protections in the workplace, as rising temperatures threaten worker health and productivity. With 71% of the global workforce affected, proactive measures are essential to mitigate heat stress and its consequences.",
 
-**[Insta360 redesigned its compact action cam with a bigger battery and swappable storage](https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Insta360, GoPro, DJI"
+**[Abxylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/abxylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)**  
+*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Abxylute, Intel, Tencent, BOE"
 
-": "Insta360 launched the Go Ultra, a redesigned compact action camera with a larger battery, swappable storage, and enhanced video capabilities. Priced at $449.99, it features a new sensor for improved low-light performance and supports microSD cards up to 2TB.",
-
-**[Hank Green’s Focus Friend swapped my screen time for bean time](https://www.theverge.com/tech/763021/focus-friend-hank-green-app-store-ios-android)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Hank Green, Focus Friend, Billie Bean King"
-
-": "Hank Green's Focus Friend app gamifies productivity by allowing users to earn in-app currency through focused work sessions. The app, which recently topped the iOS App Store, aims to help users, particularly those with ADHD, improve attention and reduce distractions.",
-
-**[You can fine tune the resistance of the joysticks on GuliKit’s new controllers](https://www.theverge.com/news/763341/gulikit-tt-pro-max-wireless-switch-2-wake-controllers-adjustable-tension)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "GuliKit, Nintendo, Xbox, PlayStation"
-
-": "GuliKit announces the TT Pro and TT Max controllers with infinitely adjustable joystick tension, enhancing user experience. Set for release in October 2025, these controllers also support multiple platforms and include advanced features like swappable components and Hall effect triggers.",
-
-**[Google’s next big Android update can force dark mode and icon themes](https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability)**  
-*tech* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Google, Android, Pixel"
-
-": "Google's Android 16 update introduces forced dark mode, themed icons, and enhanced parental controls, aimed at improving accessibility and user customization. The beta is available for Pixel users, with a public release expected in December.",
-
-**[Merging To Create Scale: 5 Lessons Learned From Combining Private Companies](https://news.crunchbase.com/ma/combining-private-companies-create-scale-butler-thomvest/)**  
-*startup* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Don Butler, Thomvest Ventures, Forge Global, Sharepost, Nasdaq Private Market"
-
-": "The rise in peer-to-peer mergers among VC-backed startups highlights the importance of strategic partner selection and stakeholder management. Key lessons include understanding market dynamics, leveraging customer workflows, and balancing expectations among boards and shareholders to create successful mergers.",
-
-**[IPO Market Outlook: Window Reopens, But Expect A Convoy, Not A Stampede](https://news.crunchbase.com/public/ipo-market-outlook-ai-h2-2025/)**  
-*startup* · 2025-08-21 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Figma, Circle Internet Group, Athena Capital, SSM Law, Portage Capital Solutions, CoreWeave, Databricks, Cerebras"
-
-": "The U.S. IPO market is seeing a resurgence in 2025, with strong debuts from companies like Figma and Circle Internet Group. Experts predict continued momentum, though caution remains due to macro risks. AI companies may see IPOs by 2029-2031, depending on market conditions and performance of late-stage unicorns.",
-
-**[Why Sicilians hate Meloni’s bridge](https://www.ft.com/content/ce254e19-acc7-46f2-9ac8-5b306fd826b5)**  
-*finance* · 2025-08-21 · **Imp 3/5** — Entities: Sicilians, Meloni, bridge project
-
-The article discusses the negative sentiment among Sicilians towards Meloni's proposed bridge project, highlighting concerns over its implications for the region.
-
-**[Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-08-20 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Even Rogers, Max Haot, True Anomaly, Vast, TechCrunch Disrupt"
-
-": "TechCrunch Disrupt 2025 will feature a panel with Even Rogers and Max Haot discussing the evolving space economy, focusing on infrastructure and new business models. The event aims to connect founders and investors in the space tech sector.",
-
-**[India bans real-money gaming, threatening a $23 billion industry](https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/)**  
-*startup* · 2025-08-20 · **Imp 3/5** — Tickers: ": "NAZARA" — Entities: ": "India, Ashwini Vaishnaw, Dream Sports, MPL, WinZO, Gameskraft, Nazara Technologies, Zupee, Krafton, NODWIN Gaming, Tiger Global, Peak XV Partners, Kotak"
-
-": "India's parliament passed a bill banning real-money gaming, threatening a $23 billion industry. The legislation aims to curb gambling-related harm but may push players to illegal platforms, risking over 200,000 jobs and 400 companies. Industry stakeholders warn of significant negative impacts on compliant businesses and the broader gaming ecosystem.",
-
-**[Why SecurityPal is choosing ‘nuanced capital’ over more VC rounds](https://techcrunch.com/podcast/why-securitypal-is-choosing-nuanced-capital-over-more-vc-rounds/)**  
-*startup* · 2025-08-20 · **Imp 3/5** — Tickers: ": "" — Entities: ": "SecurityPal, Pukar Hamal, Julie Bort"
-
-": "SecurityPal's founder Pukar Hamal opts for 'nuanced capital' over traditional VC funding, focusing on profitability and sustainable growth. This strategy challenges the norm of constant capital injections, especially in competitive markets like AI.",
-
-**[Dex is an AI-powered camera device that helps children learn new languages](https://techcrunch.com/2025/08/20/dex-is-an-ai-powered-camera-device-that-helps-children-learn-new-languages/)**  
-*startup* · 2025-08-20 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Dex, Reni Cao, Xiao Zhang, Susan Rosenthal, Parable, Eduardo Vivas, Ben Silbermann, Lilian Weng, Richard Wong"
-
-": "Dex, an AI-powered language learning device for children, raised $4.8 million to enhance real-world language acquisition. Designed for ages 3-8, it features object recognition, interactive stories, and a safety-focused AI chatbot. Founders left tech jobs to create this engaging alternative to traditional language learning methods.",
+": "Abxylute will launch the Abxylute 3D One, a glasses-free 3D handheld gaming PC co-developed with Intel and Tencent. Priced under $1,700, it features an 11-inch display, detachable controllers, and is optimized for 50 top Steam games. Sales are expected to start in late September or early October.",
