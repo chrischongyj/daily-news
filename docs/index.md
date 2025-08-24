@@ -1,5 +1,35 @@
 # AI Curated News Analyst — Latest
 
+**[Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
+*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
+
+Amazon AGI Labs chief David Luan defends the reverse acquihire of AI startup Adept, emphasizing the need for talent and resources to tackle AGI challenges. Luan prioritizes innovation in AI research over deal structures.
+
+**[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
+*finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
+
+Policymakers emphasize that rich economies require foreign workers to sustain growth, highlighting the importance of immigration in economic strategies.
+
+**[Coca-Cola explores sale of Costa Coffee](https://www.ft.com/content/b337fb7b-0813-4ec4-82b9-24e4dc119987)**  
+*finance* · 2025-08-23 · **Imp 4/5** — Tickers: KO — Entities: Coca-Cola, Costa Coffee
+
+Coca-Cola is considering the sale of its Costa Coffee brand, indicating a strategic shift in its portfolio. This move could impact the beverage market and investor sentiment.
+
+**[BCG roiled by internal backlash over Gaza aid work](https://www.ft.com/content/89399790-b349-4112-ad2c-d6b27442889f)**  
+*finance* · 2025-08-23 · **Imp 4/5** — Entities: BCG, Gaza
+
+BCG faces internal backlash regarding its involvement in Gaza aid work, highlighting tensions within the firm over social responsibility and corporate ethics.
+
+**[Ørsted hit by US stop-work order on Rhode Island wind farm](https://www.ft.com/content/27bce438-9008-4c46-979a-26217e75a6a6)**  
+*finance* · 2025-08-23 · **Imp 4/5** — Entities: Ørsted, Rhode Island, wind farm
+
+Ørsted faces a stop-work order on its Rhode Island wind farm project, impacting its operations and future revenue potential in the renewable energy sector.
+
+**[Tech stocks are sending a warning](https://www.ft.com/content/c44c32cd-da47-4ba6-a67a-30c0059931bb)**  
+*finance* · 2025-08-23 · **Imp 4/5** — Entities: tech stocks, investors
+
+Tech stocks are signaling potential concerns for investors, indicating a need for caution in the market. This trend may affect investment strategies and valuations in the tech sector.
+
 **[Meta to license AI technology from start-up as in-house models lag rivals](https://www.ft.com/content/feccb649-ce95-43d2-b30a-057d64b38cdf)**  
 *finance* · 2025-08-22 · **Imp 4/5** — Tickers: META — Entities: Meta, start-up
 
@@ -128,124 +158,94 @@ India's oil lobby is reportedly financing Russia's military efforts in Ukraine, 
 **[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, DeepSeek, AI infrastructure
 
-U.S. stocks fell, particularly in the AI sector, following a significant decline in Nvidia's shares, which dropped 16%. This downturn was triggered by concerns over China's DeepSeek technology impacting AI infrastructure companies.
+U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares, which fell 16%. This decline was triggered by concerns over China's DeepSeek technology impacting AI infrastructure companies.
 
 **[DeepSeek Won't Sink U.S. AI Titans](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: DeepSeek, Nvidia, Broadcom
 
-The recent selloff of Nvidia, Broadcom, and other U.S. tech giants is driven by panic, which analysts believe is overblown. DeepSeek's insights suggest these companies remain strong despite market fluctuations.
+The recent selloff of Nvidia, Broadcom, and other U.S. tech giants due to panic is deemed exaggerated, suggesting that these companies remain resilient despite market fluctuations.
 
 **[Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, President Trump, Colombia
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, U.S., Colombia, President Trump
 
-Arabica coffee prices have reached record highs following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics and trader sentiment.
+Arabica coffee prices reached a record high following the easing of tariff threats by President Trump against Colombia, impacting market dynamics and trader sentiment.
 
 **[Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: DeepSeek, Swiss franc, Japanese yen, U.S. tech stocks
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Swiss franc, Japanese yen, DeepSeek, U.S. tech stocks
 
 The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's new AI model on U.S. tech stocks.
 
 **[Building-Products Distributor QXO Launches Hostile Bid for Beacon](https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: QXO, Beacon
 
-Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections. This move indicates QXO's aggressive strategy to expand its market presence.
+Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections. This move signals aggressive acquisition strategies in the sector.
 
 **[Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player](https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Diversified Energy, Maverick Natural Resources, Permian Basin
 
-Diversified Energy has acquired Maverick Natural Resources, enhancing its operations in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
+Diversified Energy has acquired Maverick Natural Resources, enhancing its presence in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
 
 **[What's New This Tax Season That Can Save You Money](https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: taxpayers, online sellers, electric vehicle purchasers
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: taxpayers, online sellers, electric vehicle buyers
 
 This tax season introduces new opportunities for savings, particularly for online sellers and electric vehicle (EV) purchasers. Understanding these changes can help taxpayers maximize their refunds.
 
 **[Chinese Investors With Few Options Turn to Dividends](https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Chinese investors, companies
 
-Chinese investors are increasingly focusing on companies with strong dividend payouts as attractive investment options amidst limited choices in the market.
+Chinese investors are increasingly favoring companies with strong dividend payouts as attractive investment options amid limited choices in the market.
 
 **[Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S.
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S. sanctions
 
-Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, despite a slight decline in oil prices. This stability may influence market perceptions and investor strategies.
+Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, despite a slight decline in oil prices. This stability may influence market dynamics and investor sentiment.
 
 **[The Extra Reward for Owning Stocks Over Bonds Has Disappeared](https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: individual investors, equities, bonds
 
 The premium for owning stocks over bonds has diminished, yet individual investors continue to show strong demand for equities, remaining optimistic following two years of significant gains.
 
-**[Heard on the Street's Stock-Picking Series](https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Heard on the Street, stock-picking contest, investors
-
-Heard on the Street's eighth annual stock-picking contest highlights favored stocks by its writers, providing insights for investors on potential investment opportunities.
-
 **[What Will It Take for Home Buyers to Start Asking for a Disaster Discount?](https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, real estate, flooding, wildfires
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, neighborhoods, flooding, wildfires
 
-Home buyers are increasingly aware of the risks associated with purchasing properties in areas prone to flooding and wildfires, prompting discussions about potential 'disaster discounts' in pricing.
+Home buyers are increasingly aware of the financial risks associated with purchasing properties in areas prone to flooding and wildfires, potentially leading to requests for disaster discounts.
 
 **[Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: Venture-capital firms, accounting, property management, AI
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: venture-capital firms, accounting, property management, AI
 
-Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, leveraging AI and dealmaking strategies despite their thin profit margins. This shift indicates a growing interest in less glamorous but potentially stable business models.
+Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, focusing on businesses with thin profit margins, leveraging AI and dealmaking strategies.
 
 **[In China, a Cat-and-Mouse Game to Rein In Crypto](https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: China, crypto market, regulators, middlemen
+*finance* · 2025-01-26 · **Imp 4/5** — Entities: China, cryptocurrency, middlemen, court cases
 
-Recent court cases in China highlight the ongoing struggle between regulators and middlemen in the crypto market, as these intermediaries continue to facilitate a thriving trade despite government crackdowns.
+Recent court cases in China highlight the ongoing challenges of regulating cryptocurrency, as middlemen continue to facilitate a thriving trade despite government crackdowns.
 
 **[One House, Three Owners: The Ballooning Cost of the American Dream](https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main)**  
 *finance* · 2025-01-26 · **Imp 4/5** — Entities: U.S. housing market, homeownership, American Dream
 
 The article explores the rising costs of homeownership in the U.S. through the lens of a single property shared by three owners, highlighting the challenges of achieving the American Dream.
 
-**[Open Office Hours at NYC Tech Week](https://avc.com/2023/10/open-office-hours-at-nyc-tech-week/)**  
-*startup* · 2023-10-12 · **Imp 4/5** — Entities: NYC Tech Week, VC investors
+**[Bose’s compact TV Speaker is more than $100 off right now](https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale)**  
+*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Bose, Amazon"
 
-NYC Tech Week features VC Open Office Hours with over 100 investors available for meetings. Participants can select four investors for 20-minute discussions to pitch their ideas, although immediate investment commitments are not expected. Slots are filling quickly, urging prompt registration.
+": "Bose's compact TV Speaker is currently priced at $163.45, a $115 discount, making it an affordable option for enhancing audio quality in home setups. It features a three-speaker system, Bluetooth connectivity, and dedicated modes for bass and dialogue.",
 
-**[Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Apple, Oppo, Dr. Chen Shi"
+**[What’s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)**  
+*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Dominic Preston, The Verge, Logitech, Mobvoi, Canon, Xiaomi"
 
-": "Apple is suing former employee Dr. Chen Shi for allegedly stealing trade secrets related to the Apple Watch to benefit Oppo. The lawsuit claims Shi downloaded confidential documents and communicated with Oppo about gathering information before his departure.",
+": "Dominic Preston, a news editor at The Verge based in London, discusses his workspace setup, including tech devices and personal interests like food and photography. He highlights his use of various tech products, including an M2 MacBook Air and Logitech peripherals.",
 
-**[US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "US government, Intel, Biden administration, Trump administration, SoftBank"
+**[The Fairphone 6 no longer feels like a compromise (except in the US)](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)**  
+*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Fairphone, Murena"
 
-": "The US government is investing $8.9 billion in Intel, acquiring a 10% stake, primarily funded by previously allocated grants under the CHIPS Act. This move aims to stabilize Intel amid ongoing challenges in the chip industry.",
+": "The Fairphone 6 emphasizes user-repairability and ethical production, offering decent performance but basic cameras. Priced at €599 in Europe and $899 in the US, it faces competition from more powerful devices. The phone supports long-term software updates and is designed for sustainability, appealing to eco-conscious consumers.",
 
-**[Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "NFLX" — Entities: ": "Netflix, Ted Sarandos, Jenny Popplewell"
+**[Ninja Gaiden: Ragebound is a perfect reimagining of the classic series](https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc)**  
+*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Ninja Gaiden, Dotemu, PlatinumGames"
 
-": "Netflix has outlined guidelines for partners using generative AI, emphasizing responsible use to avoid legal risks and maintain audience trust. The company views AI as a valuable tool for creativity while cautioning against potential misinformation.",
+": "Ninja Gaiden: Ragebound reimagines the classic series with a retro-styled platformer featuring Kenji Mozu. The game includes strategic enemy encounters, an Assist Mode for difficulty adjustment, and vibrant pixel art. It is available on multiple platforms, contributing to the franchise's revival with three new titles by 2025.",
 
-**[Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Bluesky, Mississippi, Supreme Court"
+**[Will Trump help 4Chan escape the UK’s internet police?](https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump)**  
+*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Preston Byrne, Ofcom, Trump administration, UK, U.S. Federal Government, European Union"
 
-": "Bluesky blocks access from Mississippi IPs due to a new age verification law, citing privacy concerns and resource constraints. The law, HB 1126, could fundamentally alter user access and has faced legal challenges for potential First Amendment violations.",
-
-**[Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "META" — Entities: ": "Meta, Midjourney, Alexandr Wang, Mark Zuckerberg, David Holz"
-
-": "Meta partners with Midjourney to license AI image technology, enhancing its AI capabilities across platforms. This collaboration aims to improve user-generated content and strengthen Meta's position in the competitive AI landscape.",
-
-**[The power shift inside OpenAI](https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "OpenAI, Fidji Simo, Sam Altman, Greg Brockman, Jony Ive, Alex Blania, Google, Amazon, Meta"
-
-": "Fidji Simo has joined OpenAI as CEO of Applications, tasked with transforming the company into a disciplined tech giant. CEO Sam Altman shifts focus to fundraising and new ventures, while Simo will oversee key operations and monetization strategies, including potential affiliate links in ChatGPT.",
-
-**[The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Entities: Sony, Roborock, TP-Link
-
-Labor Day offers significant discounts on tech gadgets, with notable deals on Sony headphones, Roborock vacuums, and TP-Link routers. Early shopping is encouraged as prices may not drop further during the holiday sales.
-
-**[Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "World Health Organization, World Meteorological Organization, International Labour Organization, Biden administration"
-
-": "The WHO and WMO report highlights the urgent need for better heat protections in the workplace, as rising temperatures threaten worker health and productivity. With 71% of the global workforce affected, proactive measures are essential to mitigate heat stress and its consequences.",
-
-**[Abxylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/abxylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)**  
-*tech* · 2025-08-22 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Abxylute, Intel, Tencent, BOE"
-
-": "Abxylute will launch the Abxylute 3D One, a glasses-free 3D handheld gaming PC co-developed with Intel and Tencent. Priced under $1,700, it features an 11-inch display, detachable controllers, and is optimized for 50 top Steam games. Sales are expected to start in late September or early October.",
+": "Preston Byrne, representing 4chan, Gab, and Kiwi Farms, plans to sue UK regulator Ofcom over the Online Safety Act. He seeks U.S. government intervention, potentially aligning with the Trump administration's stance on free speech. The case highlights tensions between U.S. tech companies and international regulations.",
