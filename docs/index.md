@@ -1,9 +1,34 @@
 # AI Curated News Analyst — Latest
 
-**[Amazon AGI Labs chief defends his reverse acquihire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
-*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
+**[Keurig Dr Pepper nears $18bn deal to buy European coffee group JDE Peet’s](https://www.ft.com/content/123afb47-c2ad-4593-b490-e01d0c28af2f)**  
+*finance* · 2025-08-24 · **Imp 4/5** — Entities: Keurig Dr Pepper, JDE Peet’s
 
-Amazon AGI Labs chief David Luan defends the reverse acquihire of AI startup Adept, emphasizing the need for talent and resources to tackle AGI challenges. Luan prioritizes innovation in AI research over deal structures.
+Keurig Dr Pepper is close to finalizing an $18 billion acquisition of European coffee group JDE Peet’s, signaling a significant consolidation in the coffee industry.
+
+**[Brace for the Fed’s Maga makeover](https://www.ft.com/content/ebf4f2f8-d1e3-4f0f-856a-0a4659d6ca99)**  
+*finance* · 2025-08-24 · **Imp 4/5** — Entities: Federal Reserve
+
+The Federal Reserve is expected to undergo significant changes, impacting monetary policy and financial markets. Investors should prepare for potential shifts in interest rates and economic strategies.
+
+**[Private equity fundraising slides as sector’s downturn deepens](https://www.ft.com/content/f7387912-1079-43d4-a9a2-2308989400d4)**  
+*finance* · 2025-08-24 · **Imp 4/5** — Entities: private equity, fundraising, investment strategies
+
+Private equity fundraising has declined significantly as the sector faces a deeper downturn, impacting investment strategies and market confidence.
+
+**[Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)**  
+*startup* · 2025-08-24 · **Imp 4/5** — Entities: Elon Musk, xAI, Hugging Face, Tim Kellogg
+
+Elon Musk's xAI has open sourced Grok 2.5 on Hugging Face, with plans for Grok 3 to follow in six months. The release has sparked controversy due to previous problematic outputs from the AI model.
+
+**[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
+*finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
+
+HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to increased regulatory scrutiny, impacting its operations and client relationships.
+
+**[US food groups plead for relief from Trump’s tariffs](https://www.ft.com/content/e4ed107a-f4d4-42b8-abf4-3070fe58f69f)**  
+*finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
+
+US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
 
 **[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
 *finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
@@ -79,6 +104,11 @@ A Hollywood mogul is investing in a drone entertainment company founded by Elon 
 *finance* · 2025-08-22 · **Imp 4/5** — Entities: Trump, Republican Party
 
 The article discusses the potential repercussions of Trump's tariff plans on the Republican Party and whether he can mitigate backlash from party members.
+
+**[Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)**  
+*tech* · 2025-08-22 · **Imp 4/5** — Entities: WIRED, KQED, Palantir, Sam Altman
+
+WIRED's 'Uncanny Valley' podcast hosts a live show on September 9 in San Francisco, discussing Silicon Valley's influence and key tech stories. The event features insights on companies like Palantir and trends like generative AI.
 
 **[Is the Flipper Zero the next big car theft gadget?](https://www.theverge.com/cars/763446/flipper-zero-car-theft-firmware-hack-key-fob)**  
 *tech* · 2025-08-21 · **Imp 4/5** — Entities: Flipper Zero, Hyundai, Kia, Ford, Audi, Volkswagen, Subaru, Genesis
@@ -156,29 +186,29 @@ Investors are facing significant losses as 'pump and dump' scams proliferate in 
 India's oil lobby is reportedly financing Russia's military efforts in Ukraine, raising concerns about the ethical implications and potential backlash for investors and stakeholders involved in the oil sector.
 
 **[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, DeepSeek, AI infrastructure
+*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, AI infrastructure, China, DeepSeek
 
-U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares, which fell 16%. This decline was triggered by concerns over China's DeepSeek technology impacting AI infrastructure companies.
+U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares by 16%. This decline was triggered by concerns over China's DeepSeek technology, impacting investor sentiment.
 
 **[DeepSeek Won't Sink U.S. AI Titans](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: DeepSeek, Nvidia, Broadcom
 
-The recent selloff of Nvidia, Broadcom, and other U.S. tech giants due to panic is deemed exaggerated, suggesting that these companies remain resilient despite market fluctuations.
+The recent selloff of Nvidia, Broadcom, and other U.S. tech giants due to panic is deemed overblown, suggesting that these companies remain resilient amidst market fluctuations.
 
 **[Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, U.S., Colombia, President Trump
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, President Trump, Colombia
 
-Arabica coffee prices reached a record high following the easing of tariff threats by President Trump against Colombia, impacting market dynamics and trader sentiment.
+Arabica coffee prices have reached record highs following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics.
 
 **[Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Swiss franc, Japanese yen, DeepSeek, U.S. tech stocks
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: DeepSeek, Swiss franc, Japanese yen, U.S. tech stocks
 
 The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's new AI model on U.S. tech stocks.
 
 **[Building-Products Distributor QXO Launches Hostile Bid for Beacon](https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: QXO, Beacon
 
-Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections. This move signals aggressive acquisition strategies in the sector.
+Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections.
 
 **[Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player](https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Diversified Energy, Maverick Natural Resources, Permian Basin
@@ -186,66 +216,36 @@ Building-products distributor QXO has initiated a hostile bid for Beacon, direct
 Diversified Energy has acquired Maverick Natural Resources, enhancing its presence in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
 
 **[What's New This Tax Season That Can Save You Money](https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: taxpayers, online sellers, electric vehicle buyers
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: online sellers, electric vehicle buyers
 
-This tax season introduces new opportunities for savings, particularly for online sellers and electric vehicle (EV) purchasers. Understanding these changes can help taxpayers maximize their refunds.
+This tax season introduces new savings opportunities for online sellers and electric vehicle (EV) buyers, potentially impacting their financial outcomes.
 
 **[Chinese Investors With Few Options Turn to Dividends](https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Chinese investors, companies
 
-Chinese investors are increasingly favoring companies with strong dividend payouts as attractive investment options amid limited choices in the market.
+Chinese investors are increasingly focusing on dividend-paying companies as attractive investment options amid limited alternatives in the market.
 
 **[Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S. sanctions
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S.
 
-Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, despite a slight decline in oil prices. This stability may influence market dynamics and investor sentiment.
+Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, leading to a slight decline in oil prices.
 
 **[The Extra Reward for Owning Stocks Over Bonds Has Disappeared](https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: individual investors, equities, bonds
 
 The premium for owning stocks over bonds has diminished, yet individual investors continue to show strong demand for equities, remaining optimistic following two years of significant gains.
 
+**[Heard on the Street's Stock-Picking Series](https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main)**  
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Heard on the Street, stock-picking contest
+
+Heard on the Street's eighth annual stock-picking contest highlights favored stocks by its writers, providing insights for investors on potential investment opportunities.
+
 **[What Will It Take for Home Buyers to Start Asking for a Disaster Discount?](https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main)**  
 *finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, neighborhoods, flooding, wildfires
 
-Home buyers are increasingly aware of the financial risks associated with purchasing properties in areas prone to flooding and wildfires, potentially leading to requests for disaster discounts.
+Home buyers are increasingly aware of the financial risks associated with purchasing homes in areas prone to flooding and wildfires, potentially leading to requests for disaster discounts.
 
 **[Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main)**  
 *finance* · 2025-01-26 · **Imp 4/5** — Entities: venture-capital firms, accounting, property management, AI
 
-Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, focusing on businesses with thin profit margins, leveraging AI and dealmaking strategies.
-
-**[In China, a Cat-and-Mouse Game to Rein In Crypto](https://www.wsj.com/articles/china-cryptocurrency-market-trading-restrictions-3e050cd9?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: China, cryptocurrency, middlemen, court cases
-
-Recent court cases in China highlight the ongoing challenges of regulating cryptocurrency, as middlemen continue to facilitate a thriving trade despite government crackdowns.
-
-**[One House, Three Owners: The Ballooning Cost of the American Dream](https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: U.S. housing market, homeownership, American Dream
-
-The article explores the rising costs of homeownership in the U.S. through the lens of a single property shared by three owners, highlighting the challenges of achieving the American Dream.
-
-**[Bose’s compact TV Speaker is more than $100 off right now](https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale)**  
-*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Bose, Amazon"
-
-": "Bose's compact TV Speaker is currently priced at $163.45, a $115 discount, making it an affordable option for enhancing audio quality in home setups. It features a three-speaker system, Bluetooth connectivity, and dedicated modes for bass and dialogue.",
-
-**[What’s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)**  
-*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Dominic Preston, The Verge, Logitech, Mobvoi, Canon, Xiaomi"
-
-": "Dominic Preston, a news editor at The Verge based in London, discusses his workspace setup, including tech devices and personal interests like food and photography. He highlights his use of various tech products, including an M2 MacBook Air and Logitech peripherals.",
-
-**[The Fairphone 6 no longer feels like a compromise (except in the US)](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)**  
-*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Fairphone, Murena"
-
-": "The Fairphone 6 emphasizes user-repairability and ethical production, offering decent performance but basic cameras. Priced at €599 in Europe and $899 in the US, it faces competition from more powerful devices. The phone supports long-term software updates and is designed for sustainability, appealing to eco-conscious consumers.",
-
-**[Ninja Gaiden: Ragebound is a perfect reimagining of the classic series](https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc)**  
-*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Ninja Gaiden, Dotemu, PlatinumGames"
-
-": "Ninja Gaiden: Ragebound reimagines the classic series with a retro-styled platformer featuring Kenji Mozu. The game includes strategic enemy encounters, an Assist Mode for difficulty adjustment, and vibrant pixel art. It is available on multiple platforms, contributing to the franchise's revival with three new titles by 2025.",
-
-**[Will Trump help 4Chan escape the UK’s internet police?](https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump)**  
-*tech* · 2025-08-23 · **Imp 3/5** — Tickers: ": "" — Entities: ": "Preston Byrne, Ofcom, Trump administration, UK, U.S. Federal Government, European Union"
-
-": "Preston Byrne, representing 4chan, Gab, and Kiwi Farms, plans to sue UK regulator Ofcom over the Online Safety Act. He seeks U.S. government intervention, potentially aligning with the Trump administration's stance on free speech. The case highlights tensions between U.S. tech companies and international regulations.",
+Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, leveraging AI and dealmaking strategies, despite their thin profit margins. This shift indicates a growing interest in 'ho-hum' businesses in Silicon Valley.
