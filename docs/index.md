@@ -1,5 +1,45 @@
 # AI Curated News Analyst — Latest
 
+**[Sinaloa drug cartel kingpin ‘El Mayo’ pleads guilty in US court](https://www.ft.com/content/d12454cd-5d90-4f58-b356-70ec08044e68)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: Sinaloa drug cartel, US court
+
+Sinaloa drug cartel leader 'El Mayo' has pleaded guilty in a US court, marking a significant development in the ongoing crackdown on drug trafficking organizations.
+
+**[Dirigiste-in chief: why Trump opened the door to ‘state-run capitalism’](https://www.ft.com/content/0e7b6d49-446a-4ed7-a523-477e04aff771)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: Trump, U.S. government, state-run capitalism
+
+The article discusses how Trump's policies have led to a form of 'state-run capitalism' in the U.S., impacting economic dynamics and government intervention in markets.
+
+**[Israeli forces kill 5 journalists in Gaza](https://www.ft.com/content/323aa431-1830-4921-b36f-b5128530c89a)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: Israeli forces, journalists, Gaza
+
+Israeli forces have reportedly killed five journalists in Gaza, raising concerns over press freedom and safety in conflict zones.
+
+**[Musk’s xAI sues Apple and OpenAI over ChatGPT and iPhone integration](https://www.ft.com/content/f4f8e341-0b28-4b53-85e6-3961ade0c881)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Tickers: AAPL — Entities: Musk, xAI, Apple, OpenAI, ChatGPT
+
+Musk's xAI has filed a lawsuit against Apple and OpenAI, alleging issues related to ChatGPT and iPhone integration. This legal action could have significant implications for the tech landscape and competitive dynamics in AI.
+
+**[Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)**  
+*tech* · 2025-08-25 · **Imp 4/5** — Entities: Trump, Revolution Wind, Port of Providence
+
+Trump halted construction on the Revolution Wind project just before completion, impacting the offshore wind energy sector.
+
+**[Why bitcoin treasury companies are a fool’s paradise](https://www.ft.com/content/478ea5bc-ea18-44f7-9da1-602ebe283fca)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: bitcoin, treasury companies, investors
+
+The article critiques bitcoin treasury companies, suggesting they may be misleading for investors. It highlights potential risks and pitfalls associated with holding bitcoin as a treasury asset.
+
+**[Investors pile billions into New York office market](https://www.ft.com/content/8d1c9978-353a-4a2b-81d3-0d4113ce0b85)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: New York office market, investors, commercial real estate
+
+Investors are significantly increasing their investments in the New York office market, injecting billions into the sector, signaling strong confidence in commercial real estate.
+
+**[Publishers race to counter ‘Google Zero’ threat as AI changes search engines](https://www.ft.com/content/f7a0eb8e-ff5b-42ae-b882-4815dbb38653)**  
+*finance* · 2025-08-25 · **Imp 4/5** — Entities: publishers, Google, AI, search engines
+
+Publishers are responding to the threat posed by Google's AI-driven search changes, referred to as 'Google Zero', which could impact their visibility and revenue.
+
 **[Keurig Dr Pepper nears $18bn deal to buy European coffee group JDE Peet’s](https://www.ft.com/content/123afb47-c2ad-4593-b490-e01d0c28af2f)**  
 *finance* · 2025-08-24 · **Imp 4/5** — Entities: Keurig Dr Pepper, JDE Peet’s
 
@@ -18,7 +58,7 @@ Private equity fundraising has declined significantly as the sector faces a deep
 **[Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)**  
 *startup* · 2025-08-24 · **Imp 4/5** — Entities: Elon Musk, xAI, Hugging Face, Tim Kellogg
 
-Elon Musk's xAI has open sourced Grok 2.5 on Hugging Face, with plans for Grok 3 to follow in six months. The release has sparked controversy due to previous problematic outputs from the AI model.
+Elon Musk's xAI has open-sourced Grok 2.5 on Hugging Face, with plans for Grok 3 in six months. The model has faced controversy for its responses and is linked to Musk's social media. AI engineer Tim Kellogg noted the model's custom license includes anti-competitive terms.
 
 **[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
 *finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
@@ -29,6 +69,11 @@ HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to incr
 *finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
 
 US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
+
+**[Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
+*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
+
+Amazon AGI Labs chief David Luan defends the reverse acqui-hire of AI startup Adept, emphasizing the need for critical mass in talent and resources to tackle AGI challenges. Luan prioritizes research innovation over deal structures.
 
 **[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
 *finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
@@ -186,66 +231,21 @@ Investors are facing significant losses as 'pump and dump' scams proliferate in 
 India's oil lobby is reportedly financing Russia's military efforts in Ukraine, raising concerns about the ethical implications and potential backlash for investors and stakeholders involved in the oil sector.
 
 **[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, AI infrastructure, China, DeepSeek
+*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, DeepSeek, U.S. stocks, AI infrastructure
 
 U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares by 16%. This decline was triggered by concerns over China's DeepSeek technology, impacting investor sentiment.
 
 **[DeepSeek Won't Sink U.S. AI Titans](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: DeepSeek, Nvidia, Broadcom
+*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: Nvidia, Broadcom, U.S. AI sector
 
-The recent selloff of Nvidia, Broadcom, and other U.S. tech giants due to panic is deemed overblown, suggesting that these companies remain resilient amidst market fluctuations.
+The recent selloff of Nvidia, Broadcom, and other tech giants due to panic is deemed overblown, suggesting resilience in the U.S. AI sector.
 
 **[Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)**  
 *finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, President Trump, Colombia
 
-Arabica coffee prices have reached record highs following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics.
+Arabica coffee prices have reached a record high following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics.
 
 **[Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: DeepSeek, Swiss franc, Japanese yen, U.S. tech stocks
+*finance* · 2025-01-27 · **Imp 4/5** — Entities: Swiss franc, Japanese yen, DeepSeek, U.S. tech stocks
 
 The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's new AI model on U.S. tech stocks.
-
-**[Building-Products Distributor QXO Launches Hostile Bid for Beacon](https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: QXO, Beacon
-
-Building-products distributor QXO has initiated a hostile bid for Beacon, directly appealing to shareholders after previous rejections.
-
-**[Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player](https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Diversified Energy, Maverick Natural Resources, Permian Basin
-
-Diversified Energy has acquired Maverick Natural Resources, enhancing its presence in the Permian Basin, a key area for natural gas production in Texas and Oklahoma.
-
-**[What's New This Tax Season That Can Save You Money](https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: online sellers, electric vehicle buyers
-
-This tax season introduces new savings opportunities for online sellers and electric vehicle (EV) buyers, potentially impacting their financial outcomes.
-
-**[Chinese Investors With Few Options Turn to Dividends](https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Chinese investors, companies
-
-Chinese investors are increasingly focusing on dividend-paying companies as attractive investment options amid limited alternatives in the market.
-
-**[Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Goldman Sachs, Russia, U.S.
-
-Goldman Sachs reports that U.S. sanctions have not significantly affected Russia's crude oil exports, leading to a slight decline in oil prices.
-
-**[The Extra Reward for Owning Stocks Over Bonds Has Disappeared](https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: individual investors, equities, bonds
-
-The premium for owning stocks over bonds has diminished, yet individual investors continue to show strong demand for equities, remaining optimistic following two years of significant gains.
-
-**[Heard on the Street's Stock-Picking Series](https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Heard on the Street, stock-picking contest
-
-Heard on the Street's eighth annual stock-picking contest highlights favored stocks by its writers, providing insights for investors on potential investment opportunities.
-
-**[What Will It Take for Home Buyers to Start Asking for a Disaster Discount?](https://www.wsj.com/articles/what-will-it-take-for-home-buyers-to-start-asking-for-a-disaster-discount-c662cb96?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: home buyers, neighborhoods, flooding, wildfires
-
-Home buyers are increasingly aware of the financial risks associated with purchasing homes in areas prone to flooding and wildfires, potentially leading to requests for disaster discounts.
-
-**[Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main)**  
-*finance* · 2025-01-26 · **Imp 4/5** — Entities: venture-capital firms, accounting, property management, AI
-
-Venture-capital firms are increasingly investing in traditional sectors like accounting and property management, leveraging AI and dealmaking strategies, despite their thin profit margins. This shift indicates a growing interest in 'ho-hum' businesses in Silicon Valley.
