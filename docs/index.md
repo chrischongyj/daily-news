@@ -1,5 +1,40 @@
 # AI Curated News Analyst — Latest
 
+**[Trump’s battle against the Fed heads for courtroom showdown](https://www.ft.com/content/a05b579a-6839-473f-8aa7-65b81e4ff5ee)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: Trump, Federal Reserve
+
+Former President Trump is set to confront the Federal Reserve in a legal battle, raising questions about monetary policy and its implications for the economy.
+
+**[Donald Trump’s Fed blitz risks raising US borrowing costs](https://www.ft.com/content/dbd49a17-6b2d-42f8-b2d9-4b55506174d2)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: Donald Trump, Federal Reserve
+
+Donald Trump's recent actions regarding the Federal Reserve may lead to increased borrowing costs in the US, potentially impacting economic stability and investor confidence.
+
+**[US offers air and intelligence support to postwar force in Ukraine](https://www.ft.com/content/66ec25a0-4af8-467f-9fbe-cf42de890a7e)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: US, Ukraine, military, intelligence
+
+The US is providing air and intelligence support to Ukraine's postwar forces, enhancing military capabilities and strategic positioning in the region.
+
+**[French assets hit by prospect of government collapse](https://www.ft.com/content/3772f5a7-5ef3-40d5-b883-5c4464b4a4f8)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: French government, investors
+
+French assets are under pressure due to the potential collapse of the government, raising concerns among investors about stability and economic outlook.
+
+**[Alex Gerko earned £682mn from trading firm XTX in 2024](https://www.ft.com/content/e13226cf-e379-497a-b2b3-560d134a95f4)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: Alex Gerko, XTX
+
+Alex Gerko generated £682 million in earnings from trading firm XTX in 2024, highlighting significant financial success in the trading sector.
+
+**[The Dutch are quietly shifting towards a four-day work week](https://www.ft.com/content/7b61e52c-93fc-4634-b9ad-fdacac5d6538)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: Netherlands, work week, productivity
+
+The Netherlands is experiencing a gradual transition to a four-day work week, reflecting changing attitudes towards work-life balance and productivity.
+
+**[Why the Democrats are losing post-industrial America](https://www.ft.com/content/35df8535-f076-4dfe-b027-3ad65efa3da1)**  
+*finance* · 2025-08-26 · **Imp 4/5** — Entities: Democratic Party, post-industrial America
+
+The article discusses the Democratic Party's declining influence in post-industrial America, analyzing factors contributing to this trend and its implications for future elections.
+
 **[Sinaloa drug cartel kingpin ‘El Mayo’ pleads guilty in US court](https://www.ft.com/content/d12454cd-5d90-4f58-b356-70ec08044e68)**  
 *finance* · 2025-08-25 · **Imp 4/5** — Entities: Sinaloa drug cartel, US court
 
@@ -55,11 +90,6 @@ The Federal Reserve is expected to undergo significant changes, impacting moneta
 
 Private equity fundraising has declined significantly as the sector faces a deeper downturn, impacting investment strategies and market confidence.
 
-**[Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)**  
-*startup* · 2025-08-24 · **Imp 4/5** — Entities: Elon Musk, xAI, Hugging Face, Tim Kellogg
-
-Elon Musk's xAI has open-sourced Grok 2.5 on Hugging Face, with plans for Grok 3 in six months. The model has faced controversy for its responses and is linked to Musk's social media. AI engineer Tim Kellogg noted the model's custom license includes anti-competitive terms.
-
 **[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
 *finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
 
@@ -69,11 +99,6 @@ HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to incr
 *finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
 
 US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
-
-**[Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
-*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
-
-Amazon AGI Labs chief David Luan defends the reverse acqui-hire of AI startup Adept, emphasizing the need for critical mass in talent and resources to tackle AGI challenges. Luan prioritizes research innovation over deal structures.
 
 **[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
 *finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
@@ -224,28 +249,3 @@ Citi has successfully recruited over ten investment bankers from JPMorgan, signa
 *finance* · 2025-08-18 · **Imp 4/5** — Entities: investors, meme stocks, scams
 
 Investors are facing significant losses as 'pump and dump' scams proliferate in the meme stock market, leading to billions in losses. This trend raises concerns about market integrity and investor protection.
-
-**[India’s oil lobby is funding Putin’s war machine — that has to stop](https://www.ft.com/content/286160e0-c0e6-4899-ad5c-3aa6dce85e82)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Entities: India, Russia, oil lobby
-
-India's oil lobby is reportedly financing Russia's military efforts in Ukraine, raising concerns about the ethical implications and potential backlash for investors and stakeholders involved in the oil sector.
-
-**[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, DeepSeek, U.S. stocks, AI infrastructure
-
-U.S. stocks fell sharply, particularly in the AI sector, following a significant drop in Nvidia's shares by 16%. This decline was triggered by concerns over China's DeepSeek technology, impacting investor sentiment.
-
-**[DeepSeek Won't Sink U.S. AI Titans](https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Tickers: NVDA, AVGO — Entities: Nvidia, Broadcom, U.S. AI sector
-
-The recent selloff of Nvidia, Broadcom, and other tech giants due to panic is deemed overblown, suggesting resilience in the U.S. AI sector.
-
-**[Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Arabica coffee, President Trump, Colombia
-
-Arabica coffee prices have reached a record high following the withdrawal of President Trump's tariff threats against Colombia, impacting market dynamics.
-
-**[Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 4/5** — Entities: Swiss franc, Japanese yen, DeepSeek, U.S. tech stocks
-
-The Swiss franc and Japanese yen strengthened against the dollar as investors turned to safe havens following the impact of DeepSeek's new AI model on U.S. tech stocks.
