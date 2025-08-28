@@ -1,5 +1,35 @@
 # AI Curated News Analyst — Latest
 
+**[France, Germany and UK prepare to reimpose sanctions on Iran](https://www.ft.com/content/ef38937a-ca6a-4cbe-a326-ea5db0aec309)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Entities: France, Germany, UK, Iran
+
+France, Germany, and the UK are set to reimpose sanctions on Iran, impacting international relations and trade dynamics.
+
+**[Nvidia posts solid growth despite uncertain China outlook](https://www.ft.com/content/5286cc04-276d-46b2-b647-60108a58db7e)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia
+
+Nvidia reports strong growth amid concerns regarding the Chinese market, highlighting resilience in its business model and demand for its products.
+
+**[Trump’s attack on the Fed threatens US credibility](https://www.ft.com/content/d2eab80f-1314-41f1-8c1e-5fc3bbfb1e43)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Entities: Trump, Federal Reserve
+
+Trump's criticism of the Federal Reserve raises concerns about the US's credibility in financial markets, potentially impacting investor confidence and economic stability.
+
+**[China seeks to triple output of AI chips in race with the US](https://www.ft.com/content/64caeab8-a326-4626-98fb-e1bf665827d3)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Entities: China, US, AI chips, semiconductor technology
+
+China aims to triple its production of AI chips to compete with the US, highlighting the growing importance of semiconductor technology in global markets.
+
+**[Can WeightWatchers stay relevant when everyone is on diet drugs?](https://www.ft.com/content/0b0cb01a-cf3d-4689-ba2d-665317be0cc3)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Entities: WeightWatchers, diet drugs, industry leaders
+
+WeightWatchers faces challenges in maintaining relevance as diet drugs gain popularity. The shift in consumer preferences may impact its traditional weight loss programs and business model.
+
+**[After the shock of war, Iranians yearn for change](https://www.ft.com/content/bf5fe305-408c-4bd8-a585-de3a6ffb3a02)**  
+*finance* · 2025-08-27 · **Imp 4/5** — Entities: Iran, FT.com
+
+The article discusses the desire for change among Iranians following the upheaval caused by war, highlighting the socio-economic implications of the current situation.
+
 **[Trump’s battle against the Fed heads for courtroom showdown](https://www.ft.com/content/a05b579a-6839-473f-8aa7-65b81e4ff5ee)**  
 *finance* · 2025-08-26 · **Imp 4/5** — Entities: Trump, Federal Reserve
 
@@ -90,6 +120,11 @@ The Federal Reserve is expected to undergo significant changes, impacting moneta
 
 Private equity fundraising has declined significantly as the sector faces a deeper downturn, impacting investment strategies and market confidence.
 
+**[Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)**  
+*startup* · 2025-08-24 · **Imp 4/5** — Entities: Elon Musk, xAI, Hugging Face, Tim Kellogg
+
+Elon Musk's xAI has open sourced the Grok 2.5 AI model on Hugging Face, with plans for Grok 3 to follow in six months. The move has sparked controversy due to previous problematic outputs from the AI.
+
 **[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
 *finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
 
@@ -99,6 +134,11 @@ HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to incr
 *finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
 
 US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
+
+**[Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
+*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
+
+Amazon AGI Labs chief David Luan defends the reverse acqui-hire of AI startup Adept, emphasizing the need for critical talent and resources to tackle AGI challenges. Luan aims to innovate in AI research rather than focus on deal structures.
 
 **[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
 *finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
@@ -209,43 +249,3 @@ The EU is actively negotiating to reduce US tariffs on its car industry, aiming 
 *finance* · 2025-08-21 · **Imp 4/5** — Entities: Italy, privacy advocates, digital rights organizations
 
 Italy faces public outrage as men share intimate photos of their wives online, raising concerns about privacy and digital ethics.
-
-**[Ukrainian drone strikes push up Russian petrol prices](https://www.ft.com/content/1a22515d-f0e2-4f11-8e1f-6d7b9d30ef13)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: Ukrainian government, Russian government, energy market
-
-Recent Ukrainian drone strikes have led to an increase in Russian petrol prices, impacting the energy market and potentially affecting global oil supply dynamics.
-
-**[The illegal gold rush sweeping the world](https://www.ft.com/content/cc4f6203-4d78-4b1d-a431-82d0e10e7c47)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: gold mining, illegal mining, environmental regulation
-
-The article discusses the global illegal gold rush, highlighting its implications for the economy and environmental concerns. It emphasizes the need for regulatory measures to combat illegal mining activities.
-
-**[China turns against Nvidia’s AI chip after Lutnick’s ‘insulting’ remarks](https://www.ft.com/content/b8e30c54-b71c-4113-8b3e-8f54bc36587d)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, China, Lutnick
-
-China's response to Nvidia's AI chip has soured following remarks by Lutnick, deemed 'insulting'. This shift could impact Nvidia's market position and relations with Chinese tech firms.
-
-**[Novo Nordisk halves US price of Ozempic](https://www.ft.com/content/825a4fb6-1f41-4f89-b2fb-5d344f48afa1)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Entities: Novo Nordisk, Ozempic
-
-Novo Nordisk has announced a 50% reduction in the US price of its diabetes drug, Ozempic, potentially impacting market dynamics and patient access.
-
-**[Soho House agrees $2.7bn take-private deal](https://www.ft.com/content/714d00d6-b2fa-47d7-9b03-c2629af99882)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Entities: Soho House
-
-Soho House has entered into a $2.7 billion agreement to go private, signaling a significant shift in its corporate strategy and potential implications for investors and stakeholders.
-
-**[Zelenskyy and European leaders set to press Trump on Ukraine](https://www.ft.com/content/1ddf31d2-2083-432e-aabc-a2daa562646a)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Entities: Zelenskyy, European leaders, Trump
-
-Ukrainian President Zelenskyy and European leaders are preparing to engage with former President Trump regarding Ukraine's situation, emphasizing the geopolitical implications and potential financial support.
-
-**[Citi raid on JPMorgan investment bankers reaches double digits](https://www.ft.com/content/537018c0-0d04-4229-82b4-95809aac0e0e)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Tickers: C, JPM — Entities: Citi, JPMorgan
-
-Citi has successfully recruited over ten investment bankers from JPMorgan, signaling a competitive shift in the banking sector. This move may impact talent acquisition strategies among major financial institutions.
-
-**[‘I almost fell off my chair’: Investors lose billions on meme stocks as ‘pump and dump’ scams multiply](https://www.ft.com/content/38c9815b-8ccc-40d5-bcbf-cfdb8b73ffa6)**  
-*finance* · 2025-08-18 · **Imp 4/5** — Entities: investors, meme stocks, scams
-
-Investors are facing significant losses as 'pump and dump' scams proliferate in the meme stock market, leading to billions in losses. This trend raises concerns about market integrity and investor protection.
