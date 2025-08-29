@@ -1,5 +1,50 @@
 # AI Curated News Analyst — Latest
 
+**[Fed official says he could back jumbo rate cut if US economy weakens sharply](https://www.ft.com/content/d8953f37-2bb1-4272-a24e-dbf0a02ee4f0)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Federal Reserve, US economy
+
+A Federal Reserve official indicated support for a significant rate cut if the US economy experiences a sharp downturn, highlighting potential shifts in monetary policy.
+
+**[Canada struggles to ease Trump tariffs despite Carney concessions](https://www.ft.com/content/2c2217d8-d01b-4135-a79e-c92dd8dcd507)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Canada, Trump, Mark Carney
+
+Canada faces challenges in mitigating Trump-era tariffs, despite concessions from Mark Carney. The ongoing trade tensions may impact economic relations and market stability.
+
+**[Trump hits small packages with fresh tariffs as duty-free exemption ends](https://www.ft.com/content/43ae5c68-2f6b-4a6c-ba8e-3575a9fe685b)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Trump administration, e-commerce, international shipping
+
+Trump's administration has imposed new tariffs on small packages as the duty-free exemption comes to an end, potentially affecting e-commerce and international shipping costs.
+
+**[Trump Intel deal designed to block sale of chipmaking unit, CFO says](https://www.ft.com/content/29fb5020-2b25-429a-b63f-18356b467e7a)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Tickers: INTC — Entities: Trump, Intel
+
+Trump's Intel deal aims to prevent the sale of a chipmaking unit, according to the CFO. This move highlights ongoing tensions in the semiconductor industry and potential regulatory implications.
+
+**[Lisa Cook, the Federal Reserve governor battling Donald Trump](https://www.ft.com/content/60e8b3e5-6485-4e62-ae40-200ad32b431e)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Lisa Cook, Federal Reserve, Donald Trump
+
+Lisa Cook, a Federal Reserve governor, is navigating challenges posed by Donald Trump, impacting monetary policy discussions and market perceptions.
+
+**[Fed’s Lisa Cook sues Trump over move to fire her](https://www.ft.com/content/89f6ff07-5130-4e07-b105-07dda7f599f2)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Lisa Cook, Trump, Federal Reserve
+
+Federal Reserve Governor Lisa Cook has filed a lawsuit against former President Trump regarding his attempt to terminate her position. This legal action could have implications for governance and stability within the Federal Reserve.
+
+**[Xbox’s cross-device play history syncs your recently played games on every  screen](https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming)**  
+*tech* · 2025-08-28 · **Imp 4/5** — Tickers: MSFT — Entities: Xbox, Microsoft, Game Pass
+
+Xbox is rolling out cross-device play history, allowing users to access their recently played games across different consoles and PCs. This update includes cloud-playable games, enhancing user experience and accessibility.
+
+**[Trump’s assault on US nuclear watchdog raises safety concerns](https://www.ft.com/content/f082e338-d4bf-4b5b-882d-09a8795a93ef)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Entities: Trump, US nuclear watchdog
+
+Trump's criticism of the US nuclear watchdog has raised significant safety concerns regarding nuclear regulation and oversight, potentially impacting investor confidence in the sector.
+
+**[Why Intel investors have embraced an interventionist White House](https://www.ft.com/content/255a841a-0bf6-4e02-8735-bf8944f2522e)**  
+*finance* · 2025-08-28 · **Imp 4/5** — Tickers: INTC — Entities: Intel, Biden administration, semiconductor industry
+
+Intel investors are responding positively to the Biden administration's interventionist policies, which may impact the semiconductor industry and its regulatory landscape.
+
 **[France, Germany and UK prepare to reimpose sanctions on Iran](https://www.ft.com/content/ef38937a-ca6a-4cbe-a326-ea5db0aec309)**  
 *finance* · 2025-08-27 · **Imp 4/5** — Entities: France, Germany, UK, Iran
 
@@ -120,11 +165,6 @@ The Federal Reserve is expected to undergo significant changes, impacting moneta
 
 Private equity fundraising has declined significantly as the sector faces a deeper downturn, impacting investment strategies and market confidence.
 
-**[Elon Musk says xAI has open sourced Grok 2.5](https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/)**  
-*startup* · 2025-08-24 · **Imp 4/5** — Entities: Elon Musk, xAI, Hugging Face, Tim Kellogg
-
-Elon Musk's xAI has open sourced the Grok 2.5 AI model on Hugging Face, with plans for Grok 3 to follow in six months. The move has sparked controversy due to previous problematic outputs from the AI.
-
 **[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
 *finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
 
@@ -209,43 +249,3 @@ The article emphasizes that Trump should not incentivize Putin's aggressive acti
 *finance* · 2025-08-22 · **Imp 4/5** — Entities: Hollywood mogul, Kimbal Musk, Elon Musk, drone entertainment company
 
 A Hollywood mogul is investing in a drone entertainment company founded by Elon Musk's brother, Kimbal Musk, highlighting the intersection of entertainment and technology.
-
-**[Will Trump avoid a Republican backlash over his tariff plans?](https://www.ft.com/content/f689fc2e-2dc4-47b5-8fc2-dfed15a84233)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: Trump, Republican Party
-
-The article discusses the potential repercussions of Trump's tariff plans on the Republican Party and whether he can mitigate backlash from party members.
-
-**[Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)**  
-*tech* · 2025-08-22 · **Imp 4/5** — Entities: WIRED, KQED, Palantir, Sam Altman
-
-WIRED's 'Uncanny Valley' podcast hosts a live show on September 9 in San Francisco, discussing Silicon Valley's influence and key tech stories. The event features insights on companies like Palantir and trends like generative AI.
-
-**[Is the Flipper Zero the next big car theft gadget?](https://www.theverge.com/cars/763446/flipper-zero-car-theft-firmware-hack-key-fob)**  
-*tech* · 2025-08-21 · **Imp 4/5** — Entities: Flipper Zero, Hyundai, Kia, Ford, Audi, Volkswagen, Subaru, Genesis
-
-The Flipper Zero is being exploited in an underground market to unlock various vehicles by cloning key fob signals. This trend raises concerns about car theft, similar to previous incidents involving Hyundai and Kia. If the hacking code spreads, it could significantly increase vehicle theft risks.
-
-**[US factory in Ukraine hit in largest Russian air attack for weeks](https://www.ft.com/content/7b59d9fc-5197-4f2e-8b47-5f18eb6bf074)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: US factory, Ukraine, Russia
-
-A US factory in Ukraine was targeted in a significant Russian airstrike, marking the largest attack in weeks. This incident raises concerns about the stability of operations in the region and potential impacts on supply chains.
-
-**[US retail giant Walmart warns Trump’s tariffs are pushing up costs](https://www.ft.com/content/fd81c050-2236-4dc0-900c-57f61ab08235)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Tickers: WMT — Entities: Walmart, Trump administration
-
-Walmart has indicated that tariffs imposed during Trump's administration are leading to increased costs for the retail giant, potentially affecting pricing strategies and profit margins.
-
-**[Brace for a crash before the golden age of AI](https://www.ft.com/content/a76f238d-5543-4c01-9419-52aaf352dc23)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: experts, investors, tech sector
-
-Experts warn of a potential market crash before the anticipated golden age of AI, suggesting investors should prepare for volatility in the tech sector.
-
-**[EU races to secure lower US tariffs on car industry](https://www.ft.com/content/90aee728-b7f1-4380-a278-9a7ffbe3b353)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: EU, US, automotive industry
-
-The EU is actively negotiating to reduce US tariffs on its car industry, aiming to enhance trade relations and competitiveness in the automotive sector.
-
-**[Italy outraged over men sharing intimate photos of their wives online](https://www.ft.com/content/60b6fcf6-1090-4c3d-9467-f962b6054774)**  
-*finance* · 2025-08-21 · **Imp 4/5** — Entities: Italy, privacy advocates, digital rights organizations
-
-Italy faces public outrage as men share intimate photos of their wives online, raising concerns about privacy and digital ethics.
