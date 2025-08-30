@@ -1,5 +1,50 @@
 # AI Curated News Analyst — Latest
 
+**[Trump’s tariffs ruled illegal by US appeals court but stay in place](https://www.ft.com/content/f3c7deb6-928c-426c-8dbc-574b21b02063)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, US appeals court
+
+A US appeals court has ruled that Trump's tariffs are illegal; however, they will remain in effect for the time being. This decision could impact trade relations and economic policies.
+
+**[US regulator approves at-home Alzheimer’s drug from Eisai and Biogen](https://www.ft.com/content/4147b61e-6cc9-40c2-adb0-18ff97d1c878)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: Eisai, Biogen, US regulator
+
+The US regulator has approved an at-home Alzheimer's drug developed by Eisai and Biogen, marking a significant advancement in Alzheimer's treatment options.
+
+**[US tech stocks drop as AI uncertainty knocks chip groups](https://www.ft.com/content/2b3b51d1-b9e1-4b7c-a262-ae531f621fef)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: US tech stocks, AI, chip manufacturers
+
+US tech stocks have declined due to uncertainty surrounding AI developments, particularly impacting chip manufacturers. This volatility raises concerns for investors in the tech sector.
+
+**[Microsoft’s next annual update for Windows 11 is in Release Preview testing](https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test)**  
+*tech* · 2025-08-29 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+
+Microsoft's Windows 11 version 25H2 is now in Release Preview testing, maintaining the annual update schedule for 2025. It includes feature removals and enhancements similar to version 24H2, with a focus on IT admin capabilities for enterprise users.
+
+**[The calculated silence of America’s business and finance leaders](https://www.ft.com/content/bd5a7374-63ae-49eb-a714-dcff03fa764b)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: business leaders, finance leaders, investors
+
+The article discusses the strategic silence of U.S. business and finance leaders, highlighting its implications for market dynamics and investor sentiment.
+
+**[Trump ‘proposed Chinese peacekeepers’ for Ukraine](https://www.ft.com/content/dc6488e9-b853-4abe-b257-71a2e8a5c35b)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, Ukraine, China
+
+Trump suggested the deployment of Chinese peacekeepers to Ukraine, a proposal that could shift geopolitical dynamics and impact international relations.
+
+**[Trump urges judge to deny Lisa Cook’s appeal to remain at Fed](https://www.ft.com/content/499b9db0-6cdf-4a5f-8cd0-6a0839efa7ce)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: Donald Trump, Lisa Cook, Federal Reserve
+
+Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal Reserve, potentially impacting monetary policy decisions.
+
+**[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
+
+The EU plans to utilize its €150 billion loans-for-arms program, aiming to bolster defense capabilities amid rising geopolitical tensions.
+
+**[Milan’s expat ‘explosion’ brings new buzz to Italy’s financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)**  
+*finance* · 2025-08-29 · **Imp 4/5** — Entities: Milan, Italy, expatriates, financial centre
+
+Milan experiences a surge in expatriates, revitalizing its status as Italy's financial hub. This influx is expected to enhance economic activity and attract investment.
+
 **[Fed official says he could back jumbo rate cut if US economy weakens sharply](https://www.ft.com/content/d8953f37-2bb1-4272-a24e-dbf0a02ee4f0)**  
 *finance* · 2025-08-28 · **Imp 4/5** — Entities: Federal Reserve, US economy
 
@@ -204,48 +249,3 @@ BCG faces internal backlash regarding its involvement in Gaza aid work, highligh
 *finance* · 2025-08-23 · **Imp 4/5** — Entities: tech stocks, investors
 
 Tech stocks are signaling potential concerns for investors, indicating a need for caution in the market. This trend may affect investment strategies and valuations in the tech sector.
-
-**[Meta to license AI technology from start-up as in-house models lag rivals](https://www.ft.com/content/feccb649-ce95-43d2-b30a-057d64b38cdf)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Tickers: META — Entities: Meta, start-up
-
-Meta is set to license AI technology from a start-up due to its in-house models falling behind competitors. This move highlights the growing importance of external partnerships in advancing AI capabilities.
-
-**[US to take 10% stake in troubled chipmaker Intel](https://www.ft.com/content/aec7bdce-d9ca-4416-a1b4-a0da5d11c715)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Tickers: INTC — Entities: US government, Intel
-
-The US government plans to acquire a 10% stake in Intel, a struggling chipmaker, as part of efforts to bolster domestic semiconductor production and innovation.
-
-**[Powell paves the way for Fed rate cut in September](https://www.ft.com/content/cdd1dd0f-f0ba-41f3-be97-e598785676f5)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
-
-Federal Reserve Chair Jerome Powell signals a potential interest rate cut in September, influencing market expectations and investor strategies.
-
-**[Tariff revenue will cut US deficits by $4tn, fiscal watchdog says](https://www.ft.com/content/f996ece9-d9e2-4a06-957a-487994f6a7e7)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: US government, fiscal watchdog
-
-A fiscal watchdog reports that tariff revenue could reduce US deficits by $4 trillion, highlighting the potential impact of trade policies on national finances.
-
-**[Canada to drop retaliatory tariffs on billions of dollars’ worth of US products](https://www.ft.com/content/32188ecb-c454-43db-8d1f-5c5ea7b5d30e)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: Canada, US, businesses
-
-Canada will eliminate retaliatory tariffs on US goods worth billions, potentially improving trade relations and benefiting businesses on both sides of the border.
-
-**[Microsoft tests letting you resume Android apps on Windows 11](https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11)**  
-*tech* · 2025-08-22 · **Imp 4/5** — Tickers: MSFT, SPOT — Entities: Microsoft, Spotify
-
-Microsoft is testing a feature in Windows 11 that allows users to resume Android apps on their PC, starting with Spotify. This capability is currently available to Windows Insiders and aims to enhance cross-device functionality.
-
-**[The twilight of the central banking elite](https://www.ft.com/content/3b5a3fde-6110-4e40-88b1-04f71ed5b0f1)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: central banks, monetary policy, financial markets
-
-The article discusses the diminishing influence of central banking elites in the financial landscape, highlighting shifts in monetary policy and market dynamics.
-
-**[Trump must not reward Putin for his aggression in Ukraine](https://www.ft.com/content/e91df3ac-c649-46f7-a9ad-5d1a626c3ad7)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
-
-The article emphasizes that Trump should not incentivize Putin's aggressive actions in Ukraine, highlighting the geopolitical implications for global stability and finance.
-
-**[Hollywood mogul backs Musk brother’s ‘drone entertainment company’](https://www.ft.com/content/3981779d-d21a-4518-b4db-1eeb87afdea3)**  
-*finance* · 2025-08-22 · **Imp 4/5** — Entities: Hollywood mogul, Kimbal Musk, Elon Musk, drone entertainment company
-
-A Hollywood mogul is investing in a drone entertainment company founded by Elon Musk's brother, Kimbal Musk, highlighting the intersection of entertainment and technology.
