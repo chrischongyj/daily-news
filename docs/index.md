@@ -1,5 +1,30 @@
 # AI Curated News Analyst — Latest
 
+**[Houthi prime minister killed in Israeli air strike on Yemen](https://www.ft.com/content/0eeff31c-9dc5-4571-82fb-6dd511d5dc2b)**  
+*finance* · 2025-08-30 · **Imp 4/5** — Entities: Houthi, Israel, Yemen
+
+The Houthi prime minister was killed in an Israeli air strike in Yemen, escalating tensions in the region and potentially impacting geopolitical stability and market reactions.
+
+**[Prominent Ukrainian nationalist politician shot dead in Lviv](https://www.ft.com/content/d08aa511-882f-4b2a-bd56-aedac34dd652)**  
+*finance* · 2025-08-30 · **Imp 4/5** — Entities: Ukrainian nationalist politician, Lviv
+
+A prominent Ukrainian nationalist politician was shot dead in Lviv, raising concerns about political stability in the region.
+
+**[Manchester United: lessons from the fall](https://www.ft.com/content/7d6f222b-2597-4db7-8ee9-4f89c7515faa)**  
+*finance* · 2025-08-30 · **Imp 4/5** — Entities: Manchester United, investors, stakeholders
+
+The article discusses the decline of Manchester United, highlighting key lessons for investors and stakeholders in the sports finance sector.
+
+**[The battle for the soul of Israel](https://www.ft.com/content/d8718bbc-a946-45b5-90a7-e07cd4107b9f)**  
+*finance* · 2025-08-30 · **Imp 4/5** — Entities: Israel, FT
+
+The article discusses the ongoing conflict in Israel, highlighting its implications for the region's stability and the global economy. It emphasizes the importance of quality journalism in understanding these complex issues.
+
+**[John Malone held talks with Rupert Murdoch over Warner Bros-Fox merger](https://www.ft.com/content/3a32fdcb-1248-4721-8269-2867dc5e4d78)**  
+*finance* · 2025-08-30 · **Imp 4/5** — Entities: John Malone, Rupert Murdoch, Warner Bros, Fox
+
+John Malone and Rupert Murdoch discussed a potential merger between Warner Bros and Fox, indicating strategic moves in the media landscape.
+
 **[Trump’s tariffs ruled illegal by US appeals court but stay in place](https://www.ft.com/content/f3c7deb6-928c-426c-8dbc-574b21b02063)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, US appeals court
 
@@ -15,10 +40,10 @@ The US regulator has approved an at-home Alzheimer's drug developed by Eisai and
 
 US tech stocks have declined due to uncertainty surrounding AI developments, particularly impacting chip manufacturers. This volatility raises concerns for investors in the tech sector.
 
-**[Microsoft’s next annual update for Windows 11 is in Release Preview testing](https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test)**  
-*tech* · 2025-08-29 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+**[TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)**  
+*tech* · 2025-08-29 · **Imp 4/5** — Entities: TikTok, TechCrunch, The Verge
 
-Microsoft's Windows 11 version 25H2 is now in Release Preview testing, maintaining the annual update schedule for 2025. It includes feature removals and enhancements similar to version 24H2, with a focus on IT admin capabilities for enterprise users.
+TikTok is enhancing its direct messaging feature by allowing users to send voice memos and images. This update is rolling out to users aged 16 and older, with limitations on the number of images and video length.
 
 **[The calculated silence of America’s business and finance leaders](https://www.ft.com/content/bd5a7374-63ae-49eb-a714-dcff03fa764b)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: business leaders, finance leaders, investors
@@ -34,6 +59,11 @@ Trump suggested the deployment of Chinese peacekeepers to Ukraine, a proposal th
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: Donald Trump, Lisa Cook, Federal Reserve
 
 Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal Reserve, potentially impacting monetary policy decisions.
+
+**[Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)**  
+*startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, San Francisco, Moscone West
+
+TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders, VCs, and tech innovators. Applications are free, and events will be promoted to maximize attendance.
 
 **[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
@@ -219,33 +249,3 @@ HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to incr
 *finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
 
 US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
-
-**[Amazon AGI Labs chief defends his reverse acqui-hire](https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/)**  
-*startup* · 2025-08-23 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Adept, David Luan
-
-Amazon AGI Labs chief David Luan defends the reverse acqui-hire of AI startup Adept, emphasizing the need for critical talent and resources to tackle AGI challenges. Luan aims to innovate in AI research rather than focus on deal structures.
-
-**[Rich economies will need foreign workers to fuel growth, policymakers warn](https://www.ft.com/content/8bfdf5d7-3584-444d-849e-b75adc2e07ed)**  
-*finance* · 2025-08-23 · **Imp 4/5** — Entities: policymakers, rich economies, foreign workers
-
-Policymakers emphasize that rich economies require foreign workers to sustain growth, highlighting the importance of immigration in economic strategies.
-
-**[Coca-Cola explores sale of Costa Coffee](https://www.ft.com/content/b337fb7b-0813-4ec4-82b9-24e4dc119987)**  
-*finance* · 2025-08-23 · **Imp 4/5** — Tickers: KO — Entities: Coca-Cola, Costa Coffee
-
-Coca-Cola is considering the sale of its Costa Coffee brand, indicating a strategic shift in its portfolio. This move could impact the beverage market and investor sentiment.
-
-**[BCG roiled by internal backlash over Gaza aid work](https://www.ft.com/content/89399790-b349-4112-ad2c-d6b27442889f)**  
-*finance* · 2025-08-23 · **Imp 4/5** — Entities: BCG, Gaza
-
-BCG faces internal backlash regarding its involvement in Gaza aid work, highlighting tensions within the firm over social responsibility and corporate ethics.
-
-**[Ørsted hit by US stop-work order on Rhode Island wind farm](https://www.ft.com/content/27bce438-9008-4c46-979a-26217e75a6a6)**  
-*finance* · 2025-08-23 · **Imp 4/5** — Entities: Ørsted, Rhode Island, wind farm
-
-Ørsted faces a stop-work order on its Rhode Island wind farm project, impacting its operations and future revenue potential in the renewable energy sector.
-
-**[Tech stocks are sending a warning](https://www.ft.com/content/c44c32cd-da47-4ba6-a67a-30c0059931bb)**  
-*finance* · 2025-08-23 · **Imp 4/5** — Entities: tech stocks, investors
-
-Tech stocks are signaling potential concerns for investors, indicating a need for caution in the market. This trend may affect investment strategies and valuations in the tech sector.
