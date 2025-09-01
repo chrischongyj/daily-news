@@ -1,5 +1,50 @@
 # AI Curated News Analyst — Latest
 
+**[Crunch time for US economic institutions](https://www.ft.com/content/34f41017-ebe9-42fa-867f-dd38c2706b60)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: US economic institutions, analysts, investors
+
+The article discusses the critical state of US economic institutions, emphasizing the need for quality analysis and expert insights to navigate current challenges.
+
+**[Europe has ‘pretty precise’ plan to send troops to Ukraine, von der Leyen says](https://www.ft.com/content/8ade14ca-7aa1-4413-887b-59712037665c)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Ursula von der Leyen, European Commission, Ukraine
+
+European Commission President Ursula von der Leyen announced a detailed plan for sending troops to Ukraine, emphasizing the EU's commitment to support Ukraine amid ongoing conflict.
+
+**[Stablecoins will force finance to modernise](https://www.ft.com/content/72aa6431-366b-4409-b3ce-9a99d661473d)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: stablecoins, finance sector, digital access
+
+Stablecoins are poised to drive modernization in the finance sector, enhancing digital access to analysis and insights.
+
+**[Indonesian finance minister’s home looted as unrest spreads](https://www.ft.com/content/5264faa0-2ce2-48e7-8fa0-da2c0a286720)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Indonesia, finance minister, unrest
+
+The home of Indonesia's finance minister was looted amid escalating unrest in the country, highlighting growing instability that could impact economic policies and investor confidence.
+
+**[Warnings from the citadel of economic orthodoxy](https://www.ft.com/content/7c1b9427-8062-49f2-995c-b06fcad32159)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: economic orthodoxy, investment strategies, policy-making
+
+The article discusses the challenges posed to traditional economic principles by emerging financial trends, emphasizing the need for adaptive strategies in investment and policy-making.
+
+**[Wisconsin meatpackers face labour shortage after Trump orders migrants home](https://www.ft.com/content/f055fee3-87b0-4ca0-af5a-ea964a6c6d21)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Wisconsin meatpackers, Trump, agricultural sector
+
+Wisconsin meatpackers are experiencing a labor shortage following Trump's orders for migrants to return home, impacting the agricultural sector's workforce and productivity.
+
+**[Wealthy Americans pour record sums into private credit funds](https://www.ft.com/content/0b3cd961-f748-4c0b-8298-e9329820e244)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Wealthy Americans, private credit funds
+
+Wealthy Americans are increasingly investing in private credit funds, reaching record levels. This trend highlights a shift in investment strategies among affluent individuals seeking higher returns in a low-interest-rate environment.
+
+**[Xi and Modi say they are ‘partners not rivals’ in bid to repair ties](https://www.ft.com/content/890c1986-e4b4-43d5-a2f6-ce319c510d23)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Xi Jinping, Narendra Modi, China, India
+
+Xi Jinping and Narendra Modi emphasize their partnership over rivalry, aiming to improve bilateral relations between China and India.
+
+**[Bitcoin boom spurs newly wealthy to splurge on luxury travel](https://www.ft.com/content/da4e36d8-fb82-454f-8448-4db0752ffa68)**  
+*finance* · 2025-08-31 · **Imp 4/5** — Entities: Bitcoin, luxury travel
+
+The recent surge in Bitcoin prices has led to an increase in luxury travel spending among newly wealthy individuals, indicating a shift in consumer behavior driven by cryptocurrency gains.
+
 **[Houthi prime minister killed in Israeli air strike on Yemen](https://www.ft.com/content/0eeff31c-9dc5-4571-82fb-6dd511d5dc2b)**  
 *finance* · 2025-08-30 · **Imp 4/5** — Entities: Houthi, Israel, Yemen
 
@@ -63,7 +108,7 @@ Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal 
 **[Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)**  
 *startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, San Francisco, Moscone West
 
-TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders, VCs, and tech innovators. Applications are free, and events will be promoted to maximize attendance.
+TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders and VCs. Applications are free, and events will be promoted to attract attendees.
 
 **[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
@@ -204,48 +249,3 @@ Israeli forces have reportedly killed five journalists in Gaza, raising concerns
 *finance* · 2025-08-25 · **Imp 4/5** — Tickers: AAPL — Entities: Musk, xAI, Apple, OpenAI, ChatGPT
 
 Musk's xAI has filed a lawsuit against Apple and OpenAI, alleging issues related to ChatGPT and iPhone integration. This legal action could have significant implications for the tech landscape and competitive dynamics in AI.
-
-**[Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)**  
-*tech* · 2025-08-25 · **Imp 4/5** — Entities: Trump, Revolution Wind, Port of Providence
-
-Trump halted construction on the Revolution Wind project just before completion, impacting the offshore wind energy sector.
-
-**[Why bitcoin treasury companies are a fool’s paradise](https://www.ft.com/content/478ea5bc-ea18-44f7-9da1-602ebe283fca)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: bitcoin, treasury companies, investors
-
-The article critiques bitcoin treasury companies, suggesting they may be misleading for investors. It highlights potential risks and pitfalls associated with holding bitcoin as a treasury asset.
-
-**[Investors pile billions into New York office market](https://www.ft.com/content/8d1c9978-353a-4a2b-81d3-0d4113ce0b85)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: New York office market, investors, commercial real estate
-
-Investors are significantly increasing their investments in the New York office market, injecting billions into the sector, signaling strong confidence in commercial real estate.
-
-**[Publishers race to counter ‘Google Zero’ threat as AI changes search engines](https://www.ft.com/content/f7a0eb8e-ff5b-42ae-b882-4815dbb38653)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: publishers, Google, AI, search engines
-
-Publishers are responding to the threat posed by Google's AI-driven search changes, referred to as 'Google Zero', which could impact their visibility and revenue.
-
-**[Keurig Dr Pepper nears $18bn deal to buy European coffee group JDE Peet’s](https://www.ft.com/content/123afb47-c2ad-4593-b490-e01d0c28af2f)**  
-*finance* · 2025-08-24 · **Imp 4/5** — Entities: Keurig Dr Pepper, JDE Peet’s
-
-Keurig Dr Pepper is close to finalizing an $18 billion acquisition of European coffee group JDE Peet’s, signaling a significant consolidation in the coffee industry.
-
-**[Brace for the Fed’s Maga makeover](https://www.ft.com/content/ebf4f2f8-d1e3-4f0f-856a-0a4659d6ca99)**  
-*finance* · 2025-08-24 · **Imp 4/5** — Entities: Federal Reserve
-
-The Federal Reserve is expected to undergo significant changes, impacting monetary policy and financial markets. Investors should prepare for potential shifts in interest rates and economic strategies.
-
-**[Private equity fundraising slides as sector’s downturn deepens](https://www.ft.com/content/f7387912-1079-43d4-a9a2-2308989400d4)**  
-*finance* · 2025-08-24 · **Imp 4/5** — Entities: private equity, fundraising, investment strategies
-
-Private equity fundraising has declined significantly as the sector faces a deeper downturn, impacting investment strategies and market confidence.
-
-**[HSBC Swiss unit culls wealthy Middle Eastern clients amid regulator scrutiny](https://www.ft.com/content/ab96ebcb-edcd-4537-b1b3-ffce3cc30bfc)**  
-*finance* · 2025-08-24 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC, Swiss unit, Middle Eastern clients, regulators
-
-HSBC's Swiss unit is reducing its wealthy Middle Eastern client base due to increased regulatory scrutiny, impacting its operations and client relationships.
-
-**[US food groups plead for relief from Trump’s tariffs](https://www.ft.com/content/e4ed107a-f4d4-42b8-abf4-3070fe58f69f)**  
-*finance* · 2025-08-24 · **Imp 4/5** — Entities: US food groups, Trump administration
-
-US food groups are requesting relief from tariffs imposed by the Trump administration, citing financial strain and potential impacts on the industry.
