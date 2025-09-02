@@ -1,5 +1,45 @@
 # AI Curated News Analyst — Latest
 
+**[Chinese renminbi strongest against dollar since Trump’s election win](https://www.ft.com/content/39250aa4-8e7b-4c8a-ac34-6de8353542f0)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Chinese renminbi, US dollar, Donald Trump
+
+The Chinese renminbi has reached its strongest value against the US dollar since Donald Trump's election victory, indicating significant currency fluctuations that may impact trade and investment strategies.
+
+**[Xi outlines China’s ambition to reshape world order in showpiece summit](https://www.ft.com/content/ccf6e56a-0e54-4e0a-9b00-b574455bffff)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Xi Jinping, China, global order, finance, trade
+
+Xi Jinping's recent summit highlights China's ambitions to reshape the global order, signaling potential shifts in international finance and trade dynamics.
+
+**[Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’](https://www.ft.com/content/c541820a-3922-4d23-b87b-4f2eb197c6b6)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Tickers: NSRGY — Entities: Nestlé, Laurent Freixe
+
+Nestlé has dismissed CEO Laurent Freixe following an investigation into a romantic relationship, raising concerns about corporate governance and leadership integrity.
+
+**[Gold surges after Trump’s Fed pressure](https://www.ft.com/content/d0c79387-3dce-4b7d-9581-66808b653863)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Gold, Federal Reserve, Trump
+
+Gold prices have surged following pressure from former President Trump on the Federal Reserve, indicating potential shifts in monetary policy and investor sentiment.
+
+**[Revolut to allow staff to sell shares at $75bn valuation](https://www.ft.com/content/e158a5fc-6500-48c2-9d98-722cf6812456)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Revolut
+
+Revolut is enabling its employees to sell shares at a valuation of $75 billion, providing liquidity and potential financial benefits to staff.
+
+**[Von der Leyen’s plane hit by suspected Russian GPS interference](https://www.ft.com/content/3c330f87-71c4-4db9-8259-f5c132c1f0d3)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Ursula von der Leyen, Russia
+
+Ursula von der Leyen's plane experienced suspected GPS interference attributed to Russia, raising concerns about aviation security and geopolitical tensions.
+
+**[Modi hails India’s energy ties with Russia despite US anger](https://www.ft.com/content/f4ed9315-cc8e-4d97-b571-0c940b63b68b)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Modi, India, Russia, US
+
+Indian Prime Minister Modi emphasizes the importance of energy relations with Russia, amidst tensions with the US. This highlights India's strategic energy partnerships and geopolitical positioning.
+
+**[Trump’s fawning cabinet and the threat to US democracy](https://www.ft.com/content/4052d80c-b09a-413d-bdc9-990b54293107)**  
+*finance* · 2025-09-01 · **Imp 4/5** — Entities: Trump, US democracy, cabinet
+
+The article discusses the influence of Trump's cabinet on US democracy, highlighting potential threats to democratic processes and governance. It emphasizes the importance of accountability and transparency in leadership.
+
 **[Crunch time for US economic institutions](https://www.ft.com/content/34f41017-ebe9-42fa-867f-dd38c2706b60)**  
 *finance* · 2025-08-31 · **Imp 4/5** — Entities: US economic institutions, analysts, investors
 
@@ -106,9 +146,9 @@ Trump suggested the deployment of Chinese peacekeepers to Ukraine, a proposal th
 Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal Reserve, potentially impacting monetary policy decisions.
 
 **[Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, San Francisco, Moscone West
+*startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, founders, VCs, tech innovators
 
-TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders and VCs. Applications are free, and events will be promoted to attract attendees.
+TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders, VCs, and tech innovators. Applications are free, and events will be promoted to maximize attendance.
 
 **[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
@@ -209,43 +249,3 @@ Donald Trump's recent actions regarding the Federal Reserve may lead to increase
 *finance* · 2025-08-26 · **Imp 4/5** — Entities: US, Ukraine, military, intelligence
 
 The US is providing air and intelligence support to Ukraine's postwar forces, enhancing military capabilities and strategic positioning in the region.
-
-**[French assets hit by prospect of government collapse](https://www.ft.com/content/3772f5a7-5ef3-40d5-b883-5c4464b4a4f8)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: French government, investors
-
-French assets are under pressure due to the potential collapse of the government, raising concerns among investors about stability and economic outlook.
-
-**[Alex Gerko earned £682mn from trading firm XTX in 2024](https://www.ft.com/content/e13226cf-e379-497a-b2b3-560d134a95f4)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: Alex Gerko, XTX
-
-Alex Gerko generated £682 million in earnings from trading firm XTX in 2024, highlighting significant financial success in the trading sector.
-
-**[The Dutch are quietly shifting towards a four-day work week](https://www.ft.com/content/7b61e52c-93fc-4634-b9ad-fdacac5d6538)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: Netherlands, work week, productivity
-
-The Netherlands is experiencing a gradual transition to a four-day work week, reflecting changing attitudes towards work-life balance and productivity.
-
-**[Why the Democrats are losing post-industrial America](https://www.ft.com/content/35df8535-f076-4dfe-b027-3ad65efa3da1)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: Democratic Party, post-industrial America
-
-The article discusses the Democratic Party's declining influence in post-industrial America, analyzing factors contributing to this trend and its implications for future elections.
-
-**[Sinaloa drug cartel kingpin ‘El Mayo’ pleads guilty in US court](https://www.ft.com/content/d12454cd-5d90-4f58-b356-70ec08044e68)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: Sinaloa drug cartel, US court
-
-Sinaloa drug cartel leader 'El Mayo' has pleaded guilty in a US court, marking a significant development in the ongoing crackdown on drug trafficking organizations.
-
-**[Dirigiste-in chief: why Trump opened the door to ‘state-run capitalism’](https://www.ft.com/content/0e7b6d49-446a-4ed7-a523-477e04aff771)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: Trump, U.S. government, state-run capitalism
-
-The article discusses how Trump's policies have led to a form of 'state-run capitalism' in the U.S., impacting economic dynamics and government intervention in markets.
-
-**[Israeli forces kill 5 journalists in Gaza](https://www.ft.com/content/323aa431-1830-4921-b36f-b5128530c89a)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Entities: Israeli forces, journalists, Gaza
-
-Israeli forces have reportedly killed five journalists in Gaza, raising concerns over press freedom and safety in conflict zones.
-
-**[Musk’s xAI sues Apple and OpenAI over ChatGPT and iPhone integration](https://www.ft.com/content/f4f8e341-0b28-4b53-85e6-3961ade0c881)**  
-*finance* · 2025-08-25 · **Imp 4/5** — Tickers: AAPL — Entities: Musk, xAI, Apple, OpenAI, ChatGPT
-
-Musk's xAI has filed a lawsuit against Apple and OpenAI, alleging issues related to ChatGPT and iPhone integration. This legal action could have significant implications for the tech landscape and competitive dynamics in AI.
