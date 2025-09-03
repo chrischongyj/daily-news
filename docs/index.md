@@ -1,5 +1,65 @@
 # AI Curated News Analyst — Latest
 
+**[Jane Street revenue eclipses $10bn in a quarter for first time](https://www.ft.com/content/c1d7ba02-3983-4940-b3ef-1f4e28094fa7)**  
+*finance* · 2025-09-02 · **Imp 5/5** — Entities: Jane Street
+
+Jane Street has achieved a significant milestone, with quarterly revenue surpassing $10 billion for the first time, indicating robust growth and performance in the financial sector.
+
+**[US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)**  
+*tech* · 2025-09-02 · **Imp 5/5** — Tickers: GOOGL — Entities: US government, Google
+
+The US government is engaged in an antitrust case against Google, focusing on its dominance in the search engine market. The proceedings are taking place at the E. Barrett Prettyman Courthouse in Washington, DC, and could have significant implications for the tech industry and regulatory landscape.
+
+**[How Novartis got ahead on ‘incredible’ cancer breakthrough](https://www.ft.com/content/a955b66c-89ac-4d2f-83dc-2b93baa4d56a)**  
+*finance* · 2025-09-02 · **Imp 5/5** — Tickers: NVS — Entities: Novartis
+
+Novartis has made significant advancements in cancer treatment, positioning itself as a leader in the pharmaceutical sector with an 'incredible' breakthrough. This development could reshape investor confidence and market dynamics in oncology.
+
+**[Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/)**  
+*startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
+
+Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[US strikes ‘drug vessel’ in Caribbean as Washington raises pressure on Venezuela](https://www.ft.com/content/fc46d955-a5e6-4b5b-bdde-ba328b8f69b1)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Entities: US, Venezuela
+
+The US has targeted a drug vessel in the Caribbean, intensifying pressure on Venezuela amid ongoing geopolitical tensions. This move may impact regional drug trafficking and US-Venezuela relations.
+
+**[Google spared break-up in US monopoly case](https://www.ft.com/content/25863491-1f19-4deb-95a2-fa18ee84eabb)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, US government
+
+Google has avoided a break-up in the ongoing US monopoly case, maintaining its market position and operational structure. This decision is significant for the tech industry and investors concerned about regulatory impacts.
+
+**[Ousted Democratic FTC commissioner can return (again) for now](https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated)**  
+*tech* · 2025-09-02 · **Imp 4/5** — Entities: Rebecca Kelly Slaughter, FTC, Donald Trump, US District Court, Supreme Court
+
+Rebecca Kelly Slaughter, ousted FTC commissioner, can temporarily return to work as her legal case unfolds. A court found her dismissal unlawful, challenging Trump's precedent-breaking actions. The appeals court suggests the government may struggle to win the case.
+
+**[US stocks fall as global bond sell-off deepens](https://www.ft.com/content/cf711815-09dc-4ef3-8bb7-de6b7cb1fb24)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Entities: US stocks, global bonds, investors
+
+US stocks decline as a global bond sell-off intensifies, impacting market sentiment and investor confidence.
+
+**[Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)**  
+*tech* · 2025-09-02 · **Imp 4/5** — Entities: Team Cherry, Ari Gibson, William Pellen
+
+Hollow Knight: Silksong, the long-awaited sequel, will launch on September 4th for $19.99, featuring new zones, over 200 enemies, and 40 bosses. Developers Team Cherry emphasize quality over speed in its development.
+
+**[JD Vance’s hometown falls foul of Trump’s clean energy cuts](https://www.ft.com/content/d11fab1f-cd00-4e5f-9474-d5d6e9a7dc77)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Entities: JD Vance, Trump, clean energy
+
+JD Vance's hometown faces challenges due to cuts in clean energy initiatives under Trump's policies, impacting local economic prospects and sustainability efforts.
+
+**[The secretive hedge fund that went all in on CoreWeave](https://www.ft.com/content/17e67627-cca0-47c1-8c1c-8a2a67a2148e)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Entities: CoreWeave, hedge fund
+
+A hedge fund has made a significant investment in CoreWeave, a cloud computing company, indicating strong confidence in its growth potential.
+
+**[Developing countries swap out of dollar debt to cut borrowing costs](https://www.ft.com/content/36f82232-d970-405c-97f6-8ce98725684b)**  
+*finance* · 2025-09-02 · **Imp 4/5** — Entities: developing countries, dollar debt, borrowing costs
+
+Developing countries are transitioning from dollar-denominated debt to reduce borrowing costs, reflecting a strategic shift in financial management amid global economic pressures.
+
 **[Chinese renminbi strongest against dollar since Trump’s election win](https://www.ft.com/content/39250aa4-8e7b-4c8a-ac34-6de8353542f0)**  
 *finance* · 2025-09-01 · **Imp 4/5** — Entities: Chinese renminbi, US dollar, Donald Trump
 
@@ -148,7 +208,7 @@ Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal 
 **[Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)**  
 *startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, founders, VCs, tech innovators
 
-TechCrunch Disrupt 2025 invites startups to host Side Events from October 25-31 in San Francisco, enhancing networking opportunities for founders, VCs, and tech innovators. Applications are free, and events will be promoted to maximize attendance.
+TechCrunch Disrupt 2025 invites startups to host Side Events during Disrupt Week, enhancing networking opportunities for founders and VCs. Events can range from workshops to pitch-offs, with promotional support provided. Applications are free, and early registration for the main event is encouraged.
 
 **[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
@@ -189,63 +249,3 @@ Lisa Cook, a Federal Reserve governor, is navigating challenges posed by Donald 
 *finance* · 2025-08-28 · **Imp 4/5** — Entities: Lisa Cook, Trump, Federal Reserve
 
 Federal Reserve Governor Lisa Cook has filed a lawsuit against former President Trump regarding his attempt to terminate her position. This legal action could have implications for governance and stability within the Federal Reserve.
-
-**[Xbox’s cross-device play history syncs your recently played games on every  screen](https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming)**  
-*tech* · 2025-08-28 · **Imp 4/5** — Tickers: MSFT — Entities: Xbox, Microsoft, Game Pass
-
-Xbox is rolling out cross-device play history, allowing users to access their recently played games across different consoles and PCs. This update includes cloud-playable games, enhancing user experience and accessibility.
-
-**[Trump’s assault on US nuclear watchdog raises safety concerns](https://www.ft.com/content/f082e338-d4bf-4b5b-882d-09a8795a93ef)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Trump, US nuclear watchdog
-
-Trump's criticism of the US nuclear watchdog has raised significant safety concerns regarding nuclear regulation and oversight, potentially impacting investor confidence in the sector.
-
-**[Why Intel investors have embraced an interventionist White House](https://www.ft.com/content/255a841a-0bf6-4e02-8735-bf8944f2522e)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Tickers: INTC — Entities: Intel, Biden administration, semiconductor industry
-
-Intel investors are responding positively to the Biden administration's interventionist policies, which may impact the semiconductor industry and its regulatory landscape.
-
-**[France, Germany and UK prepare to reimpose sanctions on Iran](https://www.ft.com/content/ef38937a-ca6a-4cbe-a326-ea5db0aec309)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Entities: France, Germany, UK, Iran
-
-France, Germany, and the UK are set to reimpose sanctions on Iran, impacting international relations and trade dynamics.
-
-**[Nvidia posts solid growth despite uncertain China outlook](https://www.ft.com/content/5286cc04-276d-46b2-b647-60108a58db7e)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia
-
-Nvidia reports strong growth amid concerns regarding the Chinese market, highlighting resilience in its business model and demand for its products.
-
-**[Trump’s attack on the Fed threatens US credibility](https://www.ft.com/content/d2eab80f-1314-41f1-8c1e-5fc3bbfb1e43)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Entities: Trump, Federal Reserve
-
-Trump's criticism of the Federal Reserve raises concerns about the US's credibility in financial markets, potentially impacting investor confidence and economic stability.
-
-**[China seeks to triple output of AI chips in race with the US](https://www.ft.com/content/64caeab8-a326-4626-98fb-e1bf665827d3)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Entities: China, US, AI chips, semiconductor technology
-
-China aims to triple its production of AI chips to compete with the US, highlighting the growing importance of semiconductor technology in global markets.
-
-**[Can WeightWatchers stay relevant when everyone is on diet drugs?](https://www.ft.com/content/0b0cb01a-cf3d-4689-ba2d-665317be0cc3)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Entities: WeightWatchers, diet drugs, industry leaders
-
-WeightWatchers faces challenges in maintaining relevance as diet drugs gain popularity. The shift in consumer preferences may impact its traditional weight loss programs and business model.
-
-**[After the shock of war, Iranians yearn for change](https://www.ft.com/content/bf5fe305-408c-4bd8-a585-de3a6ffb3a02)**  
-*finance* · 2025-08-27 · **Imp 4/5** — Entities: Iran, FT.com
-
-The article discusses the desire for change among Iranians following the upheaval caused by war, highlighting the socio-economic implications of the current situation.
-
-**[Trump’s battle against the Fed heads for courtroom showdown](https://www.ft.com/content/a05b579a-6839-473f-8aa7-65b81e4ff5ee)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: Trump, Federal Reserve
-
-Former President Trump is set to confront the Federal Reserve in a legal battle, raising questions about monetary policy and its implications for the economy.
-
-**[Donald Trump’s Fed blitz risks raising US borrowing costs](https://www.ft.com/content/dbd49a17-6b2d-42f8-b2d9-4b55506174d2)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: Donald Trump, Federal Reserve
-
-Donald Trump's recent actions regarding the Federal Reserve may lead to increased borrowing costs in the US, potentially impacting economic stability and investor confidence.
-
-**[US offers air and intelligence support to postwar force in Ukraine](https://www.ft.com/content/66ec25a0-4af8-467f-9fbe-cf42de890a7e)**  
-*finance* · 2025-08-26 · **Imp 4/5** — Entities: US, Ukraine, military, intelligence
-
-The US is providing air and intelligence support to Ukraine's postwar forces, enhancing military capabilities and strategic positioning in the region.
