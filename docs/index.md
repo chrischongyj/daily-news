@@ -20,6 +20,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Washington doubles down on Big Tech antitrust cases despite Google setback](https://www.ft.com/content/bc549a75-4d76-4775-9ccb-13b0de452179)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: U.S. government, Big Tech, Google
+
+The U.S. government is intensifying its antitrust efforts against major tech companies, even after facing setbacks in cases against Google. This indicates a continued focus on regulating Big Tech's market power.
+
+**[US launches military campaign against Venezuelan drug cartels](https://www.ft.com/content/7d81b844-e81f-4587-bc7a-d789d059b11f)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: US, Venezuela, drug cartels
+
+The US has initiated a military campaign targeting Venezuelan drug cartels, aiming to disrupt drug trafficking operations that impact regional stability and security.
+
+**[New crypto venture backed by Trump sons surges in market debut](https://www.ft.com/content/9b442428-b2cc-44da-9f52-aa73babc6228)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: Trump sons, cryptocurrency venture
+
+A new cryptocurrency venture backed by Donald Trump's sons has experienced a significant surge in its market debut, attracting attention from investors and the crypto community.
+
+**[US ‘very troubled’ by Norway fund’s Caterpillar divestment over Israel](https://www.ft.com/content/1dc96d96-6434-4d07-a40a-ea50ad09986a)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Tickers: CAT — Entities: US government, Norway sovereign wealth fund, Caterpillar
+
+The US government expressed concerns over Norway's sovereign wealth fund divesting from Caterpillar due to the company's operations in Israel, highlighting geopolitical tensions and their impact on investment decisions.
+
+**[Switzerland releases its own AI model trained on public data](https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus)**  
+*tech* · 2025-09-03 · **Imp 4/5** — Entities: Switzerland, OpenAI, Anthropic, Meta, HuggingFace, European Union
+
+Switzerland has launched an open-source AI model named Apertus, trained on public data and available on HuggingFace. Designed to comply with EU regulations, it aims to provide a trustworthy alternative to proprietary models like ChatGPT and Claude.
+
+**[Trump to call Putin in ‘next few days’ as Ukraine peace efforts stall](https://www.ft.com/content/b8c8cdea-3e28-4ed9-ac95-396af0ba3f4f)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
+
+Trump plans to call Putin soon amid stalled Ukraine peace efforts, signaling potential shifts in geopolitical dynamics that could impact global markets.
+
+**[Anker’s power bank with built-in USB-C cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)**  
+*tech* · 2025-09-03 · **Imp 4/5** — Entities: Anker, Amazon, Best Buy
+
+Anker's Laptop Power Bank, now $94.49 after a $25 discount, features built-in USB-C cables and multiple ports for high power output, making it ideal for remote work and travel. Its digital display tracks charge and health, enhancing usability during outages.
+
+**[Israeli annexation of the West Bank would be ‘red line’ for UAE](https://www.ft.com/content/915595af-5564-4a45-ae69-9be265d04035)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: UAE, Israel, West Bank
+
+The UAE has stated that Israeli annexation of the West Bank would be a 'red line', indicating potential diplomatic and economic repercussions.
+
+**[Lasers, hypersonic missiles and the ‘nuclear triad’: China flexes its military muscle](https://www.ft.com/content/ac2f48f2-6faa-4ecd-af58-bc2665fbe427)**  
+*finance* · 2025-09-03 · **Imp 4/5** — Entities: China, military, defense
+
+China is showcasing its military advancements, including lasers and hypersonic missiles, as part of its nuclear triad strategy. This display of military strength could have significant implications for global security and defense markets.
+
 **[US strikes ‘drug vessel’ in Caribbean as Washington raises pressure on Venezuela](https://www.ft.com/content/fc46d955-a5e6-4b5b-bdde-ba328b8f69b1)**  
 *finance* · 2025-09-02 · **Imp 4/5** — Entities: US, Venezuela
 
@@ -204,48 +249,3 @@ Trump suggested the deployment of Chinese peacekeepers to Ukraine, a proposal th
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: Donald Trump, Lisa Cook, Federal Reserve
 
 Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal Reserve, potentially impacting monetary policy decisions.
-
-**[Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-08-29 · **Imp 4/5** — Entities: TechCrunch, founders, VCs, tech innovators
-
-TechCrunch Disrupt 2025 invites startups to host Side Events during Disrupt Week, enhancing networking opportunities for founders and VCs. Events can range from workshops to pitch-offs, with promotional support provided. Applications are free, and early registration for the main event is encouraged.
-
-**[EU to tap entire €150bn loans-for-arms programme](https://www.ft.com/content/2bcca8ea-69b1-4c2a-8be2-a679ec6ac9e9)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: EU, defense sector
-
-The EU plans to utilize its €150 billion loans-for-arms program, aiming to bolster defense capabilities amid rising geopolitical tensions.
-
-**[Milan’s expat ‘explosion’ brings new buzz to Italy’s financial centre](https://www.ft.com/content/f33a01dc-f873-4c62-886f-f69562fb2e46)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: Milan, Italy, expatriates, financial centre
-
-Milan experiences a surge in expatriates, revitalizing its status as Italy's financial hub. This influx is expected to enhance economic activity and attract investment.
-
-**[Fed official says he could back jumbo rate cut if US economy weakens sharply](https://www.ft.com/content/d8953f37-2bb1-4272-a24e-dbf0a02ee4f0)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Federal Reserve, US economy
-
-A Federal Reserve official indicated support for a significant rate cut if the US economy experiences a sharp downturn, highlighting potential shifts in monetary policy.
-
-**[Canada struggles to ease Trump tariffs despite Carney concessions](https://www.ft.com/content/2c2217d8-d01b-4135-a79e-c92dd8dcd507)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Canada, Trump, Mark Carney
-
-Canada faces challenges in mitigating Trump-era tariffs, despite concessions from Mark Carney. The ongoing trade tensions may impact economic relations and market stability.
-
-**[Trump hits small packages with fresh tariffs as duty-free exemption ends](https://www.ft.com/content/43ae5c68-2f6b-4a6c-ba8e-3575a9fe685b)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Trump administration, e-commerce, international shipping
-
-Trump's administration has imposed new tariffs on small packages as the duty-free exemption comes to an end, potentially affecting e-commerce and international shipping costs.
-
-**[Trump Intel deal designed to block sale of chipmaking unit, CFO says](https://www.ft.com/content/29fb5020-2b25-429a-b63f-18356b467e7a)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Tickers: INTC — Entities: Trump, Intel
-
-Trump's Intel deal aims to prevent the sale of a chipmaking unit, according to the CFO. This move highlights ongoing tensions in the semiconductor industry and potential regulatory implications.
-
-**[Lisa Cook, the Federal Reserve governor battling Donald Trump](https://www.ft.com/content/60e8b3e5-6485-4e62-ae40-200ad32b431e)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Lisa Cook, Federal Reserve, Donald Trump
-
-Lisa Cook, a Federal Reserve governor, is navigating challenges posed by Donald Trump, impacting monetary policy discussions and market perceptions.
-
-**[Fed’s Lisa Cook sues Trump over move to fire her](https://www.ft.com/content/89f6ff07-5130-4e07-b105-07dda7f599f2)**  
-*finance* · 2025-08-28 · **Imp 4/5** — Entities: Lisa Cook, Trump, Federal Reserve
-
-Federal Reserve Governor Lisa Cook has filed a lawsuit against former President Trump regarding his attempt to terminate her position. This legal action could have implications for governance and stability within the Federal Reserve.
