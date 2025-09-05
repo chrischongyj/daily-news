@@ -20,6 +20,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Anthropic to stop selling AI services to majority Chinese-owned groups](https://www.ft.com/content/12b8e10b-b55d-4824-817f-a3c9cfe9f779)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: Anthropic, Chinese-owned groups
+
+Anthropic has decided to cease selling AI services to groups that are majority-owned by Chinese entities, reflecting growing concerns over data security and geopolitical tensions.
+
+**[Trump’s nominee to join Fed says president ‘entitled’ to take policy views](https://www.ft.com/content/ce04ffc0-1660-4b0a-adbb-df2595f9b6e9)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: Trump, Federal Reserve
+
+Trump's nominee for the Federal Reserve asserts that the president has the right to express policy opinions, highlighting the intersection of politics and monetary policy.
+
+**[US and Taiwanese defence officials held secret talks in Alaska](https://www.ft.com/content/2500ce43-e072-4a8e-a5ca-3c2044a62f44)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: US, Taiwan, defense officials
+
+US and Taiwanese defense officials conducted secret discussions in Alaska, highlighting ongoing geopolitical tensions and defense collaborations in the region.
+
+**[Giorgio Armani, fashion designer and businessman, 1934-2025](https://www.ft.com/content/462274c8-530a-44e1-9ac6-f44efa192566)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: Giorgio Armani, fashion industry
+
+Giorgio Armani, renowned fashion designer and businessman, passed away in 2025, leaving a significant legacy in the fashion industry.
+
+**[US to cut some security funds for European countries bordering Russia](https://www.ft.com/content/0157d5f9-1b27-4d6c-b44e-f0a77da59b5d)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: US, European countries, Russia
+
+The US plans to reduce security funding for European nations adjacent to Russia, potentially impacting regional defense strategies and international relations.
+
+**[A stress test for global trade](https://www.ft.com/content/344ef0a3-eb77-4edb-abc0-48b167546f37)**  
+*finance* · 2025-09-04 · **Imp 4/5** — Entities: global trade, economic challenges, analysis, insights
+
+The article discusses the implications of a stress test on global trade, highlighting the need for quality analysis and expert insights in navigating economic challenges.
+
 **[Washington doubles down on Big Tech antitrust cases despite Google setback](https://www.ft.com/content/bc549a75-4d76-4775-9ccb-13b0de452179)**  
 *finance* · 2025-09-03 · **Imp 4/5** — Entities: U.S. government, Big Tech, Google
 
@@ -219,33 +249,3 @@ John Malone and Rupert Murdoch discussed a potential merger between Warner Bros 
 *finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, US appeals court
 
 A US appeals court has ruled that Trump's tariffs are illegal; however, they will remain in effect for the time being. This decision could impact trade relations and economic policies.
-
-**[US regulator approves at-home Alzheimer’s drug from Eisai and Biogen](https://www.ft.com/content/4147b61e-6cc9-40c2-adb0-18ff97d1c878)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: Eisai, Biogen, US regulator
-
-The US regulator has approved an at-home Alzheimer's drug developed by Eisai and Biogen, marking a significant advancement in Alzheimer's treatment options.
-
-**[US tech stocks drop as AI uncertainty knocks chip groups](https://www.ft.com/content/2b3b51d1-b9e1-4b7c-a262-ae531f621fef)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: US tech stocks, AI, chip manufacturers
-
-US tech stocks have declined due to uncertainty surrounding AI developments, particularly impacting chip manufacturers. This volatility raises concerns for investors in the tech sector.
-
-**[TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)**  
-*tech* · 2025-08-29 · **Imp 4/5** — Entities: TikTok, TechCrunch, The Verge
-
-TikTok is enhancing its direct messaging feature by allowing users to send voice memos and images. This update is rolling out to users aged 16 and older, with limitations on the number of images and video length.
-
-**[The calculated silence of America’s business and finance leaders](https://www.ft.com/content/bd5a7374-63ae-49eb-a714-dcff03fa764b)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: business leaders, finance leaders, investors
-
-The article discusses the strategic silence of U.S. business and finance leaders, highlighting its implications for market dynamics and investor sentiment.
-
-**[Trump ‘proposed Chinese peacekeepers’ for Ukraine](https://www.ft.com/content/dc6488e9-b853-4abe-b257-71a2e8a5c35b)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, Ukraine, China
-
-Trump suggested the deployment of Chinese peacekeepers to Ukraine, a proposal that could shift geopolitical dynamics and impact international relations.
-
-**[Trump urges judge to deny Lisa Cook’s appeal to remain at Fed](https://www.ft.com/content/499b9db0-6cdf-4a5f-8cd0-6a0839efa7ce)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: Donald Trump, Lisa Cook, Federal Reserve
-
-Trump has requested a judge to reject Lisa Cook's appeal to stay at the Federal Reserve, potentially impacting monetary policy decisions.
