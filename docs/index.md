@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Tesla seeks to award Musk $1tn if carmaker hits formidable targets](https://www.ft.com/content/9068b01a-35c0-4d05-ad48-c0e4678fe315)**  
+*finance* · 2025-09-05 · **Imp 5/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
+
+Tesla plans to grant Elon Musk a $1 trillion award contingent on achieving ambitious performance targets, signaling the company's aggressive growth strategy and potential market impact.
+
 **[Jane Street revenue eclipses $10bn in a quarter for first time](https://www.ft.com/content/c1d7ba02-3983-4940-b3ef-1f4e28094fa7)**  
 *finance* · 2025-09-02 · **Imp 5/5** — Entities: Jane Street
 
@@ -19,6 +24,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Trump issues order to penalise countries that detain American citizens](https://www.ft.com/content/11fca04e-cada-41aa-a9f3-ab448efbb3d8)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, American citizens, international relations
+
+Trump has issued an order to penalize countries that detain American citizens, potentially impacting international relations and American businesses abroad.
+
+**[AI start-up Anthropic settles landmark copyright suit for $1.5bn](https://www.ft.com/content/96b59d8c-3625-4c2c-a6d6-435cff0392bf)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: Anthropic
+
+AI start-up Anthropic has settled a significant copyright lawsuit for $1.5 billion, marking a pivotal moment in the intersection of AI technology and intellectual property rights.
+
+**[Trump threatens retaliatory tariffs after EU hits Google with €2.95bn fine](https://www.ft.com/content/8f8bcd37-2e39-42ac-9d6d-9a1b66a5f9f4)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Tickers: GOOGL — Entities: Trump, EU, Google
+
+Trump has threatened retaliatory tariffs in response to the EU's €2.95 billion fine imposed on Google, raising concerns about trade relations and potential impacts on tech companies.
+
+**[Trump to direct Japan’s $550bn investment in US after deal with Tokyo](https://www.ft.com/content/ba944ada-608d-4265-abef-48939dd56197)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, Japan, Tokyo, U.S.
+
+Trump plans to direct Japan's $550 billion investment into the U.S. following a deal with Tokyo, potentially impacting bilateral economic relations and investment flows.
+
+**[OpenAI pressed on safety after deaths of ChatGPT users](https://www.ft.com/content/f4be38b3-2de9-4b81-bc47-24119c2d5aef)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: OpenAI, ChatGPT
+
+OpenAI faces scrutiny regarding safety protocols following reported deaths of ChatGPT users, raising concerns about the implications of AI technology on user safety and mental health.
+
+**[Carlos Abrams-Rivera, the Kraft Heinz CEO dealing with America’s lost appetite](https://www.ft.com/content/697930d8-7c10-4a9f-b627-559612e18824)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Tickers: KHC — Entities: Kraft Heinz, Carlos Abrams-Rivera
+
+Carlos Abrams-Rivera, CEO of Kraft Heinz, is navigating challenges related to declining consumer demand in the U.S. food market, impacting the company's strategies and performance.
+
+**[Xi Jinping plots a post-American world](https://www.ft.com/content/26207277-0a76-4ed4-b34a-8dd27b6c83b4)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: Xi Jinping, United States, global economy
+
+Xi Jinping is strategizing for a global landscape that diminishes American influence, potentially reshaping international finance and trade dynamics.
+
+**[Elon Musk’s $1tn bonus is literally monopoly money](https://www.ft.com/content/897e427f-4216-49fd-bb6a-6319dd6df5a3)**  
+*finance* · 2025-09-05 · **Imp 4/5** — Entities: Elon Musk
+
+Elon Musk's potential $1 trillion bonus is being criticized as unrealistic and akin to 'monopoly money', raising concerns about the implications for corporate governance and executive compensation.
+
+**[The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)**  
+*tech* · 2025-09-05 · **Imp 4/5** — Entities: Lenovo, Asus, Microsoft
+
+Lenovo's Legion Go 2 will feature Xbox full-screen experience (FSE) in spring 2026, following its launch next month. This positions Lenovo as a competitor to Asus, which will receive the FSE earlier on October 16th. The new OS aims to enhance performance and usability for handheld gaming.
 
 **[Anthropic to stop selling AI services to majority Chinese-owned groups](https://www.ft.com/content/12b8e10b-b55d-4824-817f-a3c9cfe9f779)**  
 *finance* · 2025-09-04 · **Imp 4/5** — Entities: Anthropic, Chinese-owned groups
@@ -199,53 +249,3 @@ The home of Indonesia's finance minister was looted amid escalating unrest in th
 *finance* · 2025-08-31 · **Imp 4/5** — Entities: economic orthodoxy, investment strategies, policy-making
 
 The article discusses the challenges posed to traditional economic principles by emerging financial trends, emphasizing the need for adaptive strategies in investment and policy-making.
-
-**[Wisconsin meatpackers face labour shortage after Trump orders migrants home](https://www.ft.com/content/f055fee3-87b0-4ca0-af5a-ea964a6c6d21)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Wisconsin meatpackers, Trump, agricultural sector
-
-Wisconsin meatpackers are experiencing a labor shortage following Trump's orders for migrants to return home, impacting the agricultural sector's workforce and productivity.
-
-**[Wealthy Americans pour record sums into private credit funds](https://www.ft.com/content/0b3cd961-f748-4c0b-8298-e9329820e244)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Wealthy Americans, private credit funds
-
-Wealthy Americans are increasingly investing in private credit funds, reaching record levels. This trend highlights a shift in investment strategies among affluent individuals seeking higher returns in a low-interest-rate environment.
-
-**[Xi and Modi say they are ‘partners not rivals’ in bid to repair ties](https://www.ft.com/content/890c1986-e4b4-43d5-a2f6-ce319c510d23)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Xi Jinping, Narendra Modi, China, India
-
-Xi Jinping and Narendra Modi emphasize their partnership over rivalry, aiming to improve bilateral relations between China and India.
-
-**[Bitcoin boom spurs newly wealthy to splurge on luxury travel](https://www.ft.com/content/da4e36d8-fb82-454f-8448-4db0752ffa68)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Bitcoin, luxury travel
-
-The recent surge in Bitcoin prices has led to an increase in luxury travel spending among newly wealthy individuals, indicating a shift in consumer behavior driven by cryptocurrency gains.
-
-**[Houthi prime minister killed in Israeli air strike on Yemen](https://www.ft.com/content/0eeff31c-9dc5-4571-82fb-6dd511d5dc2b)**  
-*finance* · 2025-08-30 · **Imp 4/5** — Entities: Houthi, Israel, Yemen
-
-The Houthi prime minister was killed in an Israeli air strike in Yemen, escalating tensions in the region and potentially impacting geopolitical stability and market reactions.
-
-**[Prominent Ukrainian nationalist politician shot dead in Lviv](https://www.ft.com/content/d08aa511-882f-4b2a-bd56-aedac34dd652)**  
-*finance* · 2025-08-30 · **Imp 4/5** — Entities: Ukrainian nationalist politician, Lviv
-
-A prominent Ukrainian nationalist politician was shot dead in Lviv, raising concerns about political stability in the region.
-
-**[Manchester United: lessons from the fall](https://www.ft.com/content/7d6f222b-2597-4db7-8ee9-4f89c7515faa)**  
-*finance* · 2025-08-30 · **Imp 4/5** — Entities: Manchester United, investors, stakeholders
-
-The article discusses the decline of Manchester United, highlighting key lessons for investors and stakeholders in the sports finance sector.
-
-**[The battle for the soul of Israel](https://www.ft.com/content/d8718bbc-a946-45b5-90a7-e07cd4107b9f)**  
-*finance* · 2025-08-30 · **Imp 4/5** — Entities: Israel, FT
-
-The article discusses the ongoing conflict in Israel, highlighting its implications for the region's stability and the global economy. It emphasizes the importance of quality journalism in understanding these complex issues.
-
-**[John Malone held talks with Rupert Murdoch over Warner Bros-Fox merger](https://www.ft.com/content/3a32fdcb-1248-4721-8269-2867dc5e4d78)**  
-*finance* · 2025-08-30 · **Imp 4/5** — Entities: John Malone, Rupert Murdoch, Warner Bros, Fox
-
-John Malone and Rupert Murdoch discussed a potential merger between Warner Bros and Fox, indicating strategic moves in the media landscape.
-
-**[Trump’s tariffs ruled illegal by US appeals court but stay in place](https://www.ft.com/content/f3c7deb6-928c-426c-8dbc-574b21b02063)**  
-*finance* · 2025-08-29 · **Imp 4/5** — Entities: Trump, US appeals court
-
-A US appeals court has ruled that Trump's tariffs are illegal; however, they will remain in effect for the time being. This decision could impact trade relations and economic policies.
