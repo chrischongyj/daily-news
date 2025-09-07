@@ -25,6 +25,31 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[China launches corruption probe into former securities regulator chair](https://www.ft.com/content/90fa8b97-ae22-4fc4-9545-4775e3419510)**  
+*finance* · 2025-09-06 · **Imp 4/5** — Entities: China, securities regulator
+
+China has initiated a corruption investigation into the former chair of its securities regulator, signaling potential regulatory shifts in the financial sector.
+
+**[Trump’s economy falters as US jobs growth grinds to a halt](https://www.ft.com/content/f98caaf8-545b-41cb-abdf-d9ea674799fc)**  
+*finance* · 2025-09-06 · **Imp 4/5** — Entities: Trump administration, US economy, job market
+
+US job growth has stalled, indicating a faltering economy under Trump's administration. This trend raises concerns for investors and economic stakeholders about future market stability and employment rates.
+
+**[US housing agency rehires sacked staff ahead of Fannie and Freddie IPO](https://www.ft.com/content/af4e199a-3c6f-4197-ae18-f1063abbcad5)**  
+*finance* · 2025-09-06 · **Imp 4/5** — Entities: US housing agency, Fannie Mae, Freddie Mac
+
+The US housing agency has rehired previously laid-off staff in preparation for the upcoming IPOs of Fannie Mae and Freddie Mac, signaling a strategic move to bolster operations ahead of significant market events.
+
+**[Canada’s youth face bleak employment market as economy slows](https://www.ft.com/content/f7e7da23-cb73-4a93-8708-49392802d005)**  
+*finance* · 2025-09-06 · **Imp 4/5** — Entities: Canada, youth, employment market, economy
+
+Canada's youth are confronting a challenging employment landscape as the economy experiences a slowdown, raising concerns about job opportunities and economic stability.
+
+**[The bond doom-mongers have got at least one thing right](https://www.ft.com/content/4edbbd55-a5da-4b7c-9158-0fa397501513)**  
+*finance* · 2025-09-06 · **Imp 4/5** — Entities: bond market, analysts, investors
+
+The article discusses the concerns raised by bond market pessimists, highlighting the need for quality analysis and insights in the current financial landscape.
+
 **[Trump issues order to penalise countries that detain American citizens](https://www.ft.com/content/11fca04e-cada-41aa-a9f3-ab448efbb3d8)**  
 *finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, American citizens, international relations
 
@@ -224,28 +249,3 @@ Indian Prime Minister Modi emphasizes the importance of energy relations with Ru
 *finance* · 2025-09-01 · **Imp 4/5** — Entities: Trump, US democracy, cabinet
 
 The article discusses the influence of Trump's cabinet on US democracy, highlighting potential threats to democratic processes and governance. It emphasizes the importance of accountability and transparency in leadership.
-
-**[Crunch time for US economic institutions](https://www.ft.com/content/34f41017-ebe9-42fa-867f-dd38c2706b60)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: US economic institutions, analysts, investors
-
-The article discusses the critical state of US economic institutions, emphasizing the need for quality analysis and expert insights to navigate current challenges.
-
-**[Europe has ‘pretty precise’ plan to send troops to Ukraine, von der Leyen says](https://www.ft.com/content/8ade14ca-7aa1-4413-887b-59712037665c)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Ursula von der Leyen, European Commission, Ukraine
-
-European Commission President Ursula von der Leyen announced a detailed plan for sending troops to Ukraine, emphasizing the EU's commitment to support Ukraine amid ongoing conflict.
-
-**[Stablecoins will force finance to modernise](https://www.ft.com/content/72aa6431-366b-4409-b3ce-9a99d661473d)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: stablecoins, finance sector, digital access
-
-Stablecoins are poised to drive modernization in the finance sector, enhancing digital access to analysis and insights.
-
-**[Indonesian finance minister’s home looted as unrest spreads](https://www.ft.com/content/5264faa0-2ce2-48e7-8fa0-da2c0a286720)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: Indonesia, finance minister, unrest
-
-The home of Indonesia's finance minister was looted amid escalating unrest in the country, highlighting growing instability that could impact economic policies and investor confidence.
-
-**[Warnings from the citadel of economic orthodoxy](https://www.ft.com/content/7c1b9427-8062-49f2-995c-b06fcad32159)**  
-*finance* · 2025-08-31 · **Imp 4/5** — Entities: economic orthodoxy, investment strategies, policy-making
-
-The article discusses the challenges posed to traditional economic principles by emerging financial trends, emphasizing the need for adaptive strategies in investment and policy-making.
