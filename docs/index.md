@@ -25,6 +25,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)**  
+*tech* · 2025-09-07 · **Imp 4/5** — Entities: Google, Gemini
+
+Google has clarified usage limits for its Gemini AI service, specifying daily prompt and feature caps across different subscription tiers. Free accounts allow five prompts and limited outputs, while Pro and Ultra plans offer significantly higher limits.
+
+**[Opec+ agrees to boost output as Saudi focuses on revenue drive](https://www.ft.com/content/1c826bf4-6401-466b-8a05-ea3504fdd6e7)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: Opec+, Saudi Arabia
+
+Opec+ has reached an agreement to increase oil production, with Saudi Arabia prioritizing revenue generation. This decision may impact global oil prices and market dynamics.
+
+**[China paves way for renminbi fundraising by Russian energy giants](https://www.ft.com/content/ee8ddacb-79be-4000-a1ed-716d52c60a37)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: China, Russia, energy companies
+
+China is facilitating renminbi fundraising for Russian energy companies, potentially enhancing financial ties and investment opportunities between the two nations.
+
+**[Russia launches record mass drone attack on Ukraine](https://www.ft.com/content/9cb8ae97-29da-4ae0-b790-69238e9680cf)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: Russia, Ukraine
+
+Russia has initiated a record mass drone attack on Ukraine, escalating tensions in the region and potentially impacting global markets and energy prices.
+
+**[Is the US already in a recession?](https://www.ft.com/content/e9be3e3f-2efe-42f7-b2d2-8ab3efea27a8)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: US economy, recession, analysis, expert insights
+
+The article questions whether the US is currently in a recession, highlighting the need for quality analysis and expert insights on the economic situation.
+
+**[Americans face biggest increase in health insurance costs in 15 years](https://www.ft.com/content/9af0c46d-4665-49ae-b153-15ce7d65ca55)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: Americans, health insurance, healthcare services
+
+Americans are experiencing the largest rise in health insurance costs in 15 years, impacting affordability and access to healthcare services.
+
+**[South Korea charters plane to repatriate workers after US battery factory raid](https://www.ft.com/content/05dcb7bc-cfee-4c14-893a-5c9de5b7cede)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: South Korea, US battery factory, workers
+
+South Korea has arranged a chartered plane to repatriate workers following a raid at a US battery factory, highlighting geopolitical tensions and labor issues in the tech and manufacturing sectors.
+
+**[Putin faces tough choices at home as strain on Russia’s war economy mounts](https://www.ft.com/content/9eced307-ee62-4e53-b5c1-bb3d3e0cb5cb)**  
+*finance* · 2025-09-07 · **Imp 4/5** — Entities: Putin, Russia, war economy
+
+Russia's war economy is under increasing strain, forcing President Putin to make difficult domestic decisions. This situation may impact economic stability and investor confidence in the region.
+
 **[China launches corruption probe into former securities regulator chair](https://www.ft.com/content/90fa8b97-ae22-4fc4-9545-4775e3419510)**  
 *finance* · 2025-09-06 · **Imp 4/5** — Entities: China, securities regulator
 
@@ -209,43 +249,3 @@ A hedge fund has made a significant investment in CoreWeave, a cloud computing c
 *finance* · 2025-09-02 · **Imp 4/5** — Entities: developing countries, dollar debt, borrowing costs
 
 Developing countries are transitioning from dollar-denominated debt to reduce borrowing costs, reflecting a strategic shift in financial management amid global economic pressures.
-
-**[Chinese renminbi strongest against dollar since Trump’s election win](https://www.ft.com/content/39250aa4-8e7b-4c8a-ac34-6de8353542f0)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Chinese renminbi, US dollar, Donald Trump
-
-The Chinese renminbi has reached its strongest value against the US dollar since Donald Trump's election victory, indicating significant currency fluctuations that may impact trade and investment strategies.
-
-**[Xi outlines China’s ambition to reshape world order in showpiece summit](https://www.ft.com/content/ccf6e56a-0e54-4e0a-9b00-b574455bffff)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Xi Jinping, China, global order, finance, trade
-
-Xi Jinping's recent summit highlights China's ambitions to reshape the global order, signaling potential shifts in international finance and trade dynamics.
-
-**[Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’](https://www.ft.com/content/c541820a-3922-4d23-b87b-4f2eb197c6b6)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Tickers: NSRGY — Entities: Nestlé, Laurent Freixe
-
-Nestlé has dismissed CEO Laurent Freixe following an investigation into a romantic relationship, raising concerns about corporate governance and leadership integrity.
-
-**[Gold surges after Trump’s Fed pressure](https://www.ft.com/content/d0c79387-3dce-4b7d-9581-66808b653863)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Gold, Federal Reserve, Trump
-
-Gold prices have surged following pressure from former President Trump on the Federal Reserve, indicating potential shifts in monetary policy and investor sentiment.
-
-**[Revolut to allow staff to sell shares at $75bn valuation](https://www.ft.com/content/e158a5fc-6500-48c2-9d98-722cf6812456)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Revolut
-
-Revolut is enabling its employees to sell shares at a valuation of $75 billion, providing liquidity and potential financial benefits to staff.
-
-**[Von der Leyen’s plane hit by suspected Russian GPS interference](https://www.ft.com/content/3c330f87-71c4-4db9-8259-f5c132c1f0d3)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Ursula von der Leyen, Russia
-
-Ursula von der Leyen's plane experienced suspected GPS interference attributed to Russia, raising concerns about aviation security and geopolitical tensions.
-
-**[Modi hails India’s energy ties with Russia despite US anger](https://www.ft.com/content/f4ed9315-cc8e-4d97-b571-0c940b63b68b)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Modi, India, Russia, US
-
-Indian Prime Minister Modi emphasizes the importance of energy relations with Russia, amidst tensions with the US. This highlights India's strategic energy partnerships and geopolitical positioning.
-
-**[Trump’s fawning cabinet and the threat to US democracy](https://www.ft.com/content/4052d80c-b09a-413d-bdc9-990b54293107)**  
-*finance* · 2025-09-01 · **Imp 4/5** — Entities: Trump, US democracy, cabinet
-
-The article discusses the influence of Trump's cabinet on US democracy, highlighting potential threats to democratic processes and governance. It emphasizes the importance of accountability and transparency in leadership.
