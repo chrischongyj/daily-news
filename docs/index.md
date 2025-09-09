@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Anglo American nears $20bn takeover of Teck Resources](https://www.ft.com/content/786c4546-3a40-4388-97aa-74b94d63e568)**  
+*finance* · 2025-09-08 · **Imp 5/5** — Entities: Anglo American, Teck Resources
+
+Anglo American is close to finalizing a $20 billion acquisition of Teck Resources, marking a significant move in the mining sector.
+
 **[Tesla seeks to award Musk $1tn if carmaker hits formidable targets](https://www.ft.com/content/9068b01a-35c0-4d05-ad48-c0e4678fe315)**  
 *finance* · 2025-09-05 · **Imp 5/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
 
@@ -24,6 +29,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Microsoft taps Nebius to supply up to $20bn of AI computing power](https://www.ft.com/content/a7aadbfe-1d6c-4159-890a-2f91d97a8d4b)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft,Nebius
+
+Microsoft partners with Nebius to secure up to $20 billion in AI computing power, enhancing its capabilities in artificial intelligence.
+
+**[Murdoch seals $3.3bn succession deal to hand empire to eldest son](https://www.ft.com/content/f2162505-6b0c-4193-ab94-4a531642590f)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: Rupert Murdoch, media empire, succession
+
+Rupert Murdoch has finalized a $3.3 billion succession deal to transfer control of his media empire to his eldest son, signaling a significant shift in leadership and strategy within the organization.
+
+**[Signal’s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)**  
+*tech* · 2025-09-08 · **Imp 4/5** — Entities: Signal, Jim O’Leary
+
+Signal introduces its first paid feature, offering encrypted media and message backups for $1.99/month, alongside a free tier for recent data. This move aims to cover operational costs without compromising user privacy.
+
+**[French government collapses as PM François Bayrou loses confidence vote](https://www.ft.com/content/7122b003-71c8-41e1-a968-1cc81f736939)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: French government, François Bayrou
+
+The French government has collapsed following Prime Minister François Bayrou's loss in a confidence vote, creating potential instability in the political landscape.
+
+**[Trump loses attempt to have $83mn defamation judgment tossed out](https://www.ft.com/content/72fe95aa-db40-40a6-a3b1-87fa0412d52c)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: Donald Trump
+
+Donald Trump has failed in his attempt to overturn an $83 million defamation judgment against him, which may have significant implications for his financial standing and future legal battles.
+
+**[Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)**  
+*tech* · 2025-09-08 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Plaintiffs, publishers
+
+Google acknowledges the rapid decline of the open web, attributing it to the rise of AI in ad tech and the popularity of non-open web formats like Connected TV. The company argues that proposed divestiture remedies could worsen the situation for publishers reliant on open-web advertising.
+
+**[Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)**  
+*tech* · 2025-09-08 · **Imp 4/5** — Entities: Meta, WhatsApp, Whistleblower Aid, Senate Judiciary Committee
+
+Whistleblowers allege Meta is restricting VR safety research for kids, raising concerns ahead of a Senate hearing. Meta defends its research efforts, claiming significant updates for youth safety. Additionally, a lawsuit from a former WhatsApp security head highlights ongoing privacy issues.
+
+**[Korean companies admit cutting corners on US visas but say they have little choice](https://www.ft.com/content/c677b9aa-2e89-4feb-a56f-f3c8452b3674)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: Korean companies, US visa regulations
+
+Korean companies acknowledge compromising on US visa regulations due to operational pressures, highlighting systemic issues in labor acquisition. This admission raises concerns about compliance and potential repercussions for businesses operating in the US.
+
+**[Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/)**  
+*startup* · 2025-09-08 · **Imp 4/5** — Entities: TechCrunch, startups, San Francisco
+
+Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in startup culture and event management. The event takes place in San Francisco from October 27-29, with applications closing September 30.
+
+**[Ukraine and the coalition of the unwilling](https://www.ft.com/content/b39a4b66-cb3e-465b-92ad-9c106bd0e537)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: Ukraine, international coalitions
+
+The article discusses Ukraine's financial situation and the challenges it faces with international coalitions. It highlights the need for quality analysis and insights in navigating these complexities.
+
+**[The hedge fund billionaire aiming to be king of Queens](https://www.ft.com/content/320bc079-d3b0-4db2-9212-410144ffc7e1)**  
+*finance* · 2025-09-08 · **Imp 4/5** — Entities: hedge fund, real estate, Queens
+
+A hedge fund billionaire is positioning himself to dominate the Queens real estate market, indicating a significant investment strategy shift in urban properties.
 
 **[Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)**  
 *tech* · 2025-09-07 · **Imp 4/5** — Entities: Google, Gemini
@@ -189,63 +249,3 @@ The US government expressed concerns over Norway's sovereign wealth fund divesti
 *tech* · 2025-09-03 · **Imp 4/5** — Entities: Switzerland, OpenAI, Anthropic, Meta, HuggingFace, European Union
 
 Switzerland has launched an open-source AI model named Apertus, trained on public data and available on HuggingFace. Designed to comply with EU regulations, it aims to provide a trustworthy alternative to proprietary models like ChatGPT and Claude.
-
-**[Trump to call Putin in ‘next few days’ as Ukraine peace efforts stall](https://www.ft.com/content/b8c8cdea-3e28-4ed9-ac95-396af0ba3f4f)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
-
-Trump plans to call Putin soon amid stalled Ukraine peace efforts, signaling potential shifts in geopolitical dynamics that could impact global markets.
-
-**[Anker’s power bank with built-in USB-C cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)**  
-*tech* · 2025-09-03 · **Imp 4/5** — Entities: Anker, Amazon, Best Buy
-
-Anker's Laptop Power Bank, now $94.49 after a $25 discount, features built-in USB-C cables and multiple ports for high power output, making it ideal for remote work and travel. Its digital display tracks charge and health, enhancing usability during outages.
-
-**[Israeli annexation of the West Bank would be ‘red line’ for UAE](https://www.ft.com/content/915595af-5564-4a45-ae69-9be265d04035)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: UAE, Israel, West Bank
-
-The UAE has stated that Israeli annexation of the West Bank would be a 'red line', indicating potential diplomatic and economic repercussions.
-
-**[Lasers, hypersonic missiles and the ‘nuclear triad’: China flexes its military muscle](https://www.ft.com/content/ac2f48f2-6faa-4ecd-af58-bc2665fbe427)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: China, military, defense
-
-China is showcasing its military advancements, including lasers and hypersonic missiles, as part of its nuclear triad strategy. This display of military strength could have significant implications for global security and defense markets.
-
-**[US strikes ‘drug vessel’ in Caribbean as Washington raises pressure on Venezuela](https://www.ft.com/content/fc46d955-a5e6-4b5b-bdde-ba328b8f69b1)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Entities: US, Venezuela
-
-The US has targeted a drug vessel in the Caribbean, intensifying pressure on Venezuela amid ongoing geopolitical tensions. This move may impact regional drug trafficking and US-Venezuela relations.
-
-**[Google spared break-up in US monopoly case](https://www.ft.com/content/25863491-1f19-4deb-95a2-fa18ee84eabb)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, US government
-
-Google has avoided a break-up in the ongoing US monopoly case, maintaining its market position and operational structure. This decision is significant for the tech industry and investors concerned about regulatory impacts.
-
-**[Ousted Democratic FTC commissioner can return (again) for now](https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated)**  
-*tech* · 2025-09-02 · **Imp 4/5** — Entities: Rebecca Kelly Slaughter, FTC, Donald Trump, US District Court, Supreme Court
-
-Rebecca Kelly Slaughter, ousted FTC commissioner, can temporarily return to work as her legal case unfolds. A court found her dismissal unlawful, challenging Trump's precedent-breaking actions. The appeals court suggests the government may struggle to win the case.
-
-**[US stocks fall as global bond sell-off deepens](https://www.ft.com/content/cf711815-09dc-4ef3-8bb7-de6b7cb1fb24)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Entities: US stocks, global bonds, investors
-
-US stocks decline as a global bond sell-off intensifies, impacting market sentiment and investor confidence.
-
-**[Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)**  
-*tech* · 2025-09-02 · **Imp 4/5** — Entities: Team Cherry, Ari Gibson, William Pellen
-
-Hollow Knight: Silksong, the long-awaited sequel, will launch on September 4th for $19.99, featuring new zones, over 200 enemies, and 40 bosses. Developers Team Cherry emphasize quality over speed in its development.
-
-**[JD Vance’s hometown falls foul of Trump’s clean energy cuts](https://www.ft.com/content/d11fab1f-cd00-4e5f-9474-d5d6e9a7dc77)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Entities: JD Vance, Trump, clean energy
-
-JD Vance's hometown faces challenges due to cuts in clean energy initiatives under Trump's policies, impacting local economic prospects and sustainability efforts.
-
-**[The secretive hedge fund that went all in on CoreWeave](https://www.ft.com/content/17e67627-cca0-47c1-8c1c-8a2a67a2148e)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Entities: CoreWeave, hedge fund
-
-A hedge fund has made a significant investment in CoreWeave, a cloud computing company, indicating strong confidence in its growth potential.
-
-**[Developing countries swap out of dollar debt to cut borrowing costs](https://www.ft.com/content/36f82232-d970-405c-97f6-8ce98725684b)**  
-*finance* · 2025-09-02 · **Imp 4/5** — Entities: developing countries, dollar debt, borrowing costs
-
-Developing countries are transitioning from dollar-denominated debt to reduce borrowing costs, reflecting a strategic shift in financial management amid global economic pressures.
