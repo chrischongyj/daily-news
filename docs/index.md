@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Oracle shares surge 27% to record high on jump in future AI revenue](https://www.ft.com/content/d467e51e-8e03-4390-9f91-6874bd48a7f2)**  
+*finance* · 2025-09-09 · **Imp 5/5** — Tickers: ORCL — Entities: Oracle
+
+Oracle shares rose 27% to a record high, driven by an anticipated increase in future AI revenue, reflecting strong investor confidence in the company's growth potential in the tech sector.
+
+**[Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/)**  
+*startup* · 2025-09-09 · **Imp 5/5** — Entities: Ramp, Iconiq Growth, Founders Fund, D1 Capital Partners, Eric Glyman
+
+Ramp has achieved $1 billion in annualized revenue, leading to a valuation increase to $22.5 billion. The startup, focused on expense management, has raised $1.9 billion in total funding and is developing AI-driven financial management systems.
+
 **[Anglo American nears $20bn takeover of Teck Resources](https://www.ft.com/content/786c4546-3a40-4388-97aa-74b94d63e568)**  
 *finance* · 2025-09-08 · **Imp 5/5** — Entities: Anglo American, Teck Resources
 
@@ -29,6 +39,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)**  
+*tech* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, iPhone 14, iPhone 15, iOS 18, Apple Watch Ultra 3
+
+Apple extends free satellite connectivity for iPhone 14 and 15 users by another year, pushing the potential payment deadline to November 2026. This follows the launch of Emergency SOS and expanded messaging features in iOS 18, enhancing off-grid communication.
+
+**[US Supreme Court to consider legality of Trump’s tariffs in November](https://www.ft.com/content/95761c55-3807-4d3b-b757-45d4c55d4f88)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: US Supreme Court, Trump administration
+
+The US Supreme Court will review the legality of tariffs imposed by former President Trump in November, which could have significant implications for trade policy and economic relations.
+
+**[Trump tells EU to hit China and India with 100% tariffs to pressure Putin](https://www.ft.com/content/2267eb41-b19a-4a9f-93ca-14ac0343cd77)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: Trump, EU, China, India, Putin
+
+Trump urges the EU to impose 100% tariffs on China and India to exert pressure on Russia amid ongoing geopolitical tensions.
+
+**[Apple launches skinny iPhone as it holds prices despite tariff costs](https://www.ft.com/content/07ff31dc-1f5d-4e7a-8735-eb4c9ed48081)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
+
+Apple has introduced a new, slimmer iPhone model while maintaining its pricing strategy despite rising tariff costs. This move reflects the company's commitment to innovation and market competitiveness.
+
+**[Apple’s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)**  
+*tech* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, FDA
+
+Apple's upcoming watchOS 26 will introduce new health-tracking features, including hypertension notifications and Sleep Score, to older Apple Watch models. The features will utilize existing sensors and are expected to receive regulatory clearance soon.
+
+**[Sealing the succession: inside ‘immortal’ Murdoch’s last big deal](https://www.ft.com/content/cca18dc3-92a6-420e-a5ce-534c0b6a48fa)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: Rupert Murdoch, media empire, investors
+
+The article discusses Rupert Murdoch's significant deal as he approaches succession planning, highlighting the implications for his media empire's future and its impact on investors and stakeholders.
+
+**[Israel launches attack on Hamas in Qatar](https://www.ft.com/content/4a6e4781-eec5-4ee9-9a12-c683bb576fa8)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: Israel, Hamas, Qatar
+
+Israel has initiated an attack on Hamas in Qatar, escalating regional tensions and potentially impacting financial markets and investor sentiment.
+
+**[Israel orders evacuation of Gaza City](https://www.ft.com/content/b9f4875c-24d9-48ba-a3d4-5bb7217c76be)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: Israel, Gaza City
+
+Israel has ordered the evacuation of Gaza City, a significant development in the ongoing conflict that may impact regional stability and international relations.
+
+**[Six reasons to be cheerful about the stock market](https://www.ft.com/content/6f3c1b4a-a6b3-449a-870e-dd89521c575b)**  
+*finance* · 2025-09-09 · **Imp 4/5** — Entities: stock market, investors, analysis, insights
+
+The article outlines six positive factors contributing to a bullish outlook on the stock market, emphasizing the importance of quality analysis and expert insights for investors.
 
 **[Microsoft taps Nebius to supply up to $20bn of AI computing power](https://www.ft.com/content/a7aadbfe-1d6c-4159-890a-2f91d97a8d4b)**  
 *finance* · 2025-09-08 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft,Nebius
@@ -71,9 +126,9 @@ Whistleblowers allege Meta is restricting VR safety research for kids, raising c
 Korean companies acknowledge compromising on US visa regulations due to operational pressures, highlighting systemic issues in labor acquisition. This admission raises concerns about compliance and potential repercussions for businesses operating in the US.
 
 **[Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/)**  
-*startup* · 2025-09-08 · **Imp 4/5** — Entities: TechCrunch, startups, San Francisco
+*startup* · 2025-09-08 · **Imp 4/5** — Entities: TechCrunch, TechCrunch Disrupt, Slava Blazer Photography
 
-Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in startup culture and event management. The event takes place in San Francisco from October 27-29, with applications closing September 30.
+Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in organizing a major tech event, with opportunities to network and learn about the startup ecosystem. Applications close September 30.
 
 **[Ukraine and the coalition of the unwilling](https://www.ft.com/content/b39a4b66-cb3e-465b-92ad-9c106bd0e537)**  
 *finance* · 2025-09-08 · **Imp 4/5** — Entities: Ukraine, international coalitions
@@ -194,58 +249,3 @@ Elon Musk's potential $1 trillion bonus is being criticized as unrealistic and a
 *tech* · 2025-09-05 · **Imp 4/5** — Entities: Lenovo, Asus, Microsoft
 
 Lenovo's Legion Go 2 will feature Xbox full-screen experience (FSE) in spring 2026, following its launch next month. This positions Lenovo as a competitor to Asus, which will receive the FSE earlier on October 16th. The new OS aims to enhance performance and usability for handheld gaming.
-
-**[Anthropic to stop selling AI services to majority Chinese-owned groups](https://www.ft.com/content/12b8e10b-b55d-4824-817f-a3c9cfe9f779)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: Anthropic, Chinese-owned groups
-
-Anthropic has decided to cease selling AI services to groups that are majority-owned by Chinese entities, reflecting growing concerns over data security and geopolitical tensions.
-
-**[Trump’s nominee to join Fed says president ‘entitled’ to take policy views](https://www.ft.com/content/ce04ffc0-1660-4b0a-adbb-df2595f9b6e9)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: Trump, Federal Reserve
-
-Trump's nominee for the Federal Reserve asserts that the president has the right to express policy opinions, highlighting the intersection of politics and monetary policy.
-
-**[US and Taiwanese defence officials held secret talks in Alaska](https://www.ft.com/content/2500ce43-e072-4a8e-a5ca-3c2044a62f44)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: US, Taiwan, defense officials
-
-US and Taiwanese defense officials conducted secret discussions in Alaska, highlighting ongoing geopolitical tensions and defense collaborations in the region.
-
-**[Giorgio Armani, fashion designer and businessman, 1934-2025](https://www.ft.com/content/462274c8-530a-44e1-9ac6-f44efa192566)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: Giorgio Armani, fashion industry
-
-Giorgio Armani, renowned fashion designer and businessman, passed away in 2025, leaving a significant legacy in the fashion industry.
-
-**[US to cut some security funds for European countries bordering Russia](https://www.ft.com/content/0157d5f9-1b27-4d6c-b44e-f0a77da59b5d)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: US, European countries, Russia
-
-The US plans to reduce security funding for European nations adjacent to Russia, potentially impacting regional defense strategies and international relations.
-
-**[A stress test for global trade](https://www.ft.com/content/344ef0a3-eb77-4edb-abc0-48b167546f37)**  
-*finance* · 2025-09-04 · **Imp 4/5** — Entities: global trade, economic challenges, analysis, insights
-
-The article discusses the implications of a stress test on global trade, highlighting the need for quality analysis and expert insights in navigating economic challenges.
-
-**[Washington doubles down on Big Tech antitrust cases despite Google setback](https://www.ft.com/content/bc549a75-4d76-4775-9ccb-13b0de452179)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: U.S. government, Big Tech, Google
-
-The U.S. government is intensifying its antitrust efforts against major tech companies, even after facing setbacks in cases against Google. This indicates a continued focus on regulating Big Tech's market power.
-
-**[US launches military campaign against Venezuelan drug cartels](https://www.ft.com/content/7d81b844-e81f-4587-bc7a-d789d059b11f)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: US, Venezuela, drug cartels
-
-The US has initiated a military campaign targeting Venezuelan drug cartels, aiming to disrupt drug trafficking operations that impact regional stability and security.
-
-**[New crypto venture backed by Trump sons surges in market debut](https://www.ft.com/content/9b442428-b2cc-44da-9f52-aa73babc6228)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Entities: Trump sons, cryptocurrency venture
-
-A new cryptocurrency venture backed by Donald Trump's sons has experienced a significant surge in its market debut, attracting attention from investors and the crypto community.
-
-**[US ‘very troubled’ by Norway fund’s Caterpillar divestment over Israel](https://www.ft.com/content/1dc96d96-6434-4d07-a40a-ea50ad09986a)**  
-*finance* · 2025-09-03 · **Imp 4/5** — Tickers: CAT — Entities: US government, Norway sovereign wealth fund, Caterpillar
-
-The US government expressed concerns over Norway's sovereign wealth fund divesting from Caterpillar due to the company's operations in Israel, highlighting geopolitical tensions and their impact on investment decisions.
-
-**[Switzerland releases its own AI model trained on public data](https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus)**  
-*tech* · 2025-09-03 · **Imp 4/5** — Entities: Switzerland, OpenAI, Anthropic, Meta, HuggingFace, European Union
-
-Switzerland has launched an open-source AI model named Apertus, trained on public data and available on HuggingFace. Designed to comply with EU regulations, it aims to provide a trustworthy alternative to proprietary models like ChatGPT and Claude.
