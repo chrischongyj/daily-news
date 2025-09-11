@@ -5,11 +5,6 @@
 
 Oracle shares rose 27% to a record high, driven by an anticipated increase in future AI revenue, reflecting strong investor confidence in the company's growth potential in the tech sector.
 
-**[Ramp says it has hit $1B in annualized revenue](https://techcrunch.com/2025/09/09/ramp-says-it-has-hit-1b-in-annualized-revenue/)**  
-*startup* · 2025-09-09 · **Imp 5/5** — Entities: Ramp, Iconiq Growth, Founders Fund, D1 Capital Partners, Eric Glyman
-
-Ramp has achieved $1 billion in annualized revenue, leading to a valuation increase to $22.5 billion. The startup, focused on expense management, has raised $1.9 billion in total funding and is developing AI-driven financial management systems.
-
 **[Anglo American nears $20bn takeover of Teck Resources](https://www.ft.com/content/786c4546-3a40-4388-97aa-74b94d63e568)**  
 *finance* · 2025-09-08 · **Imp 5/5** — Entities: Anglo American, Teck Resources
 
@@ -40,6 +35,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)**  
+*tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Bluesky, Meta, Reddit, YouTube, Discord, TikTok, X
+
+Social media platforms are responding to the availability of videos related to the fatal shooting of influencer Charlie Kirk. Bluesky, Meta, Reddit, and YouTube have provided comments, while Discord, TikTok, and X have not yet responded.
+
+**[Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)**  
+*tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Turning Point USA, Utah Valley University, Orem Police, FBI, Utah Department of Public Safety
+
+Charlie Kirk was fatally shot during a Turning Point USA event at Utah Valley University. The campus has been evacuated and classes canceled as multiple agencies investigate the incident.
+
+**[US justice department probes subprime car lender Tricolor](https://www.ft.com/content/8055b8e6-39ea-4012-a60a-a2c2f43ee7e4)**  
+*finance* · 2025-09-10 · **Imp 4/5** — Entities: US Justice Department, Tricolor
+
+The US Justice Department is investigating Tricolor, a subprime car lender, potentially impacting its operations and regulatory compliance.
+
+**[PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)**  
+*tech* · 2025-09-10 · **Imp 4/5** — Entities: PlayStation, Nintendo, Microsoft
+
+PlayStation has launched the PlayStation Family app for iOS and Android, enabling parents to manage their children's gaming time on PS5 and PS4 with customizable features and activity reports.
+
+**[Oracle’s AI surge takes Larry Ellison back to the future](https://www.ft.com/content/702ece42-b324-4914-9004-b432b1d490e1)**  
+*finance* · 2025-09-10 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle, Larry Ellison
+
+Oracle's renewed focus on AI technologies is reminiscent of its past innovations, positioning the company for potential growth in the tech sector under Larry Ellison's leadership.
+
+**[Mistral is stirring up a storm in European tech](https://www.ft.com/content/613b9c71-827b-4bb0-a0d9-5d4117878d88)**  
+*finance* · 2025-09-10 · **Imp 4/5** — Entities: Mistral, European tech
+
+Mistral is making significant waves in the European tech landscape, indicating potential shifts in investment opportunities and market dynamics.
+
+**[What is Putin’s game plan against Nato’s eastern flank?](https://www.ft.com/content/b1bfb245-c29e-43b7-b63f-458f8e55f25b)**  
+*finance* · 2025-09-10 · **Imp 4/5** — Entities: Putin, NATO
+
+The article explores Vladimir Putin's strategic intentions regarding NATO's eastern flank, analyzing potential implications for geopolitical stability and security in the region.
+
+**[How worried should we be about the crypto crush?](https://www.ft.com/content/88cebb2b-8b34-4ff2-8d28-7295fdf1bf65)**  
+*finance* · 2025-09-10 · **Imp 4/5** — Entities: cryptocurrency market, investors, financial landscape
+
+The article discusses the implications of the recent downturn in the cryptocurrency market, analyzing potential risks and impacts on investors and the broader financial landscape.
+
 **[Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)**  
 *tech* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, iPhone 14, iPhone 15, iOS 18, Apple Watch Ultra 3
 
@@ -49,6 +84,11 @@ Apple extends free satellite connectivity for iPhone 14 and 15 users by another 
 *finance* · 2025-09-09 · **Imp 4/5** — Entities: US Supreme Court, Trump administration
 
 The US Supreme Court will review the legality of tariffs imposed by former President Trump in November, which could have significant implications for trade policy and economic relations.
+
+**[From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/)**  
+*startup* · 2025-09-09 · **Imp 4/5** — Entities: TechCrunch, startup community, investors, founders
+
+TechCrunch Disrupt 2025 invites startups to host Side Events during Disrupt Week, offering visibility, connections, and flexibility to engage with over 10,000 attendees and the Bay Area tech community.
 
 **[Trump tells EU to hit China and India with 100% tariffs to pressure Putin](https://www.ft.com/content/2267eb41-b19a-4a9f-93ca-14ac0343cd77)**  
 *finance* · 2025-09-09 · **Imp 4/5** — Entities: Trump, EU, China, India, Putin
@@ -209,43 +249,3 @@ The article discusses the concerns raised by bond market pessimists, highlightin
 *finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, American citizens, international relations
 
 Trump has issued an order to penalize countries that detain American citizens, potentially impacting international relations and American businesses abroad.
-
-**[AI start-up Anthropic settles landmark copyright suit for $1.5bn](https://www.ft.com/content/96b59d8c-3625-4c2c-a6d6-435cff0392bf)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: Anthropic
-
-AI start-up Anthropic has settled a significant copyright lawsuit for $1.5 billion, marking a pivotal moment in the intersection of AI technology and intellectual property rights.
-
-**[Trump threatens retaliatory tariffs after EU hits Google with €2.95bn fine](https://www.ft.com/content/8f8bcd37-2e39-42ac-9d6d-9a1b66a5f9f4)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Tickers: GOOGL — Entities: Trump, EU, Google
-
-Trump has threatened retaliatory tariffs in response to the EU's €2.95 billion fine imposed on Google, raising concerns about trade relations and potential impacts on tech companies.
-
-**[Trump to direct Japan’s $550bn investment in US after deal with Tokyo](https://www.ft.com/content/ba944ada-608d-4265-abef-48939dd56197)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, Japan, Tokyo, U.S.
-
-Trump plans to direct Japan's $550 billion investment into the U.S. following a deal with Tokyo, potentially impacting bilateral economic relations and investment flows.
-
-**[OpenAI pressed on safety after deaths of ChatGPT users](https://www.ft.com/content/f4be38b3-2de9-4b81-bc47-24119c2d5aef)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: OpenAI, ChatGPT
-
-OpenAI faces scrutiny regarding safety protocols following reported deaths of ChatGPT users, raising concerns about the implications of AI technology on user safety and mental health.
-
-**[Carlos Abrams-Rivera, the Kraft Heinz CEO dealing with America’s lost appetite](https://www.ft.com/content/697930d8-7c10-4a9f-b627-559612e18824)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Tickers: KHC — Entities: Kraft Heinz, Carlos Abrams-Rivera
-
-Carlos Abrams-Rivera, CEO of Kraft Heinz, is navigating challenges related to declining consumer demand in the U.S. food market, impacting the company's strategies and performance.
-
-**[Xi Jinping plots a post-American world](https://www.ft.com/content/26207277-0a76-4ed4-b34a-8dd27b6c83b4)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: Xi Jinping, United States, global economy
-
-Xi Jinping is strategizing for a global landscape that diminishes American influence, potentially reshaping international finance and trade dynamics.
-
-**[Elon Musk’s $1tn bonus is literally monopoly money](https://www.ft.com/content/897e427f-4216-49fd-bb6a-6319dd6df5a3)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: Elon Musk
-
-Elon Musk's potential $1 trillion bonus is being criticized as unrealistic and akin to 'monopoly money', raising concerns about the implications for corporate governance and executive compensation.
-
-**[The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)**  
-*tech* · 2025-09-05 · **Imp 4/5** — Entities: Lenovo, Asus, Microsoft
-
-Lenovo's Legion Go 2 will feature Xbox full-screen experience (FSE) in spring 2026, following its launch next month. This positions Lenovo as a competitor to Asus, which will receive the FSE earlier on October 16th. The new OS aims to enhance performance and usability for handheld gaming.
