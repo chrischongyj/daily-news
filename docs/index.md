@@ -35,6 +35,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[OpenAI and Microsoft sketch out deal to unlock for-profit restructuring](https://www.ft.com/content/f7891fd7-4e13-4767-8c0c-5b90b6471154)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: OpenAI, Microsoft
+
+OpenAI and Microsoft are negotiating a deal to enable a for-profit restructuring, potentially impacting their business models and investment strategies.
+
+**[Bolsonaro sentenced to 27 years in prison on Brazil coup charges](https://www.ft.com/content/f07c7a49-b876-4008-9d38-bdde1a5795a5)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: Jair Bolsonaro, Brazil
+
+Former Brazilian President Jair Bolsonaro has been sentenced to 27 years in prison on charges related to a coup attempt. This significant legal development may impact Brazil's political landscape and investor confidence.
+
+**[US to urge G7 to impose high tariffs on China, India over Russian oil purchases](https://www.ft.com/content/51ea9210-078f-42d7-a4ba-5ad985902761)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: US, G7, China, India, Russia
+
+The US plans to advocate for G7 nations to impose high tariffs on China and India due to their continued purchases of Russian oil, potentially impacting global trade dynamics.
+
+**[Debt linked to collapsed subprime auto lender Tricolor tumbles](https://www.ft.com/content/1f8dbc28-77d7-48b3-8e58-5ca73388b787)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: Tricolor, subprime auto lending
+
+Debt associated with the failed subprime auto lender Tricolor has significantly decreased in value, indicating potential losses for investors involved in this sector.
+
+**[Amazon’s Thursday Night Football broadcasts add more AI to the NFL](https://www.theverge.com/news/776697/amazon-thursday-night-football-ai-games)**  
+*tech* · 2025-09-11 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, NFL, Prime Video
+
+Amazon's Prime Video enhances Thursday Night Football with AI features like Pocket Health, analyzing offensive line data for quarterback threat levels, and new End of Game tools predicting possession scenarios and comeback time.
+
+**[Car lender’s failure hints at what’s under the hood in private credit](https://www.ft.com/content/419b87df-c529-4813-ac4e-82ab7881cf59)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: car lender, private credit market, investors
+
+The failure of a car lender reveals underlying issues in the private credit market, highlighting potential risks for investors and the broader financial landscape.
+
+**[Aspiration Partners’ collapse leaves trail of losses from Hollywood to Wall Street](https://www.ft.com/content/ec3e36df-47bf-49fc-bc43-0430172856f5)**  
+*finance* · 2025-09-11 · **Imp 4/5** — Entities: Aspiration Partners, Hollywood, Wall Street
+
+Aspiration Partners has collapsed, resulting in significant financial losses impacting both Hollywood and Wall Street investors. The fallout raises concerns about the stability of similar financial entities.
+
 **[How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)**  
 *tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Bluesky, Meta, Reddit, YouTube, Discord, TikTok, X
 
@@ -84,11 +119,6 @@ Apple extends free satellite connectivity for iPhone 14 and 15 users by another 
 *finance* · 2025-09-09 · **Imp 4/5** — Entities: US Supreme Court, Trump administration
 
 The US Supreme Court will review the legality of tariffs imposed by former President Trump in November, which could have significant implications for trade policy and economic relations.
-
-**[From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-09-09 · **Imp 4/5** — Entities: TechCrunch, startup community, investors, founders
-
-TechCrunch Disrupt 2025 invites startups to host Side Events during Disrupt Week, offering visibility, connections, and flexibility to engage with over 10,000 attendees and the Bay Area tech community.
 
 **[Trump tells EU to hit China and India with 100% tariffs to pressure Putin](https://www.ft.com/content/2267eb41-b19a-4a9f-93ca-14ac0343cd77)**  
 *finance* · 2025-09-09 · **Imp 4/5** — Entities: Trump, EU, China, India, Putin
@@ -219,33 +249,3 @@ South Korea has arranged a chartered plane to repatriate workers following a rai
 *finance* · 2025-09-07 · **Imp 4/5** — Entities: Putin, Russia, war economy
 
 Russia's war economy is under increasing strain, forcing President Putin to make difficult domestic decisions. This situation may impact economic stability and investor confidence in the region.
-
-**[China launches corruption probe into former securities regulator chair](https://www.ft.com/content/90fa8b97-ae22-4fc4-9545-4775e3419510)**  
-*finance* · 2025-09-06 · **Imp 4/5** — Entities: China, securities regulator
-
-China has initiated a corruption investigation into the former chair of its securities regulator, signaling potential regulatory shifts in the financial sector.
-
-**[Trump’s economy falters as US jobs growth grinds to a halt](https://www.ft.com/content/f98caaf8-545b-41cb-abdf-d9ea674799fc)**  
-*finance* · 2025-09-06 · **Imp 4/5** — Entities: Trump administration, US economy, job market
-
-US job growth has stalled, indicating a faltering economy under Trump's administration. This trend raises concerns for investors and economic stakeholders about future market stability and employment rates.
-
-**[US housing agency rehires sacked staff ahead of Fannie and Freddie IPO](https://www.ft.com/content/af4e199a-3c6f-4197-ae18-f1063abbcad5)**  
-*finance* · 2025-09-06 · **Imp 4/5** — Entities: US housing agency, Fannie Mae, Freddie Mac
-
-The US housing agency has rehired previously laid-off staff in preparation for the upcoming IPOs of Fannie Mae and Freddie Mac, signaling a strategic move to bolster operations ahead of significant market events.
-
-**[Canada’s youth face bleak employment market as economy slows](https://www.ft.com/content/f7e7da23-cb73-4a93-8708-49392802d005)**  
-*finance* · 2025-09-06 · **Imp 4/5** — Entities: Canada, youth, employment market, economy
-
-Canada's youth are confronting a challenging employment landscape as the economy experiences a slowdown, raising concerns about job opportunities and economic stability.
-
-**[The bond doom-mongers have got at least one thing right](https://www.ft.com/content/4edbbd55-a5da-4b7c-9158-0fa397501513)**  
-*finance* · 2025-09-06 · **Imp 4/5** — Entities: bond market, analysts, investors
-
-The article discusses the concerns raised by bond market pessimists, highlighting the need for quality analysis and insights in the current financial landscape.
-
-**[Trump issues order to penalise countries that detain American citizens](https://www.ft.com/content/11fca04e-cada-41aa-a9f3-ab448efbb3d8)**  
-*finance* · 2025-09-05 · **Imp 4/5** — Entities: Trump, American citizens, international relations
-
-Trump has issued an order to penalize countries that detain American citizens, potentially impacting international relations and American businesses abroad.
