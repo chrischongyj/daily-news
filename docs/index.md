@@ -35,6 +35,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[French debt downgrade piles pressure on Macron’s new prime minister](https://www.ft.com/content/7d886ebd-bd26-4ba9-8832-81fcb84fb51c)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: France, Macron, Prime Minister
+
+France's recent debt downgrade increases pressure on Prime Minister Macron, potentially impacting fiscal policies and investor confidence.
+
+**[Bank of America chief Brian Moynihan shakes up leadership team](https://www.ft.com/content/82e1d2db-cccc-4080-876a-fab28b1a2676)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Tickers: BAC — Entities: Bank of America, Brian Moynihan
+
+Bank of America CEO Brian Moynihan has restructured the leadership team, signaling potential strategic shifts within the organization.
+
+**[US and UK near tech, nuclear and whisky deals ahead of Trump trip](https://www.ft.com/content/786bd800-f7b6-430f-992d-d278cd3d72df)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: US, UK, Trump
+
+The US and UK are negotiating deals in technology, nuclear energy, and whisky ahead of Trump's upcoming visit, indicating a potential strengthening of bilateral relations and economic collaboration.
+
+**[GameHub fixed its Silksong save game uploads and now I’m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)**  
+*tech* · 2025-09-12 · **Imp 4/5** — Entities: GameHub, Hollow Knight Silksong, Steam
+
+GameHub's latest update (5.0.4) allows seamless save game uploads for Hollow Knight Silksong between Android and PC, enhancing cross-platform gaming experience.
+
+**[Cathie Wood’s flagship ARK fund balloons by $3.5bn ahead of Klarna IPO](https://www.ft.com/content/02964812-1965-4c1c-85ed-da34be611cb4)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: Cathie Wood, ARK fund, Klarna
+
+Cathie Wood's ARK fund has increased by $3.5 billion in assets as it prepares for the upcoming IPO of Klarna, indicating strong investor interest and confidence in the fintech sector.
+
+**[America’s dangerous descent into mutual loathing](https://www.ft.com/content/f5dfc16e-9e91-43e2-8d31-7cd8102485f9)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: America, FT journalism
+
+The article discusses the growing division and mutual disdain in American society, highlighting its implications for social cohesion and economic stability.
+
+**[Larry Ellison, the tech world’s great survivor](https://www.ft.com/content/19b2735f-b91e-4cc6-94cc-32322c21eb77)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Tickers: ORCL — Entities: Larry Ellison, Oracle
+
+Larry Ellison, co-founder of Oracle, continues to adapt and thrive in the tech industry, showcasing resilience and strategic foresight.
+
+**[The strains on the private equity model are showing](https://www.ft.com/content/f86c522f-4e49-48fc-abe4-c6dcfb02fa25)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: private equity, investors, stakeholders
+
+The private equity model is experiencing significant strains, indicating potential challenges ahead for investors and stakeholders in the sector.
+
+**[US authorities arrest suspect in Charlie Kirk assassination](https://www.ft.com/content/7359b439-dde4-4b60-a06f-42ae08b991d1)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: US authorities, Charlie Kirk
+
+US authorities have arrested a suspect in the assassination case of Charlie Kirk, raising concerns about political violence and its implications for public safety and investor sentiment in related sectors.
+
+**[Giorgio Armani named three preferred buyers for empire in his will](https://www.ft.com/content/bec9ad2f-9fa6-4d1e-8c6c-f61de84c4ab3)**  
+*finance* · 2025-09-12 · **Imp 4/5** — Entities: Giorgio Armani
+
+Giorgio Armani has designated three preferred buyers for his fashion empire in his will, indicating a planned succession strategy for the brand.
+
 **[OpenAI and Microsoft sketch out deal to unlock for-profit restructuring](https://www.ft.com/content/f7891fd7-4e13-4767-8c0c-5b90b6471154)**  
 *finance* · 2025-09-11 · **Imp 4/5** — Entities: OpenAI, Microsoft
 
@@ -199,53 +249,3 @@ Korean companies acknowledge compromising on US visa regulations due to operatio
 *startup* · 2025-09-08 · **Imp 4/5** — Entities: TechCrunch, TechCrunch Disrupt, Slava Blazer Photography
 
 Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in organizing a major tech event, with opportunities to network and learn about the startup ecosystem. Applications close September 30.
-
-**[Ukraine and the coalition of the unwilling](https://www.ft.com/content/b39a4b66-cb3e-465b-92ad-9c106bd0e537)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: Ukraine, international coalitions
-
-The article discusses Ukraine's financial situation and the challenges it faces with international coalitions. It highlights the need for quality analysis and insights in navigating these complexities.
-
-**[The hedge fund billionaire aiming to be king of Queens](https://www.ft.com/content/320bc079-d3b0-4db2-9212-410144ffc7e1)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: hedge fund, real estate, Queens
-
-A hedge fund billionaire is positioning himself to dominate the Queens real estate market, indicating a significant investment strategy shift in urban properties.
-
-**[Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)**  
-*tech* · 2025-09-07 · **Imp 4/5** — Entities: Google, Gemini
-
-Google has clarified usage limits for its Gemini AI service, specifying daily prompt and feature caps across different subscription tiers. Free accounts allow five prompts and limited outputs, while Pro and Ultra plans offer significantly higher limits.
-
-**[Opec+ agrees to boost output as Saudi focuses on revenue drive](https://www.ft.com/content/1c826bf4-6401-466b-8a05-ea3504fdd6e7)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: Opec+, Saudi Arabia
-
-Opec+ has reached an agreement to increase oil production, with Saudi Arabia prioritizing revenue generation. This decision may impact global oil prices and market dynamics.
-
-**[China paves way for renminbi fundraising by Russian energy giants](https://www.ft.com/content/ee8ddacb-79be-4000-a1ed-716d52c60a37)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: China, Russia, energy companies
-
-China is facilitating renminbi fundraising for Russian energy companies, potentially enhancing financial ties and investment opportunities between the two nations.
-
-**[Russia launches record mass drone attack on Ukraine](https://www.ft.com/content/9cb8ae97-29da-4ae0-b790-69238e9680cf)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: Russia, Ukraine
-
-Russia has initiated a record mass drone attack on Ukraine, escalating tensions in the region and potentially impacting global markets and energy prices.
-
-**[Is the US already in a recession?](https://www.ft.com/content/e9be3e3f-2efe-42f7-b2d2-8ab3efea27a8)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: US economy, recession, analysis, expert insights
-
-The article questions whether the US is currently in a recession, highlighting the need for quality analysis and expert insights on the economic situation.
-
-**[Americans face biggest increase in health insurance costs in 15 years](https://www.ft.com/content/9af0c46d-4665-49ae-b153-15ce7d65ca55)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: Americans, health insurance, healthcare services
-
-Americans are experiencing the largest rise in health insurance costs in 15 years, impacting affordability and access to healthcare services.
-
-**[South Korea charters plane to repatriate workers after US battery factory raid](https://www.ft.com/content/05dcb7bc-cfee-4c14-893a-5c9de5b7cede)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: South Korea, US battery factory, workers
-
-South Korea has arranged a chartered plane to repatriate workers following a raid at a US battery factory, highlighting geopolitical tensions and labor issues in the tech and manufacturing sectors.
-
-**[Putin faces tough choices at home as strain on Russia’s war economy mounts](https://www.ft.com/content/9eced307-ee62-4e53-b5c1-bb3d3e0cb5cb)**  
-*finance* · 2025-09-07 · **Imp 4/5** — Entities: Putin, Russia, war economy
-
-Russia's war economy is under increasing strain, forcing President Putin to make difficult domestic decisions. This situation may impact economic stability and investor confidence in the region.
