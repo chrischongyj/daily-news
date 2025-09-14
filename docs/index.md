@@ -35,6 +35,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Tariffs and fentanyl cloud prospect of Trump-Xi summit in Beijing](https://www.ft.com/content/b6fb9c02-e5d5-426b-906c-76225258ad59)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: Trump, Xi, Beijing, tariffs, fentanyl
+
+The potential Trump-Xi summit in Beijing faces uncertainty due to ongoing tariff disputes and issues surrounding fentanyl. These factors could impact trade relations and economic forecasts.
+
+**[US listings market bursts back to life with busiest week in 4 years](https://www.ft.com/content/9fb98802-e3ea-4675-bc52-5d1bbacfb04a)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: US listings market, IPOs, investors
+
+The US listings market has experienced its busiest week in four years, signaling a resurgence in initial public offerings (IPOs) and investor interest.
+
+**[Antitrust chief Teresa Ribera under pressure as EU merger reform drifts](https://www.ft.com/content/9e51aecd-5d04-4cef-a7af-630ea83a9488)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: Teresa Ribera, EU, antitrust
+
+EU antitrust chief Teresa Ribera faces increasing pressure as reforms to merger regulations stall, potentially impacting market dynamics and competition.
+
+**[Medline readies IPO in coming months in test of investor appetite](https://www.ft.com/content/79e77be3-53fe-4eb7-9d4a-15f14bf62cf0)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: Medline
+
+Medline is preparing for an IPO in the upcoming months, aiming to gauge investor interest in the current market climate.
+
+**[France and Britain are in thrall to pensioners](https://www.ft.com/content/d419bd2d-a6ba-44a5-a93a-1276f3e5d2d7)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: France, Britain, pensioners
+
+France and Britain are increasingly focused on the financial needs and influence of pensioners, highlighting a demographic shift that impacts economic policies and market dynamics.
+
+**[Nestlé investors call for chair to step down over executive turmoil](https://www.ft.com/content/bd0695c7-d327-45d8-9c4f-9b04e82721d5)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Tickers: NSRGY — Entities: Nestlé, investors
+
+Nestlé investors are demanding the resignation of the company's chair due to ongoing executive turmoil, raising concerns about leadership stability and governance.
+
+**[How chatbots are changing the internet](https://www.ft.com/content/feb0c8cf-b347-4731-bc12-78bfb69dca36)**  
+*finance* · 2025-09-13 · **Imp 4/5** — Entities: chatbots, online interactions, customer service, businesses
+
+Chatbots are transforming online interactions, enhancing user experience and streamlining customer service across various sectors. This evolution is crucial for businesses aiming to improve efficiency and engagement.
+
 **[French debt downgrade piles pressure on Macron’s new prime minister](https://www.ft.com/content/7d886ebd-bd26-4ba9-8832-81fcb84fb51c)**  
 *finance* · 2025-09-12 · **Imp 4/5** — Entities: France, Macron, Prime Minister
 
@@ -214,38 +249,3 @@ Microsoft partners with Nebius to secure up to $20 billion in AI computing power
 *finance* · 2025-09-08 · **Imp 4/5** — Entities: Rupert Murdoch, media empire, succession
 
 Rupert Murdoch has finalized a $3.3 billion succession deal to transfer control of his media empire to his eldest son, signaling a significant shift in leadership and strategy within the organization.
-
-**[Signal’s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)**  
-*tech* · 2025-09-08 · **Imp 4/5** — Entities: Signal, Jim O’Leary
-
-Signal introduces its first paid feature, offering encrypted media and message backups for $1.99/month, alongside a free tier for recent data. This move aims to cover operational costs without compromising user privacy.
-
-**[French government collapses as PM François Bayrou loses confidence vote](https://www.ft.com/content/7122b003-71c8-41e1-a968-1cc81f736939)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: French government, François Bayrou
-
-The French government has collapsed following Prime Minister François Bayrou's loss in a confidence vote, creating potential instability in the political landscape.
-
-**[Trump loses attempt to have $83mn defamation judgment tossed out](https://www.ft.com/content/72fe95aa-db40-40a6-a3b1-87fa0412d52c)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: Donald Trump
-
-Donald Trump has failed in his attempt to overturn an $83 million defamation judgment against him, which may have significant implications for his financial standing and future legal battles.
-
-**[Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)**  
-*tech* · 2025-09-08 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Plaintiffs, publishers
-
-Google acknowledges the rapid decline of the open web, attributing it to the rise of AI in ad tech and the popularity of non-open web formats like Connected TV. The company argues that proposed divestiture remedies could worsen the situation for publishers reliant on open-web advertising.
-
-**[Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)**  
-*tech* · 2025-09-08 · **Imp 4/5** — Entities: Meta, WhatsApp, Whistleblower Aid, Senate Judiciary Committee
-
-Whistleblowers allege Meta is restricting VR safety research for kids, raising concerns ahead of a Senate hearing. Meta defends its research efforts, claiming significant updates for youth safety. Additionally, a lawsuit from a former WhatsApp security head highlights ongoing privacy issues.
-
-**[Korean companies admit cutting corners on US visas but say they have little choice](https://www.ft.com/content/c677b9aa-2e89-4feb-a56f-f3c8452b3674)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: Korean companies, US visa regulations
-
-Korean companies acknowledge compromising on US visa regulations due to operational pressures, highlighting systemic issues in labor acquisition. This admission raises concerns about compliance and potential repercussions for businesses operating in the US.
-
-**[Get behind the scenes at TechCrunch Disrupt 2025 by volunteering](https://techcrunch.com/2025/09/08/get-behind-the-scenes-at-techcrunch-disrupt-2025-by-volunteering/)**  
-*startup* · 2025-09-08 · **Imp 4/5** — Entities: TechCrunch, TechCrunch Disrupt, Slava Blazer Photography
-
-Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in organizing a major tech event, with opportunities to network and learn about the startup ecosystem. Applications close September 30.
