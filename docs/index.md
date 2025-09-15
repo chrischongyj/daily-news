@@ -35,6 +35,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Utah governor blames social media for fomenting US political violence](https://www.ft.com/content/00d8762f-518d-419b-8230-3aa6bb9e5be7)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: Utah governor, social media
+
+Utah's governor attributes rising political violence in the U.S. to social media platforms, highlighting concerns over their influence on public discourse and safety.
+
+**[America can still stop the cycle of political violence](https://www.ft.com/content/27a7c75b-7fd5-41af-8e70-8d9f48866661)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: America, political violence, analysis, expert insights
+
+The article discusses strategies for America to prevent ongoing political violence, emphasizing the need for comprehensive analysis and expert insights.
+
+**[The west is buried under red tape](https://www.ft.com/content/484d8c2a-b61d-42f1-9d57-5d2d8c83c6d3)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: Western economies, businesses, investors
+
+The article discusses the overwhelming regulatory burdens in Western economies, highlighting the challenges posed by excessive red tape on businesses and investors.
+
+**[Brookfield in talks to buy US landlord from Singapore’s GIC in $10bn deal](https://www.ft.com/content/a9c71911-874f-4af5-9179-df9a3f7e32f0)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: Brookfield, GIC, US landlord
+
+Brookfield is negotiating to acquire a US landlord from Singapore's GIC in a deal valued at $10 billion, highlighting significant investment activity in the real estate sector.
+
+**[Larry Ellison’s heir takes aim at Warner Bros and at reshaping Hollywood](https://www.ft.com/content/42663492-cebb-4f62-b932-c0c21c02fae4)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: Larry Ellison, Warner Bros
+
+Larry Ellison's successor is targeting Warner Bros and plans to reshape the Hollywood landscape, indicating a strategic shift in media investments.
+
+**[French companies’ borrowing costs fall below government’s as debt fears intensify](https://www.ft.com/content/be40c638-77ce-4986-9274-fa157d3a0ffb)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: French companies, government
+
+French companies are experiencing a decline in borrowing costs, now lower than those of the government, amid rising debt concerns. This shift indicates changing perceptions of risk in the corporate sector.
+
+**[AI-controlled drone swarms set to transform combat on battlefield](https://www.ft.com/content/f6741167-476c-41bc-8b1c-ed65b8b4c054)**  
+*finance* · 2025-09-14 · **Imp 4/5** — Entities: AI, drone technology, military
+
+AI-controlled drone swarms are poised to revolutionize combat strategies on the battlefield, enhancing operational efficiency and effectiveness in military engagements.
+
 **[Tariffs and fentanyl cloud prospect of Trump-Xi summit in Beijing](https://www.ft.com/content/b6fb9c02-e5d5-426b-906c-76225258ad59)**  
 *finance* · 2025-09-13 · **Imp 4/5** — Entities: Trump, Xi, Beijing, tariffs, fentanyl
 
@@ -214,38 +249,3 @@ Trump urges the EU to impose 100% tariffs on China and India to exert pressure o
 *finance* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
 
 Apple has introduced a new, slimmer iPhone model while maintaining its pricing strategy despite rising tariff costs. This move reflects the company's commitment to innovation and market competitiveness.
-
-**[Apple’s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)**  
-*tech* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, FDA
-
-Apple's upcoming watchOS 26 will introduce new health-tracking features, including hypertension notifications and Sleep Score, to older Apple Watch models. The features will utilize existing sensors and are expected to receive regulatory clearance soon.
-
-**[Sealing the succession: inside ‘immortal’ Murdoch’s last big deal](https://www.ft.com/content/cca18dc3-92a6-420e-a5ce-534c0b6a48fa)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: Rupert Murdoch, media empire, investors
-
-The article discusses Rupert Murdoch's significant deal as he approaches succession planning, highlighting the implications for his media empire's future and its impact on investors and stakeholders.
-
-**[Israel launches attack on Hamas in Qatar](https://www.ft.com/content/4a6e4781-eec5-4ee9-9a12-c683bb576fa8)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: Israel, Hamas, Qatar
-
-Israel has initiated an attack on Hamas in Qatar, escalating regional tensions and potentially impacting financial markets and investor sentiment.
-
-**[Israel orders evacuation of Gaza City](https://www.ft.com/content/b9f4875c-24d9-48ba-a3d4-5bb7217c76be)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: Israel, Gaza City
-
-Israel has ordered the evacuation of Gaza City, a significant development in the ongoing conflict that may impact regional stability and international relations.
-
-**[Six reasons to be cheerful about the stock market](https://www.ft.com/content/6f3c1b4a-a6b3-449a-870e-dd89521c575b)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: stock market, investors, analysis, insights
-
-The article outlines six positive factors contributing to a bullish outlook on the stock market, emphasizing the importance of quality analysis and expert insights for investors.
-
-**[Microsoft taps Nebius to supply up to $20bn of AI computing power](https://www.ft.com/content/a7aadbfe-1d6c-4159-890a-2f91d97a8d4b)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft,Nebius
-
-Microsoft partners with Nebius to secure up to $20 billion in AI computing power, enhancing its capabilities in artificial intelligence.
-
-**[Murdoch seals $3.3bn succession deal to hand empire to eldest son](https://www.ft.com/content/f2162505-6b0c-4193-ab94-4a531642590f)**  
-*finance* · 2025-09-08 · **Imp 4/5** — Entities: Rupert Murdoch, media empire, succession
-
-Rupert Murdoch has finalized a $3.3 billion succession deal to transfer control of his media empire to his eldest son, signaling a significant shift in leadership and strategy within the organization.
