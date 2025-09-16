@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Alphabet market value exceeds $3tn](https://www.ft.com/content/a18ce1c4-d610-4cdf-b853-2d8f43ff4be1)**  
+*finance* · 2025-09-15 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet
+
+Alphabet's market value has surpassed $3 trillion, marking a significant milestone for the tech giant and reflecting its strong position in the market.
+
 **[Oracle shares surge 27% to record high on jump in future AI revenue](https://www.ft.com/content/d467e51e-8e03-4390-9f91-6874bd48a7f2)**  
 *finance* · 2025-09-09 · **Imp 5/5** — Tickers: ORCL — Entities: Oracle
 
@@ -34,6 +39,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Senate paves way for Miran’s confirmation as Fed governor](https://www.ft.com/content/1015fbb5-cb64-44e0-b271-9d2082a9d49e)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Entities: Senate, Miran, Federal Reserve
+
+The Senate has advanced the confirmation process for Miran as a Federal Reserve governor, which could influence monetary policy and economic stability.
+
+**[Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)**  
+*tech* · 2025-09-15 · **Imp 4/5** — Tickers: META — Entities: Meta, Cambridge Analytica
+
+Meta's $725 million class action settlement for privacy violations, including data misuse by Cambridge Analytica, is now distributing funds to affected users, with payouts averaging around $38.36.
+
+**[Amazon to launch augmented reality football coverage](https://www.ft.com/content/c50411d5-b1ac-4bdd-9f3b-bdaf11b50337)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, augmented reality, football
+
+Amazon is set to introduce augmented reality (AR) technology for its football coverage, enhancing viewer engagement and experience.
+
+**[Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)**  
+*tech* · 2025-09-15 · **Imp 4/5** — Entities: Meta, Ray-Ban, Oakley, Zuckerberg
+
+Meta has leaked a video showcasing new Ray-Ban smart glasses featuring a display and a wristband for control. The glasses, likely named Meta Ray-Ban Display, integrate AI capabilities and navigation features. CEO Mark Zuckerberg is set to officially unveil them at the upcoming Connect event.
+
+**[Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)**  
+*tech* · 2025-09-15 · **Imp 4/5** — Tickers: GOOGL — Entities: Google
+
+Google emphasizes the importance of maintaining a healthy web ecosystem while adapting to user preferences for AI-generated summaries over traditional search results. The company aims to balance contextual answers with directing users to valuable content.
+
+**[Trump calls for US companies to ditch quarterly reporting](https://www.ft.com/content/d5d46365-a2ad-41ee-9c6b-6f382e8d1ce8)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Entities: Trump, US companies
+
+Trump advocates for US companies to abandon quarterly reporting, suggesting it may benefit long-term growth and reduce pressure on firms. This proposal could reshape financial reporting standards and impact investor strategies.
+
+**[How Ukraine and Gaza scrambled the ideological map](https://www.ft.com/content/ca6c9c3b-20ea-4d57-af6e-bef68c142ce0)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Entities: Ukraine, Gaza
+
+The article discusses how the conflicts in Ukraine and Gaza have reshaped global ideological perspectives, impacting political and economic landscapes.
+
+**[Tricolor collapse sparks concern about health of US subprime auto sector](https://www.ft.com/content/27de0a41-4dd4-410c-92de-b30ec4672905)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Entities: Tricolor, US subprime auto sector
+
+The collapse of Tricolor raises alarms regarding the stability of the US subprime auto sector, potentially impacting investors and stakeholders in the automotive finance market.
+
+**[Fed set to cut interest rates as Powell faces dissent over slowing economy](https://www.ft.com/content/af41b26c-f3fc-4a20-a744-23fccadd0c27)**  
+*finance* · 2025-09-15 · **Imp 4/5** — Entities: Federal Reserve, Jerome Powell
+
+The Federal Reserve is preparing to cut interest rates amid growing dissent from officials regarding the slowing economy, signaling potential shifts in monetary policy that could impact financial markets.
 
 **[Utah governor blames social media for fomenting US political violence](https://www.ft.com/content/00d8762f-518d-419b-8230-3aa6bb9e5be7)**  
 *finance* · 2025-09-14 · **Imp 4/5** — Entities: Utah governor, social media
@@ -199,53 +249,3 @@ Social media platforms are responding to the availability of videos related to t
 *tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Turning Point USA, Utah Valley University, Orem Police, FBI, Utah Department of Public Safety
 
 Charlie Kirk was fatally shot during a Turning Point USA event at Utah Valley University. The campus has been evacuated and classes canceled as multiple agencies investigate the incident.
-
-**[US justice department probes subprime car lender Tricolor](https://www.ft.com/content/8055b8e6-39ea-4012-a60a-a2c2f43ee7e4)**  
-*finance* · 2025-09-10 · **Imp 4/5** — Entities: US Justice Department, Tricolor
-
-The US Justice Department is investigating Tricolor, a subprime car lender, potentially impacting its operations and regulatory compliance.
-
-**[PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)**  
-*tech* · 2025-09-10 · **Imp 4/5** — Entities: PlayStation, Nintendo, Microsoft
-
-PlayStation has launched the PlayStation Family app for iOS and Android, enabling parents to manage their children's gaming time on PS5 and PS4 with customizable features and activity reports.
-
-**[Oracle’s AI surge takes Larry Ellison back to the future](https://www.ft.com/content/702ece42-b324-4914-9004-b432b1d490e1)**  
-*finance* · 2025-09-10 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle, Larry Ellison
-
-Oracle's renewed focus on AI technologies is reminiscent of its past innovations, positioning the company for potential growth in the tech sector under Larry Ellison's leadership.
-
-**[Mistral is stirring up a storm in European tech](https://www.ft.com/content/613b9c71-827b-4bb0-a0d9-5d4117878d88)**  
-*finance* · 2025-09-10 · **Imp 4/5** — Entities: Mistral, European tech
-
-Mistral is making significant waves in the European tech landscape, indicating potential shifts in investment opportunities and market dynamics.
-
-**[What is Putin’s game plan against Nato’s eastern flank?](https://www.ft.com/content/b1bfb245-c29e-43b7-b63f-458f8e55f25b)**  
-*finance* · 2025-09-10 · **Imp 4/5** — Entities: Putin, NATO
-
-The article explores Vladimir Putin's strategic intentions regarding NATO's eastern flank, analyzing potential implications for geopolitical stability and security in the region.
-
-**[How worried should we be about the crypto crush?](https://www.ft.com/content/88cebb2b-8b34-4ff2-8d28-7295fdf1bf65)**  
-*finance* · 2025-09-10 · **Imp 4/5** — Entities: cryptocurrency market, investors, financial landscape
-
-The article discusses the implications of the recent downturn in the cryptocurrency market, analyzing potential risks and impacts on investors and the broader financial landscape.
-
-**[Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)**  
-*tech* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, iPhone 14, iPhone 15, iOS 18, Apple Watch Ultra 3
-
-Apple extends free satellite connectivity for iPhone 14 and 15 users by another year, pushing the potential payment deadline to November 2026. This follows the launch of Emergency SOS and expanded messaging features in iOS 18, enhancing off-grid communication.
-
-**[US Supreme Court to consider legality of Trump’s tariffs in November](https://www.ft.com/content/95761c55-3807-4d3b-b757-45d4c55d4f88)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: US Supreme Court, Trump administration
-
-The US Supreme Court will review the legality of tariffs imposed by former President Trump in November, which could have significant implications for trade policy and economic relations.
-
-**[Trump tells EU to hit China and India with 100% tariffs to pressure Putin](https://www.ft.com/content/2267eb41-b19a-4a9f-93ca-14ac0343cd77)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Entities: Trump, EU, China, India, Putin
-
-Trump urges the EU to impose 100% tariffs on China and India to exert pressure on Russia amid ongoing geopolitical tensions.
-
-**[Apple launches skinny iPhone as it holds prices despite tariff costs](https://www.ft.com/content/07ff31dc-1f5d-4e7a-8735-eb4c9ed48081)**  
-*finance* · 2025-09-09 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
-
-Apple has introduced a new, slimmer iPhone model while maintaining its pricing strategy despite rising tariff costs. This move reflects the company's commitment to innovation and market competitiveness.
