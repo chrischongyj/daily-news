@@ -40,6 +40,26 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[BlackRock expands leadership bench in reorganisation of top talent](https://www.ft.com/content/5a0577a8-9281-4a6d-b876-35e1c79efef4)**  
+*finance* · 2025-09-16 · **Imp 4/5** — Tickers: BLK — Entities: BlackRock
+
+BlackRock has reorganized its leadership team to enhance its top talent, indicating a strategic move to strengthen its management structure.
+
+**[US begins review of trade deal with Canada and Mexico](https://www.ft.com/content/8bd947d1-3616-4c01-9674-605bc950dddd)**  
+*finance* · 2025-09-16 · **Imp 4/5** — Entities: US, Canada, Mexico
+
+The US has initiated a review of its trade agreement with Canada and Mexico, potentially impacting economic relations and trade policies in North America.
+
+**[Beijing says TikTok’s US app will use Chinese algorithm](https://www.ft.com/content/550e4680-89e7-4b59-bb5d-2064cd6799c7)**  
+*finance* · 2025-09-16 · **Imp 4/5** — Entities: Beijing, TikTok, US government
+
+Beijing confirms that TikTok's US application will utilize its Chinese algorithm, raising concerns over data privacy and regulatory scrutiny in the US.
+
+**[Trump tilts balance of power from investors to CEOs](https://www.ft.com/content/1e0b3487-8e6c-4b2e-bde4-effa8119e6c6)**  
+*finance* · 2025-09-16 · **Imp 4/5** — Entities: Trump, SEC, investors, CEOs
+
+President Trump's proposal to eliminate quarterly reports shifts power dynamics from investors to CEOs, coinciding with SEC discussions on limiting shareholder lawsuits, potentially impacting corporate transparency and accountability.
+
 **[Senate paves way for Miran’s confirmation as Fed governor](https://www.ft.com/content/1015fbb5-cb64-44e0-b271-9d2082a9d49e)**  
 *finance* · 2025-09-15 · **Imp 4/5** — Entities: Senate, Miran, Federal Reserve
 
@@ -124,6 +144,11 @@ AI-controlled drone swarms are poised to revolutionize combat strategies on the 
 *finance* · 2025-09-13 · **Imp 4/5** — Entities: Trump, Xi, Beijing, tariffs, fentanyl
 
 The potential Trump-Xi summit in Beijing faces uncertainty due to ongoing tariff disputes and issues surrounding fentanyl. These factors could impact trade relations and economic forecasts.
+
+**[xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/)**  
+*startup* · 2025-09-13 · **Imp 4/5** — Entities: xAI, Elon Musk, Grok, Business Insider, X
+
+xAI, Elon Musk's AI startup, has laid off 500 workers from its data-annotation team, representing one-third of the team. The layoffs are part of a strategic pivot to focus on specialist AI tutors, while scaling back on generalist roles.
 
 **[US listings market bursts back to life with busiest week in 4 years](https://www.ft.com/content/9fb98802-e3ea-4675-bc52-5d1bbacfb04a)**  
 *finance* · 2025-09-13 · **Imp 4/5** — Entities: US listings market, IPOs, investors
@@ -224,28 +249,3 @@ The US plans to advocate for G7 nations to impose high tariffs on China and Indi
 *finance* · 2025-09-11 · **Imp 4/5** — Entities: Tricolor, subprime auto lending
 
 Debt associated with the failed subprime auto lender Tricolor has significantly decreased in value, indicating potential losses for investors involved in this sector.
-
-**[Amazon’s Thursday Night Football broadcasts add more AI to the NFL](https://www.theverge.com/news/776697/amazon-thursday-night-football-ai-games)**  
-*tech* · 2025-09-11 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, NFL, Prime Video
-
-Amazon's Prime Video enhances Thursday Night Football with AI features like Pocket Health, analyzing offensive line data for quarterback threat levels, and new End of Game tools predicting possession scenarios and comeback time.
-
-**[Car lender’s failure hints at what’s under the hood in private credit](https://www.ft.com/content/419b87df-c529-4813-ac4e-82ab7881cf59)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: car lender, private credit market, investors
-
-The failure of a car lender reveals underlying issues in the private credit market, highlighting potential risks for investors and the broader financial landscape.
-
-**[Aspiration Partners’ collapse leaves trail of losses from Hollywood to Wall Street](https://www.ft.com/content/ec3e36df-47bf-49fc-bc43-0430172856f5)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: Aspiration Partners, Hollywood, Wall Street
-
-Aspiration Partners has collapsed, resulting in significant financial losses impacting both Hollywood and Wall Street investors. The fallout raises concerns about the stability of similar financial entities.
-
-**[How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)**  
-*tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Bluesky, Meta, Reddit, YouTube, Discord, TikTok, X
-
-Social media platforms are responding to the availability of videos related to the fatal shooting of influencer Charlie Kirk. Bluesky, Meta, Reddit, and YouTube have provided comments, while Discord, TikTok, and X have not yet responded.
-
-**[Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)**  
-*tech* · 2025-09-10 · **Imp 4/5** — Entities: Charlie Kirk, Turning Point USA, Utah Valley University, Orem Police, FBI, Utah Department of Public Safety
-
-Charlie Kirk was fatally shot during a Turning Point USA event at Utah Valley University. The campus has been evacuated and classes canceled as multiple agencies investigate the incident.
