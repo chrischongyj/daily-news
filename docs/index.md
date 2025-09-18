@@ -40,6 +40,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[All the news from Meta Connect 2025](https://www.theverge.com/news/777572/meta-connect-2025-news-announcements-mark-zuckerberg-smart-glasses)**  
+*tech* · 2025-09-17 · **Imp 4/5** — Tickers: META — Entities: Meta, Mark Zuckerberg
+
+Meta Connect 2025, scheduled for September 17-18, will focus on AI glasses and the metaverse, featuring a keynote by CEO Mark Zuckerberg. Anticipated announcements include innovative smart glasses controlled by a neural wristband.
+
+**[Argentina props up peso as crisis roils Milei](https://www.ft.com/content/d22c4708-f05a-47ac-b028-b13d7cba68c9)**  
+*finance* · 2025-09-17 · **Imp 4/5** — Entities: Argentina, peso, Milei
+
+Argentina is intervening to stabilize the peso amid ongoing economic turmoil under President Milei's administration. This move aims to address the financial crisis affecting the country's currency and economy.
+
+**[Federal Reserve cuts rates by quarter point and signals more to come](https://www.ft.com/content/f1d4522b-331e-45d5-b676-24dc5b8e3c92)**  
+*finance* · 2025-09-17 · **Imp 4/5** — Entities: Federal Reserve
+
+The Federal Reserve has reduced interest rates by a quarter point and indicated that further cuts may follow, impacting borrowing costs and economic growth.
+
+**[Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)**  
+*tech* · 2025-09-17 · **Imp 4/5** — Entities: Microsoft, Asus, MSI
+
+Microsoft's Xbox mode for Windows 11 allows handheld devices to launch directly into the Xbox app, optimizing memory usage and enhancing gaming experience. This feature can be enabled early via the latest Windows update, benefiting various handheld gaming PCs.
+
+**[DeepMind and OpenAI achieve gold at ‘coding Olympics’ in AI milestone](https://www.ft.com/content/c2f7e7ef-df7b-4b74-a899-1cb12d663ce6)**  
+*finance* · 2025-09-17 · **Imp 4/5** — Entities: DeepMind, OpenAI
+
+DeepMind and OpenAI have reached a significant milestone by excelling at a prestigious coding competition, showcasing advancements in AI capabilities.
+
+**[Saudi Arabia signs ‘strategic mutual defence’ pact with Pakistan](https://www.ft.com/content/50a48a5a-a022-411d-803e-bbd804f99563)**  
+*finance* · 2025-09-17 · **Imp 4/5** — Entities: Saudi Arabia, Pakistan
+
+Saudi Arabia and Pakistan have signed a strategic mutual defense pact, enhancing military cooperation and potentially impacting regional stability and security dynamics.
+
+**[The problem with taxing the rich](https://www.ft.com/content/43ab44ef-359e-4af8-bded-093be6e56f4d)**  
+*finance* · 2025-09-17 · **Imp 4/5** — Entities: wealthy individuals, economists, policymakers
+
+The article discusses the challenges and implications of implementing taxes on wealthy individuals, highlighting potential economic impacts and the effectiveness of such measures.
+
 **[BlackRock expands leadership bench in reorganisation of top talent](https://www.ft.com/content/5a0577a8-9281-4a6d-b876-35e1c79efef4)**  
 *finance* · 2025-09-16 · **Imp 4/5** — Tickers: BLK — Entities: BlackRock
 
@@ -84,6 +119,11 @@ Meta has leaked a video showcasing new Ray-Ban smart glasses featuring a display
 *tech* · 2025-09-15 · **Imp 4/5** — Tickers: GOOGL — Entities: Google
 
 Google emphasizes the importance of maintaining a healthy web ecosystem while adapting to user preferences for AI-generated summaries over traditional search results. The company aims to balance contextual answers with directing users to valuable content.
+
+**[Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/)**  
+*startup* · 2025-09-15 · **Imp 4/5** — Entities: TechCrunch, Moscone West, San Francisco
+
+TechCrunch Disrupt 2025 is seeking volunteers before the September 30 application deadline. Volunteering offers valuable experience and networking opportunities at the iconic startup conference from October 27-29 in San Francisco.
 
 **[Trump calls for US companies to ditch quarterly reporting](https://www.ft.com/content/d5d46365-a2ad-41ee-9c6b-6f382e8d1ce8)**  
 *finance* · 2025-09-15 · **Imp 4/5** — Entities: Trump, US companies
@@ -209,43 +249,3 @@ Cathie Wood's ARK fund has increased by $3.5 billion in assets as it prepares fo
 *finance* · 2025-09-12 · **Imp 4/5** — Entities: America, FT journalism
 
 The article discusses the growing division and mutual disdain in American society, highlighting its implications for social cohesion and economic stability.
-
-**[Larry Ellison, the tech world’s great survivor](https://www.ft.com/content/19b2735f-b91e-4cc6-94cc-32322c21eb77)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Tickers: ORCL — Entities: Larry Ellison, Oracle
-
-Larry Ellison, co-founder of Oracle, continues to adapt and thrive in the tech industry, showcasing resilience and strategic foresight.
-
-**[The strains on the private equity model are showing](https://www.ft.com/content/f86c522f-4e49-48fc-abe4-c6dcfb02fa25)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: private equity, investors, stakeholders
-
-The private equity model is experiencing significant strains, indicating potential challenges ahead for investors and stakeholders in the sector.
-
-**[US authorities arrest suspect in Charlie Kirk assassination](https://www.ft.com/content/7359b439-dde4-4b60-a06f-42ae08b991d1)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: US authorities, Charlie Kirk
-
-US authorities have arrested a suspect in the assassination case of Charlie Kirk, raising concerns about political violence and its implications for public safety and investor sentiment in related sectors.
-
-**[Giorgio Armani named three preferred buyers for empire in his will](https://www.ft.com/content/bec9ad2f-9fa6-4d1e-8c6c-f61de84c4ab3)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: Giorgio Armani
-
-Giorgio Armani has designated three preferred buyers for his fashion empire in his will, indicating a planned succession strategy for the brand.
-
-**[OpenAI and Microsoft sketch out deal to unlock for-profit restructuring](https://www.ft.com/content/f7891fd7-4e13-4767-8c0c-5b90b6471154)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: OpenAI, Microsoft
-
-OpenAI and Microsoft are negotiating a deal to enable a for-profit restructuring, potentially impacting their business models and investment strategies.
-
-**[Bolsonaro sentenced to 27 years in prison on Brazil coup charges](https://www.ft.com/content/f07c7a49-b876-4008-9d38-bdde1a5795a5)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: Jair Bolsonaro, Brazil
-
-Former Brazilian President Jair Bolsonaro has been sentenced to 27 years in prison on charges related to a coup attempt. This significant legal development may impact Brazil's political landscape and investor confidence.
-
-**[US to urge G7 to impose high tariffs on China, India over Russian oil purchases](https://www.ft.com/content/51ea9210-078f-42d7-a4ba-5ad985902761)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: US, G7, China, India, Russia
-
-The US plans to advocate for G7 nations to impose high tariffs on China and India due to their continued purchases of Russian oil, potentially impacting global trade dynamics.
-
-**[Debt linked to collapsed subprime auto lender Tricolor tumbles](https://www.ft.com/content/1f8dbc28-77d7-48b3-8e58-5ca73388b787)**  
-*finance* · 2025-09-11 · **Imp 4/5** — Entities: Tricolor, subprime auto lending
-
-Debt associated with the failed subprime auto lender Tricolor has significantly decreased in value, indicating potential losses for investors involved in this sector.
