@@ -40,6 +40,26 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Disney capitulation over Kimmel sparks fears for US media under Trump](https://www.ft.com/content/41cc3182-9117-4ca1-b5af-0dd24ccd2fe5)**  
+*finance* · 2025-09-18 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Jimmy Kimmel, US media
+
+Disney's capitulation regarding Jimmy Kimmel raises concerns about the future of US media under Trump's influence, potentially impacting content and corporate strategies in the entertainment sector.
+
+**[Cathie Wood and UAE in $300mn crypto bet on football business Brera](https://www.ft.com/content/9637e6e4-7042-48d8-8228-5a20b9f48f5d)**  
+*finance* · 2025-09-18 · **Imp 4/5** — Entities: Cathie Wood, ARK Invest, UAE, Brera
+
+Cathie Wood's investment firm ARK Invest partners with the UAE in a $300 million bet on Brera, a football business leveraging cryptocurrency.
+
+**[Nvidia to invest $5bn in rival Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada)**  
+*finance* · 2025-09-18 · **Imp 4/5** — Tickers: NVDA, INTC — Entities: Nvidia, Intel
+
+Nvidia plans to invest $5 billion in rival Intel, signaling a significant shift in the competitive landscape of the semiconductor industry.
+
+**[Trump asks Supreme Court to let him fire Fed governor Lisa Cook](https://www.ft.com/content/c8effaf1-7b26-4942-b599-0e23a5253a73)**  
+*finance* · 2025-09-18 · **Imp 4/5** — Entities: Trump, Supreme Court, Federal Reserve, Lisa Cook
+
+Trump has petitioned the Supreme Court for the authority to dismiss Federal Reserve governor Lisa Cook, potentially impacting the Fed's governance and monetary policy direction.
+
 **[All the news from Meta Connect 2025](https://www.theverge.com/news/777572/meta-connect-2025-news-announcements-mark-zuckerberg-smart-glasses)**  
 *tech* · 2025-09-17 · **Imp 4/5** — Tickers: META — Entities: Meta, Mark Zuckerberg
 
@@ -229,23 +249,3 @@ France's recent debt downgrade increases pressure on Prime Minister Macron, pote
 *finance* · 2025-09-12 · **Imp 4/5** — Tickers: BAC — Entities: Bank of America, Brian Moynihan
 
 Bank of America CEO Brian Moynihan has restructured the leadership team, signaling potential strategic shifts within the organization.
-
-**[US and UK near tech, nuclear and whisky deals ahead of Trump trip](https://www.ft.com/content/786bd800-f7b6-430f-992d-d278cd3d72df)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: US, UK, Trump
-
-The US and UK are negotiating deals in technology, nuclear energy, and whisky ahead of Trump's upcoming visit, indicating a potential strengthening of bilateral relations and economic collaboration.
-
-**[GameHub fixed its Silksong save game uploads and now I’m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)**  
-*tech* · 2025-09-12 · **Imp 4/5** — Entities: GameHub, Hollow Knight Silksong, Steam
-
-GameHub's latest update (5.0.4) allows seamless save game uploads for Hollow Knight Silksong between Android and PC, enhancing cross-platform gaming experience.
-
-**[Cathie Wood’s flagship ARK fund balloons by $3.5bn ahead of Klarna IPO](https://www.ft.com/content/02964812-1965-4c1c-85ed-da34be611cb4)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: Cathie Wood, ARK fund, Klarna
-
-Cathie Wood's ARK fund has increased by $3.5 billion in assets as it prepares for the upcoming IPO of Klarna, indicating strong investor interest and confidence in the fintech sector.
-
-**[America’s dangerous descent into mutual loathing](https://www.ft.com/content/f5dfc16e-9e91-43e2-8d31-7cd8102485f9)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: America, FT journalism
-
-The article discusses the growing division and mutual disdain in American society, highlighting its implications for social cohesion and economic stability.
