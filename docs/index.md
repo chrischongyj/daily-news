@@ -40,6 +40,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)**  
+*tech* · 2025-09-19 · **Imp 4/5** — Entities: Trump Administration, TikTok, Silver Lake, Oracle, ByteDance
+
+The Trump Administration may negotiate a multibillion-dollar fee from US investors for a potential TikTok takeover. Investors like Silver Lake and Oracle could pay this fee, with TikTok's US business being partially owned by them while ByteDance retains a minority stake.
+
+**[Trump to add $100,000 application fee to H-1B foreign worker visas](https://www.ft.com/content/f6bfaefe-647b-4d73-bb83-bb8e7194f499)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: Trump administration, H-1B visa program, tech industry
+
+Trump's administration plans to impose a $100,000 application fee for H-1B foreign worker visas, potentially impacting the tech industry reliant on skilled foreign labor.
+
+**[Argentina spends $1bn to defend peso as Milei’s crisis spirals](https://www.ft.com/content/270d9987-9b42-4ccf-83e8-cb6fe57faab7)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: Argentina, Milei
+
+Argentina has allocated $1 billion to defend its peso amid escalating economic crises under President Milei's administration. This move highlights the government's struggle to stabilize the currency and restore investor confidence.
+
+**[Russia breaches Nato airspace in Estonia](https://www.ft.com/content/d23923bb-805e-4ad5-b8eb-951b0c47a36a)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: Russia, NATO, Estonia
+
+Russia has breached NATO airspace in Estonia, raising concerns about regional security and potential geopolitical tensions.
+
+**[Trump and Xi to meet in South Korea as US president hails TikTok deal](https://www.ft.com/content/9fc9e921-5dbb-4464-a89f-55273b0ac84e)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: Trump, Xi, TikTok, US, China
+
+Trump and Xi are set to meet in South Korea, coinciding with the US president's announcement of a TikTok deal, highlighting ongoing US-China relations and tech negotiations.
+
+**[The dollar is taking the hit from worries over the US](https://www.ft.com/content/ac9e7ee1-ebe5-431a-a315-b833de728ec9)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: US dollar, US economy
+
+The US dollar is facing pressure due to growing concerns about the US economy, impacting investor sentiment and market stability.
+
+**[Nvidia’s $5bn Intel stake turns bad finance into good money](https://www.ft.com/content/863af150-c5c3-44fa-9bed-9326b1ca9265)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Tickers: NVDA, INTC — Entities: Nvidia, Intel
+
+Nvidia's $5 billion investment in Intel has transformed poor financial performance into profitable outcomes, showcasing strategic financial maneuvering in the tech sector.
+
+**[Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/)**  
+*startup* · 2025-09-19 · **Imp 4/5** — Entities: TechCrunch, Equity, Anthony Ha, Kirsten Korosec, Max Zeff, Theresa Loconsolo
+
+The latest episode of TechCrunch's Equity podcast discusses AI advancements, robotics developments, and regulatory impacts. Key insights include the balance between innovation and safety in AI technologies.
+
+**[US senators seek to raise pressure on Russia with ‘shadow fleet’ sanctions](https://www.ft.com/content/87f1309f-ca19-4c9f-9306-aa89c24f8aac)**  
+*finance* · 2025-09-19 · **Imp 4/5** — Entities: US senators, Russia, shadow fleet
+
+US senators are advocating for increased sanctions targeting Russia's 'shadow fleet' to enhance pressure on the country amid ongoing geopolitical tensions.
+
 **[Disney capitulation over Kimmel sparks fears for US media under Trump](https://www.ft.com/content/41cc3182-9117-4ca1-b5af-0dd24ccd2fe5)**  
 *finance* · 2025-09-18 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Jimmy Kimmel, US media
 
@@ -204,48 +249,3 @@ AI-controlled drone swarms are poised to revolutionize combat strategies on the 
 *finance* · 2025-09-13 · **Imp 4/5** — Entities: Trump, Xi, Beijing, tariffs, fentanyl
 
 The potential Trump-Xi summit in Beijing faces uncertainty due to ongoing tariff disputes and issues surrounding fentanyl. These factors could impact trade relations and economic forecasts.
-
-**[xAI reportedly lays off 500 workers from data-annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/)**  
-*startup* · 2025-09-13 · **Imp 4/5** — Entities: xAI, Elon Musk, Grok, Business Insider, X
-
-xAI, Elon Musk's AI startup, has laid off 500 workers from its data-annotation team, representing one-third of the team. The layoffs are part of a strategic pivot to focus on specialist AI tutors, while scaling back on generalist roles.
-
-**[US listings market bursts back to life with busiest week in 4 years](https://www.ft.com/content/9fb98802-e3ea-4675-bc52-5d1bbacfb04a)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: US listings market, IPOs, investors
-
-The US listings market has experienced its busiest week in four years, signaling a resurgence in initial public offerings (IPOs) and investor interest.
-
-**[Antitrust chief Teresa Ribera under pressure as EU merger reform drifts](https://www.ft.com/content/9e51aecd-5d04-4cef-a7af-630ea83a9488)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: Teresa Ribera, EU, antitrust
-
-EU antitrust chief Teresa Ribera faces increasing pressure as reforms to merger regulations stall, potentially impacting market dynamics and competition.
-
-**[Medline readies IPO in coming months in test of investor appetite](https://www.ft.com/content/79e77be3-53fe-4eb7-9d4a-15f14bf62cf0)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: Medline
-
-Medline is preparing for an IPO in the upcoming months, aiming to gauge investor interest in the current market climate.
-
-**[France and Britain are in thrall to pensioners](https://www.ft.com/content/d419bd2d-a6ba-44a5-a93a-1276f3e5d2d7)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: France, Britain, pensioners
-
-France and Britain are increasingly focused on the financial needs and influence of pensioners, highlighting a demographic shift that impacts economic policies and market dynamics.
-
-**[Nestlé investors call for chair to step down over executive turmoil](https://www.ft.com/content/bd0695c7-d327-45d8-9c4f-9b04e82721d5)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Tickers: NSRGY — Entities: Nestlé, investors
-
-Nestlé investors are demanding the resignation of the company's chair due to ongoing executive turmoil, raising concerns about leadership stability and governance.
-
-**[How chatbots are changing the internet](https://www.ft.com/content/feb0c8cf-b347-4731-bc12-78bfb69dca36)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: chatbots, online interactions, customer service, businesses
-
-Chatbots are transforming online interactions, enhancing user experience and streamlining customer service across various sectors. This evolution is crucial for businesses aiming to improve efficiency and engagement.
-
-**[French debt downgrade piles pressure on Macron’s new prime minister](https://www.ft.com/content/7d886ebd-bd26-4ba9-8832-81fcb84fb51c)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Entities: France, Macron, Prime Minister
-
-France's recent debt downgrade increases pressure on Prime Minister Macron, potentially impacting fiscal policies and investor confidence.
-
-**[Bank of America chief Brian Moynihan shakes up leadership team](https://www.ft.com/content/82e1d2db-cccc-4080-876a-fab28b1a2676)**  
-*finance* · 2025-09-12 · **Imp 4/5** — Tickers: BAC — Entities: Bank of America, Brian Moynihan
-
-Bank of America CEO Brian Moynihan has restructured the leadership team, signaling potential strategic shifts within the organization.
