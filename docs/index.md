@@ -40,10 +40,35 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump’s new H-1B visa fee prompts emergency guidance from companies](https://www.ft.com/content/9822b5ee-4d3e-4e73-bbf4-be382d2fada7)**  
+*finance* · 2025-09-20 · **Imp 4/5** — Entities: Trump, companies, H-1B visa
+
+Trump's new H-1B visa fee has led companies to issue emergency guidance, impacting hiring practices and costs associated with foreign talent.
+
+**[The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)**  
+*tech* · 2025-09-20 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, JerryRigEverything
+
+The iPhone Air, measuring just 5.6mm, impressively withstands pressure due to its titanium frame, which is stronger and more elastic than aluminum. A bend test shows it can endure up to 216 pounds without cracking.
+
+**[‘It’s our South Africa moment’: the growing global boycott of Israel](https://www.ft.com/content/0a844acf-36c2-4313-8d0a-181ae220221f)**  
+*finance* · 2025-09-20 · **Imp 4/5** — Entities: Israel, South Africa
+
+The article discusses the increasing global boycott of Israel, drawing parallels to historical movements like the South Africa boycott. This trend may impact international relations and economic ties, particularly affecting investors and businesses involved in Israeli markets.
+
+**[What if Putin and Xi live forever?](https://www.ft.com/content/c1730723-11b1-4c9d-97a0-078de98cbaf5)**  
+*finance* · 2025-09-20 · **Imp 4/5** — Entities: Vladimir Putin, Xi Jinping
+
+The article speculates on the implications of Vladimir Putin and Xi Jinping potentially having indefinite lifespans, examining the geopolitical and economic consequences of their prolonged leadership.
+
+**[The truth about immigration](https://www.ft.com/content/43dad7d6-3042-4697-b266-4252eba78ce3)**  
+*finance* · 2025-09-20 · **Imp 4/5** — Entities: immigration, economy, labor markets, innovation, policies
+
+The article discusses the implications of immigration on the economy, emphasizing its impact on labor markets and innovation. It highlights the need for informed policies to balance economic growth with social considerations.
+
 **[Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)**  
 *tech* · 2025-09-19 · **Imp 4/5** — Entities: Trump Administration, TikTok, Silver Lake, Oracle, ByteDance
 
-The Trump Administration may negotiate a multibillion-dollar fee from US investors for a potential TikTok takeover. Investors like Silver Lake and Oracle could pay this fee, with TikTok's US business being partially owned by them while ByteDance retains a minority stake.
+The Trump Administration may negotiate a multibillion-dollar fee from US investors for a potential TikTok takeover, with reports suggesting a deal could benefit investors like Silver Lake and Oracle. However, the certainty of the deal remains unclear.
 
 **[Trump to add $100,000 application fee to H-1B foreign worker visas](https://www.ft.com/content/f6bfaefe-647b-4d73-bb83-bb8e7194f499)**  
 *finance* · 2025-09-19 · **Imp 4/5** — Entities: Trump administration, H-1B visa program, tech industry
@@ -76,9 +101,9 @@ The US dollar is facing pressure due to growing concerns about the US economy, i
 Nvidia's $5 billion investment in Intel has transformed poor financial performance into profitable outcomes, showcasing strategic financial maneuvering in the tech sector.
 
 **[Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/)**  
-*startup* · 2025-09-19 · **Imp 4/5** — Entities: TechCrunch, Equity, Anthony Ha, Kirsten Korosec, Max Zeff, Theresa Loconsolo
+*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, AI, robotics
 
-The latest episode of TechCrunch's Equity podcast discusses AI advancements, robotics developments, and regulatory impacts. Key insights include the balance between innovation and safety in AI technologies.
+This week's Equity podcast discusses significant developments in AI, robotics, and regulatory measures, highlighting the balance between innovation and safety in technology.
 
 **[US senators seek to raise pressure on Russia with ‘shadow fleet’ sanctions](https://www.ft.com/content/87f1309f-ca19-4c9f-9306-aa89c24f8aac)**  
 *finance* · 2025-09-19 · **Imp 4/5** — Entities: US senators, Russia, shadow fleet
@@ -224,28 +249,3 @@ The article discusses strategies for America to prevent ongoing political violen
 *finance* · 2025-09-14 · **Imp 4/5** — Entities: Western economies, businesses, investors
 
 The article discusses the overwhelming regulatory burdens in Western economies, highlighting the challenges posed by excessive red tape on businesses and investors.
-
-**[Brookfield in talks to buy US landlord from Singapore’s GIC in $10bn deal](https://www.ft.com/content/a9c71911-874f-4af5-9179-df9a3f7e32f0)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: Brookfield, GIC, US landlord
-
-Brookfield is negotiating to acquire a US landlord from Singapore's GIC in a deal valued at $10 billion, highlighting significant investment activity in the real estate sector.
-
-**[Larry Ellison’s heir takes aim at Warner Bros and at reshaping Hollywood](https://www.ft.com/content/42663492-cebb-4f62-b932-c0c21c02fae4)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: Larry Ellison, Warner Bros
-
-Larry Ellison's successor is targeting Warner Bros and plans to reshape the Hollywood landscape, indicating a strategic shift in media investments.
-
-**[French companies’ borrowing costs fall below government’s as debt fears intensify](https://www.ft.com/content/be40c638-77ce-4986-9274-fa157d3a0ffb)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: French companies, government
-
-French companies are experiencing a decline in borrowing costs, now lower than those of the government, amid rising debt concerns. This shift indicates changing perceptions of risk in the corporate sector.
-
-**[AI-controlled drone swarms set to transform combat on battlefield](https://www.ft.com/content/f6741167-476c-41bc-8b1c-ed65b8b4c054)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: AI, drone technology, military
-
-AI-controlled drone swarms are poised to revolutionize combat strategies on the battlefield, enhancing operational efficiency and effectiveness in military engagements.
-
-**[Tariffs and fentanyl cloud prospect of Trump-Xi summit in Beijing](https://www.ft.com/content/b6fb9c02-e5d5-426b-906c-76225258ad59)**  
-*finance* · 2025-09-13 · **Imp 4/5** — Entities: Trump, Xi, Beijing, tariffs, fentanyl
-
-The potential Trump-Xi summit in Beijing faces uncertainty due to ongoing tariff disputes and issues surrounding fentanyl. These factors could impact trade relations and economic forecasts.
