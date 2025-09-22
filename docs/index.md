@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)**  
+*tech* · 2025-09-20 · **Imp 5/5** — Tickers: AMZN, GOOGL, MSFT — Entities: Amazon, Google, Microsoft
+
+Amazon, Google, and Microsoft urge H-1B visa holders to return to the U.S. before a new Proclamation imposes a $100,000 re-entry fee, potentially delaying or preventing re-entry. Employees are advised against international travel if currently in the U.S.
+
 **[Alphabet market value exceeds $3tn](https://www.ft.com/content/a18ce1c4-d610-4cdf-b853-2d8f43ff4be1)**  
 *finance* · 2025-09-15 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet
 
@@ -39,6 +44,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[UK, Canada and Australia recognise Palestine as an independent state](https://www.ft.com/content/36ddd673-6d55-4191-b87b-f32ee1482858)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: UK, Canada, Australia, Palestine
+
+The UK, Canada, and Australia have officially recognized Palestine as an independent state, marking a significant geopolitical shift that may influence international relations and investment strategies.
+
+**[Murdochs and Michael Dell part of TikTok buyer group, says Trump](https://www.ft.com/content/a6e8b916-6c63-42c0-8dc3-d2956746d22b)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: Murdoch family, Michael Dell, TikTok, Trump
+
+A group including the Murdoch family and Michael Dell is reportedly interested in acquiring TikTok, as stated by former President Trump. This potential acquisition could reshape the social media landscape.
+
+**[Trump’s H-1B visa fee to hit US employers with $14bn annual bill](https://www.ft.com/content/c51fc02c-0859-4908-9c3d-c3c1d12550c4)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: Trump, US employers, tech industry
+
+The new H-1B visa fee proposed by Trump is projected to cost US employers an annual total of $14 billion, significantly impacting the tech industry reliant on skilled foreign workers.
+
+**[Brunello Cucinelli chief hits back at short seller over alleged sanction breach](https://www.ft.com/content/ece272c3-de7e-47ac-ae1e-2d125d6ada80)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: Brunello Cucinelli
+
+Brunello Cucinelli's CEO responds to accusations from a short seller regarding alleged breaches of sanctions, defending the company's integrity and operations.
+
+**[Will Benjamin Netanyahu annex the West Bank?](https://www.ft.com/content/def54498-5bb1-4e74-91ed-1e1d6b771ad7)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: Benjamin Netanyahu, West Bank, Israel
+
+The article discusses the potential for Israeli Prime Minister Benjamin Netanyahu to annex the West Bank, a move that could have significant geopolitical implications.
+
+**[EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: EU, Big Tech
+
+The EU plans to prohibit Big Tech companies from participating in a new financial data sharing system, potentially impacting their access to valuable financial information.
+
+**[Private equity warns of mis-selling as sector opens up to individual investors](https://www.ft.com/content/5125a35e-f062-4dcc-8df3-e08c3cbb1f2c)**  
+*finance* · 2025-09-21 · **Imp 4/5** — Entities: private equity, individual investors
+
+Private equity firms are cautioning against potential mis-selling as the sector begins to allow individual investors greater access. This shift raises concerns about the suitability of investments for non-institutional investors.
 
 **[Trump’s new H-1B visa fee prompts emergency guidance from companies](https://www.ft.com/content/9822b5ee-4d3e-4e73-bbf4-be382d2fada7)**  
 *finance* · 2025-09-20 · **Imp 4/5** — Entities: Trump, companies, H-1B visa
@@ -101,9 +141,9 @@ The US dollar is facing pressure due to growing concerns about the US economy, i
 Nvidia's $5 billion investment in Intel has transformed poor financial performance into profitable outcomes, showcasing strategic financial maneuvering in the tech sector.
 
 **[Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/)**  
-*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, AI, robotics
+*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, Anthony Ha, Kirsten Korosec, Max Zeff, Theresa Loconsolo
 
-This week's Equity podcast discusses significant developments in AI, robotics, and regulatory measures, highlighting the balance between innovation and safety in technology.
+The latest Equity podcast discusses significant developments in AI, robotics, and regulatory measures, highlighting the balance between innovation and safety. The episode features insights from Anthony Ha, Kirsten Korosec, and Max Zeff.
 
 **[US senators seek to raise pressure on Russia with ‘shadow fleet’ sanctions](https://www.ft.com/content/87f1309f-ca19-4c9f-9306-aa89c24f8aac)**  
 *finance* · 2025-09-19 · **Imp 4/5** — Entities: US senators, Russia, shadow fleet
@@ -209,43 +249,3 @@ Meta has leaked a video showcasing new Ray-Ban smart glasses featuring a display
 *tech* · 2025-09-15 · **Imp 4/5** — Tickers: GOOGL — Entities: Google
 
 Google emphasizes the importance of maintaining a healthy web ecosystem while adapting to user preferences for AI-generated summaries over traditional search results. The company aims to balance contextual answers with directing users to valuable content.
-
-**[Time’s running out to volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/15/times-running-out-to-volunteer-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-09-15 · **Imp 4/5** — Entities: TechCrunch, Moscone West, San Francisco
-
-TechCrunch Disrupt 2025 is seeking volunteers before the September 30 application deadline. Volunteering offers valuable experience and networking opportunities at the iconic startup conference from October 27-29 in San Francisco.
-
-**[Trump calls for US companies to ditch quarterly reporting](https://www.ft.com/content/d5d46365-a2ad-41ee-9c6b-6f382e8d1ce8)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Entities: Trump, US companies
-
-Trump advocates for US companies to abandon quarterly reporting, suggesting it may benefit long-term growth and reduce pressure on firms. This proposal could reshape financial reporting standards and impact investor strategies.
-
-**[How Ukraine and Gaza scrambled the ideological map](https://www.ft.com/content/ca6c9c3b-20ea-4d57-af6e-bef68c142ce0)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Entities: Ukraine, Gaza
-
-The article discusses how the conflicts in Ukraine and Gaza have reshaped global ideological perspectives, impacting political and economic landscapes.
-
-**[Tricolor collapse sparks concern about health of US subprime auto sector](https://www.ft.com/content/27de0a41-4dd4-410c-92de-b30ec4672905)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Entities: Tricolor, US subprime auto sector
-
-The collapse of Tricolor raises alarms regarding the stability of the US subprime auto sector, potentially impacting investors and stakeholders in the automotive finance market.
-
-**[Fed set to cut interest rates as Powell faces dissent over slowing economy](https://www.ft.com/content/af41b26c-f3fc-4a20-a744-23fccadd0c27)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Entities: Federal Reserve, Jerome Powell
-
-The Federal Reserve is preparing to cut interest rates amid growing dissent from officials regarding the slowing economy, signaling potential shifts in monetary policy that could impact financial markets.
-
-**[Utah governor blames social media for fomenting US political violence](https://www.ft.com/content/00d8762f-518d-419b-8230-3aa6bb9e5be7)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: Utah governor, social media
-
-Utah's governor attributes rising political violence in the U.S. to social media platforms, highlighting concerns over their influence on public discourse and safety.
-
-**[America can still stop the cycle of political violence](https://www.ft.com/content/27a7c75b-7fd5-41af-8e70-8d9f48866661)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: America, political violence, analysis, expert insights
-
-The article discusses strategies for America to prevent ongoing political violence, emphasizing the need for comprehensive analysis and expert insights.
-
-**[The west is buried under red tape](https://www.ft.com/content/484d8c2a-b61d-42f1-9d57-5d2d8c83c6d3)**  
-*finance* · 2025-09-14 · **Imp 4/5** — Entities: Western economies, businesses, investors
-
-The article discusses the overwhelming regulatory burdens in Western economies, highlighting the challenges posed by excessive red tape on businesses and investors.
