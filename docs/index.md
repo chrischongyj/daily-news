@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Nvidia to invest up to $100bn in OpenAI](https://www.ft.com/content/d3caeac1-def8-45ae-b56b-e34c7c435ccc)**  
+*finance* · 2025-09-22 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI
+
+Nvidia plans to invest up to $100 billion in OpenAI, signaling a significant commitment to AI development and collaboration.
+
 **[Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)**  
 *tech* · 2025-09-20 · **Imp 5/5** — Tickers: AMZN, GOOGL, MSFT — Entities: Amazon, Google, Microsoft
 
@@ -44,6 +49,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[First Brands’ lenders race to secure rescue loan for car parts group](https://www.ft.com/content/003012bb-43ef-426a-8631-4ef6bb09c229)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: First Brands, lenders, car parts group
+
+First Brands' lenders are urgently seeking a rescue loan to support the struggling car parts group, highlighting the financial challenges faced by the company.
+
+**[France recognises Palestinian statehood and calls for end to Israeli war in Gaza](https://www.ft.com/content/2aee8308-6644-40e8-bc19-3d74ae349dc6)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: France, Palestine, Israel
+
+France has officially recognized Palestinian statehood and is advocating for an end to the ongoing conflict in Gaza, signaling a shift in diplomatic relations and potential implications for international finance and investments in the region.
+
+**[Supreme Court decision on Trump’s firing of Cook looms over the Fed](https://www.ft.com/content/c7b91795-46d7-4377-8830-8f21c89af0c6)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: Supreme Court, Trump, Cook, Federal Reserve
+
+The Supreme Court's impending decision regarding Trump's firing of Cook is creating uncertainty for the Federal Reserve, potentially impacting monetary policy and market stability.
+
+**[Israeli ministers call for West Bank annexation after recognition push](https://www.ft.com/content/c86cb087-da8c-4e4f-926c-40804b3992e2)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: Israeli ministers, West Bank, international relations
+
+Israeli ministers are advocating for the annexation of the West Bank following a push for recognition, which could significantly impact regional stability and international relations.
+
+**[Putin is playing a dangerous game with Nato](https://www.ft.com/content/2ee21b5c-24fc-400e-a51d-2c197d09c471)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: Putin, NATO
+
+The article discusses the geopolitical tensions between Putin and NATO, highlighting the potential risks and implications for global stability and finance.
+
+**[‘Everyone’s at risk’: Trump’s immigration crackdown reaches Bethlehem](https://www.ft.com/content/8e28d408-a0b4-4fa0-960b-5ec2a472736f)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: Trump, Bethlehem, immigrant labor
+
+Trump's immigration policies are impacting Bethlehem, raising concerns about risks to local economies and labor markets. The crackdown may affect businesses reliant on immigrant labor, potentially leading to workforce shortages and economic challenges.
+
+**[How south-east Asia lost its way](https://www.ft.com/content/4f076672-789b-4b8a-9784-c83d84573798)**  
+*finance* · 2025-09-22 · **Imp 4/5** — Entities: Southeast Asia, economic growth, stability
+
+The article discusses the challenges faced by Southeast Asia in maintaining economic growth and stability, highlighting factors that have contributed to its current situation.
 
 **[UK, Canada and Australia recognise Palestine as an independent state](https://www.ft.com/content/36ddd673-6d55-4191-b87b-f32ee1482858)**  
 *finance* · 2025-09-21 · **Imp 4/5** — Entities: UK, Canada, Australia, Palestine
@@ -141,9 +181,9 @@ The US dollar is facing pressure due to growing concerns about the US economy, i
 Nvidia's $5 billion investment in Intel has transformed poor financial performance into profitable outcomes, showcasing strategic financial maneuvering in the tech sector.
 
 **[Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/)**  
-*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, Anthony Ha, Kirsten Korosec, Max Zeff, Theresa Loconsolo
+*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, AI, robotics, regulation
 
-The latest Equity podcast discusses significant developments in AI, robotics, and regulatory measures, highlighting the balance between innovation and safety. The episode features insights from Anthony Ha, Kirsten Korosec, and Max Zeff.
+The latest episode of Equity discusses AI advancements, robotics developments, and regulatory impacts, highlighting both challenges and opportunities in the tech landscape.
 
 **[US senators seek to raise pressure on Russia with ‘shadow fleet’ sanctions](https://www.ft.com/content/87f1309f-ca19-4c9f-9306-aa89c24f8aac)**  
 *finance* · 2025-09-19 · **Imp 4/5** — Entities: US senators, Russia, shadow fleet
@@ -209,43 +249,3 @@ The article discusses the challenges and implications of implementing taxes on w
 *finance* · 2025-09-16 · **Imp 4/5** — Tickers: BLK — Entities: BlackRock
 
 BlackRock has reorganized its leadership team to enhance its top talent, indicating a strategic move to strengthen its management structure.
-
-**[US begins review of trade deal with Canada and Mexico](https://www.ft.com/content/8bd947d1-3616-4c01-9674-605bc950dddd)**  
-*finance* · 2025-09-16 · **Imp 4/5** — Entities: US, Canada, Mexico
-
-The US has initiated a review of its trade agreement with Canada and Mexico, potentially impacting economic relations and trade policies in North America.
-
-**[Beijing says TikTok’s US app will use Chinese algorithm](https://www.ft.com/content/550e4680-89e7-4b59-bb5d-2064cd6799c7)**  
-*finance* · 2025-09-16 · **Imp 4/5** — Entities: Beijing, TikTok, US government
-
-Beijing confirms that TikTok's US application will utilize its Chinese algorithm, raising concerns over data privacy and regulatory scrutiny in the US.
-
-**[Trump tilts balance of power from investors to CEOs](https://www.ft.com/content/1e0b3487-8e6c-4b2e-bde4-effa8119e6c6)**  
-*finance* · 2025-09-16 · **Imp 4/5** — Entities: Trump, SEC, investors, CEOs
-
-President Trump's proposal to eliminate quarterly reports shifts power dynamics from investors to CEOs, coinciding with SEC discussions on limiting shareholder lawsuits, potentially impacting corporate transparency and accountability.
-
-**[Senate paves way for Miran’s confirmation as Fed governor](https://www.ft.com/content/1015fbb5-cb64-44e0-b271-9d2082a9d49e)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Entities: Senate, Miran, Federal Reserve
-
-The Senate has advanced the confirmation process for Miran as a Federal Reserve governor, which could influence monetary policy and economic stability.
-
-**[Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)**  
-*tech* · 2025-09-15 · **Imp 4/5** — Tickers: META — Entities: Meta, Cambridge Analytica
-
-Meta's $725 million class action settlement for privacy violations, including data misuse by Cambridge Analytica, is now distributing funds to affected users, with payouts averaging around $38.36.
-
-**[Amazon to launch augmented reality football coverage](https://www.ft.com/content/c50411d5-b1ac-4bdd-9f3b-bdaf11b50337)**  
-*finance* · 2025-09-15 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, augmented reality, football
-
-Amazon is set to introduce augmented reality (AR) technology for its football coverage, enhancing viewer engagement and experience.
-
-**[Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)**  
-*tech* · 2025-09-15 · **Imp 4/5** — Entities: Meta, Ray-Ban, Oakley, Zuckerberg
-
-Meta has leaked a video showcasing new Ray-Ban smart glasses featuring a display and a wristband for control. The glasses, likely named Meta Ray-Ban Display, integrate AI capabilities and navigation features. CEO Mark Zuckerberg is set to officially unveil them at the upcoming Connect event.
-
-**[Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)**  
-*tech* · 2025-09-15 · **Imp 4/5** — Tickers: GOOGL — Entities: Google
-
-Google emphasizes the importance of maintaining a healthy web ecosystem while adapting to user preferences for AI-generated summaries over traditional search results. The company aims to balance contextual answers with directing users to valuable content.
