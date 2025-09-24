@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
+*finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
+
+Nvidia's $100 billion deal with OpenAI highlights significant investment in AI technology, impacting the tech landscape and investor sentiment.
+
 **[Nvidia to invest up to $100bn in OpenAI](https://www.ft.com/content/d3caeac1-def8-45ae-b56b-e34c7c435ccc)**  
 *finance* · 2025-09-22 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI
 
@@ -50,6 +55,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Tether targets $500bn valuation with $20bn private funding round](https://www.ft.com/content/0739f8fc-4cfc-48e5-910b-f5375fafce8e)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: Tether
+
+Tether aims for a $500 billion valuation through a $20 billion private funding round, signaling significant growth potential in the stablecoin market.
+
+**[Trump says Ukraine can win back all of its territory seized by Russia](https://www.ft.com/content/f36d52e4-29d2-491f-80ad-faa12ecc7845)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: Trump, Ukraine, Russia
+
+Trump asserts that Ukraine has the potential to reclaim all territory lost to Russia, signaling a strong stance on the ongoing conflict and its implications for international relations and security.
+
+**[OpenAI expands Stargate AI project with five US sites](https://www.ft.com/content/9b6c7db8-9a14-4261-9c18-38ec84d869a0)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: OpenAI, Stargate AI
+
+OpenAI has expanded its Stargate AI project by establishing five new sites across the United States, enhancing its capabilities in artificial intelligence development.
+
+**[Google’s Mixboard is an AI moodboard builder](https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas)**  
+*tech* · 2025-09-23 · **Imp 4/5** — Entities: Google, Gemini 2.5, FigJam, Adobe, Pinterest
+
+Google has launched Mixboard, an AI moodboard builder that allows users to create design projects using templates or text prompts. This tool, currently in public beta, enhances creative exploration similar to platforms like FigJam and Adobe Firefly Boards.
+
+**[Fed’s Powell signals further US interest rate cuts are not guaranteed](https://www.ft.com/content/6f7e5346-bb1b-4b60-9dfe-34a65c151e34)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
+
+Fed Chair Jerome Powell indicated that additional interest rate cuts in the US are not assured, suggesting a cautious approach to monetary policy moving forward.
+
+**[How Argentina’s Milei lost the markets and turned to Trump](https://www.ft.com/content/e5e314d0-31cf-44e0-9167-63a787baac47)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: Argentina, Milei, Trump
+
+Argentina's Milei has shifted his strategy from appealing to markets to aligning with Trump, indicating a significant change in political and economic direction that could impact investor confidence.
+
+**[America’s accelerating exit from itself](https://www.ft.com/content/a2840f43-cbd3-4c3e-89fc-36f25a7da97b)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: America, FT newspaper
+
+The article discusses the implications of America's rapid disengagement from its traditional economic and social frameworks, highlighting potential impacts on investors and the broader financial landscape.
+
+**[Fed has room for three more rate cuts as US growth slows, says OECD](https://www.ft.com/content/d264df16-58ce-43da-8fff-d70e6584b9a1)**  
+*finance* · 2025-09-23 · **Imp 4/5** — Entities: Federal Reserve, OECD
+
+The OECD indicates that the Federal Reserve can implement three additional rate cuts due to slowing US economic growth, suggesting potential easing of monetary policy.
+
 **[First Brands’ lenders race to secure rescue loan for car parts group](https://www.ft.com/content/003012bb-43ef-426a-8631-4ef6bb09c229)**  
 *finance* · 2025-09-22 · **Imp 4/5** — Entities: First Brands, lenders, car parts group
 
@@ -64,6 +109,11 @@ France has officially recognized Palestinian statehood and is advocating for an 
 *finance* · 2025-09-22 · **Imp 4/5** — Entities: Supreme Court, Trump, Cook, Federal Reserve
 
 The Supreme Court's impending decision regarding Trump's firing of Cook is creating uncertainty for the Federal Reserve, potentially impacting monetary policy and market stability.
+
+**[Clock’s ticking: Get hands-on experience volunteering at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/clocks-ticking-get-hands-on-experience-volunteering-at-techcrunch-disrupt-2025/)**  
+*startup* · 2025-09-22 · **Imp 4/5** — Entities: TechCrunch, startup founders, investors, tech enthusiasts
+
+Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in event production and networking opportunities with startup founders and investors. Applications are due by September 30, exclusively for Bay Area residents.
 
 **[Israeli ministers call for West Bank annexation after recognition push](https://www.ft.com/content/c86cb087-da8c-4e4f-926c-40804b3992e2)**  
 *finance* · 2025-09-22 · **Imp 4/5** — Entities: Israeli ministers, West Bank, international relations
@@ -199,53 +249,3 @@ Disney's capitulation regarding Jimmy Kimmel raises concerns about the future of
 *finance* · 2025-09-18 · **Imp 4/5** — Entities: Cathie Wood, ARK Invest, UAE, Brera
 
 Cathie Wood's investment firm ARK Invest partners with the UAE in a $300 million bet on Brera, a football business leveraging cryptocurrency.
-
-**[Nvidia to invest $5bn in rival Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada)**  
-*finance* · 2025-09-18 · **Imp 4/5** — Tickers: NVDA, INTC — Entities: Nvidia, Intel
-
-Nvidia plans to invest $5 billion in rival Intel, signaling a significant shift in the competitive landscape of the semiconductor industry.
-
-**[Trump asks Supreme Court to let him fire Fed governor Lisa Cook](https://www.ft.com/content/c8effaf1-7b26-4942-b599-0e23a5253a73)**  
-*finance* · 2025-09-18 · **Imp 4/5** — Entities: Trump, Supreme Court, Federal Reserve, Lisa Cook
-
-Trump has petitioned the Supreme Court for the authority to dismiss Federal Reserve governor Lisa Cook, potentially impacting the Fed's governance and monetary policy direction.
-
-**[All the news from Meta Connect 2025](https://www.theverge.com/news/777572/meta-connect-2025-news-announcements-mark-zuckerberg-smart-glasses)**  
-*tech* · 2025-09-17 · **Imp 4/5** — Tickers: META — Entities: Meta, Mark Zuckerberg
-
-Meta Connect 2025, scheduled for September 17-18, will focus on AI glasses and the metaverse, featuring a keynote by CEO Mark Zuckerberg. Anticipated announcements include innovative smart glasses controlled by a neural wristband.
-
-**[Argentina props up peso as crisis roils Milei](https://www.ft.com/content/d22c4708-f05a-47ac-b028-b13d7cba68c9)**  
-*finance* · 2025-09-17 · **Imp 4/5** — Entities: Argentina, peso, Milei
-
-Argentina is intervening to stabilize the peso amid ongoing economic turmoil under President Milei's administration. This move aims to address the financial crisis affecting the country's currency and economy.
-
-**[Federal Reserve cuts rates by quarter point and signals more to come](https://www.ft.com/content/f1d4522b-331e-45d5-b676-24dc5b8e3c92)**  
-*finance* · 2025-09-17 · **Imp 4/5** — Entities: Federal Reserve
-
-The Federal Reserve has reduced interest rates by a quarter point and indicated that further cuts may follow, impacting borrowing costs and economic growth.
-
-**[Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)**  
-*tech* · 2025-09-17 · **Imp 4/5** — Entities: Microsoft, Asus, MSI
-
-Microsoft's Xbox mode for Windows 11 allows handheld devices to launch directly into the Xbox app, optimizing memory usage and enhancing gaming experience. This feature can be enabled early via the latest Windows update, benefiting various handheld gaming PCs.
-
-**[DeepMind and OpenAI achieve gold at ‘coding Olympics’ in AI milestone](https://www.ft.com/content/c2f7e7ef-df7b-4b74-a899-1cb12d663ce6)**  
-*finance* · 2025-09-17 · **Imp 4/5** — Entities: DeepMind, OpenAI
-
-DeepMind and OpenAI have reached a significant milestone by excelling at a prestigious coding competition, showcasing advancements in AI capabilities.
-
-**[Saudi Arabia signs ‘strategic mutual defence’ pact with Pakistan](https://www.ft.com/content/50a48a5a-a022-411d-803e-bbd804f99563)**  
-*finance* · 2025-09-17 · **Imp 4/5** — Entities: Saudi Arabia, Pakistan
-
-Saudi Arabia and Pakistan have signed a strategic mutual defense pact, enhancing military cooperation and potentially impacting regional stability and security dynamics.
-
-**[The problem with taxing the rich](https://www.ft.com/content/43ab44ef-359e-4af8-bded-093be6e56f4d)**  
-*finance* · 2025-09-17 · **Imp 4/5** — Entities: wealthy individuals, economists, policymakers
-
-The article discusses the challenges and implications of implementing taxes on wealthy individuals, highlighting potential economic impacts and the effectiveness of such measures.
-
-**[BlackRock expands leadership bench in reorganisation of top talent](https://www.ft.com/content/5a0577a8-9281-4a6d-b876-35e1c79efef4)**  
-*finance* · 2025-09-16 · **Imp 4/5** — Tickers: BLK — Entities: BlackRock
-
-BlackRock has reorganized its leadership team to enhance its top talent, indicating a strategic move to strengthen its management structure.
