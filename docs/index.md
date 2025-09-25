@@ -55,6 +55,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)**  
+*tech* · 2025-09-24 · **Imp 4/5** — Tickers: NTDOY — Entities: Nintendo, Fire Emblem, Among Us
+
+Nintendo's new Fire Emblem mobile game introduces a twist reminiscent of Among Us, where players must identify a traitor among allies. The voting outcome influences subsequent battles, adding a strategic layer to gameplay.
+
+**[Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)**  
+*tech* · 2025-09-24 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Android, ChromeOS
+
+Google plans to launch Android for PC next year, integrating AI advancements and enhancing the synergy between Android and ChromeOS, aiming to improve productivity on laptops.
+
+**[Citigroup to sell stake in Mexico’s Banamex for $2.3bn](https://www.ft.com/content/6a9cae1d-9f1b-43a7-a721-e2e4eb1fd33b)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Tickers: C — Entities: Citigroup, Banamex
+
+Citigroup has announced the sale of its stake in Mexico's Banamex for $2.3 billion, marking a significant divestment in its international operations.
+
+**[US shale bosses decry ‘chaos’ in Trump administration’s energy policy](https://www.ft.com/content/5391ae3f-e87e-43d0-8e85-fc2fe3f99c21)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: US shale executives, Trump administration
+
+US shale executives express frustration over the unpredictability of energy policies under the Trump administration, highlighting concerns about regulatory chaos impacting the industry.
+
+**[Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)**  
+*tech* · 2025-09-24 · **Imp 4/5** — Entities: Housemarque, Sony
+
+Housemarque's new PS5 shooter, Saros, launches on March 20, 2026, featuring gameplay elements reminiscent of Returnal, including futuristic weapons and a new shield mechanic. The game introduces a 'Second Chance' ability and permanent-progression systems, enhancing the gaming experience for PS5 Pro users.
+
+**[Top Federal Reserve official warns against quick series of rate cuts](https://www.ft.com/content/3af292a8-6e02-431e-a8b6-007aa99030e8)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: Federal Reserve
+
+A senior Federal Reserve official cautions against implementing a rapid succession of interest rate cuts, highlighting potential risks to economic stability.
+
+**[US debt investors raise alarm over lending standards](https://www.ft.com/content/cdb5ad3e-1c11-48af-9852-00ccc147abbf)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: US debt investors, credit market
+
+US debt investors express concerns regarding deteriorating lending standards, signaling potential risks in the credit market. This could impact investment strategies and borrowing costs for businesses and consumers.
+
+**[Europe’s necessary appeasement of Donald Trump](https://www.ft.com/content/7d4866b6-28a9-4e69-9288-4e970447ffe7)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: Europe, Donald Trump
+
+The article discusses Europe's strategic approach to appeasing Donald Trump, highlighting the implications for international relations and economic policies.
+
+**[Auto lender’s bust signals strain in financial health of US households](https://www.ft.com/content/3e8f7b18-0c7c-479d-85f2-46c6599d89e0)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: auto lender, US households, consumer credit markets
+
+The recent failure of an auto lender highlights the financial strain on US households, indicating potential risks in consumer credit markets and broader economic health.
+
+**[RIP to safe havens](https://www.ft.com/content/2ad561fc-03f4-47b5-8537-7e58355d16d2)**  
+*finance* · 2025-09-24 · **Imp 4/5** — Entities: investors, financial markets
+
+The article discusses the decline of traditional safe havens in finance, highlighting shifts in investment strategies and market dynamics.
+
 **[Tether targets $500bn valuation with $20bn private funding round](https://www.ft.com/content/0739f8fc-4cfc-48e5-910b-f5375fafce8e)**  
 *finance* · 2025-09-23 · **Imp 4/5** — Entities: Tether
 
@@ -199,53 +249,3 @@ The article discusses the implications of immigration on the economy, emphasizin
 *tech* · 2025-09-19 · **Imp 4/5** — Entities: Trump Administration, TikTok, Silver Lake, Oracle, ByteDance
 
 The Trump Administration may negotiate a multibillion-dollar fee from US investors for a potential TikTok takeover, with reports suggesting a deal could benefit investors like Silver Lake and Oracle. However, the certainty of the deal remains unclear.
-
-**[Trump to add $100,000 application fee to H-1B foreign worker visas](https://www.ft.com/content/f6bfaefe-647b-4d73-bb83-bb8e7194f499)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: Trump administration, H-1B visa program, tech industry
-
-Trump's administration plans to impose a $100,000 application fee for H-1B foreign worker visas, potentially impacting the tech industry reliant on skilled foreign labor.
-
-**[Argentina spends $1bn to defend peso as Milei’s crisis spirals](https://www.ft.com/content/270d9987-9b42-4ccf-83e8-cb6fe57faab7)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: Argentina, Milei
-
-Argentina has allocated $1 billion to defend its peso amid escalating economic crises under President Milei's administration. This move highlights the government's struggle to stabilize the currency and restore investor confidence.
-
-**[Russia breaches Nato airspace in Estonia](https://www.ft.com/content/d23923bb-805e-4ad5-b8eb-951b0c47a36a)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: Russia, NATO, Estonia
-
-Russia has breached NATO airspace in Estonia, raising concerns about regional security and potential geopolitical tensions.
-
-**[Trump and Xi to meet in South Korea as US president hails TikTok deal](https://www.ft.com/content/9fc9e921-5dbb-4464-a89f-55273b0ac84e)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: Trump, Xi, TikTok, US, China
-
-Trump and Xi are set to meet in South Korea, coinciding with the US president's announcement of a TikTok deal, highlighting ongoing US-China relations and tech negotiations.
-
-**[The dollar is taking the hit from worries over the US](https://www.ft.com/content/ac9e7ee1-ebe5-431a-a315-b833de728ec9)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: US dollar, US economy
-
-The US dollar is facing pressure due to growing concerns about the US economy, impacting investor sentiment and market stability.
-
-**[Nvidia’s $5bn Intel stake turns bad finance into good money](https://www.ft.com/content/863af150-c5c3-44fa-9bed-9326b1ca9265)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Tickers: NVDA, INTC — Entities: Nvidia, Intel
-
-Nvidia's $5 billion investment in Intel has transformed poor financial performance into profitable outcomes, showcasing strategic financial maneuvering in the tech sector.
-
-**[Live demo fails, AI safety wins, and the golden age of robotics](https://techcrunch.com/podcast/live-demo-fails-ai-safety-wins-and-the-golden-age-of-robotics/)**  
-*startup* · 2025-09-19 · **Imp 4/5** — Entities: Equity, TechCrunch, AI, robotics, regulation
-
-The latest episode of Equity discusses AI advancements, robotics developments, and regulatory impacts, highlighting both challenges and opportunities in the tech landscape.
-
-**[US senators seek to raise pressure on Russia with ‘shadow fleet’ sanctions](https://www.ft.com/content/87f1309f-ca19-4c9f-9306-aa89c24f8aac)**  
-*finance* · 2025-09-19 · **Imp 4/5** — Entities: US senators, Russia, shadow fleet
-
-US senators are advocating for increased sanctions targeting Russia's 'shadow fleet' to enhance pressure on the country amid ongoing geopolitical tensions.
-
-**[Disney capitulation over Kimmel sparks fears for US media under Trump](https://www.ft.com/content/41cc3182-9117-4ca1-b5af-0dd24ccd2fe5)**  
-*finance* · 2025-09-18 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Jimmy Kimmel, US media
-
-Disney's capitulation regarding Jimmy Kimmel raises concerns about the future of US media under Trump's influence, potentially impacting content and corporate strategies in the entertainment sector.
-
-**[Cathie Wood and UAE in $300mn crypto bet on football business Brera](https://www.ft.com/content/9637e6e4-7042-48d8-8228-5a20b9f48f5d)**  
-*finance* · 2025-09-18 · **Imp 4/5** — Entities: Cathie Wood, ARK Invest, UAE, Brera
-
-Cathie Wood's investment firm ARK Invest partners with the UAE in a $300 million bet on Brera, a football business leveraging cryptocurrency.
