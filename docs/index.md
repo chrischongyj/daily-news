@@ -55,6 +55,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
+
+TikTok's US operations are set to be valued at $14 billion following a deal facilitated by the Trump administration, according to the White House.
+
+**[Trump announces 100% tariff on pharmaceutical products](https://www.ft.com/content/dd6d5fd0-0faa-4a55-84ce-58c4d00d531c)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: Trump, pharmaceutical industry
+
+Trump has announced a 100% tariff on pharmaceutical products, which could significantly impact the pricing and availability of these goods in the U.S. market.
+
+**[US justice department hits former FBI chief James Comey with criminal charges](https://www.ft.com/content/dded6ac1-505c-4994-8e89-5feeb421c625)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: US Justice Department, James Comey
+
+The US Justice Department has filed criminal charges against former FBI chief James Comey, marking a significant legal development that could impact public trust in federal institutions.
+
+**[Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)**  
+*tech* · 2025-09-25 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Farm51, Alien: Rogue Incursion Evolved Edition
+
+Nvidia has open-sourced its AI voice animation tool, Audio2Face, enabling developers to create realistic 3D avatars based on audio input. This move allows for enhanced character animation in games and apps, with existing developers already utilizing the technology.
+
+**[Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)**  
+*tech* · 2025-09-25 · **Imp 4/5** — Entities: Peter Thiel, Silicon Valley
+
+Peter Thiel argues against AI regulation, suggesting it could lead to a totalitarian regime akin to the Antichrist, which he believes would exploit existential risks to gain power. This perspective raises concerns about the implications of AI governance.
+
+**[Accenture to ‘exit’ staff who cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: Accenture
+
+Accenture plans to exit employees who cannot be retrained for roles in the AI-driven landscape, signaling a shift in workforce strategy amid technological advancements.
+
+**[Microsoft cuts off some services to the Israeli military](https://www.ft.com/content/32062a65-e458-4c04-b464-9af5a37cd16a)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, Israeli military
+
+Microsoft has decided to discontinue certain services provided to the Israeli military, reflecting a shift in its business practices and ethical considerations.
+
+**[Twitch is making it easy to rewind streams](https://www.theverge.com/news/785973/twitch-livestream-rewind-easy)**  
+*tech* · 2025-09-25 · **Imp 4/5** — Entities: Twitch, Dan Clancy
+
+Twitch is introducing a rewind feature for livestreams, allowing users to easily scrub back on streams directly from the channel page. Initially available for Twitch Turbo subscribers and select channels, the feature aims to enhance user experience while managing ad revenue concerns.
+
+**[Ex-Fed chiefs urge Supreme Court to deny Trump’s bid to remove Cook](https://www.ft.com/content/0d8ec8e2-283e-459f-8a2a-0ca915cb3f90)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: Donald Trump, Tim Cook, Federal Reserve
+
+Former Federal Reserve chairs are advocating for the Supreme Court to reject Donald Trump's attempt to dismiss Tim Cook from a legal matter, highlighting the intersection of finance and corporate governance.
+
+**[OpenAI is upping the ante massively](https://www.ft.com/content/1f3e5472-f438-4f28-8b4f-4eefb1870790)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: OpenAI
+
+OpenAI is significantly enhancing its offerings, indicating a strategic move to attract more subscribers and increase revenue streams through premium services.
+
+**[Zuckerberg and Altman move closer to Trump since Musk rift](https://www.ft.com/content/c3ac79f5-e2e4-4b45-96aa-7005a65ee550)**  
+*finance* · 2025-09-25 · **Imp 4/5** — Entities: Zuckerberg, Altman, Trump, Musk
+
+Zuckerberg and Altman are aligning more closely with Trump following a rift with Musk, indicating potential shifts in tech and political alliances.
+
 **[Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)**  
 *tech* · 2025-09-24 · **Imp 4/5** — Tickers: NTDOY — Entities: Nintendo, Fire Emblem, Among Us
 
@@ -194,58 +249,3 @@ The UK, Canada, and Australia have officially recognized Palestine as an indepen
 *finance* · 2025-09-21 · **Imp 4/5** — Entities: Murdoch family, Michael Dell, TikTok, Trump
 
 A group including the Murdoch family and Michael Dell is reportedly interested in acquiring TikTok, as stated by former President Trump. This potential acquisition could reshape the social media landscape.
-
-**[Trump’s H-1B visa fee to hit US employers with $14bn annual bill](https://www.ft.com/content/c51fc02c-0859-4908-9c3d-c3c1d12550c4)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: Trump, US employers, tech industry
-
-The new H-1B visa fee proposed by Trump is projected to cost US employers an annual total of $14 billion, significantly impacting the tech industry reliant on skilled foreign workers.
-
-**[Brunello Cucinelli chief hits back at short seller over alleged sanction breach](https://www.ft.com/content/ece272c3-de7e-47ac-ae1e-2d125d6ada80)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: Brunello Cucinelli
-
-Brunello Cucinelli's CEO responds to accusations from a short seller regarding alleged breaches of sanctions, defending the company's integrity and operations.
-
-**[Will Benjamin Netanyahu annex the West Bank?](https://www.ft.com/content/def54498-5bb1-4e74-91ed-1e1d6b771ad7)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: Benjamin Netanyahu, West Bank, Israel
-
-The article discusses the potential for Israeli Prime Minister Benjamin Netanyahu to annex the West Bank, a move that could have significant geopolitical implications.
-
-**[EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: EU, Big Tech
-
-The EU plans to prohibit Big Tech companies from participating in a new financial data sharing system, potentially impacting their access to valuable financial information.
-
-**[Private equity warns of mis-selling as sector opens up to individual investors](https://www.ft.com/content/5125a35e-f062-4dcc-8df3-e08c3cbb1f2c)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: private equity, individual investors
-
-Private equity firms are cautioning against potential mis-selling as the sector begins to allow individual investors greater access. This shift raises concerns about the suitability of investments for non-institutional investors.
-
-**[Trump’s new H-1B visa fee prompts emergency guidance from companies](https://www.ft.com/content/9822b5ee-4d3e-4e73-bbf4-be382d2fada7)**  
-*finance* · 2025-09-20 · **Imp 4/5** — Entities: Trump, companies, H-1B visa
-
-Trump's new H-1B visa fee has led companies to issue emergency guidance, impacting hiring practices and costs associated with foreign talent.
-
-**[The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)**  
-*tech* · 2025-09-20 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, JerryRigEverything
-
-The iPhone Air, measuring just 5.6mm, impressively withstands pressure due to its titanium frame, which is stronger and more elastic than aluminum. A bend test shows it can endure up to 216 pounds without cracking.
-
-**[‘It’s our South Africa moment’: the growing global boycott of Israel](https://www.ft.com/content/0a844acf-36c2-4313-8d0a-181ae220221f)**  
-*finance* · 2025-09-20 · **Imp 4/5** — Entities: Israel, South Africa
-
-The article discusses the increasing global boycott of Israel, drawing parallels to historical movements like the South Africa boycott. This trend may impact international relations and economic ties, particularly affecting investors and businesses involved in Israeli markets.
-
-**[What if Putin and Xi live forever?](https://www.ft.com/content/c1730723-11b1-4c9d-97a0-078de98cbaf5)**  
-*finance* · 2025-09-20 · **Imp 4/5** — Entities: Vladimir Putin, Xi Jinping
-
-The article speculates on the implications of Vladimir Putin and Xi Jinping potentially having indefinite lifespans, examining the geopolitical and economic consequences of their prolonged leadership.
-
-**[The truth about immigration](https://www.ft.com/content/43dad7d6-3042-4697-b266-4252eba78ce3)**  
-*finance* · 2025-09-20 · **Imp 4/5** — Entities: immigration, economy, labor markets, innovation, policies
-
-The article discusses the implications of immigration on the economy, emphasizing its impact on labor markets and innovation. It highlights the need for informed policies to balance economic growth with social considerations.
-
-**[Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)**  
-*tech* · 2025-09-19 · **Imp 4/5** — Entities: Trump Administration, TikTok, Silver Lake, Oracle, ByteDance
-
-The Trump Administration may negotiate a multibillion-dollar fee from US investors for a potential TikTok takeover, with reports suggesting a deal could benefit investors like Silver Lake and Oracle. However, the certainty of the deal remains unclear.
