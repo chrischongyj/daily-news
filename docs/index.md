@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/)**  
+*startup* · 2025-09-26 · **Imp 5/5** — Entities: OpenAI, Equity, TechCrunch
+
+The tech landscape is rapidly evolving with significant investments in AI data centers, highlighted by OpenAI's $100 billion commitments. The latest episode of the Equity podcast discusses this AI infrastructure boom and the shifting talent dynamics in the industry.
+
 **[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
 *finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
 
@@ -54,6 +59,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)**  
+*tech* · 2025-09-26 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+
+Microsoft is testing an AI feature in the Photos app for Windows 11 that auto-categorizes images into folders based on content, including receipts and identity documents, enhancing organization for users.
+
+**[Lawyers cite Trump autism warning in push to revive Tylenol lawsuits](https://www.ft.com/content/535c6c4f-39be-4f32-bf29-e7ba5021d2d0)**  
+*finance* · 2025-09-26 · **Imp 4/5** — Entities: Trump, Tylenol, lawyers
+
+Lawyers are leveraging a warning from Trump regarding autism to reinvigorate lawsuits against Tylenol, suggesting potential legal and financial implications for the pharmaceutical company.
+
+**[Video game maker Electronic Arts nears $50bn deal to go private](https://www.ft.com/content/b845be9e-8f36-4dd8-885a-2eb81150a530)**  
+*finance* · 2025-09-26 · **Imp 4/5** — Tickers: EA — Entities: Electronic Arts
+
+Electronic Arts is approaching a $50 billion deal to go private, indicating significant shifts in the gaming industry and potential impacts on investors and stakeholders.
+
+**[UK to offer to pay more for drugs to placate Trump and pharma groups](https://www.ft.com/content/c28e58b2-85fa-4838-b798-8812676689ee)**  
+*finance* · 2025-09-26 · **Imp 4/5** — Entities: UK, Trump, pharmaceutical companies
+
+The UK plans to increase drug payments to appease Trump and pharmaceutical companies, potentially impacting healthcare costs and negotiations in the sector.
+
+**[YouTube’s new AI experiment adds AI hosts to your music](https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts)**  
+*tech* · 2025-09-26 · **Imp 4/5** — Entities: YouTube, Google
+
+YouTube is testing AI hosts in its Music app to enhance user experience with music-related commentary. This initiative is part of the YouTube Labs program, allowing select US users to trial new AI features. The program aligns with Google's broader AI efforts, including enhancements in YouTube Premium features.
+
+**[Double-Fomo driving US markets](https://www.ft.com/content/6c181cb1-0cbb-4668-9854-5a29debb05b1)**  
+*finance* · 2025-09-26 · **Imp 4/5** — Entities: US markets, investors, analysts
+
+The article discusses the phenomenon of 'Double-Fomo' impacting US markets, indicating heightened investor anxiety and speculative behavior. This trend may influence market volatility and investment strategies.
+
+**[Netanyahu vows to prevent Palestinian state in UN address](https://www.ft.com/content/fe6d27d3-c13a-4a7c-8a22-5e2c516de6e5)**  
+*finance* · 2025-09-26 · **Imp 4/5** — Entities: Netanyahu, Palestinian Authority, United Nations
+
+Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a Palestinian state during his address at the UN, signaling ongoing geopolitical tensions that could impact regional stability and international relations.
 
 **[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
 *finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
@@ -209,43 +249,3 @@ First Brands' lenders are urgently seeking a rescue loan to support the struggli
 *finance* · 2025-09-22 · **Imp 4/5** — Entities: France, Palestine, Israel
 
 France has officially recognized Palestinian statehood and is advocating for an end to the ongoing conflict in Gaza, signaling a shift in diplomatic relations and potential implications for international finance and investments in the region.
-
-**[Supreme Court decision on Trump’s firing of Cook looms over the Fed](https://www.ft.com/content/c7b91795-46d7-4377-8830-8f21c89af0c6)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: Supreme Court, Trump, Cook, Federal Reserve
-
-The Supreme Court's impending decision regarding Trump's firing of Cook is creating uncertainty for the Federal Reserve, potentially impacting monetary policy and market stability.
-
-**[Clock’s ticking: Get hands-on experience volunteering at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/clocks-ticking-get-hands-on-experience-volunteering-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-09-22 · **Imp 4/5** — Entities: TechCrunch, startup founders, investors, tech enthusiasts
-
-Volunteering at TechCrunch Disrupt 2025 offers hands-on experience in event production and networking opportunities with startup founders and investors. Applications are due by September 30, exclusively for Bay Area residents.
-
-**[Israeli ministers call for West Bank annexation after recognition push](https://www.ft.com/content/c86cb087-da8c-4e4f-926c-40804b3992e2)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: Israeli ministers, West Bank, international relations
-
-Israeli ministers are advocating for the annexation of the West Bank following a push for recognition, which could significantly impact regional stability and international relations.
-
-**[Putin is playing a dangerous game with Nato](https://www.ft.com/content/2ee21b5c-24fc-400e-a51d-2c197d09c471)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: Putin, NATO
-
-The article discusses the geopolitical tensions between Putin and NATO, highlighting the potential risks and implications for global stability and finance.
-
-**[‘Everyone’s at risk’: Trump’s immigration crackdown reaches Bethlehem](https://www.ft.com/content/8e28d408-a0b4-4fa0-960b-5ec2a472736f)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: Trump, Bethlehem, immigrant labor
-
-Trump's immigration policies are impacting Bethlehem, raising concerns about risks to local economies and labor markets. The crackdown may affect businesses reliant on immigrant labor, potentially leading to workforce shortages and economic challenges.
-
-**[How south-east Asia lost its way](https://www.ft.com/content/4f076672-789b-4b8a-9784-c83d84573798)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: Southeast Asia, economic growth, stability
-
-The article discusses the challenges faced by Southeast Asia in maintaining economic growth and stability, highlighting factors that have contributed to its current situation.
-
-**[UK, Canada and Australia recognise Palestine as an independent state](https://www.ft.com/content/36ddd673-6d55-4191-b87b-f32ee1482858)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: UK, Canada, Australia, Palestine
-
-The UK, Canada, and Australia have officially recognized Palestine as an independent state, marking a significant geopolitical shift that may influence international relations and investment strategies.
-
-**[Murdochs and Michael Dell part of TikTok buyer group, says Trump](https://www.ft.com/content/a6e8b916-6c63-42c0-8dc3-d2956746d22b)**  
-*finance* · 2025-09-21 · **Imp 4/5** — Entities: Murdoch family, Michael Dell, TikTok, Trump
-
-A group including the Murdoch family and Michael Dell is reportedly interested in acquiring TikTok, as stated by former President Trump. This potential acquisition could reshape the social media landscape.
