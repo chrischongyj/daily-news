@@ -3,7 +3,7 @@
 **[Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/)**  
 *startup* · 2025-09-26 · **Imp 5/5** — Entities: OpenAI, Equity, TechCrunch
 
-The tech landscape is rapidly evolving with significant investments in AI data centers, highlighted by OpenAI's $100 billion commitments. The latest episode of the Equity podcast discusses this AI infrastructure boom and the shifting talent dynamics in the industry.
+The tech landscape is rapidly evolving with significant investments in AI data centers, highlighted by OpenAI's $100 billion commitments. The latest Equity podcast discusses this AI infrastructure boom and the shifting talent dynamics in the industry.
 
 **[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
 *finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
@@ -60,10 +60,40 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[London considers lowering affordable homes target to spur house building](https://www.ft.com/content/dab02120-928d-46bc-bd1e-3a0c9c2fb36d)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: London, real estate market, housing developers
+
+London is contemplating a reduction in its affordable housing targets to stimulate house building, potentially impacting the real estate market and housing availability.
+
+**[Jaguar Land Rover wins £1.5bn UK loan support after cyber attack](https://www.ft.com/content/ae3c68c9-5989-46cc-979c-fada35d77b3d)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: Jaguar Land Rover, UK government
+
+Jaguar Land Rover secures £1.5 billion in UK loan support following a cyber attack, aiding its recovery and operational stability.
+
+**[US soyabean farmers squeezed as China blocks imports and stockpiles rise](https://www.ft.com/content/b920c4c4-dcd7-4d5b-9a56-fc5cc1c994c4)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: US soybean farmers, China
+
+US soybean farmers face challenges as China halts imports and domestic stockpiles increase, impacting prices and market dynamics.
+
+**[Euro’s rally has further to run, Wall Street banks predict](https://www.ft.com/content/5b179bb6-684a-48d1-abac-a25aacb12a49)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: Wall Street banks, Euro
+
+Wall Street banks forecast that the Euro's rally will continue, indicating potential shifts in currency markets and investment strategies.
+
+**[How tech lords and populists changed the rules of power](https://www.ft.com/content/85ee3be0-c9a6-4a1d-baf9-8b2ca9e46a85)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: tech leaders, populists, governance
+
+The article discusses how influential tech leaders and populist movements have reshaped power dynamics, impacting governance and business practices.
+
+**[China sends 2,000 workers to build battery power in Europe](https://www.ft.com/content/0f2637ae-f49c-45c5-845f-3b7aa10bea0f)**  
+*finance* · 2025-09-27 · **Imp 4/5** — Entities: China, Europe, battery power
+
+China is deploying 2,000 workers to Europe to support the construction of battery power facilities, indicating a strategic move to enhance its influence in the European energy sector.
+
 **[Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)**  
 *tech* · 2025-09-26 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
 
-Microsoft is testing an AI feature in the Photos app for Windows 11 that auto-categorizes images into folders based on content, including receipts and identity documents, enhancing organization for users.
+Microsoft is testing an AI feature in the Photos app for Windows 11 that auto-categorizes images into folders based on content, enhancing organization for users. This includes receipts, screenshots, identity documents, and handwritten notes, regardless of the language in the text.
 
 **[Lawyers cite Trump autism warning in push to revive Tylenol lawsuits](https://www.ft.com/content/535c6c4f-39be-4f32-bf29-e7ba5021d2d0)**  
 *finance* · 2025-09-26 · **Imp 4/5** — Entities: Trump, Tylenol, lawyers
@@ -94,6 +124,11 @@ The article discusses the phenomenon of 'Double-Fomo' impacting US markets, indi
 *finance* · 2025-09-26 · **Imp 4/5** — Entities: Netanyahu, Palestinian Authority, United Nations
 
 Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a Palestinian state during his address at the UN, signaling ongoing geopolitical tensions that could impact regional stability and international relations.
+
+**[From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/)**  
+*startup* · 2025-09-26 · **Imp 4/5** — Entities: OpenAI, Equity, TechCrunch
+
+This week highlighted significant shifts in the tech landscape, from $100 billion OpenAI commitments to rising visa fees. The Equity podcast discusses the AI infrastructure boom and talent movement in the industry.
 
 **[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
 *finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
@@ -214,38 +249,3 @@ Trump asserts that Ukraine has the potential to reclaim all territory lost to Ru
 *finance* · 2025-09-23 · **Imp 4/5** — Entities: OpenAI, Stargate AI
 
 OpenAI has expanded its Stargate AI project by establishing five new sites across the United States, enhancing its capabilities in artificial intelligence development.
-
-**[Google’s Mixboard is an AI moodboard builder](https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas)**  
-*tech* · 2025-09-23 · **Imp 4/5** — Entities: Google, Gemini 2.5, FigJam, Adobe, Pinterest
-
-Google has launched Mixboard, an AI moodboard builder that allows users to create design projects using templates or text prompts. This tool, currently in public beta, enhances creative exploration similar to platforms like FigJam and Adobe Firefly Boards.
-
-**[Fed’s Powell signals further US interest rate cuts are not guaranteed](https://www.ft.com/content/6f7e5346-bb1b-4b60-9dfe-34a65c151e34)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
-
-Fed Chair Jerome Powell indicated that additional interest rate cuts in the US are not assured, suggesting a cautious approach to monetary policy moving forward.
-
-**[How Argentina’s Milei lost the markets and turned to Trump](https://www.ft.com/content/e5e314d0-31cf-44e0-9167-63a787baac47)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: Argentina, Milei, Trump
-
-Argentina's Milei has shifted his strategy from appealing to markets to aligning with Trump, indicating a significant change in political and economic direction that could impact investor confidence.
-
-**[America’s accelerating exit from itself](https://www.ft.com/content/a2840f43-cbd3-4c3e-89fc-36f25a7da97b)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: America, FT newspaper
-
-The article discusses the implications of America's rapid disengagement from its traditional economic and social frameworks, highlighting potential impacts on investors and the broader financial landscape.
-
-**[Fed has room for three more rate cuts as US growth slows, says OECD](https://www.ft.com/content/d264df16-58ce-43da-8fff-d70e6584b9a1)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: Federal Reserve, OECD
-
-The OECD indicates that the Federal Reserve can implement three additional rate cuts due to slowing US economic growth, suggesting potential easing of monetary policy.
-
-**[First Brands’ lenders race to secure rescue loan for car parts group](https://www.ft.com/content/003012bb-43ef-426a-8631-4ef6bb09c229)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: First Brands, lenders, car parts group
-
-First Brands' lenders are urgently seeking a rescue loan to support the struggling car parts group, highlighting the financial challenges faced by the company.
-
-**[France recognises Palestinian statehood and calls for end to Israeli war in Gaza](https://www.ft.com/content/2aee8308-6644-40e8-bc19-3d74ae349dc6)**  
-*finance* · 2025-09-22 · **Imp 4/5** — Entities: France, Palestine, Israel
-
-France has officially recognized Palestinian statehood and is advocating for an end to the ongoing conflict in Gaza, signaling a shift in diplomatic relations and potential implications for international finance and investments in the region.
