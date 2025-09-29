@@ -60,10 +60,40 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)**  
+*tech* · 2025-09-28 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Siri, Veritas, Google, Gemini
+
+Apple is testing an internal chatbot named Veritas to enhance Siri's AI capabilities, amidst delays and competition in the AI sector. The tool allows employees to interact and provide feedback on new features, but there are no current plans for consumer release.
+
+**[Trump to meet lawmakers as US government heads to a shutdown](https://www.ft.com/content/c576db0f-4d05-42ed-9f37-28bc524c6fab)**  
+*finance* · 2025-09-28 · **Imp 4/5** — Entities: Trump, lawmakers, U.S. government
+
+Former President Trump is scheduled to meet with lawmakers as the U.S. government approaches a potential shutdown, raising concerns about fiscal stability and government operations.
+
+**[Occidental Petroleum in talks to sell OxyChem unit for about $10bn](https://www.ft.com/content/800fc153-1f61-4570-a5e0-dc784bf99b63)**  
+*finance* · 2025-09-28 · **Imp 4/5** — Tickers: OXY — Entities: Occidental Petroleum,OxyChem
+
+Occidental Petroleum is in discussions to sell its OxyChem unit for approximately $10 billion, indicating a strategic shift in its business operations.
+
+**[Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack](https://www.ft.com/content/3fddf6a7-f20a-4243-aeff-b7a728002512)**  
+*finance* · 2025-09-28 · **Imp 4/5** — Entities: Russia, Ukraine
+
+A significant 12-hour attack involving Russian missiles and drones has targeted Ukraine, escalating the ongoing conflict. This development may impact geopolitical stability and economic conditions in the region.
+
+**[Economists favour Waller to lead Fed but expect Trump to pick a loyalist](https://www.ft.com/content/9a0c2ff7-bfdc-4bbb-8dcd-622e1c4df313)**  
+*finance* · 2025-09-28 · **Imp 4/5** — Entities: Waller, Trump, Federal Reserve
+
+Economists support Waller for the Federal Reserve leadership role, but anticipate that Trump will select a loyalist instead. This situation could influence monetary policy and market stability.
+
 **[London considers lowering affordable homes target to spur house building](https://www.ft.com/content/dab02120-928d-46bc-bd1e-3a0c9c2fb36d)**  
 *finance* · 2025-09-27 · **Imp 4/5** — Entities: London, real estate market, housing developers
 
 London is contemplating a reduction in its affordable housing targets to stimulate house building, potentially impacting the real estate market and housing availability.
+
+**[Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)**  
+*tech* · 2025-09-27 · **Imp 4/5** — Entities: Martin Shkreli, Wu-Tang Clan, PleasrDAO
+
+Martin Shkreli faces a lawsuit for allegedly copying Wu-Tang Clan's exclusive album, Once Upon a Time in Shaolin. A judge allowed claims of trade secret misappropriation to proceed, emphasizing the album's value lies in its secrecy. PleasrDAO, the album's current owners, accuse Shkreli of diminishing its worth.
 
 **[Jaguar Land Rover wins £1.5bn UK loan support after cyber attack](https://www.ft.com/content/ae3c68c9-5989-46cc-979c-fada35d77b3d)**  
 *finance* · 2025-09-27 · **Imp 4/5** — Entities: Jaguar Land Rover, UK government
@@ -128,7 +158,7 @@ Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a P
 **[From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/)**  
 *startup* · 2025-09-26 · **Imp 4/5** — Entities: OpenAI, Equity, TechCrunch
 
-This week highlighted significant shifts in the tech landscape, from $100 billion OpenAI commitments to rising visa fees. The Equity podcast discusses the AI infrastructure boom and talent movement in the industry.
+This week highlighted significant shifts in the tech landscape, from $100 billion commitments to OpenAI to rising visa fees for tech workers. The Equity podcast discusses the implications of these changes on AI infrastructure and talent acquisition.
 
 **[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
 *finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
@@ -219,33 +249,3 @@ A senior Federal Reserve official cautions against implementing a rapid successi
 *finance* · 2025-09-24 · **Imp 4/5** — Entities: US debt investors, credit market
 
 US debt investors express concerns regarding deteriorating lending standards, signaling potential risks in the credit market. This could impact investment strategies and borrowing costs for businesses and consumers.
-
-**[Europe’s necessary appeasement of Donald Trump](https://www.ft.com/content/7d4866b6-28a9-4e69-9288-4e970447ffe7)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: Europe, Donald Trump
-
-The article discusses Europe's strategic approach to appeasing Donald Trump, highlighting the implications for international relations and economic policies.
-
-**[Auto lender’s bust signals strain in financial health of US households](https://www.ft.com/content/3e8f7b18-0c7c-479d-85f2-46c6599d89e0)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: auto lender, US households, consumer credit markets
-
-The recent failure of an auto lender highlights the financial strain on US households, indicating potential risks in consumer credit markets and broader economic health.
-
-**[RIP to safe havens](https://www.ft.com/content/2ad561fc-03f4-47b5-8537-7e58355d16d2)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: investors, financial markets
-
-The article discusses the decline of traditional safe havens in finance, highlighting shifts in investment strategies and market dynamics.
-
-**[Tether targets $500bn valuation with $20bn private funding round](https://www.ft.com/content/0739f8fc-4cfc-48e5-910b-f5375fafce8e)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: Tether
-
-Tether aims for a $500 billion valuation through a $20 billion private funding round, signaling significant growth potential in the stablecoin market.
-
-**[Trump says Ukraine can win back all of its territory seized by Russia](https://www.ft.com/content/f36d52e4-29d2-491f-80ad-faa12ecc7845)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: Trump, Ukraine, Russia
-
-Trump asserts that Ukraine has the potential to reclaim all territory lost to Russia, signaling a strong stance on the ongoing conflict and its implications for international relations and security.
-
-**[OpenAI expands Stargate AI project with five US sites](https://www.ft.com/content/9b6c7db8-9a14-4261-9c18-38ec84d869a0)**  
-*finance* · 2025-09-23 · **Imp 4/5** — Entities: OpenAI, Stargate AI
-
-OpenAI has expanded its Stargate AI project by establishing five new sites across the United States, enhancing its capabilities in artificial intelligence development.
