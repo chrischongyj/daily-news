@@ -1,10 +1,5 @@
 # AI Curated News Analyst — Latest
 
-**[Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/)**  
-*startup* · 2025-09-26 · **Imp 5/5** — Entities: OpenAI, Equity, TechCrunch
-
-The tech landscape is rapidly evolving with significant investments in AI data centers, highlighted by OpenAI's $100 billion commitments. The latest Equity podcast discusses this AI infrastructure boom and the shifting talent dynamics in the industry.
-
 **[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
 *finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
 
@@ -59,6 +54,66 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[Here are 55 great deals you can snag ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)**  
+*tech* · 2025-09-29 · **Imp 4/5** — Tickers: AMZN,AAPL — Entities: Amazon, Apple
+
+Amazon's fall Prime Day, named Prime Big Deal Days, is set for October 7-8, featuring early discounts on gadgets like earbuds and tablets. Early deals are already available, with updates on sales expected.
+
+**[YouTube pays $24.5mn to settle Trump censorship lawsuit](https://www.ft.com/content/8084f3c1-9436-4305-9147-9ea10044448f)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: YouTube, Trump
+
+YouTube has agreed to pay $24.5 million to settle a lawsuit regarding alleged censorship of former President Trump. This settlement highlights ongoing tensions between social media platforms and political figures.
+
+**[YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)**  
+*tech* · 2025-09-29 · **Imp 4/5** — Tickers: GOOGL, META, TWTR — Entities: YouTube, Google, Donald Trump, Meta, X, Trust for the National Mall
+
+YouTube has settled a lawsuit with Donald Trump for $24.5 million, following similar settlements by Meta and X. The majority of the funds will support the Trust for the National Mall, while YouTube aimed to keep its settlement lower than Meta's $25 million.
+
+**[HSBC chair’s exit leaves Europe’s biggest bank with a leadership vacuum](https://www.ft.com/content/10f2172d-5826-4471-b198-fb69ea172afd)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC
+
+The departure of HSBC's chair creates a leadership vacuum at Europe's largest bank, raising concerns about governance and strategic direction during a critical time for the financial sector.
+
+**[What happens if the US government shuts down?](https://www.ft.com/content/ea902413-f866-4456-a4f8-ac1cd25de5c6)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: US government, federal services, financial markets, investors, businesses
+
+A US government shutdown could disrupt federal services, impact economic growth, and create uncertainty in financial markets, affecting investors and businesses reliant on government contracts.
+
+**[Vance warns US government is ‘headed to a shutdown’](https://www.ft.com/content/30875a60-3474-4bfc-8240-13fd6ea33390)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: Vance, US government
+
+Vance cautions that the US government is on the brink of a shutdown, which could have significant implications for various sectors.
+
+**[Tile’s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)**  
+*tech* · 2025-09-29 · **Imp 4/5** — Entities: Tile, Life360, HackerOne
+
+Tile's lack of encryption raises concerns about user safety and privacy, potentially exposing tracker owners to stalking risks. Life360 emphasizes its commitment to security and ethical practices in addressing these vulnerabilities.
+
+**[Charlie Javice sentenced to 7 years in prison for JPMorgan fraud](https://www.ft.com/content/b0e97fc9-c3f1-4b3e-a5ae-9f9a6b30ae6e)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: Charlie Javice, JPMorgan
+
+Charlie Javice has been sentenced to 7 years in prison for committing fraud against JPMorgan, highlighting significant legal repercussions in the finance sector.
+
+**[Full text of Trump’s proposal to end the war in Gaza](https://www.ft.com/content/0c1f3cc4-799a-495c-b12f-20c613289e97)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: Trump, Gaza, geopolitical stability
+
+Trump's proposal aims to end the Gaza conflict, potentially influencing geopolitical stability and economic conditions in the region.
+
+**[A liberal Chicago suburb is paying reparations — will others follow?](https://www.ft.com/content/0148fd4b-5eb7-4a1f-ac43-228e2889f787)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Entities: Chicago, suburbs, reparations, governance, social equity
+
+A liberal suburb in Chicago is implementing a reparations program, raising questions about whether other municipalities will adopt similar measures. This initiative could influence local governance and social equity discussions across the U.S.
+
+**[Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/)**  
+*startup* · 2025-09-29 · **Imp 4/5** — Entities: TechCrunch, VCs, founders, startups
+
+Final day to apply for volunteering at TechCrunch Disrupt 2025, offering networking with VCs and founders, and insights into startup culture. Applications close tonight at 11:59 p.m. PT.
+
+**[Video games maker Electronic Arts strikes $55bn deal to go private](https://www.ft.com/content/be980240-13ec-498c-ba79-71eada30d133)**  
+*finance* · 2025-09-29 · **Imp 4/5** — Tickers: EA — Entities: Electronic Arts
+
+Electronic Arts has announced a $55 billion deal to go private, marking a significant shift in its corporate structure and strategy.
 
 **[Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)**  
 *tech* · 2025-09-28 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Siri, Veritas, Google, Gemini
@@ -155,11 +210,6 @@ The article discusses the phenomenon of 'Double-Fomo' impacting US markets, indi
 
 Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a Palestinian state during his address at the UN, signaling ongoing geopolitical tensions that could impact regional stability and international relations.
 
-**[From $100B OpenAI deals to $100K visa fees](https://techcrunch.com/podcast/from-100b-openai-deals-to-100k-visa-fees/)**  
-*startup* · 2025-09-26 · **Imp 4/5** — Entities: OpenAI, Equity, TechCrunch
-
-This week highlighted significant shifts in the tech landscape, from $100 billion commitments to OpenAI to rising visa fees for tech workers. The Equity podcast discusses the implications of these changes on AI infrastructure and talent acquisition.
-
 **[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
 *finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
 
@@ -199,53 +249,3 @@ Microsoft has decided to discontinue certain services provided to the Israeli mi
 *tech* · 2025-09-25 · **Imp 4/5** — Entities: Twitch, Dan Clancy
 
 Twitch is introducing a rewind feature for livestreams, allowing users to easily scrub back on streams directly from the channel page. Initially available for Twitch Turbo subscribers and select channels, the feature aims to enhance user experience while managing ad revenue concerns.
-
-**[Ex-Fed chiefs urge Supreme Court to deny Trump’s bid to remove Cook](https://www.ft.com/content/0d8ec8e2-283e-459f-8a2a-0ca915cb3f90)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: Donald Trump, Tim Cook, Federal Reserve
-
-Former Federal Reserve chairs are advocating for the Supreme Court to reject Donald Trump's attempt to dismiss Tim Cook from a legal matter, highlighting the intersection of finance and corporate governance.
-
-**[OpenAI is upping the ante massively](https://www.ft.com/content/1f3e5472-f438-4f28-8b4f-4eefb1870790)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: OpenAI
-
-OpenAI is significantly enhancing its offerings, indicating a strategic move to attract more subscribers and increase revenue streams through premium services.
-
-**[Zuckerberg and Altman move closer to Trump since Musk rift](https://www.ft.com/content/c3ac79f5-e2e4-4b45-96aa-7005a65ee550)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: Zuckerberg, Altman, Trump, Musk
-
-Zuckerberg and Altman are aligning more closely with Trump following a rift with Musk, indicating potential shifts in tech and political alliances.
-
-**[Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us)**  
-*tech* · 2025-09-24 · **Imp 4/5** — Tickers: NTDOY — Entities: Nintendo, Fire Emblem, Among Us
-
-Nintendo's new Fire Emblem mobile game introduces a twist reminiscent of Among Us, where players must identify a traitor among allies. The voting outcome influences subsequent battles, adding a strategic layer to gameplay.
-
-**[Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)**  
-*tech* · 2025-09-24 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Android, ChromeOS
-
-Google plans to launch Android for PC next year, integrating AI advancements and enhancing the synergy between Android and ChromeOS, aiming to improve productivity on laptops.
-
-**[Citigroup to sell stake in Mexico’s Banamex for $2.3bn](https://www.ft.com/content/6a9cae1d-9f1b-43a7-a721-e2e4eb1fd33b)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Tickers: C — Entities: Citigroup, Banamex
-
-Citigroup has announced the sale of its stake in Mexico's Banamex for $2.3 billion, marking a significant divestment in its international operations.
-
-**[US shale bosses decry ‘chaos’ in Trump administration’s energy policy](https://www.ft.com/content/5391ae3f-e87e-43d0-8e85-fc2fe3f99c21)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: US shale executives, Trump administration
-
-US shale executives express frustration over the unpredictability of energy policies under the Trump administration, highlighting concerns about regulatory chaos impacting the industry.
-
-**[Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)**  
-*tech* · 2025-09-24 · **Imp 4/5** — Entities: Housemarque, Sony
-
-Housemarque's new PS5 shooter, Saros, launches on March 20, 2026, featuring gameplay elements reminiscent of Returnal, including futuristic weapons and a new shield mechanic. The game introduces a 'Second Chance' ability and permanent-progression systems, enhancing the gaming experience for PS5 Pro users.
-
-**[Top Federal Reserve official warns against quick series of rate cuts](https://www.ft.com/content/3af292a8-6e02-431e-a8b6-007aa99030e8)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: Federal Reserve
-
-A senior Federal Reserve official cautions against implementing a rapid succession of interest rate cuts, highlighting potential risks to economic stability.
-
-**[US debt investors raise alarm over lending standards](https://www.ft.com/content/cdb5ad3e-1c11-48af-9852-00ccc147abbf)**  
-*finance* · 2025-09-24 · **Imp 4/5** — Entities: US debt investors, credit market
-
-US debt investors express concerns regarding deteriorating lending standards, signaling potential risks in the credit market. This could impact investment strategies and borrowing costs for businesses and consumers.
