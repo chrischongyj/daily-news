@@ -55,6 +55,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[US on brink of government shutdown as lawmakers remain deadlocked](https://www.ft.com/content/d59a507b-8514-46ef-95e0-1402128d4499)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, lawmakers
+
+The US government is nearing a shutdown as lawmakers are unable to reach an agreement, which could impact federal operations and economic stability.
+
+**[Deloitte’s global revenue growth picks up despite sluggish performance in Europe](https://www.ft.com/content/77f76d67-0bc0-4b4b-87d4-eb55b3cfbe2a)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: Deloitte
+
+Deloitte reports increased global revenue growth, contrasting with a sluggish performance in Europe, indicating resilience in other markets.
+
+**[Berkshire Hathaway nears $10bn deal for Occidental’s petrochemical unit](https://www.ft.com/content/62d316a1-d6a9-42b5-9b59-048590bf5868)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Tickers: BRK.A,OXY — Entities: Berkshire Hathaway, Occidental Petroleum
+
+Berkshire Hathaway is close to finalizing a $10 billion acquisition of Occidental Petroleum's petrochemical unit, signaling a significant investment in the energy sector.
+
+**[US announces direct-to-consumer ‘TrumpRx’ drug sales programme](https://www.ft.com/content/8d201c91-4574-4237-9c3b-9c367906962e)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, pharmaceutical industry
+
+The US has launched the 'TrumpRx' program, enabling direct-to-consumer drug sales, potentially impacting pharmaceutical pricing and accessibility.
+
+**[US vows to maintain tariffs regardless of Supreme Court ruling](https://www.ft.com/content/b1deb172-3c11-4a81-85ee-8e21a7fc31c4)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, Supreme Court
+
+The US government has committed to upholding tariffs irrespective of the Supreme Court's forthcoming decision, signaling a firm stance on trade policy.
+
+**[Brussels raids Sanofi in flu vaccine antitrust probe](https://www.ft.com/content/abb47eae-18f2-4063-bdd7-49dfa6aa530e)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Tickers: SNY — Entities: Brussels, Sanofi, flu vaccine, antitrust
+
+Brussels authorities have conducted raids on Sanofi as part of an antitrust investigation related to its flu vaccine business. This move signals increased scrutiny on pharmaceutical companies regarding competitive practices.
+
+**[How Donald Trump’s Gaza deal came together](https://www.ft.com/content/7c80077b-4045-4feb-a286-24cf643436c9)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: Donald Trump, Gaza
+
+The article discusses the formation of Donald Trump's Gaza deal, highlighting its implications for regional politics and potential economic impacts.
+
+**[Elon Musk hit by exodus of senior staff over burnout and politics](https://www.ft.com/content/21ec5a5f-0e9a-49b9-b64d-9ebc88e70aa7)**  
+*finance* · 2025-09-30 · **Imp 4/5** — Entities: Elon Musk
+
+Elon Musk faces a significant departure of senior staff due to burnout and political issues, raising concerns about leadership stability and company culture.
+
 **[Here are 55 great deals you can snag ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)**  
 *tech* · 2025-09-29 · **Imp 4/5** — Tickers: AMZN,AAPL — Entities: Amazon, Apple
 
@@ -104,11 +144,6 @@ Trump's proposal aims to end the Gaza conflict, potentially influencing geopolit
 *finance* · 2025-09-29 · **Imp 4/5** — Entities: Chicago, suburbs, reparations, governance, social equity
 
 A liberal suburb in Chicago is implementing a reparations program, raising questions about whether other municipalities will adopt similar measures. This initiative could influence local governance and social equity discussions across the U.S.
-
-**[Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/)**  
-*startup* · 2025-09-29 · **Imp 4/5** — Entities: TechCrunch, VCs, founders, startups
-
-Final day to apply for volunteering at TechCrunch Disrupt 2025, offering networking with VCs and founders, and insights into startup culture. Applications close tonight at 11:59 p.m. PT.
 
 **[Video games maker Electronic Arts strikes $55bn deal to go private](https://www.ft.com/content/be980240-13ec-498c-ba79-71eada30d133)**  
 *finance* · 2025-09-29 · **Imp 4/5** — Tickers: EA — Entities: Electronic Arts
@@ -214,38 +249,3 @@ Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a P
 *finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
 
 TikTok's US operations are set to be valued at $14 billion following a deal facilitated by the Trump administration, according to the White House.
-
-**[Trump announces 100% tariff on pharmaceutical products](https://www.ft.com/content/dd6d5fd0-0faa-4a55-84ce-58c4d00d531c)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: Trump, pharmaceutical industry
-
-Trump has announced a 100% tariff on pharmaceutical products, which could significantly impact the pricing and availability of these goods in the U.S. market.
-
-**[US justice department hits former FBI chief James Comey with criminal charges](https://www.ft.com/content/dded6ac1-505c-4994-8e89-5feeb421c625)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: US Justice Department, James Comey
-
-The US Justice Department has filed criminal charges against former FBI chief James Comey, marking a significant legal development that could impact public trust in federal institutions.
-
-**[Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)**  
-*tech* · 2025-09-25 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Farm51, Alien: Rogue Incursion Evolved Edition
-
-Nvidia has open-sourced its AI voice animation tool, Audio2Face, enabling developers to create realistic 3D avatars based on audio input. This move allows for enhanced character animation in games and apps, with existing developers already utilizing the technology.
-
-**[Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)**  
-*tech* · 2025-09-25 · **Imp 4/5** — Entities: Peter Thiel, Silicon Valley
-
-Peter Thiel argues against AI regulation, suggesting it could lead to a totalitarian regime akin to the Antichrist, which he believes would exploit existential risks to gain power. This perspective raises concerns about the implications of AI governance.
-
-**[Accenture to ‘exit’ staff who cannot be retrained for age of AI](https://www.ft.com/content/a74f8564-ed5a-42e9-8fb3-d2bddb2b8675)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: Accenture
-
-Accenture plans to exit employees who cannot be retrained for roles in the AI-driven landscape, signaling a shift in workforce strategy amid technological advancements.
-
-**[Microsoft cuts off some services to the Israeli military](https://www.ft.com/content/32062a65-e458-4c04-b464-9af5a37cd16a)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, Israeli military
-
-Microsoft has decided to discontinue certain services provided to the Israeli military, reflecting a shift in its business practices and ethical considerations.
-
-**[Twitch is making it easy to rewind streams](https://www.theverge.com/news/785973/twitch-livestream-rewind-easy)**  
-*tech* · 2025-09-25 · **Imp 4/5** — Entities: Twitch, Dan Clancy
-
-Twitch is introducing a rewind feature for livestreams, allowing users to easily scrub back on streams directly from the channel page. Initially available for Twitch Turbo subscribers and select channels, the feature aims to enhance user experience while managing ad revenue concerns.
