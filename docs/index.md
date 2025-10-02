@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/)**  
+*startup* · 2025-09-30 · **Imp 5/5** — Entities: TechCrunch, startups, investors, founders
+
+TechCrunch Disrupt 2025, taking place October 27-29, is a crucial event for startups to secure visibility and investor engagement. Exhibitors risk losing opportunities to competitors as tables sell quickly. Booking a table enhances brand exposure and networking potential.
+
 **[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
 *finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
 
@@ -54,6 +59,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[That annoying SMS phish you just got may have come from a box like this](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/)**  
+*tech* · 2025-10-01 · **Imp 4/5** — Entities: cybercriminals, SMS phishing, mobile scams
+
+Smishing attacks are evolving as cybercriminals seek innovative infrastructure to execute SMS phishing schemes. This trend highlights the increasing sophistication of mobile scams.
+
+**[Utah-based leasing giant challenges First Brands rescue loan](https://www.ft.com/content/a24d123c-69da-4b52-bd35-927fec728297)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: Utah-based leasing company, First Brands
+
+A Utah-based leasing company is contesting a rescue loan for First Brands, raising concerns about the financial stability and future operations of the latter.
+
+**[US government remains shut as senators fail to agree funding plan](https://www.ft.com/content/fa441a70-d369-4d0a-8a3d-f31732d650a2)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: US government, senators
+
+The US government remains shut down as senators are unable to reach an agreement on a funding plan, impacting federal operations and services.
+
+**[US private sector employers shed most jobs since 2023](https://www.ft.com/content/c86ec687-6e9d-4599-9799-2108bc9f2ab0)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: US private sector, employers
+
+US private sector employers have reported the largest job losses since 2023, indicating potential economic challenges ahead.
+
+**[Trump’s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)**  
+*tech* · 2025-10-01 · **Imp 4/5** — Tickers: PFE — Entities: Trump, Pfizer, Medicaid
+
+Trump is launching TrumpRx, a government-run website aimed at reducing drug prices by directing consumers to discounts on pharmaceutical companies' online stores, starting in 2026. Pfizer has agreed to lower prices and invest in US manufacturing as part of this initiative.
+
+**[US pledges to defend Qatar against ‘any attack’](https://www.ft.com/content/5da37b9f-d08e-4210-8564-bb39e558cfdc)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: US, Qatar
+
+The US has committed to defending Qatar against any potential attacks, reinforcing its strategic partnership in the region.
+
+**[Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)**  
+*tech* · 2025-10-01 · **Imp 4/5** — Entities: Adam Mosseri, advertisers
+
+Adam Mosseri's recent video addresses concerns about targeted advertising, emphasizing that ads are based on user behavior and interests rather than direct surveillance. He outlines how advertisers influence ad targeting through shared data and user interactions.
+
+**[Supreme Court blocks Trump from immediately firing Fed’s Lisa Cook](https://www.ft.com/content/0430b348-d7da-439c-aa31-f8c0fedec9d3)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: Supreme Court, Trump, Lisa Cook, Federal Reserve
+
+The Supreme Court has prevented former President Trump from immediately terminating Federal Reserve Board member Lisa Cook, ensuring her position remains secure amidst ongoing political tensions.
+
+**[Brussels backs Trump-style tariffs on cheap Chinese steel](https://www.ft.com/content/8e841112-3e25-47c2-a74b-3fc2d6244f03)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: European Union, Chinese steel industry
+
+The European Union supports implementing tariffs on inexpensive Chinese steel, similar to policies previously endorsed by former President Trump. This move aims to protect local industries from unfair competition.
+
+**[US naval build-up bolsters Venezuelan opposition, leader-in-hiding says](https://www.ft.com/content/ecba37a2-8977-4bcc-bcf3-118075bd9124)**  
+*finance* · 2025-10-01 · **Imp 4/5** — Entities: US Navy, Venezuelan opposition
+
+A US naval build-up is reportedly strengthening the Venezuelan opposition, according to a leader in hiding. This military presence may influence geopolitical dynamics and investor sentiment in the region.
 
 **[US on brink of government shutdown as lawmakers remain deadlocked](https://www.ft.com/content/d59a507b-8514-46ef-95e0-1402128d4499)**  
 *finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, lawmakers
@@ -194,58 +249,3 @@ Jaguar Land Rover secures £1.5 billion in UK loan support following a cyber att
 *finance* · 2025-09-27 · **Imp 4/5** — Entities: US soybean farmers, China
 
 US soybean farmers face challenges as China halts imports and domestic stockpiles increase, impacting prices and market dynamics.
-
-**[Euro’s rally has further to run, Wall Street banks predict](https://www.ft.com/content/5b179bb6-684a-48d1-abac-a25aacb12a49)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: Wall Street banks, Euro
-
-Wall Street banks forecast that the Euro's rally will continue, indicating potential shifts in currency markets and investment strategies.
-
-**[How tech lords and populists changed the rules of power](https://www.ft.com/content/85ee3be0-c9a6-4a1d-baf9-8b2ca9e46a85)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: tech leaders, populists, governance
-
-The article discusses how influential tech leaders and populist movements have reshaped power dynamics, impacting governance and business practices.
-
-**[China sends 2,000 workers to build battery power in Europe](https://www.ft.com/content/0f2637ae-f49c-45c5-845f-3b7aa10bea0f)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: China, Europe, battery power
-
-China is deploying 2,000 workers to Europe to support the construction of battery power facilities, indicating a strategic move to enhance its influence in the European energy sector.
-
-**[Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)**  
-*tech* · 2025-09-26 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
-
-Microsoft is testing an AI feature in the Photos app for Windows 11 that auto-categorizes images into folders based on content, enhancing organization for users. This includes receipts, screenshots, identity documents, and handwritten notes, regardless of the language in the text.
-
-**[Lawyers cite Trump autism warning in push to revive Tylenol lawsuits](https://www.ft.com/content/535c6c4f-39be-4f32-bf29-e7ba5021d2d0)**  
-*finance* · 2025-09-26 · **Imp 4/5** — Entities: Trump, Tylenol, lawyers
-
-Lawyers are leveraging a warning from Trump regarding autism to reinvigorate lawsuits against Tylenol, suggesting potential legal and financial implications for the pharmaceutical company.
-
-**[Video game maker Electronic Arts nears $50bn deal to go private](https://www.ft.com/content/b845be9e-8f36-4dd8-885a-2eb81150a530)**  
-*finance* · 2025-09-26 · **Imp 4/5** — Tickers: EA — Entities: Electronic Arts
-
-Electronic Arts is approaching a $50 billion deal to go private, indicating significant shifts in the gaming industry and potential impacts on investors and stakeholders.
-
-**[UK to offer to pay more for drugs to placate Trump and pharma groups](https://www.ft.com/content/c28e58b2-85fa-4838-b798-8812676689ee)**  
-*finance* · 2025-09-26 · **Imp 4/5** — Entities: UK, Trump, pharmaceutical companies
-
-The UK plans to increase drug payments to appease Trump and pharmaceutical companies, potentially impacting healthcare costs and negotiations in the sector.
-
-**[YouTube’s new AI experiment adds AI hosts to your music](https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts)**  
-*tech* · 2025-09-26 · **Imp 4/5** — Entities: YouTube, Google
-
-YouTube is testing AI hosts in its Music app to enhance user experience with music-related commentary. This initiative is part of the YouTube Labs program, allowing select US users to trial new AI features. The program aligns with Google's broader AI efforts, including enhancements in YouTube Premium features.
-
-**[Double-Fomo driving US markets](https://www.ft.com/content/6c181cb1-0cbb-4668-9854-5a29debb05b1)**  
-*finance* · 2025-09-26 · **Imp 4/5** — Entities: US markets, investors, analysts
-
-The article discusses the phenomenon of 'Double-Fomo' impacting US markets, indicating heightened investor anxiety and speculative behavior. This trend may influence market volatility and investment strategies.
-
-**[Netanyahu vows to prevent Palestinian state in UN address](https://www.ft.com/content/fe6d27d3-c13a-4a7c-8a22-5e2c516de6e5)**  
-*finance* · 2025-09-26 · **Imp 4/5** — Entities: Netanyahu, Palestinian Authority, United Nations
-
-Israeli Prime Minister Netanyahu has pledged to prevent the establishment of a Palestinian state during his address at the UN, signaling ongoing geopolitical tensions that could impact regional stability and international relations.
-
-**[TikTok US to be valued at $14bn after Trump’s deal, White House says](https://www.ft.com/content/d4f10a38-2c0b-47db-ab81-b4e0fe12a1a1)**  
-*finance* · 2025-09-25 · **Imp 4/5** — Entities: TikTok, Trump administration, White House
-
-TikTok's US operations are set to be valued at $14 billion following a deal facilitated by the Trump administration, according to the White House.
