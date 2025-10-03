@@ -60,6 +60,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Traders scour private data to gauge US jobs slowdown amid BLS turmoil](https://www.ft.com/content/3d7067f4-6eb2-43cc-bdbd-1fd116cfc805)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: traders, Bureau of Labor Statistics
+
+Traders are analyzing private data to assess a potential slowdown in US job growth, amidst ongoing issues with the Bureau of Labor Statistics (BLS).
+
+**[Manchester’s Jews left in fear after ‘inevitable’ attack strikes at heart of community](https://www.ft.com/content/75256dfa-4679-4d51-9cc7-9257c7895bbf)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: Manchester, Jewish community
+
+The Jewish community in Manchester is facing heightened fears following a recent attack, raising concerns about safety and community stability.
+
+**[Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)**  
+*tech* · 2025-10-02 · **Imp 4/5** — Entities: Microsoft, Amazon, GameStop, Best Buy, Walmart
+
+Microsoft has raised prices for Xbox Game Pass Ultimate and PC Game Pass, with Ultimate now at $29.99/month and PC Game Pass at $16.49/month. Consumers can still find previous pricing through retailers like Amazon and GameStop for limited-time subscriptions.
+
+**[US to provide intel to guide Ukrainian long-range missile attacks on Russia](https://www.ft.com/content/1417049a-5a1c-4fcb-8370-2341b164b2a1)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: US, Ukraine, Russia
+
+The US is set to provide intelligence to assist Ukraine in executing long-range missile strikes against Russia, potentially escalating the ongoing conflict.
+
+**[AI comes to the video wars](https://www.ft.com/content/8d2dde0c-d69d-4d05-bbe2-fd6357609f9c)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: AI, video industry, content creation
+
+The article discusses the integration of AI technology in the video industry, highlighting its potential to transform content creation and consumption.
+
+**[Trump threatens permanent spending cuts as US shutdown continues](https://www.ft.com/content/001b332d-8017-4d13-be8b-887e88d2c363)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: Trump, US government
+
+Trump has threatened permanent spending cuts amid the ongoing US government shutdown, raising concerns about fiscal policy and its implications for economic stability.
+
+**[Japan days away from running out of Asahi Super Dry after cyber attack](https://www.ft.com/content/bb86349f-0ad8-432b-a62a-fdd63b3b76ab)**  
+*finance* · 2025-10-02 · **Imp 4/5** — Entities: Asahi, Japan
+
+Japan is on the verge of exhausting its supply of Asahi Super Dry beer due to a recent cyber attack that disrupted production and distribution.
+
 **[That annoying SMS phish you just got may have come from a box like this](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/)**  
 *tech* · 2025-10-01 · **Imp 4/5** — Entities: cybercriminals, SMS phishing, mobile scams
 
@@ -150,11 +185,6 @@ The article discusses the formation of Donald Trump's Gaza deal, highlighting it
 
 Elon Musk faces a significant departure of senior staff due to burnout and political issues, raising concerns about leadership stability and company culture.
 
-**[Here are 55 great deals you can snag ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)**  
-*tech* · 2025-09-29 · **Imp 4/5** — Tickers: AMZN,AAPL — Entities: Amazon, Apple
-
-Amazon's fall Prime Day, named Prime Big Deal Days, is set for October 7-8, featuring early discounts on gadgets like earbuds and tablets. Early deals are already available, with updates on sales expected.
-
 **[YouTube pays $24.5mn to settle Trump censorship lawsuit](https://www.ft.com/content/8084f3c1-9436-4305-9147-9ea10044448f)**  
 *finance* · 2025-09-29 · **Imp 4/5** — Entities: YouTube, Trump
 
@@ -219,33 +249,3 @@ Former President Trump is scheduled to meet with lawmakers as the U.S. governmen
 *finance* · 2025-09-28 · **Imp 4/5** — Tickers: OXY — Entities: Occidental Petroleum,OxyChem
 
 Occidental Petroleum is in discussions to sell its OxyChem unit for approximately $10 billion, indicating a strategic shift in its business operations.
-
-**[Russian missiles and drones pound Ukraine in ‘savage’ 12-hour attack](https://www.ft.com/content/3fddf6a7-f20a-4243-aeff-b7a728002512)**  
-*finance* · 2025-09-28 · **Imp 4/5** — Entities: Russia, Ukraine
-
-A significant 12-hour attack involving Russian missiles and drones has targeted Ukraine, escalating the ongoing conflict. This development may impact geopolitical stability and economic conditions in the region.
-
-**[Economists favour Waller to lead Fed but expect Trump to pick a loyalist](https://www.ft.com/content/9a0c2ff7-bfdc-4bbb-8dcd-622e1c4df313)**  
-*finance* · 2025-09-28 · **Imp 4/5** — Entities: Waller, Trump, Federal Reserve
-
-Economists support Waller for the Federal Reserve leadership role, but anticipate that Trump will select a loyalist instead. This situation could influence monetary policy and market stability.
-
-**[London considers lowering affordable homes target to spur house building](https://www.ft.com/content/dab02120-928d-46bc-bd1e-3a0c9c2fb36d)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: London, real estate market, housing developers
-
-London is contemplating a reduction in its affordable housing targets to stimulate house building, potentially impacting the real estate market and housing availability.
-
-**[Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)**  
-*tech* · 2025-09-27 · **Imp 4/5** — Entities: Martin Shkreli, Wu-Tang Clan, PleasrDAO
-
-Martin Shkreli faces a lawsuit for allegedly copying Wu-Tang Clan's exclusive album, Once Upon a Time in Shaolin. A judge allowed claims of trade secret misappropriation to proceed, emphasizing the album's value lies in its secrecy. PleasrDAO, the album's current owners, accuse Shkreli of diminishing its worth.
-
-**[Jaguar Land Rover wins £1.5bn UK loan support after cyber attack](https://www.ft.com/content/ae3c68c9-5989-46cc-979c-fada35d77b3d)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: Jaguar Land Rover, UK government
-
-Jaguar Land Rover secures £1.5 billion in UK loan support following a cyber attack, aiding its recovery and operational stability.
-
-**[US soyabean farmers squeezed as China blocks imports and stockpiles rise](https://www.ft.com/content/b920c4c4-dcd7-4d5b-9a56-fc5cc1c994c4)**  
-*finance* · 2025-09-27 · **Imp 4/5** — Entities: US soybean farmers, China
-
-US soybean farmers face challenges as China halts imports and domestic stockpiles increase, impacting prices and market dynamics.
