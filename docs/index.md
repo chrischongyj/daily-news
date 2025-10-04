@@ -60,6 +60,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)**  
+*tech* · 2025-10-03 · **Imp 4/5** — Entities: Discord, third-party customer service provider
+
+Discord reported a data breach involving a third-party customer service provider, exposing limited user information including names, emails, and some scanned IDs. The breach did not compromise full credit card numbers or passwords. Discord is notifying affected users and enhancing security measures.
+
+**[Trump tells Israel to stop bombing Gaza after Hamas agrees to release hostages](https://www.ft.com/content/2ffb2726-68cd-4934-b096-d40cbf7f9573)**  
+*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Israel, Hamas
+
+Trump urges Israel to cease bombing Gaza following Hamas's agreement to release hostages, highlighting geopolitical tensions that could impact regional stability and investor sentiment.
+
+**[Centerview to face trial over junior banker’s long hours](https://www.ft.com/content/550bc2e0-2869-4a5d-a677-a66f4c35a7b9)**  
+*finance* · 2025-10-03 · **Imp 4/5** — Entities: Centerview Partners, junior bankers, finance industry
+
+Centerview Partners is set to face trial regarding allegations related to excessive working hours for junior bankers, highlighting ongoing concerns about work-life balance in the finance industry.
+
+**[Trump and Democrats deadlocked over government funding as shutdown drags on](https://www.ft.com/content/f1ada36e-22ff-4976-a9a0-09f4b2d20603)**  
+*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Democrats, government, financial markets
+
+Trump and Democrats remain at an impasse regarding government funding, prolonging the shutdown and creating uncertainty in financial markets.
+
+**[Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/)**  
+*tech* · 2025-10-03 · **Imp 4/5** — Entities: Congress, ACA Marketplace
+
+A recent poll indicates that nearly 80% of Americans support Congress extending ACA tax credits, as failure to do so could result in more than doubling premiums for ACA Marketplace plans.
+
+**[Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)**  
+*tech* · 2025-10-03 · **Imp 4/5** — Entities: Google, Apple, ICE, Department of Justice, Joshua Aaron
+
+Google has removed the Red Dot app from the Play Store, following Apple's removal of ICEBlock, both of which allowed users to report ICE agents. This action comes amid concerns over safety and pressure from the Department of Justice regarding apps that could endanger law enforcement.
+
+**[Trump’s attacks cast a chill on what Wall Street says](https://www.ft.com/content/2f344485-094f-403b-9e92-7ba5d3355360)**  
+*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Wall Street
+
+Trump's recent criticisms are creating uncertainty in the financial markets, according to Wall Street analysts, potentially impacting investor sentiment and market stability.
+
+**[AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/)**  
+*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
+
+The U.S. government shutdown poses significant risks for startups reliant on permits and regulatory approvals, potentially leading to existential challenges. The discussion also highlights the ongoing struggles of AI companies to establish sustainable business models.
+
+**[Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)**  
+*tech* · 2025-10-03 · **Imp 4/5** — Tickers: SONY — Entities: Sony, PlayStation, Austin Evans
+
+Sony has launched a revised PS5 Slim model in the US with 825GB storage, down from 1TB, priced at $499.99. The PS5 Pro remains at $749.99 with 2TB storage. This follows a $50 price increase for all PS5 models earlier this year.
+
+**[‘Creators are the new Hollywood’: YouTubers take on the big studios](https://www.ft.com/content/b9240daa-e1b3-4946-8dcf-bfb1181a6c41)**  
+*finance* · 2025-10-03 · **Imp 4/5** — Entities: YouTube, Hollywood, content creators
+
+YouTubers are emerging as significant competitors to traditional Hollywood studios, reshaping the entertainment landscape and influencing content creation and distribution.
+
 **[Traders scour private data to gauge US jobs slowdown amid BLS turmoil](https://www.ft.com/content/3d7067f4-6eb2-43cc-bdbd-1fd116cfc805)**  
 *finance* · 2025-10-02 · **Imp 4/5** — Entities: traders, Bureau of Labor Statistics
 
@@ -199,53 +249,3 @@ YouTube has settled a lawsuit with Donald Trump for $24.5 million, following sim
 *finance* · 2025-09-29 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC
 
 The departure of HSBC's chair creates a leadership vacuum at Europe's largest bank, raising concerns about governance and strategic direction during a critical time for the financial sector.
-
-**[What happens if the US government shuts down?](https://www.ft.com/content/ea902413-f866-4456-a4f8-ac1cd25de5c6)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: US government, federal services, financial markets, investors, businesses
-
-A US government shutdown could disrupt federal services, impact economic growth, and create uncertainty in financial markets, affecting investors and businesses reliant on government contracts.
-
-**[Vance warns US government is ‘headed to a shutdown’](https://www.ft.com/content/30875a60-3474-4bfc-8240-13fd6ea33390)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: Vance, US government
-
-Vance cautions that the US government is on the brink of a shutdown, which could have significant implications for various sectors.
-
-**[Tile’s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)**  
-*tech* · 2025-09-29 · **Imp 4/5** — Entities: Tile, Life360, HackerOne
-
-Tile's lack of encryption raises concerns about user safety and privacy, potentially exposing tracker owners to stalking risks. Life360 emphasizes its commitment to security and ethical practices in addressing these vulnerabilities.
-
-**[Charlie Javice sentenced to 7 years in prison for JPMorgan fraud](https://www.ft.com/content/b0e97fc9-c3f1-4b3e-a5ae-9f9a6b30ae6e)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: Charlie Javice, JPMorgan
-
-Charlie Javice has been sentenced to 7 years in prison for committing fraud against JPMorgan, highlighting significant legal repercussions in the finance sector.
-
-**[Full text of Trump’s proposal to end the war in Gaza](https://www.ft.com/content/0c1f3cc4-799a-495c-b12f-20c613289e97)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: Trump, Gaza, geopolitical stability
-
-Trump's proposal aims to end the Gaza conflict, potentially influencing geopolitical stability and economic conditions in the region.
-
-**[A liberal Chicago suburb is paying reparations — will others follow?](https://www.ft.com/content/0148fd4b-5eb7-4a1f-ac43-228e2889f787)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: Chicago, suburbs, reparations, governance, social equity
-
-A liberal suburb in Chicago is implementing a reparations program, raising questions about whether other municipalities will adopt similar measures. This initiative could influence local governance and social equity discussions across the U.S.
-
-**[Video games maker Electronic Arts strikes $55bn deal to go private](https://www.ft.com/content/be980240-13ec-498c-ba79-71eada30d133)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Tickers: EA — Entities: Electronic Arts
-
-Electronic Arts has announced a $55 billion deal to go private, marking a significant shift in its corporate structure and strategy.
-
-**[Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)**  
-*tech* · 2025-09-28 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Siri, Veritas, Google, Gemini
-
-Apple is testing an internal chatbot named Veritas to enhance Siri's AI capabilities, amidst delays and competition in the AI sector. The tool allows employees to interact and provide feedback on new features, but there are no current plans for consumer release.
-
-**[Trump to meet lawmakers as US government heads to a shutdown](https://www.ft.com/content/c576db0f-4d05-42ed-9f37-28bc524c6fab)**  
-*finance* · 2025-09-28 · **Imp 4/5** — Entities: Trump, lawmakers, U.S. government
-
-Former President Trump is scheduled to meet with lawmakers as the U.S. government approaches a potential shutdown, raising concerns about fiscal stability and government operations.
-
-**[Occidental Petroleum in talks to sell OxyChem unit for about $10bn](https://www.ft.com/content/800fc153-1f61-4570-a5e0-dc784bf99b63)**  
-*finance* · 2025-09-28 · **Imp 4/5** — Tickers: OXY — Entities: Occidental Petroleum,OxyChem
-
-Occidental Petroleum is in discussions to sell its OxyChem unit for approximately $10 billion, indicating a strategic shift in its business operations.
