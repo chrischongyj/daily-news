@@ -60,10 +60,35 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive](https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/)**  
+*tech* · 2025-10-04 · **Imp 4/5** — Entities: United Launch Alliance, Pentagon
+
+Recent Pentagon contract data indicates that the costs associated with ULA's Vulcan rocket are rising, potentially impacting future military procurement budgets and contractor profitability.
+
+**[Eurosceptic Babiš on course to win power in Czech election](https://www.ft.com/content/d7c8ca34-73f9-48bb-a4d3-d5834653ecf0)**  
+*finance* · 2025-10-04 · **Imp 4/5** — Entities: Babiš, Czech Republic, EU
+
+Czech politician Babiš, known for his Eurosceptic stance, is positioned to win the upcoming election, potentially impacting the country's EU relations and economic policies.
+
+**[ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/)**  
+*tech* · 2025-10-04 · **Imp 4/5** — Entities: ICE, contractors, social media platforms
+
+ICE is seeking to establish a round-the-clock social media surveillance team, intending to hire contractors to monitor platforms for identifying individuals for deportation.
+
+**[How different mushrooms learned the same psychedelic trick](https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/)**  
+*tech* · 2025-10-04 · **Imp 4/5** — Entities: scientists, mushrooms, psilocybin, medical research
+
+Research reveals that various mushroom species have developed similar mechanisms to produce psilocybin, potentially enhancing medical applications for this psychedelic compound.
+
+**[Japan set for first female PM after Sanae Takaichi wins leadership race](https://www.ft.com/content/3c020865-3984-48b4-844a-aac03231a724)**  
+*finance* · 2025-10-04 · **Imp 4/5** — Entities: Sanae Takaichi, Japan
+
+Sanae Takaichi has won the leadership race in Japan, positioning her to become the country's first female Prime Minister. This historic event could impact Japan's political landscape and economic policies.
+
 **[Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)**  
 *tech* · 2025-10-03 · **Imp 4/5** — Entities: Discord, third-party customer service provider
 
-Discord reported a data breach involving a third-party customer service provider, exposing limited user information including names, emails, and some scanned IDs. The breach did not compromise full credit card numbers or passwords. Discord is notifying affected users and enhancing security measures.
+Discord reported a data breach involving a third-party customer service provider, exposing limited user information, including names and scanned IDs. The breach aimed at extorting a ransom, but full credit card numbers and passwords were not compromised. Discord is notifying affected users and enhancing security measures.
 
 **[Trump tells Israel to stop bombing Gaza after Hamas agrees to release hostages](https://www.ft.com/content/2ffb2726-68cd-4934-b096-d40cbf7f9573)**  
 *finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Israel, Hamas
@@ -90,6 +115,11 @@ A recent poll indicates that nearly 80% of Americans support Congress extending 
 
 Google has removed the Red Dot app from the Play Store, following Apple's removal of ICEBlock, both of which allowed users to report ICE agents. This action comes amid concerns over safety and pressure from the Department of Justice regarding apps that could endanger law enforcement.
 
+**[Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/)**  
+*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
+
+The U.S. government shutdown poses challenges for startups, particularly in securing permits and regulatory approvals. This uncertainty, combined with AI companies struggling to establish sustainable business models, highlights potential risks for investors and founders.
+
 **[Trump’s attacks cast a chill on what Wall Street says](https://www.ft.com/content/2f344485-094f-403b-9e92-7ba5d3355360)**  
 *finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Wall Street
 
@@ -98,7 +128,7 @@ Trump's recent criticisms are creating uncertainty in the financial markets, acc
 **[AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/)**  
 *startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
 
-The U.S. government shutdown poses significant risks for startups reliant on permits and regulatory approvals, potentially leading to existential challenges. The discussion also highlights the ongoing struggles of AI companies to establish sustainable business models.
+The U.S. government shutdown poses risks for startups reliant on permits and approvals, potentially threatening their operations. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
 
 **[Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)**  
 *tech* · 2025-10-03 · **Imp 4/5** — Tickers: SONY — Entities: Sony, PlayStation, Austin Evans
@@ -219,33 +249,3 @@ The US has launched the 'TrumpRx' program, enabling direct-to-consumer drug sale
 *finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, Supreme Court
 
 The US government has committed to upholding tariffs irrespective of the Supreme Court's forthcoming decision, signaling a firm stance on trade policy.
-
-**[Brussels raids Sanofi in flu vaccine antitrust probe](https://www.ft.com/content/abb47eae-18f2-4063-bdd7-49dfa6aa530e)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Tickers: SNY — Entities: Brussels, Sanofi, flu vaccine, antitrust
-
-Brussels authorities have conducted raids on Sanofi as part of an antitrust investigation related to its flu vaccine business. This move signals increased scrutiny on pharmaceutical companies regarding competitive practices.
-
-**[How Donald Trump’s Gaza deal came together](https://www.ft.com/content/7c80077b-4045-4feb-a286-24cf643436c9)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: Donald Trump, Gaza
-
-The article discusses the formation of Donald Trump's Gaza deal, highlighting its implications for regional politics and potential economic impacts.
-
-**[Elon Musk hit by exodus of senior staff over burnout and politics](https://www.ft.com/content/21ec5a5f-0e9a-49b9-b64d-9ebc88e70aa7)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: Elon Musk
-
-Elon Musk faces a significant departure of senior staff due to burnout and political issues, raising concerns about leadership stability and company culture.
-
-**[YouTube pays $24.5mn to settle Trump censorship lawsuit](https://www.ft.com/content/8084f3c1-9436-4305-9147-9ea10044448f)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Entities: YouTube, Trump
-
-YouTube has agreed to pay $24.5 million to settle a lawsuit regarding alleged censorship of former President Trump. This settlement highlights ongoing tensions between social media platforms and political figures.
-
-**[YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)**  
-*tech* · 2025-09-29 · **Imp 4/5** — Tickers: GOOGL, META, TWTR — Entities: YouTube, Google, Donald Trump, Meta, X, Trust for the National Mall
-
-YouTube has settled a lawsuit with Donald Trump for $24.5 million, following similar settlements by Meta and X. The majority of the funds will support the Trust for the National Mall, while YouTube aimed to keep its settlement lower than Meta's $25 million.
-
-**[HSBC chair’s exit leaves Europe’s biggest bank with a leadership vacuum](https://www.ft.com/content/10f2172d-5826-4471-b198-fb69ea172afd)**  
-*finance* · 2025-09-29 · **Imp 4/5** — Tickers: HSBC — Entities: HSBC
-
-The departure of HSBC's chair creates a leadership vacuum at Europe's largest bank, raising concerns about governance and strategic direction during a critical time for the financial sector.
