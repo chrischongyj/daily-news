@@ -60,6 +60,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Israel and Hamas prepare for crunch ceasefire talks](https://www.ft.com/content/17bf1567-65c0-42df-9e0f-4b3fcbc19787)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: Israel, Hamas
+
+Israel and Hamas are set to engage in crucial ceasefire negotiations, which could significantly impact regional stability and economic conditions in the Middle East.
+
+**[‘Gold-plated Fomo’ powers bullion’s record-breaking rally](https://www.ft.com/content/54dc2b76-8c24-4dd7-a01a-7d1f38b5ea6d)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: gold, investors, market dynamics
+
+Gold prices are experiencing a record-breaking rally, driven by heightened investor interest and market dynamics termed 'gold-plated Fomo'.
+
+**[Billionaire beef baron warns US not producing enough to satisfy protein craze](https://www.ft.com/content/5fadad35-6202-4a8a-b809-a7e17eb42866)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: billionaire beef producer, U.S. meat industry
+
+A billionaire beef producer cautions that the U.S. is not generating sufficient meat supply to meet the growing demand for protein, highlighting potential market implications.
+
+**[Besieged Gazans find chink of hope in Trump peace plan](https://www.ft.com/content/8889187e-7c7b-402a-9be6-1bbc8ae10a4c)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: Trump, Gazans, peace plan, geopolitical landscape
+
+The Trump peace plan offers a potential glimmer of hope for Gazans amidst ongoing conflict, suggesting a shift in the geopolitical landscape that could impact regional stability and economic conditions.
+
+**[A significant week for hope in the Middle East](https://www.ft.com/content/d2a1f830-f931-4633-a547-d4da286c38e2)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: Middle East, investors, economic conditions
+
+The article highlights a pivotal week for optimism in the Middle East, suggesting potential shifts in the region's geopolitical landscape that could impact economic conditions.
+
+**[OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/)**  
+*startup* · 2025-10-05 · **Imp 4/5** — Entities: OpenAI, Jony Ive, io, Sam Altman
+
+OpenAI and Jony Ive face technical challenges in developing a screen-less AI device, originally set to launch in 2026. Issues include device personality, privacy, and infrastructure, potentially delaying the project.
+
+**[Crypto skulduggery isn’t a bug, it’s the whole point](https://www.ft.com/content/dbd01d5c-521c-44c8-a401-b09bda391da5)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: cryptocurrency, fraud, blockchain
+
+The article discusses the inherent issues within the cryptocurrency space, suggesting that fraudulent activities are not accidental but rather a fundamental aspect of the industry.
+
+**[The rise of America’s hard left](https://www.ft.com/content/a0ad5408-8abf-42af-9d5a-ec0b0ddf4acc)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: America, hard left, financial markets, investment strategies
+
+The article discusses the increasing influence of America's hard left in politics and its implications for financial markets and investment strategies.
+
+**[Labour markets stuck in a ‘low-hire, low-fire’ cycle](https://www.ft.com/content/2984eec8-f912-4e11-b0f9-ba30ee3adf8b)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: labour markets, employment growth, economic recovery
+
+Labour markets are currently experiencing a 'low-hire, low-fire' cycle, indicating stagnation in employment growth and job turnover. This trend poses challenges for economic recovery and workforce dynamics.
+
+**[Impact of Trump tariffs is beginning to show in US consumer prices](https://www.ft.com/content/f4bd2952-7ce5-4943-9a23-3a297c5c78e3)**  
+*finance* · 2025-10-05 · **Imp 4/5** — Entities: Trump, US consumers, economists
+
+The effects of Trump-era tariffs are increasingly reflected in US consumer prices, indicating potential inflationary pressures on the economy.
+
 **[Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive](https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/)**  
 *tech* · 2025-10-04 · **Imp 4/5** — Entities: United Launch Alliance, Pentagon
 
@@ -115,11 +165,6 @@ A recent poll indicates that nearly 80% of Americans support Congress extending 
 
 Google has removed the Red Dot app from the Play Store, following Apple's removal of ICEBlock, both of which allowed users to report ICE agents. This action comes amid concerns over safety and pressure from the Department of Justice regarding apps that could endanger law enforcement.
 
-**[Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/)**  
-*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
-
-The U.S. government shutdown poses challenges for startups, particularly in securing permits and regulatory approvals. This uncertainty, combined with AI companies struggling to establish sustainable business models, highlights potential risks for investors and founders.
-
 **[Trump’s attacks cast a chill on what Wall Street says](https://www.ft.com/content/2f344485-094f-403b-9e92-7ba5d3355360)**  
 *finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Wall Street
 
@@ -128,7 +173,7 @@ Trump's recent criticisms are creating uncertainty in the financial markets, acc
 **[AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/)**  
 *startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
 
-The U.S. government shutdown poses risks for startups reliant on permits and approvals, potentially threatening their operations. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
+The U.S. government shutdown poses significant risks for startups reliant on permits and approvals, potentially leading to existential challenges. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
 
 **[Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)**  
 *tech* · 2025-10-03 · **Imp 4/5** — Tickers: SONY — Entities: Sony, PlayStation, Austin Evans
@@ -204,48 +249,3 @@ Trump is launching TrumpRx, a government-run website aimed at reducing drug pric
 *finance* · 2025-10-01 · **Imp 4/5** — Entities: US, Qatar
 
 The US has committed to defending Qatar against any potential attacks, reinforcing its strategic partnership in the region.
-
-**[Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)**  
-*tech* · 2025-10-01 · **Imp 4/5** — Entities: Adam Mosseri, advertisers
-
-Adam Mosseri's recent video addresses concerns about targeted advertising, emphasizing that ads are based on user behavior and interests rather than direct surveillance. He outlines how advertisers influence ad targeting through shared data and user interactions.
-
-**[Supreme Court blocks Trump from immediately firing Fed’s Lisa Cook](https://www.ft.com/content/0430b348-d7da-439c-aa31-f8c0fedec9d3)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: Supreme Court, Trump, Lisa Cook, Federal Reserve
-
-The Supreme Court has prevented former President Trump from immediately terminating Federal Reserve Board member Lisa Cook, ensuring her position remains secure amidst ongoing political tensions.
-
-**[Brussels backs Trump-style tariffs on cheap Chinese steel](https://www.ft.com/content/8e841112-3e25-47c2-a74b-3fc2d6244f03)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: European Union, Chinese steel industry
-
-The European Union supports implementing tariffs on inexpensive Chinese steel, similar to policies previously endorsed by former President Trump. This move aims to protect local industries from unfair competition.
-
-**[US naval build-up bolsters Venezuelan opposition, leader-in-hiding says](https://www.ft.com/content/ecba37a2-8977-4bcc-bcf3-118075bd9124)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: US Navy, Venezuelan opposition
-
-A US naval build-up is reportedly strengthening the Venezuelan opposition, according to a leader in hiding. This military presence may influence geopolitical dynamics and investor sentiment in the region.
-
-**[US on brink of government shutdown as lawmakers remain deadlocked](https://www.ft.com/content/d59a507b-8514-46ef-95e0-1402128d4499)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, lawmakers
-
-The US government is nearing a shutdown as lawmakers are unable to reach an agreement, which could impact federal operations and economic stability.
-
-**[Deloitte’s global revenue growth picks up despite sluggish performance in Europe](https://www.ft.com/content/77f76d67-0bc0-4b4b-87d4-eb55b3cfbe2a)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: Deloitte
-
-Deloitte reports increased global revenue growth, contrasting with a sluggish performance in Europe, indicating resilience in other markets.
-
-**[Berkshire Hathaway nears $10bn deal for Occidental’s petrochemical unit](https://www.ft.com/content/62d316a1-d6a9-42b5-9b59-048590bf5868)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Tickers: BRK.A,OXY — Entities: Berkshire Hathaway, Occidental Petroleum
-
-Berkshire Hathaway is close to finalizing a $10 billion acquisition of Occidental Petroleum's petrochemical unit, signaling a significant investment in the energy sector.
-
-**[US announces direct-to-consumer ‘TrumpRx’ drug sales programme](https://www.ft.com/content/8d201c91-4574-4237-9c3b-9c367906962e)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, pharmaceutical industry
-
-The US has launched the 'TrumpRx' program, enabling direct-to-consumer drug sales, potentially impacting pharmaceutical pricing and accessibility.
-
-**[US vows to maintain tariffs regardless of Supreme Court ruling](https://www.ft.com/content/b1deb172-3c11-4a81-85ee-8e21a7fc31c4)**  
-*finance* · 2025-09-30 · **Imp 4/5** — Entities: US government, Supreme Court
-
-The US government has committed to upholding tariffs irrespective of the Supreme Court's forthcoming decision, signaling a firm stance on trade policy.
