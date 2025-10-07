@@ -1,5 +1,20 @@
 # AI Curated News Analyst — Latest
 
+**[US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)**  
+*tech* · 2025-10-06 · **Imp 5/5** — Entities: Google, DOJ
+
+Judge Brinkema ruled that Google illegally maintained monopoly power in online advertising, leading to a trial on potential breakup and sale of its AdX exchange. The DOJ argues Google locked up the ad tech market, while Google claims it offers efficient products amidst competition.
+
+**[OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)**  
+*tech* · 2025-10-06 · **Imp 5/5** — Entities: OpenAI, Canva, Zillow, Booking.com, Coursera, Expedia, Figma, Spotify, DoorDash, OpenTable, Target, Uber
+
+OpenAI is enabling developers to create apps that integrate with ChatGPT, enhancing user experience by allowing task completion with contextual assistance. Initial partners include Canva, Zillow, and Booking.com, with more apps to be added soon. The SDK is available for developers, with monetization guidance forthcoming.
+
+**[America is now one big bet on AI](https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e)**  
+*finance* · 2025-10-06 · **Imp 5/5** — Entities: AI, U.S. economy, businesses
+
+The article discusses the significant investment and reliance on AI technologies in the U.S. economy, highlighting the growing trend of businesses betting on AI for future growth and innovation.
+
 **[Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/)**  
 *startup* · 2025-09-30 · **Imp 5/5** — Entities: TechCrunch, startups, investors, founders
 
@@ -60,6 +75,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[France in fresh political and market turmoil after prime minister resigns](https://www.ft.com/content/d2d740f4-a185-4a98-8035-75f18dad47c6)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Entities: France, prime minister
+
+France faces political and market instability following the resignation of its prime minister, raising concerns among investors and impacting market confidence.
+
+**[EY narrows US leadership race to three candidates](https://www.ft.com/content/e6e0b4fa-d94c-4210-99d3-bee5de83e9b3)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Entities: EY
+
+EY has narrowed its search for US leadership to three candidates, indicating a significant shift in its management structure. This decision could impact the firm's strategic direction and operational efficiency.
+
+**[Sam Altman has a new project: building AI Inc](https://www.ft.com/content/9bfe8410-a984-406c-a8ef-b0814a6c1647)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Entities: Sam Altman, AI Inc
+
+Sam Altman is launching a new initiative called AI Inc, focusing on advancements in artificial intelligence.
+
+**[JPMorgan replaces European banking boss who was doing job from New York](https://www.ft.com/content/c43553f7-b5d1-47ff-93f4-dd6666821ad2)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan
+
+JPMorgan has appointed a new European banking head, replacing the previous leader who managed operations from New York. This change signals a strategic shift in the bank's European operations.
+
+**[Deloitte issues refund for error-ridden Australian government report that used AI](https://www.ft.com/content/934cc94b-32c4-497e-9718-d87d6a7835ca)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Entities: Deloitte, Australian government
+
+Deloitte has issued a refund following an error-ridden report for the Australian government that utilized AI technology. This incident raises concerns about the reliability of AI in critical financial reporting.
+
+**[OpenAI targets 10% AMD stake via multibillion-dollar chip deal](https://www.ft.com/content/bfafd06e-0a92-4add-9ae5-622e3c2c8f29)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Tickers: AMD — Entities: OpenAI, AMD
+
+OpenAI aims to acquire a 10% stake in AMD through a multibillion-dollar chip deal, signaling a strategic investment in semiconductor technology.
+
+**[The dangers of war in the grey zone](https://www.ft.com/content/06637760-1509-4359-9673-9319604dca4f)**  
+*finance* · 2025-10-06 · **Imp 4/5** — Entities: grey zone warfare, global stability, defense sector
+
+The article discusses the risks associated with grey zone warfare, emphasizing its implications for global stability and economic impact. Understanding these dynamics is crucial for investors and tech workers involved in defense and security sectors.
+
 **[Israel and Hamas prepare for crunch ceasefire talks](https://www.ft.com/content/17bf1567-65c0-42df-9e0f-4b3fcbc19787)**  
 *finance* · 2025-10-05 · **Imp 4/5** — Entities: Israel, Hamas
 
@@ -84,11 +134,6 @@ The Trump peace plan offers a potential glimmer of hope for Gazans amidst ongoin
 *finance* · 2025-10-05 · **Imp 4/5** — Entities: Middle East, investors, economic conditions
 
 The article highlights a pivotal week for optimism in the Middle East, suggesting potential shifts in the region's geopolitical landscape that could impact economic conditions.
-
-**[OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/)**  
-*startup* · 2025-10-05 · **Imp 4/5** — Entities: OpenAI, Jony Ive, io, Sam Altman
-
-OpenAI and Jony Ive face technical challenges in developing a screen-less AI device, originally set to launch in 2026. Issues include device personality, privacy, and infrastructure, potentially delaying the project.
 
 **[Crypto skulduggery isn’t a bug, it’s the whole point](https://www.ft.com/content/dbd01d5c-521c-44c8-a401-b09bda391da5)**  
 *finance* · 2025-10-05 · **Imp 4/5** — Entities: cryptocurrency, fraud, blockchain
@@ -165,6 +210,11 @@ A recent poll indicates that nearly 80% of Americans support Congress extending 
 
 Google has removed the Red Dot app from the Play Store, following Apple's removal of ICEBlock, both of which allowed users to report ICE agents. This action comes amid concerns over safety and pressure from the Department of Justice regarding apps that could endanger law enforcement.
 
+**[Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/)**  
+*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
+
+The U.S. government shutdown poses challenges for startups reliant on permits and approvals, potentially impacting their operations. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
+
 **[Trump’s attacks cast a chill on what Wall Street says](https://www.ft.com/content/2f344485-094f-403b-9e92-7ba5d3355360)**  
 *finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Wall Street
 
@@ -173,7 +223,7 @@ Trump's recent criticisms are creating uncertainty in the financial markets, acc
 **[AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/)**  
 *startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
 
-The U.S. government shutdown poses significant risks for startups reliant on permits and approvals, potentially leading to existential challenges. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
+The U.S. government shutdown poses significant risks for startups reliant on permits and regulatory approvals, potentially jeopardizing their operations. The episode discusses the broader implications for startups and AI companies navigating uncertain business models.
 
 **[Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)**  
 *tech* · 2025-10-03 · **Imp 4/5** — Tickers: SONY — Entities: Sony, PlayStation, Austin Evans
@@ -199,53 +249,3 @@ The Jewish community in Manchester is facing heightened fears following a recent
 *tech* · 2025-10-02 · **Imp 4/5** — Entities: Microsoft, Amazon, GameStop, Best Buy, Walmart
 
 Microsoft has raised prices for Xbox Game Pass Ultimate and PC Game Pass, with Ultimate now at $29.99/month and PC Game Pass at $16.49/month. Consumers can still find previous pricing through retailers like Amazon and GameStop for limited-time subscriptions.
-
-**[US to provide intel to guide Ukrainian long-range missile attacks on Russia](https://www.ft.com/content/1417049a-5a1c-4fcb-8370-2341b164b2a1)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: US, Ukraine, Russia
-
-The US is set to provide intelligence to assist Ukraine in executing long-range missile strikes against Russia, potentially escalating the ongoing conflict.
-
-**[AI comes to the video wars](https://www.ft.com/content/8d2dde0c-d69d-4d05-bbe2-fd6357609f9c)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: AI, video industry, content creation
-
-The article discusses the integration of AI technology in the video industry, highlighting its potential to transform content creation and consumption.
-
-**[Trump threatens permanent spending cuts as US shutdown continues](https://www.ft.com/content/001b332d-8017-4d13-be8b-887e88d2c363)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: Trump, US government
-
-Trump has threatened permanent spending cuts amid the ongoing US government shutdown, raising concerns about fiscal policy and its implications for economic stability.
-
-**[Japan days away from running out of Asahi Super Dry after cyber attack](https://www.ft.com/content/bb86349f-0ad8-432b-a62a-fdd63b3b76ab)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: Asahi, Japan
-
-Japan is on the verge of exhausting its supply of Asahi Super Dry beer due to a recent cyber attack that disrupted production and distribution.
-
-**[That annoying SMS phish you just got may have come from a box like this](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/)**  
-*tech* · 2025-10-01 · **Imp 4/5** — Entities: cybercriminals, SMS phishing, mobile scams
-
-Smishing attacks are evolving as cybercriminals seek innovative infrastructure to execute SMS phishing schemes. This trend highlights the increasing sophistication of mobile scams.
-
-**[Utah-based leasing giant challenges First Brands rescue loan](https://www.ft.com/content/a24d123c-69da-4b52-bd35-927fec728297)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: Utah-based leasing company, First Brands
-
-A Utah-based leasing company is contesting a rescue loan for First Brands, raising concerns about the financial stability and future operations of the latter.
-
-**[US government remains shut as senators fail to agree funding plan](https://www.ft.com/content/fa441a70-d369-4d0a-8a3d-f31732d650a2)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: US government, senators
-
-The US government remains shut down as senators are unable to reach an agreement on a funding plan, impacting federal operations and services.
-
-**[US private sector employers shed most jobs since 2023](https://www.ft.com/content/c86ec687-6e9d-4599-9799-2108bc9f2ab0)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: US private sector, employers
-
-US private sector employers have reported the largest job losses since 2023, indicating potential economic challenges ahead.
-
-**[Trump’s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)**  
-*tech* · 2025-10-01 · **Imp 4/5** — Tickers: PFE — Entities: Trump, Pfizer, Medicaid
-
-Trump is launching TrumpRx, a government-run website aimed at reducing drug prices by directing consumers to discounts on pharmaceutical companies' online stores, starting in 2026. Pfizer has agreed to lower prices and invest in US manufacturing as part of this initiative.
-
-**[US pledges to defend Qatar against ‘any attack’](https://www.ft.com/content/5da37b9f-d08e-4210-8564-bb39e558cfdc)**  
-*finance* · 2025-10-01 · **Imp 4/5** — Entities: US, Qatar
-
-The US has committed to defending Qatar against any potential attacks, reinforcing its strategic partnership in the region.
