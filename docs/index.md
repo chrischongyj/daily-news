@@ -75,6 +75,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)**  
+*tech* · 2025-10-07 · **Imp 4/5** — Entities: Amazon, Verge, Google, Nuphy
+
+Amazon's October Prime Day offers significant discounts on tech gadgets, with prices lower than July's sale. Consumers are advised to act quickly due to potential supply shortages and tariff impacts. An active Prime subscription is required for access.
+
+**[The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)**  
+*tech* · 2025-10-07 · **Imp 4/5** — Tickers: AMZN,AAPL — Entities: Amazon, Apple
+
+Amazon's October Prime Day features significant discounts on Apple products, including refurbished AirPods Pro at $139.99 and the Apple Watch Series 10 at $279. The event offers savings on both last-gen and current-gen devices, making it a prime opportunity for consumers.
+
+**[The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)**  
+*tech* · 2025-10-07 · **Imp 4/5** — Tickers: AMZN, SONY, LPL, SSNLF, TCL, HISGF, GOOG, ROKU — Entities: Amazon, Sony, LG, Samsung, TCL, Hisense, Google, Roku
+
+Amazon's October Prime Day features significant discounts on TVs, soundbars, and streaming devices, with savings up to 50% from brands like Sony, LG, Samsung, and Roku.
+
+**[Jimmy Fallon wants to turn Wordle into a TV show](https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc)**  
+*tech* · 2025-10-07 · **Imp 4/5** — Entities: Jimmy Fallon, NBC, Savannah Guthrie, Wordle, Josh Wardle
+
+Jimmy Fallon is producing a TV adaptation of Wordle, with NBC piloting the show hosted by Savannah Guthrie. Filming is underway in the UK, aiming to capitalize on the game's popularity.
+
+**[Tesla launches cheaper Model Y following end of US EV subsidies](https://www.ft.com/content/43d9a540-5d00-4a12-b80a-2f730716bed0)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
+
+Tesla has introduced a more affordable Model Y following the conclusion of US electric vehicle subsidies, potentially impacting sales and market dynamics.
+
+**[UBS fund holds 30% exposure linked to First Brands](https://www.ft.com/content/39da5f5a-e7e6-4678-9c82-60e5a5e023e8)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Entities: UBS, First Brands
+
+UBS fund has a 30% exposure linked to First Brands, indicating significant investment in this entity. This could impact investor sentiment and market dynamics surrounding First Brands.
+
+**[BMW cuts profit guidance after weak sales in China](https://www.ft.com/content/e770dbc7-3e77-490e-b56d-abad5a13ff45)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Tickers: BMW — Entities: BMW, China, luxury automotive market
+
+BMW has lowered its profit guidance due to disappointing sales in China, signaling potential challenges in the luxury automotive market.
+
+**[Goldman executive says retail rush into private assets is raising risks](https://www.ft.com/content/ab41bd1a-02fb-4e35-9dd3-35cd4877c3b3)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Entities: Goldman Sachs
+
+A Goldman Sachs executive warns that the increasing trend of retail investors moving into private assets is elevating financial risks, indicating potential instability in the market.
+
+**[State Street’s flagship S&P 500 ETF suffers record $32bn outflows](https://www.ft.com/content/75b022e4-486b-4eaa-8b8b-4911b335cf6b)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Entities: State Street, S&P 500 ETF
+
+State Street's S&P 500 ETF has experienced unprecedented outflows, totaling $32 billion, indicating significant investor withdrawal and potential market concerns.
+
+**[How AI became our personal assistant](https://ig.ft.com/ai-personal-assistant/)**  
+*finance* · 2025-10-07 · **Imp 4/5** — Entities: AI, personal assistants, technology, consumer behavior
+
+Recent data reveals the widespread integration of AI technology as personal assistants in daily life, highlighting its growing significance in consumer behavior and technology adoption.
+
 **[France in fresh political and market turmoil after prime minister resigns](https://www.ft.com/content/d2d740f4-a185-4a98-8035-75f18dad47c6)**  
 *finance* · 2025-10-06 · **Imp 4/5** — Entities: France, prime minister
 
@@ -199,53 +249,3 @@ Centerview Partners is set to face trial regarding allegations related to excess
 *finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Democrats, government, financial markets
 
 Trump and Democrats remain at an impasse regarding government funding, prolonging the shutdown and creating uncertainty in financial markets.
-
-**[Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/)**  
-*tech* · 2025-10-03 · **Imp 4/5** — Entities: Congress, ACA Marketplace
-
-A recent poll indicates that nearly 80% of Americans support Congress extending ACA tax credits, as failure to do so could result in more than doubling premiums for ACA Marketplace plans.
-
-**[Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)**  
-*tech* · 2025-10-03 · **Imp 4/5** — Entities: Google, Apple, ICE, Department of Justice, Joshua Aaron
-
-Google has removed the Red Dot app from the Play Store, following Apple's removal of ICEBlock, both of which allowed users to report ICE agents. This action comes amid concerns over safety and pressure from the Department of Justice regarding apps that could endanger law enforcement.
-
-**[Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/)**  
-*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
-
-The U.S. government shutdown poses challenges for startups reliant on permits and approvals, potentially impacting their operations. The discussion also highlights AI companies grappling with sustainable business models amidst this uncertainty.
-
-**[Trump’s attacks cast a chill on what Wall Street says](https://www.ft.com/content/2f344485-094f-403b-9e92-7ba5d3355360)**  
-*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Wall Street
-
-Trump's recent criticisms are creating uncertainty in the financial markets, according to Wall Street analysts, potentially impacting investor sentiment and market stability.
-
-**[AI slop, government stops, and startup uncertainty](https://techcrunch.com/podcast/ai-slop-government-stops-and-startup-uncertainty/)**  
-*startup* · 2025-10-03 · **Imp 4/5** — Entities: U.S. government, startups, AI companies, TechCrunch, Equity podcast
-
-The U.S. government shutdown poses significant risks for startups reliant on permits and regulatory approvals, potentially jeopardizing their operations. The episode discusses the broader implications for startups and AI companies navigating uncertain business models.
-
-**[Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)**  
-*tech* · 2025-10-03 · **Imp 4/5** — Tickers: SONY — Entities: Sony, PlayStation, Austin Evans
-
-Sony has launched a revised PS5 Slim model in the US with 825GB storage, down from 1TB, priced at $499.99. The PS5 Pro remains at $749.99 with 2TB storage. This follows a $50 price increase for all PS5 models earlier this year.
-
-**[‘Creators are the new Hollywood’: YouTubers take on the big studios](https://www.ft.com/content/b9240daa-e1b3-4946-8dcf-bfb1181a6c41)**  
-*finance* · 2025-10-03 · **Imp 4/5** — Entities: YouTube, Hollywood, content creators
-
-YouTubers are emerging as significant competitors to traditional Hollywood studios, reshaping the entertainment landscape and influencing content creation and distribution.
-
-**[Traders scour private data to gauge US jobs slowdown amid BLS turmoil](https://www.ft.com/content/3d7067f4-6eb2-43cc-bdbd-1fd116cfc805)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: traders, Bureau of Labor Statistics
-
-Traders are analyzing private data to assess a potential slowdown in US job growth, amidst ongoing issues with the Bureau of Labor Statistics (BLS).
-
-**[Manchester’s Jews left in fear after ‘inevitable’ attack strikes at heart of community](https://www.ft.com/content/75256dfa-4679-4d51-9cc7-9257c7895bbf)**  
-*finance* · 2025-10-02 · **Imp 4/5** — Entities: Manchester, Jewish community
-
-The Jewish community in Manchester is facing heightened fears following a recent attack, raising concerns about safety and community stability.
-
-**[Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)**  
-*tech* · 2025-10-02 · **Imp 4/5** — Entities: Microsoft, Amazon, GameStop, Best Buy, Walmart
-
-Microsoft has raised prices for Xbox Game Pass Ultimate and PC Game Pass, with Ultimate now at $29.99/month and PC Game Pass at $16.49/month. Consumers can still find previous pricing through retailers like Amazon and GameStop for limited-time subscriptions.
