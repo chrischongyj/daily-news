@@ -75,15 +75,45 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[One NASA science mission saved from Trump’s cuts, but others still in limbo](https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/)**  
+*tech* · 2025-10-08 · **Imp 4/5** — Entities: NASA, Trump administration
+
+NASA's science mission faces funding uncertainties after proposed cuts by the Trump administration. While one mission is saved, others remain at risk, impacting personnel and project timelines.
+
+**[Trump says Israel and Hamas have agreed first phase of Gaza peace plan](https://www.ft.com/content/2bb3275c-6844-4505-9fc2-2942c2203777)**  
+*finance* · 2025-10-08 · **Imp 4/5** — Entities: Trump, Israel, Hamas
+
+Trump announces that Israel and Hamas have reached an agreement on the first phase of a Gaza peace plan, potentially impacting regional stability and international relations.
+
+**[Stoke Space gives us another reason to take it very seriously](https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/)**  
+*tech* · 2025-10-08 · **Imp 4/5** — Entities: Stoke Space
+
+Stoke Space has raised nearly $1 billion in new investments, solidifying its position in the aerospace sector and attracting serious attention from investors.
+
+**[Fed officials were cautious about inflation as they agreed rate cuts](https://www.ft.com/content/2379592b-ad44-4030-8ae9-e6e8200cad6a)**  
+*finance* · 2025-10-08 · **Imp 4/5** — Entities: Federal Reserve, inflation
+
+Federal Reserve officials expressed caution regarding inflation while agreeing on rate cuts, indicating a careful approach to monetary policy amidst economic uncertainties.
+
+**[Jefferies reveals $715mn fund exposure to First Brands invoices](https://www.ft.com/content/8d474079-657c-4baa-b69e-f2d80f7d9fc9)**  
+*finance* · 2025-10-08 · **Imp 4/5** — Entities: Jefferies, First Brands
+
+Jefferies has disclosed a $715 million exposure to invoices from First Brands, highlighting significant financial ties between the two entities.
+
+**[PepsiCo chief under pressure as activist Elliott pushes for change](https://www.ft.com/content/bec609c9-2dbf-40f1-8975-3abbbb30d687)**  
+*finance* · 2025-10-08 · **Imp 4/5** — Tickers: PEP — Entities: PepsiCo, Elliott Management
+
+PepsiCo's CEO faces pressure from activist investor Elliott Management, which is advocating for significant changes within the company to enhance shareholder value.
+
+**[The flawed Silicon Valley consensus on AI](https://www.ft.com/content/34748e3e-92d1-4b42-9528-f98cf6b9f2f2)**  
+*finance* · 2025-10-08 · **Imp 4/5** — Entities: Silicon Valley, AI, tech industry
+
+The article critiques the prevailing Silicon Valley consensus on AI, highlighting its flaws and potential implications for the tech industry and investors.
+
 **[The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)**  
 *tech* · 2025-10-07 · **Imp 4/5** — Entities: Amazon, Verge, Google, Nuphy
 
 Amazon's October Prime Day offers significant discounts on tech gadgets, with prices lower than July's sale. Consumers are advised to act quickly due to potential supply shortages and tariff impacts. An active Prime subscription is required for access.
-
-**[The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)**  
-*tech* · 2025-10-07 · **Imp 4/5** — Tickers: AMZN,AAPL — Entities: Amazon, Apple
-
-Amazon's October Prime Day features significant discounts on Apple products, including refurbished AirPods Pro at $139.99 and the Apple Watch Series 10 at $279. The event offers savings on both last-gen and current-gen devices, making it a prime opportunity for consumers.
 
 **[The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)**  
 *tech* · 2025-10-07 · **Imp 4/5** — Tickers: AMZN, SONY, LPL, SSNLF, TCL, HISGF, GOOG, ROKU — Entities: Amazon, Sony, LG, Samsung, TCL, Hisense, Google, Roku
@@ -185,6 +215,11 @@ The Trump peace plan offers a potential glimmer of hope for Gazans amidst ongoin
 
 The article highlights a pivotal week for optimism in the Middle East, suggesting potential shifts in the region's geopolitical landscape that could impact economic conditions.
 
+**[OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/)**  
+*startup* · 2025-10-05 · **Imp 4/5** — Entities: OpenAI, Jony Ive, io, Sam Altman, Financial Times, Bloomberg
+
+OpenAI and Jony Ive face technical challenges in developing a screen-less, AI-powered device, originally set to launch in 2026. Issues with the device's personality, privacy, and infrastructure may delay its release.
+
 **[Crypto skulduggery isn’t a bug, it’s the whole point](https://www.ft.com/content/dbd01d5c-521c-44c8-a401-b09bda391da5)**  
 *finance* · 2025-10-05 · **Imp 4/5** — Entities: cryptocurrency, fraud, blockchain
 
@@ -214,38 +249,3 @@ Recent Pentagon contract data indicates that the costs associated with ULA's Vul
 *finance* · 2025-10-04 · **Imp 4/5** — Entities: Babiš, Czech Republic, EU
 
 Czech politician Babiš, known for his Eurosceptic stance, is positioned to win the upcoming election, potentially impacting the country's EU relations and economic policies.
-
-**[ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/)**  
-*tech* · 2025-10-04 · **Imp 4/5** — Entities: ICE, contractors, social media platforms
-
-ICE is seeking to establish a round-the-clock social media surveillance team, intending to hire contractors to monitor platforms for identifying individuals for deportation.
-
-**[How different mushrooms learned the same psychedelic trick](https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/)**  
-*tech* · 2025-10-04 · **Imp 4/5** — Entities: scientists, mushrooms, psilocybin, medical research
-
-Research reveals that various mushroom species have developed similar mechanisms to produce psilocybin, potentially enhancing medical applications for this psychedelic compound.
-
-**[Japan set for first female PM after Sanae Takaichi wins leadership race](https://www.ft.com/content/3c020865-3984-48b4-844a-aac03231a724)**  
-*finance* · 2025-10-04 · **Imp 4/5** — Entities: Sanae Takaichi, Japan
-
-Sanae Takaichi has won the leadership race in Japan, positioning her to become the country's first female Prime Minister. This historic event could impact Japan's political landscape and economic policies.
-
-**[Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)**  
-*tech* · 2025-10-03 · **Imp 4/5** — Entities: Discord, third-party customer service provider
-
-Discord reported a data breach involving a third-party customer service provider, exposing limited user information, including names and scanned IDs. The breach aimed at extorting a ransom, but full credit card numbers and passwords were not compromised. Discord is notifying affected users and enhancing security measures.
-
-**[Trump tells Israel to stop bombing Gaza after Hamas agrees to release hostages](https://www.ft.com/content/2ffb2726-68cd-4934-b096-d40cbf7f9573)**  
-*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Israel, Hamas
-
-Trump urges Israel to cease bombing Gaza following Hamas's agreement to release hostages, highlighting geopolitical tensions that could impact regional stability and investor sentiment.
-
-**[Centerview to face trial over junior banker’s long hours](https://www.ft.com/content/550bc2e0-2869-4a5d-a677-a66f4c35a7b9)**  
-*finance* · 2025-10-03 · **Imp 4/5** — Entities: Centerview Partners, junior bankers, finance industry
-
-Centerview Partners is set to face trial regarding allegations related to excessive working hours for junior bankers, highlighting ongoing concerns about work-life balance in the finance industry.
-
-**[Trump and Democrats deadlocked over government funding as shutdown drags on](https://www.ft.com/content/f1ada36e-22ff-4976-a9a0-09f4b2d20603)**  
-*finance* · 2025-10-03 · **Imp 4/5** — Entities: Trump, Democrats, government, financial markets
-
-Trump and Democrats remain at an impasse regarding government funding, prolonging the shutdown and creating uncertainty in financial markets.
