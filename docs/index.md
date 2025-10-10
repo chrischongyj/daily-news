@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Inside Intel’s big bet to save US chipmaking — and itself](https://www.ft.com/content/e4b1fa29-6027-44d9-8375-b3368132dd1b)**  
+*finance* · 2025-10-09 · **Imp 5/5** — Tickers: INTC — Entities: Intel, US chipmaking
+
+Intel is making significant investments to revitalize US chip manufacturing, aiming to strengthen its market position and reduce reliance on foreign production. This strategic move is crucial for the company's future and the broader tech industry.
+
 **[US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)**  
 *tech* · 2025-10-06 · **Imp 5/5** — Entities: Google, DOJ
 
@@ -74,6 +79,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
+
+**[The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)**  
+*tech* · 2025-10-09 · **Imp 4/5** — Entities: Minecraft, Warner Bros. Discovery, Nintendo
+
+A sequel to the successful Minecraft movie is set to release on July 23, 2027, with director Jared Hess returning. The first film was a box office success, earning nearly $1 billion, prompting Warner Bros. Discovery to initiate the sequel.
+
+**[Israel approves Trump’s plan for Gaza ceasefire and hostage release](https://www.ft.com/content/fdce0739-006a-463a-bf4f-4976ea941096)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: Israel, Trump, Gaza
+
+Israel has approved a ceasefire plan proposed by Trump, which includes provisions for the release of hostages in Gaza. This development may impact geopolitical stability and investor sentiment in the region.
+
+**[NY attorney-general Letitia James indicted after pressure from Trump](https://www.ft.com/content/dc00ae3e-2f3e-4ecd-9c3a-a8ceeccafe38)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: Letitia James, Donald Trump
+
+NY Attorney General Letitia James has been indicted following pressure from former President Trump, raising concerns about political influence in legal proceedings.
+
+**[Venture Global loses arbitration with BP over disputed LNG cargoes](https://www.ft.com/content/53f45b52-8c5a-42d8-ad70-e23eb1f1bd7b)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: Venture Global, BP
+
+Venture Global has lost an arbitration case against BP concerning disputed LNG cargoes, potentially impacting its financial standing and future contracts.
+
+**[US Treasury intervenes in Argentina’s currency market](https://www.ft.com/content/778e4609-772b-4edd-83d2-d8915f1c4628)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: US Treasury, Argentina
+
+The US Treasury has intervened in Argentina's currency market, signaling potential support for the country's economic stability amidst ongoing financial challenges.
+
+**[US justice department launches inquiry into First Brands](https://www.ft.com/content/9eec3cbf-264b-4cae-bf5e-311b83fef7fc)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: US Justice Department, First Brands
+
+The US Justice Department has initiated an inquiry into First Brands, potentially impacting the company's operations and investor confidence.
+
+**[Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)**  
+*startup* · 2025-10-09 · **Imp 4/5** — Entities: Duolingo, Pittsburgh, San Francisco, Silicon Valley
+
+Duolingo has declared it will never open an office in San Francisco, emphasizing its commitment to maintaining its culture and operations in Pittsburgh. The company argues that meaningful work can be done outside traditional startup hubs like Silicon Valley.
+
+**[Trump’s Gaza breakthrough is just the start](https://www.ft.com/content/4a8165b5-f636-4368-9eb5-69c985c5a93b)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: Trump, Gaza
+
+The article discusses Trump's recent diplomatic efforts regarding Gaza, suggesting it may lead to significant geopolitical changes and implications for investors and stakeholders in the region.
+
+**[First Brands creditor claims as much as $2.3bn has ‘simply vanished’](https://www.ft.com/content/36582d44-2592-4de7-a252-c2797fa65a48)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: First Brands
+
+First Brands faces creditor claims totaling $2.3 billion that have reportedly 'vanished', raising concerns about financial transparency and potential impacts on stakeholders.
+
+**[The Davos set in decline: can the World Economic Forum save itself?](https://www.ft.com/content/8f7dcf0e-ec4c-4643-9d95-d2a1b2fdea09)**  
+*finance* · 2025-10-09 · **Imp 4/5** — Entities: World Economic Forum
+
+The World Economic Forum faces challenges as the influence of its elite participants wanes. The article explores potential strategies for revitalization amid declining relevance.
 
 **[One NASA science mission saved from Trump’s cuts, but others still in limbo](https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/)**  
 *tech* · 2025-10-08 · **Imp 4/5** — Entities: NASA, Trump administration
@@ -194,58 +249,3 @@ The article discusses the risks associated with grey zone warfare, emphasizing i
 *finance* · 2025-10-05 · **Imp 4/5** — Entities: Israel, Hamas
 
 Israel and Hamas are set to engage in crucial ceasefire negotiations, which could significantly impact regional stability and economic conditions in the Middle East.
-
-**[‘Gold-plated Fomo’ powers bullion’s record-breaking rally](https://www.ft.com/content/54dc2b76-8c24-4dd7-a01a-7d1f38b5ea6d)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: gold, investors, market dynamics
-
-Gold prices are experiencing a record-breaking rally, driven by heightened investor interest and market dynamics termed 'gold-plated Fomo'.
-
-**[Billionaire beef baron warns US not producing enough to satisfy protein craze](https://www.ft.com/content/5fadad35-6202-4a8a-b809-a7e17eb42866)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: billionaire beef producer, U.S. meat industry
-
-A billionaire beef producer cautions that the U.S. is not generating sufficient meat supply to meet the growing demand for protein, highlighting potential market implications.
-
-**[Besieged Gazans find chink of hope in Trump peace plan](https://www.ft.com/content/8889187e-7c7b-402a-9be6-1bbc8ae10a4c)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: Trump, Gazans, peace plan, geopolitical landscape
-
-The Trump peace plan offers a potential glimmer of hope for Gazans amidst ongoing conflict, suggesting a shift in the geopolitical landscape that could impact regional stability and economic conditions.
-
-**[A significant week for hope in the Middle East](https://www.ft.com/content/d2a1f830-f931-4633-a547-d4da286c38e2)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: Middle East, investors, economic conditions
-
-The article highlights a pivotal week for optimism in the Middle East, suggesting potential shifts in the region's geopolitical landscape that could impact economic conditions.
-
-**[OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/)**  
-*startup* · 2025-10-05 · **Imp 4/5** — Entities: OpenAI, Jony Ive, io, Sam Altman, Financial Times, Bloomberg
-
-OpenAI and Jony Ive face technical challenges in developing a screen-less, AI-powered device, originally set to launch in 2026. Issues with the device's personality, privacy, and infrastructure may delay its release.
-
-**[Crypto skulduggery isn’t a bug, it’s the whole point](https://www.ft.com/content/dbd01d5c-521c-44c8-a401-b09bda391da5)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: cryptocurrency, fraud, blockchain
-
-The article discusses the inherent issues within the cryptocurrency space, suggesting that fraudulent activities are not accidental but rather a fundamental aspect of the industry.
-
-**[The rise of America’s hard left](https://www.ft.com/content/a0ad5408-8abf-42af-9d5a-ec0b0ddf4acc)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: America, hard left, financial markets, investment strategies
-
-The article discusses the increasing influence of America's hard left in politics and its implications for financial markets and investment strategies.
-
-**[Labour markets stuck in a ‘low-hire, low-fire’ cycle](https://www.ft.com/content/2984eec8-f912-4e11-b0f9-ba30ee3adf8b)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: labour markets, employment growth, economic recovery
-
-Labour markets are currently experiencing a 'low-hire, low-fire' cycle, indicating stagnation in employment growth and job turnover. This trend poses challenges for economic recovery and workforce dynamics.
-
-**[Impact of Trump tariffs is beginning to show in US consumer prices](https://www.ft.com/content/f4bd2952-7ce5-4943-9a23-3a297c5c78e3)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: Trump, US consumers, economists
-
-The effects of Trump-era tariffs are increasingly reflected in US consumer prices, indicating potential inflationary pressures on the economy.
-
-**[Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive](https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/)**  
-*tech* · 2025-10-04 · **Imp 4/5** — Entities: United Launch Alliance, Pentagon
-
-Recent Pentagon contract data indicates that the costs associated with ULA's Vulcan rocket are rising, potentially impacting future military procurement budgets and contractor profitability.
-
-**[Eurosceptic Babiš on course to win power in Czech election](https://www.ft.com/content/d7c8ca34-73f9-48bb-a4d3-d5834653ecf0)**  
-*finance* · 2025-10-04 · **Imp 4/5** — Entities: Babiš, Czech Republic, EU
-
-Czech politician Babiš, known for his Eurosceptic stance, is positioned to win the upcoming election, potentially impacting the country's EU relations and economic policies.
