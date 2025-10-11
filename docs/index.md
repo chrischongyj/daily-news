@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[How OpenAI put itself at the centre of a $1tn network of deals](https://www.ft.com/content/4e39d081-ab26-4bc2-9c4c-256d766f28e2)**  
+*finance* · 2025-10-10 · **Imp 5/5** — Entities: OpenAI
+
+OpenAI has positioned itself at the core of a $1 trillion network of deals, enhancing its influence in the tech and finance sectors. This strategic positioning could significantly impact its valuation and partnerships.
+
 **[Inside Intel’s big bet to save US chipmaking — and itself](https://www.ft.com/content/e4b1fa29-6027-44d9-8375-b3368132dd1b)**  
 *finance* · 2025-10-09 · **Imp 5/5** — Tickers: INTC — Entities: Intel, US chipmaking
 
@@ -80,6 +85,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Qatar to build fighter jet facility at US base in Idaho](https://www.ft.com/content/7d4410d7-1525-42e2-a610-0df13556e3f9)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: Qatar, US military, Idaho
+
+Qatar plans to construct a fighter jet facility at a US military base in Idaho, enhancing defense collaboration and potentially impacting local economies and defense contracts.
+
+**[Trump reignites trade war with threat of additional 100% tariff on China](https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: Trump, China, global markets
+
+Trump has threatened to impose an additional 100% tariff on Chinese goods, escalating the ongoing trade war and potentially impacting global markets.
+
+**[Trump administration starts firing workers laid off in government shutdown](https://www.ft.com/content/67730450-9223-49c4-b438-5c5d730b81c8)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: Trump administration, federal workforce
+
+The Trump administration begins terminating employees affected by the government shutdown, impacting federal workforce dynamics and economic stability.
+
+**[US stocks close sharply lower after Trump threatens new China tariffs](https://www.ft.com/content/b9ae2417-2e89-4b0a-bad5-d94f4e980ecc)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: US stocks, Trump, China
+
+US stocks declined significantly following Trump's announcement of potential new tariffs on China, raising concerns about trade relations and economic stability.
+
+**[Denmark to spend $8.7bn on F-35 jets and bolstering Arctic security](https://www.ft.com/content/8bfc1893-4f8b-460c-9794-b02347ce74db)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: Denmark, F-35 jets, Arctic security
+
+Denmark plans to invest $8.7 billion in F-35 jets and enhance Arctic security, reflecting a strategic shift in defense spending amid rising geopolitical tensions.
+
+**[A dollar rally could be the next jolt for markets](https://www.ft.com/content/16ac846c-4d71-4886-9ffa-2b01dc4dfe99)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: financial markets, investors
+
+A potential dollar rally may significantly impact financial markets, influencing investor sentiment and market dynamics.
+
+**[Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)**  
+*tech* · 2025-10-10 · **Imp 4/5** — Entities: Google, Chrome
+
+Google's Chrome will automatically disable web notifications users ignore, enhancing user experience by reducing notification overload. This feature builds on existing safety measures and aims to improve engagement with relevant notifications.
+
+**[Apple’s executive reshuffling isn’t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)**  
+*tech* · 2025-10-10 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Jeff Williams, Eddy Cue, Craig Federighi, John Ternus, Johnny Srouji, Jay Blahnik, Sumbul Desai
+
+Apple is undergoing significant executive changes ahead of Jeff Williams' retirement, with Eddy Cue taking over health initiatives and other leadership shifts. This comes amid an internal investigation involving fitness chief Jay Blahnik and a lawsuit alleging a toxic work environment.
+
+**[First Brands Group: dude, where’s my cash?](https://www.ft.com/content/dfb31393-b35f-482f-be6c-b692a53ca25d)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: First Brands Group
+
+First Brands Group faces cash flow concerns, raising questions about its financial stability and operational efficiency. Investors are advised to monitor the situation closely.
+
+**[Insurers prepare for wave of First Brands claims](https://www.ft.com/content/de377455-3b5e-4da4-ba3a-ac8b03dcde09)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: First Brands, insurers
+
+Insurers are bracing for a surge in claims related to First Brands, indicating potential financial implications for the insurance sector and affected businesses.
+
+**[America is sucking in growth from the rest of the world](https://www.ft.com/content/4c6efb87-9d65-4d31-8198-9a8e9be2cc34)**  
+*finance* · 2025-10-10 · **Imp 4/5** — Entities: U.S. economy, global growth
+
+The article discusses how the U.S. economy is benefiting from global growth, indicating a shift in economic dynamics. This trend may influence investment strategies and economic forecasts.
+
 **[The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)**  
 *tech* · 2025-10-09 · **Imp 4/5** — Entities: Minecraft, Warner Bros. Discovery, Nintendo
 
@@ -109,11 +169,6 @@ The US Treasury has intervened in Argentina's currency market, signaling potenti
 *finance* · 2025-10-09 · **Imp 4/5** — Entities: US Justice Department, First Brands
 
 The US Justice Department has initiated an inquiry into First Brands, potentially impacting the company's operations and investor confidence.
-
-**[Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)**  
-*startup* · 2025-10-09 · **Imp 4/5** — Entities: Duolingo, Pittsburgh, San Francisco, Silicon Valley
-
-Duolingo has declared it will never open an office in San Francisco, emphasizing its commitment to maintaining its culture and operations in Pittsburgh. The company argues that meaningful work can be done outside traditional startup hubs like Silicon Valley.
 
 **[Trump’s Gaza breakthrough is just the start](https://www.ft.com/content/4a8165b5-f636-4368-9eb5-69c985c5a93b)**  
 *finance* · 2025-10-09 · **Imp 4/5** — Entities: Trump, Gaza
@@ -194,58 +249,3 @@ UBS fund has a 30% exposure linked to First Brands, indicating significant inves
 *finance* · 2025-10-07 · **Imp 4/5** — Tickers: BMW — Entities: BMW, China, luxury automotive market
 
 BMW has lowered its profit guidance due to disappointing sales in China, signaling potential challenges in the luxury automotive market.
-
-**[Goldman executive says retail rush into private assets is raising risks](https://www.ft.com/content/ab41bd1a-02fb-4e35-9dd3-35cd4877c3b3)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Entities: Goldman Sachs
-
-A Goldman Sachs executive warns that the increasing trend of retail investors moving into private assets is elevating financial risks, indicating potential instability in the market.
-
-**[State Street’s flagship S&P 500 ETF suffers record $32bn outflows](https://www.ft.com/content/75b022e4-486b-4eaa-8b8b-4911b335cf6b)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Entities: State Street, S&P 500 ETF
-
-State Street's S&P 500 ETF has experienced unprecedented outflows, totaling $32 billion, indicating significant investor withdrawal and potential market concerns.
-
-**[How AI became our personal assistant](https://ig.ft.com/ai-personal-assistant/)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Entities: AI, personal assistants, technology, consumer behavior
-
-Recent data reveals the widespread integration of AI technology as personal assistants in daily life, highlighting its growing significance in consumer behavior and technology adoption.
-
-**[France in fresh political and market turmoil after prime minister resigns](https://www.ft.com/content/d2d740f4-a185-4a98-8035-75f18dad47c6)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Entities: France, prime minister
-
-France faces political and market instability following the resignation of its prime minister, raising concerns among investors and impacting market confidence.
-
-**[EY narrows US leadership race to three candidates](https://www.ft.com/content/e6e0b4fa-d94c-4210-99d3-bee5de83e9b3)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Entities: EY
-
-EY has narrowed its search for US leadership to three candidates, indicating a significant shift in its management structure. This decision could impact the firm's strategic direction and operational efficiency.
-
-**[Sam Altman has a new project: building AI Inc](https://www.ft.com/content/9bfe8410-a984-406c-a8ef-b0814a6c1647)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Entities: Sam Altman, AI Inc
-
-Sam Altman is launching a new initiative called AI Inc, focusing on advancements in artificial intelligence.
-
-**[JPMorgan replaces European banking boss who was doing job from New York](https://www.ft.com/content/c43553f7-b5d1-47ff-93f4-dd6666821ad2)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan
-
-JPMorgan has appointed a new European banking head, replacing the previous leader who managed operations from New York. This change signals a strategic shift in the bank's European operations.
-
-**[Deloitte issues refund for error-ridden Australian government report that used AI](https://www.ft.com/content/934cc94b-32c4-497e-9718-d87d6a7835ca)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Entities: Deloitte, Australian government
-
-Deloitte has issued a refund following an error-ridden report for the Australian government that utilized AI technology. This incident raises concerns about the reliability of AI in critical financial reporting.
-
-**[OpenAI targets 10% AMD stake via multibillion-dollar chip deal](https://www.ft.com/content/bfafd06e-0a92-4add-9ae5-622e3c2c8f29)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Tickers: AMD — Entities: OpenAI, AMD
-
-OpenAI aims to acquire a 10% stake in AMD through a multibillion-dollar chip deal, signaling a strategic investment in semiconductor technology.
-
-**[The dangers of war in the grey zone](https://www.ft.com/content/06637760-1509-4359-9673-9319604dca4f)**  
-*finance* · 2025-10-06 · **Imp 4/5** — Entities: grey zone warfare, global stability, defense sector
-
-The article discusses the risks associated with grey zone warfare, emphasizing its implications for global stability and economic impact. Understanding these dynamics is crucial for investors and tech workers involved in defense and security sectors.
-
-**[Israel and Hamas prepare for crunch ceasefire talks](https://www.ft.com/content/17bf1567-65c0-42df-9e0f-4b3fcbc19787)**  
-*finance* · 2025-10-05 · **Imp 4/5** — Entities: Israel, Hamas
-
-Israel and Hamas are set to engage in crucial ceasefire negotiations, which could significantly impact regional stability and economic conditions in the Middle East.
