@@ -85,6 +85,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump says military will be paid during US government shutdown](https://www.ft.com/content/3780f953-b052-406c-b726-0a4b17acc95d)**  
+*finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, US government, military
+
+Trump assures that military personnel will continue to receive pay during a potential US government shutdown, highlighting the administration's commitment to defense funding amidst fiscal uncertainties.
+
+**[Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)**  
+*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, OpenAI, Facebook
+
+Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left to join Meta. His departure follows Meta's unsuccessful acquisition attempt of the startup and highlights the competitive AI talent landscape.
+
+**[Trump talks tough with China but holds out hope of truce in trade war](https://www.ft.com/content/b5093474-81b2-4686-a2aa-88d9e45eb717)**  
+*finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, China, U.S.
+
+Trump expresses a firm stance on China while remaining optimistic about reaching a trade truce, indicating ongoing tensions in U.S.-China trade relations.
+
+**[Hamas reasserts control and settles scores in Gaza Strip](https://www.ft.com/content/ab1ed3ec-a93b-4aa7-99b3-cdc1eaf0302f)**  
+*finance* · 2025-10-11 · **Imp 4/5** — Entities: Hamas, Gaza Strip
+
+Hamas has reasserted its control over the Gaza Strip, indicating a shift in power dynamics and potential implications for regional stability and investment climates.
+
+**[Private equity overcomes California hurdle to expansion in US legal market](https://www.ft.com/content/2e364a18-8183-4268-91c0-0c6623533c27)**  
+*finance* · 2025-10-11 · **Imp 4/5** — Entities: private equity, California, legal market
+
+Private equity firms have successfully navigated regulatory challenges in California, allowing for expansion into the US legal market. This development may reshape the landscape of legal services and investment opportunities.
+
+**[First Brands boss weighs resigning under pressure from lenders](https://www.ft.com/content/e0005479-726c-4d4d-be06-2454e9ab2bd9)**  
+*finance* · 2025-10-11 · **Imp 4/5** — Entities: First Brands
+
+The CEO of First Brands is considering resignation due to pressure from lenders, indicating potential financial instability within the company.
+
 **[Qatar to build fighter jet facility at US base in Idaho](https://www.ft.com/content/7d4410d7-1525-42e2-a610-0df13556e3f9)**  
 *finance* · 2025-10-10 · **Imp 4/5** — Entities: Qatar, US military, Idaho
 
@@ -170,6 +200,11 @@ The US Treasury has intervened in Argentina's currency market, signaling potenti
 
 The US Justice Department has initiated an inquiry into First Brands, potentially impacting the company's operations and investor confidence.
 
+**[Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)**  
+*startup* · 2025-10-09 · **Imp 4/5** — Entities: Duolingo, Pittsburgh, San Francisco, TechCrunch
+
+Duolingo has announced it will never open an office in San Francisco, emphasizing its commitment to maintaining its culture and operations in Pittsburgh. The company believes meaningful work can be done outside traditional startup hubs like Silicon Valley.
+
 **[Trump’s Gaza breakthrough is just the start](https://www.ft.com/content/4a8165b5-f636-4368-9eb5-69c985c5a93b)**  
 *finance* · 2025-10-09 · **Imp 4/5** — Entities: Trump, Gaza
 
@@ -214,38 +249,3 @@ Jefferies has disclosed a $715 million exposure to invoices from First Brands, h
 *finance* · 2025-10-08 · **Imp 4/5** — Tickers: PEP — Entities: PepsiCo, Elliott Management
 
 PepsiCo's CEO faces pressure from activist investor Elliott Management, which is advocating for significant changes within the company to enhance shareholder value.
-
-**[The flawed Silicon Valley consensus on AI](https://www.ft.com/content/34748e3e-92d1-4b42-9528-f98cf6b9f2f2)**  
-*finance* · 2025-10-08 · **Imp 4/5** — Entities: Silicon Valley, AI, tech industry
-
-The article critiques the prevailing Silicon Valley consensus on AI, highlighting its flaws and potential implications for the tech industry and investors.
-
-**[The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)**  
-*tech* · 2025-10-07 · **Imp 4/5** — Entities: Amazon, Verge, Google, Nuphy
-
-Amazon's October Prime Day offers significant discounts on tech gadgets, with prices lower than July's sale. Consumers are advised to act quickly due to potential supply shortages and tariff impacts. An active Prime subscription is required for access.
-
-**[The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)**  
-*tech* · 2025-10-07 · **Imp 4/5** — Tickers: AMZN, SONY, LPL, SSNLF, TCL, HISGF, GOOG, ROKU — Entities: Amazon, Sony, LG, Samsung, TCL, Hisense, Google, Roku
-
-Amazon's October Prime Day features significant discounts on TVs, soundbars, and streaming devices, with savings up to 50% from brands like Sony, LG, Samsung, and Roku.
-
-**[Jimmy Fallon wants to turn Wordle into a TV show](https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc)**  
-*tech* · 2025-10-07 · **Imp 4/5** — Entities: Jimmy Fallon, NBC, Savannah Guthrie, Wordle, Josh Wardle
-
-Jimmy Fallon is producing a TV adaptation of Wordle, with NBC piloting the show hosted by Savannah Guthrie. Filming is underway in the UK, aiming to capitalize on the game's popularity.
-
-**[Tesla launches cheaper Model Y following end of US EV subsidies](https://www.ft.com/content/43d9a540-5d00-4a12-b80a-2f730716bed0)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
-
-Tesla has introduced a more affordable Model Y following the conclusion of US electric vehicle subsidies, potentially impacting sales and market dynamics.
-
-**[UBS fund holds 30% exposure linked to First Brands](https://www.ft.com/content/39da5f5a-e7e6-4678-9c82-60e5a5e023e8)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Entities: UBS, First Brands
-
-UBS fund has a 30% exposure linked to First Brands, indicating significant investment in this entity. This could impact investor sentiment and market dynamics surrounding First Brands.
-
-**[BMW cuts profit guidance after weak sales in China](https://www.ft.com/content/e770dbc7-3e77-490e-b56d-abad5a13ff45)**  
-*finance* · 2025-10-07 · **Imp 4/5** — Tickers: BMW — Entities: BMW, China, luxury automotive market
-
-BMW has lowered its profit guidance due to disappointing sales in China, signaling potential challenges in the luxury automotive market.
