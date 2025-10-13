@@ -85,15 +85,60 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[French PM Sébastien Lecornu names cabinet as he seeks to finalise a budget](https://www.ft.com/content/b7eddc06-2313-4c25-9f3f-390b0e4539c7)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: Sébastien Lecornu, French government
+
+French PM Sébastien Lecornu has appointed his cabinet as he aims to finalize the national budget, which could impact fiscal policies and economic stability in France.
+
+**[Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.ft.com/content/605e5456-9437-47ff-be6a-edc5c82810f2)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: Dutch government, Nexperia
+
+The Dutch government has taken control of Nexperia, a Chinese-owned chipmaker, amid rising concerns over national security and technology sovereignty.
+
+**[US intel guided Ukraine’s strikes on Russian energy sites](https://www.ft.com/content/f9f42c10-3a30-4ee1-aff7-3368dd831c8c)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: US, Ukraine, Russia
+
+US intelligence has played a role in guiding Ukraine's military strikes on Russian energy infrastructure, impacting the ongoing conflict and geopolitical dynamics in the region.
+
+**[Trump travels to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: Trump, Israel
+
+Trump's visit to Israel comes amid heightened tensions as the country anticipates the release of hostages. This situation could impact geopolitical stability and investor sentiment in the region.
+
+**[Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest)**  
+*tech* · 2025-10-12 · **Imp 4/5** — Entities: Marvel, New York Comic Con, Brad Winderbaum, Krysten Ritter, Eric Lewald, Julia Lewald, Larry Houston
+
+Marvel unveiled its upcoming slate of shows at New York Comic Con, including 'Wonder Man', 'Daredevil: Born Again', and 'X-Men ‘97' season two, with broad release windows set for 2026. Details remain sparse, but anticipation is high for these series.
+
+**[Wall Street investment banking revenues poised to top $9bn](https://www.ft.com/content/a8824829-da4b-4401-8cbf-6b3bc6b5802c)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: Wall Street, investment banking
+
+Wall Street investment banking revenues are projected to exceed $9 billion, indicating a strong performance in the sector.
+
+**[China blames Trump and US for escalating trade war](https://www.ft.com/content/ce034c1b-97bd-4a79-a4e0-c62cf91aa233)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: China, Trump, US government
+
+China attributes the escalation of the trade war to actions taken by Trump and the US government, indicating ongoing tensions that could impact global markets.
+
+**[Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)**  
+*tech* · 2025-10-12 · **Imp 4/5** — Entities: police, TikTok, Snapchat
+
+Police are warning against a viral TikTok prank where kids use AI to create images of a homeless man in their homes, leading to panic among parents and unnecessary police responses. This trend raises concerns about safety and resource allocation for law enforcement.
+
+**[Why the economy feels so confusing right now](https://www.ft.com/content/5df25200-8eb7-4640-9511-ae4d10b73f81)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: investors, consumers, economists
+
+The current economic climate presents a confusing landscape for investors and consumers, influenced by various factors including inflation, interest rates, and market volatility.
+
+**[Chinese stocks race ahead as reforms take hold](https://www.ft.com/content/69ed9631-1a69-43fd-a455-89fe2b19a30d)**  
+*finance* · 2025-10-12 · **Imp 4/5** — Entities: Chinese stocks, economic reforms
+
+Chinese stocks are experiencing significant gains due to the implementation of economic reforms, signaling a positive shift in the market landscape.
+
 **[Trump says military will be paid during US government shutdown](https://www.ft.com/content/3780f953-b052-406c-b726-0a4b17acc95d)**  
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, US government, military
 
 Trump assures that military personnel will continue to receive pay during a potential US government shutdown, highlighting the administration's commitment to defense funding amidst fiscal uncertainties.
-
-**[Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)**  
-*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, OpenAI, Facebook
-
-Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left to join Meta. His departure follows Meta's unsuccessful acquisition attempt of the startup and highlights the competitive AI talent landscape.
 
 **[Trump talks tough with China but holds out hope of truce in trade war](https://www.ft.com/content/b5093474-81b2-4686-a2aa-88d9e45eb717)**  
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, China, U.S.
@@ -200,52 +245,7 @@ The US Treasury has intervened in Argentina's currency market, signaling potenti
 
 The US Justice Department has initiated an inquiry into First Brands, potentially impacting the company's operations and investor confidence.
 
-**[Duolingo says it will ‘never’ open a San Francisco office](https://techcrunch.com/2025/10/09/duolingo-says-it-will-never-open-a-san-francisco-office/)**  
-*startup* · 2025-10-09 · **Imp 4/5** — Entities: Duolingo, Pittsburgh, San Francisco, TechCrunch
-
-Duolingo has announced it will never open an office in San Francisco, emphasizing its commitment to maintaining its culture and operations in Pittsburgh. The company believes meaningful work can be done outside traditional startup hubs like Silicon Valley.
-
 **[Trump’s Gaza breakthrough is just the start](https://www.ft.com/content/4a8165b5-f636-4368-9eb5-69c985c5a93b)**  
 *finance* · 2025-10-09 · **Imp 4/5** — Entities: Trump, Gaza
 
 The article discusses Trump's recent diplomatic efforts regarding Gaza, suggesting it may lead to significant geopolitical changes and implications for investors and stakeholders in the region.
-
-**[First Brands creditor claims as much as $2.3bn has ‘simply vanished’](https://www.ft.com/content/36582d44-2592-4de7-a252-c2797fa65a48)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: First Brands
-
-First Brands faces creditor claims totaling $2.3 billion that have reportedly 'vanished', raising concerns about financial transparency and potential impacts on stakeholders.
-
-**[The Davos set in decline: can the World Economic Forum save itself?](https://www.ft.com/content/8f7dcf0e-ec4c-4643-9d95-d2a1b2fdea09)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: World Economic Forum
-
-The World Economic Forum faces challenges as the influence of its elite participants wanes. The article explores potential strategies for revitalization amid declining relevance.
-
-**[One NASA science mission saved from Trump’s cuts, but others still in limbo](https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/)**  
-*tech* · 2025-10-08 · **Imp 4/5** — Entities: NASA, Trump administration
-
-NASA's science mission faces funding uncertainties after proposed cuts by the Trump administration. While one mission is saved, others remain at risk, impacting personnel and project timelines.
-
-**[Trump says Israel and Hamas have agreed first phase of Gaza peace plan](https://www.ft.com/content/2bb3275c-6844-4505-9fc2-2942c2203777)**  
-*finance* · 2025-10-08 · **Imp 4/5** — Entities: Trump, Israel, Hamas
-
-Trump announces that Israel and Hamas have reached an agreement on the first phase of a Gaza peace plan, potentially impacting regional stability and international relations.
-
-**[Stoke Space gives us another reason to take it very seriously](https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/)**  
-*tech* · 2025-10-08 · **Imp 4/5** — Entities: Stoke Space
-
-Stoke Space has raised nearly $1 billion in new investments, solidifying its position in the aerospace sector and attracting serious attention from investors.
-
-**[Fed officials were cautious about inflation as they agreed rate cuts](https://www.ft.com/content/2379592b-ad44-4030-8ae9-e6e8200cad6a)**  
-*finance* · 2025-10-08 · **Imp 4/5** — Entities: Federal Reserve, inflation
-
-Federal Reserve officials expressed caution regarding inflation while agreeing on rate cuts, indicating a careful approach to monetary policy amidst economic uncertainties.
-
-**[Jefferies reveals $715mn fund exposure to First Brands invoices](https://www.ft.com/content/8d474079-657c-4baa-b69e-f2d80f7d9fc9)**  
-*finance* · 2025-10-08 · **Imp 4/5** — Entities: Jefferies, First Brands
-
-Jefferies has disclosed a $715 million exposure to invoices from First Brands, highlighting significant financial ties between the two entities.
-
-**[PepsiCo chief under pressure as activist Elliott pushes for change](https://www.ft.com/content/bec609c9-2dbf-40f1-8975-3abbbb30d687)**  
-*finance* · 2025-10-08 · **Imp 4/5** — Tickers: PEP — Entities: PepsiCo, Elliott Management
-
-PepsiCo's CEO faces pressure from activist investor Elliott Management, which is advocating for significant changes within the company to enhance shareholder value.
