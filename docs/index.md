@@ -85,6 +85,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)**  
+*tech* · 2025-10-13 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, OpenAI, Anthropic
+
+Microsoft AI has launched its first in-house text-to-image generator, MAI-Image-1, designed for photorealistic imagery and faster processing. It aims to improve creative outputs based on professional feedback and ranks in the top 10 on AI benchmark site LMArena.
+
+**[Gaza as it happened - Trump says next phase of peace plan has ‘started’ after Hamas releases Israeli hostages](https://www.ft.com/content/866689a7-4ae2-4d99-ab57-edac6747d4bc)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Trump, Hamas, Israel
+
+Trump announces the initiation of the next phase of the peace plan following Hamas's release of Israeli hostages, indicating potential shifts in geopolitical dynamics.
+
+**[Taylor Swift’s new album smashes sales records in first week](https://www.ft.com/content/cad50df6-3a4f-4576-9d86-866e64802051)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Taylor Swift, music industry
+
+Taylor Swift's latest album has achieved record-breaking sales in its first week, highlighting her significant influence in the music industry and potential economic impact.
+
+**[Hamas releases final hostages as Trump hails ‘historic dawn’ in Middle East](https://www.ft.com/content/c6a2ed43-1a93-41b3-a4bf-77d2063eb97f)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Hamas, Trump, Middle East
+
+Hamas has released its final hostages, prompting former President Trump to declare a 'historic dawn' in the Middle East, potentially signaling shifts in geopolitical dynamics.
+
+**[Measuring risk in the AI financing boom](https://www.ft.com/content/50f6a373-f7b9-455e-b8ab-129d312822c1)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: AI sector, investors, financial analysts
+
+The article discusses the increasing risks associated with financing in the AI sector, highlighting the need for careful assessment as investments surge.
+
+**[JPMorgan backs ‘America First’ push with up to $10bn investment](https://www.ft.com/content/255681a2-51d1-4c0f-b23d-feb1d203d021)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan Chase
+
+JPMorgan Chase is committing up to $10 billion to support the 'America First' initiative, emphasizing its investment strategy focused on domestic growth and economic resilience.
+
+**[‘Home, home’: Israel erupts as hostages are freed](https://www.ft.com/content/ce8c6b99-fa0a-4584-9b24-bed822ff3056)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Israel, hostages, conflict
+
+Israel celebrates the release of hostages, marking a significant moment in the ongoing conflict. This event may influence regional stability and investor sentiment in related sectors.
+
+**[Starboard builds stake in Keurig Dr Pepper after unpopular Peet’s deal](https://www.ft.com/content/4ad57839-cc83-4343-a0c7-b8fc5b18830e)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Starboard, Keurig Dr Pepper, Peet's
+
+Starboard has acquired a stake in Keurig Dr Pepper following dissatisfaction with the Peet's acquisition. This move signals potential changes in strategy or governance at Keurig Dr Pepper.
+
+**[Why peace in the Middle East may still be elusive](https://www.ft.com/content/374537af-69c8-4d7e-966d-fefbd630c3ba)**  
+*finance* · 2025-10-13 · **Imp 4/5** — Entities: Middle East, geopolitical dynamics, regional conflicts
+
+The article discusses the ongoing challenges to achieving peace in the Middle East, highlighting the complexities of regional conflicts and geopolitical dynamics.
+
 **[French PM Sébastien Lecornu names cabinet as he seeks to finalise a budget](https://www.ft.com/content/b7eddc06-2313-4c25-9f3f-390b0e4539c7)**  
 *finance* · 2025-10-12 · **Imp 4/5** — Entities: Sébastien Lecornu, French government
 
@@ -139,6 +184,11 @@ Chinese stocks are experiencing significant gains due to the implementation of e
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, US government, military
 
 Trump assures that military personnel will continue to receive pay during a potential US government shutdown, highlighting the administration's commitment to defense funding amidst fiscal uncertainties.
+
+**[Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)**  
+*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, OpenAI, Facebook
+
+Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left to join Meta. His departure follows Meta's failed acquisition attempt of the startup and a significant compensation offer. Tulloch's background includes roles at OpenAI and Facebook's AI Research Group.
 
 **[Trump talks tough with China but holds out hope of truce in trade war](https://www.ft.com/content/b5093474-81b2-4686-a2aa-88d9e45eb717)**  
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, China, U.S.
@@ -199,53 +249,3 @@ Google's Chrome will automatically disable web notifications users ignore, enhan
 *tech* · 2025-10-10 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Jeff Williams, Eddy Cue, Craig Federighi, John Ternus, Johnny Srouji, Jay Blahnik, Sumbul Desai
 
 Apple is undergoing significant executive changes ahead of Jeff Williams' retirement, with Eddy Cue taking over health initiatives and other leadership shifts. This comes amid an internal investigation involving fitness chief Jay Blahnik and a lawsuit alleging a toxic work environment.
-
-**[First Brands Group: dude, where’s my cash?](https://www.ft.com/content/dfb31393-b35f-482f-be6c-b692a53ca25d)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: First Brands Group
-
-First Brands Group faces cash flow concerns, raising questions about its financial stability and operational efficiency. Investors are advised to monitor the situation closely.
-
-**[Insurers prepare for wave of First Brands claims](https://www.ft.com/content/de377455-3b5e-4da4-ba3a-ac8b03dcde09)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: First Brands, insurers
-
-Insurers are bracing for a surge in claims related to First Brands, indicating potential financial implications for the insurance sector and affected businesses.
-
-**[America is sucking in growth from the rest of the world](https://www.ft.com/content/4c6efb87-9d65-4d31-8198-9a8e9be2cc34)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: U.S. economy, global growth
-
-The article discusses how the U.S. economy is benefiting from global growth, indicating a shift in economic dynamics. This trend may influence investment strategies and economic forecasts.
-
-**[The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)**  
-*tech* · 2025-10-09 · **Imp 4/5** — Entities: Minecraft, Warner Bros. Discovery, Nintendo
-
-A sequel to the successful Minecraft movie is set to release on July 23, 2027, with director Jared Hess returning. The first film was a box office success, earning nearly $1 billion, prompting Warner Bros. Discovery to initiate the sequel.
-
-**[Israel approves Trump’s plan for Gaza ceasefire and hostage release](https://www.ft.com/content/fdce0739-006a-463a-bf4f-4976ea941096)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: Israel, Trump, Gaza
-
-Israel has approved a ceasefire plan proposed by Trump, which includes provisions for the release of hostages in Gaza. This development may impact geopolitical stability and investor sentiment in the region.
-
-**[NY attorney-general Letitia James indicted after pressure from Trump](https://www.ft.com/content/dc00ae3e-2f3e-4ecd-9c3a-a8ceeccafe38)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: Letitia James, Donald Trump
-
-NY Attorney General Letitia James has been indicted following pressure from former President Trump, raising concerns about political influence in legal proceedings.
-
-**[Venture Global loses arbitration with BP over disputed LNG cargoes](https://www.ft.com/content/53f45b52-8c5a-42d8-ad70-e23eb1f1bd7b)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: Venture Global, BP
-
-Venture Global has lost an arbitration case against BP concerning disputed LNG cargoes, potentially impacting its financial standing and future contracts.
-
-**[US Treasury intervenes in Argentina’s currency market](https://www.ft.com/content/778e4609-772b-4edd-83d2-d8915f1c4628)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: US Treasury, Argentina
-
-The US Treasury has intervened in Argentina's currency market, signaling potential support for the country's economic stability amidst ongoing financial challenges.
-
-**[US justice department launches inquiry into First Brands](https://www.ft.com/content/9eec3cbf-264b-4cae-bf5e-311b83fef7fc)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: US Justice Department, First Brands
-
-The US Justice Department has initiated an inquiry into First Brands, potentially impacting the company's operations and investor confidence.
-
-**[Trump’s Gaza breakthrough is just the start](https://www.ft.com/content/4a8165b5-f636-4368-9eb5-69c985c5a93b)**  
-*finance* · 2025-10-09 · **Imp 4/5** — Entities: Trump, Gaza
-
-The article discusses Trump's recent diplomatic efforts regarding Gaza, suggesting it may lead to significant geopolitical changes and implications for investors and stakeholders in the region.
