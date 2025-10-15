@@ -85,6 +85,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Glass Lewis to end benchmark voting recommendations on proxy issues](https://www.ft.com/content/7860f94c-7b1c-49c9-9f4c-a561ee39ee31)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: Glass Lewis
+
+Glass Lewis will discontinue its benchmark voting recommendations on proxy issues, potentially impacting shareholder voting behavior and corporate governance practices.
+
+**[Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
+
+Federal Reserve Chair Jerome Powell indicates potential support for additional interest rate cuts as the US job market shows signs of cooling, suggesting a shift in monetary policy to stimulate economic growth.
+
+**[Russia accuses Mikhail Khodorkovsky of plotting coup](https://www.ft.com/content/a34bab00-0098-4ebb-8b7b-91239032927d)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: Mikhail Khodorkovsky, Russia
+
+Russia has accused Mikhail Khodorkovsky of plotting a coup, escalating tensions surrounding the former oligarch and his political activities.
+
+**[Commodities trading houses braced for ‘smaller rewards’](https://www.ft.com/content/dfbf4db8-7cd0-4024-b112-db74d046b2e3)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: commodities trading houses
+
+Commodities trading houses are preparing for reduced profitability as market conditions shift, indicating a potential decline in rewards for traders and investors in the sector.
+
+**[Banks caution over bubble as they report bumper profits](https://www.ft.com/content/87d746a7-728e-4fe1-bc72-ec2946aa5eb5)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: banks, investors, economists
+
+Banks are warning of a potential bubble as they report significant profits, raising concerns about market sustainability and future economic impacts.
+
+**[Oil tumbles to five-month low on report of ‘large surplus’](https://www.ft.com/content/e9f5ed18-5ca2-4154-9982-40616121a69d)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: oil market, investors, suppliers
+
+Oil prices have dropped to a five-month low due to reports indicating a significant surplus in the market, raising concerns about supply and demand dynamics.
+
+**[The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: global economy, investors, policymakers
+
+The article discusses the challenges facing the global economy amid increasing disorder, highlighting the need for strategic responses from investors and policymakers.
+
+**[The paradox of the resilient, fragile global economy](https://www.ft.com/content/ac920373-600d-4654-8091-c1ad0ae198b6)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: global economy, investors, sectors
+
+The article discusses the paradox of a global economy that appears resilient yet remains fragile, highlighting the complexities and vulnerabilities that could impact various sectors.
+
+**[US-China déjà vu all over again](https://www.ft.com/content/73434f3d-6698-4e19-917d-94bb106907a9)**  
+*finance* · 2025-10-14 · **Imp 4/5** — Entities: US, China, investors, market
+
+The article discusses the recurring tensions between the US and China, highlighting implications for global finance and trade. It suggests that these geopolitical dynamics could impact investor sentiment and market stability.
+
 **[Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)**  
 *tech* · 2025-10-13 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, OpenAI, Anthropic
 
@@ -186,9 +231,9 @@ Chinese stocks are experiencing significant gains due to the implementation of e
 Trump assures that military personnel will continue to receive pay during a potential US government shutdown, highlighting the administration's commitment to defense funding amidst fiscal uncertainties.
 
 **[Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)**  
-*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, OpenAI, Facebook
+*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, Andrew Tulloch, Mira Murati, Mark Zuckerberg, OpenAI
 
-Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left to join Meta. His departure follows Meta's failed acquisition attempt of the startup and a significant compensation offer. Tulloch's background includes roles at OpenAI and Facebook's AI Research Group.
+Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left the company to join Meta. His departure follows Meta's attempts to acquire the startup and lure him with a substantial compensation package.
 
 **[Trump talks tough with China but holds out hope of truce in trade war](https://www.ft.com/content/b5093474-81b2-4686-a2aa-88d9e45eb717)**  
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, China, U.S.
@@ -204,48 +249,3 @@ Hamas has reasserted its control over the Gaza Strip, indicating a shift in powe
 *finance* · 2025-10-11 · **Imp 4/5** — Entities: private equity, California, legal market
 
 Private equity firms have successfully navigated regulatory challenges in California, allowing for expansion into the US legal market. This development may reshape the landscape of legal services and investment opportunities.
-
-**[First Brands boss weighs resigning under pressure from lenders](https://www.ft.com/content/e0005479-726c-4d4d-be06-2454e9ab2bd9)**  
-*finance* · 2025-10-11 · **Imp 4/5** — Entities: First Brands
-
-The CEO of First Brands is considering resignation due to pressure from lenders, indicating potential financial instability within the company.
-
-**[Qatar to build fighter jet facility at US base in Idaho](https://www.ft.com/content/7d4410d7-1525-42e2-a610-0df13556e3f9)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: Qatar, US military, Idaho
-
-Qatar plans to construct a fighter jet facility at a US military base in Idaho, enhancing defense collaboration and potentially impacting local economies and defense contracts.
-
-**[Trump reignites trade war with threat of additional 100% tariff on China](https://www.ft.com/content/328e3195-909a-45fb-b118-9dafbd41262b)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: Trump, China, global markets
-
-Trump has threatened to impose an additional 100% tariff on Chinese goods, escalating the ongoing trade war and potentially impacting global markets.
-
-**[Trump administration starts firing workers laid off in government shutdown](https://www.ft.com/content/67730450-9223-49c4-b438-5c5d730b81c8)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: Trump administration, federal workforce
-
-The Trump administration begins terminating employees affected by the government shutdown, impacting federal workforce dynamics and economic stability.
-
-**[US stocks close sharply lower after Trump threatens new China tariffs](https://www.ft.com/content/b9ae2417-2e89-4b0a-bad5-d94f4e980ecc)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: US stocks, Trump, China
-
-US stocks declined significantly following Trump's announcement of potential new tariffs on China, raising concerns about trade relations and economic stability.
-
-**[Denmark to spend $8.7bn on F-35 jets and bolstering Arctic security](https://www.ft.com/content/8bfc1893-4f8b-460c-9794-b02347ce74db)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: Denmark, F-35 jets, Arctic security
-
-Denmark plans to invest $8.7 billion in F-35 jets and enhance Arctic security, reflecting a strategic shift in defense spending amid rising geopolitical tensions.
-
-**[A dollar rally could be the next jolt for markets](https://www.ft.com/content/16ac846c-4d71-4886-9ffa-2b01dc4dfe99)**  
-*finance* · 2025-10-10 · **Imp 4/5** — Entities: financial markets, investors
-
-A potential dollar rally may significantly impact financial markets, influencing investor sentiment and market dynamics.
-
-**[Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)**  
-*tech* · 2025-10-10 · **Imp 4/5** — Entities: Google, Chrome
-
-Google's Chrome will automatically disable web notifications users ignore, enhancing user experience by reducing notification overload. This feature builds on existing safety measures and aims to improve engagement with relevant notifications.
-
-**[Apple’s executive reshuffling isn’t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)**  
-*tech* · 2025-10-10 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Jeff Williams, Eddy Cue, Craig Federighi, John Ternus, Johnny Srouji, Jay Blahnik, Sumbul Desai
-
-Apple is undergoing significant executive changes ahead of Jeff Williams' retirement, with Eddy Cue taking over health initiatives and other leadership shifts. This comes amid an internal investigation involving fitness chief Jay Blahnik and a lawsuit alleging a toxic work environment.
