@@ -85,6 +85,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump says Modi pledged India would stop buying Russian oil](https://www.ft.com/content/3d9949f5-2aeb-49c5-a038-e351dfe04c5a)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: Trump, Modi, India, Russia
+
+Trump claims Modi has committed to halting India's purchases of Russian oil, which could impact global oil markets and geopolitical relations.
+
+**[Bank of America and BNY sued over financial ties to Jeffrey Epstein](https://www.ft.com/content/920bec1a-0fc6-4aae-aa2e-efbabd15feb8)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: Bank of America, BNY Mellon, Jeffrey Epstein
+
+Bank of America and BNY Mellon are facing lawsuits due to their financial connections with Jeffrey Epstein, raising concerns about compliance and reputational risks in the banking sector.
+
+**[Army general says he’s using AI to improve “decision-making”](https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: Army, AI, military
+
+An Army general highlights the use of AI to enhance decision-making processes within military operations, indicating a growing trend of AI integration in defense strategies.
+
+**[Bill Ackman donates $1mn to oppose Zohran Mamdani’s NY mayoral campaign](https://www.ft.com/content/36866bb8-ad15-4537-bdfe-029a940abcef)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: Bill Ackman, Zohran Mamdani, New York mayoral campaign
+
+Bill Ackman has donated $1 million to oppose Zohran Mamdani's campaign for New York mayor, highlighting the influence of wealthy donors in local politics.
+
+**[I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: Microsoft, Asus, Sean Hollister, The Verge
+
+Sean Hollister reviews the Xbox Ally and Xbox Ally X, Microsoft's first handheld gaming PCs co-developed with Asus. He will host a subscriber-only AMA on launch day, October 16th, to answer questions about the devices.
+
+**[Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: Insta360, Amazon, Best Buy
+
+Insta360's X5 action camera is on sale for $499.99, marking an all-time low. It features improved image quality, 4K at 120fps, user-replaceable lenses, and faster charging. The sale runs through October 16th.
+
+**[US warns world will ‘decouple’ from China if it imposes new export controls](https://www.ft.com/content/15a957a7-104e-431a-807e-441e5c2c753f)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: US government, China
+
+The US government has issued a warning that the global economy may 'decouple' from China if it enforces new export controls, signaling potential shifts in international trade dynamics.
+
+**[The secretive First Brands founder, his $12bn debt and the future of private credit](https://www.ft.com/content/83734e55-f3a6-46b6-865e-f16667d2fd3b)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: First Brands, private credit market
+
+The article discusses the founder of First Brands, highlighting his $12 billion debt and the implications for the private credit market. It explores the potential impact on investors and the future of financing in this sector.
+
+**[US approves new bank backed by billionaires with ties to Trump](https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: US government, billionaires, Trump
+
+The US has approved a new bank backed by billionaires with connections to former President Trump, signaling potential shifts in the banking landscape and investor interest.
+
+**[Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a)**  
+*finance* · 2025-10-15 · **Imp 4/5** — Entities: US, Middle East, financial markets, geopolitical strategies
+
+The article discusses the persistent influence of the Middle East on US financial markets and geopolitical strategies, highlighting the complexities of international relations and economic dependencies.
+
 **[Glass Lewis to end benchmark voting recommendations on proxy issues](https://www.ft.com/content/7860f94c-7b1c-49c9-9f4c-a561ee39ee31)**  
 *finance* · 2025-10-14 · **Imp 4/5** — Entities: Glass Lewis
 
@@ -199,53 +249,3 @@ Trump's visit to Israel comes amid heightened tensions as the country anticipate
 *tech* · 2025-10-12 · **Imp 4/5** — Entities: Marvel, New York Comic Con, Brad Winderbaum, Krysten Ritter, Eric Lewald, Julia Lewald, Larry Houston
 
 Marvel unveiled its upcoming slate of shows at New York Comic Con, including 'Wonder Man', 'Daredevil: Born Again', and 'X-Men ‘97' season two, with broad release windows set for 2026. Details remain sparse, but anticipation is high for these series.
-
-**[Wall Street investment banking revenues poised to top $9bn](https://www.ft.com/content/a8824829-da4b-4401-8cbf-6b3bc6b5802c)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: Wall Street, investment banking
-
-Wall Street investment banking revenues are projected to exceed $9 billion, indicating a strong performance in the sector.
-
-**[China blames Trump and US for escalating trade war](https://www.ft.com/content/ce034c1b-97bd-4a79-a4e0-c62cf91aa233)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: China, Trump, US government
-
-China attributes the escalation of the trade war to actions taken by Trump and the US government, indicating ongoing tensions that could impact global markets.
-
-**[Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)**  
-*tech* · 2025-10-12 · **Imp 4/5** — Entities: police, TikTok, Snapchat
-
-Police are warning against a viral TikTok prank where kids use AI to create images of a homeless man in their homes, leading to panic among parents and unnecessary police responses. This trend raises concerns about safety and resource allocation for law enforcement.
-
-**[Why the economy feels so confusing right now](https://www.ft.com/content/5df25200-8eb7-4640-9511-ae4d10b73f81)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: investors, consumers, economists
-
-The current economic climate presents a confusing landscape for investors and consumers, influenced by various factors including inflation, interest rates, and market volatility.
-
-**[Chinese stocks race ahead as reforms take hold](https://www.ft.com/content/69ed9631-1a69-43fd-a455-89fe2b19a30d)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: Chinese stocks, economic reforms
-
-Chinese stocks are experiencing significant gains due to the implementation of economic reforms, signaling a positive shift in the market landscape.
-
-**[Trump says military will be paid during US government shutdown](https://www.ft.com/content/3780f953-b052-406c-b726-0a4b17acc95d)**  
-*finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, US government, military
-
-Trump assures that military personnel will continue to receive pay during a potential US government shutdown, highlighting the administration's commitment to defense funding amidst fiscal uncertainties.
-
-**[Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/)**  
-*startup* · 2025-10-11 · **Imp 4/5** — Entities: Thinking Machines Lab, Meta, Andrew Tulloch, Mira Murati, Mark Zuckerberg, OpenAI
-
-Andrew Tulloch, co-founder of AI startup Thinking Machines Lab, has left the company to join Meta. His departure follows Meta's attempts to acquire the startup and lure him with a substantial compensation package.
-
-**[Trump talks tough with China but holds out hope of truce in trade war](https://www.ft.com/content/b5093474-81b2-4686-a2aa-88d9e45eb717)**  
-*finance* · 2025-10-11 · **Imp 4/5** — Entities: Trump, China, U.S.
-
-Trump expresses a firm stance on China while remaining optimistic about reaching a trade truce, indicating ongoing tensions in U.S.-China trade relations.
-
-**[Hamas reasserts control and settles scores in Gaza Strip](https://www.ft.com/content/ab1ed3ec-a93b-4aa7-99b3-cdc1eaf0302f)**  
-*finance* · 2025-10-11 · **Imp 4/5** — Entities: Hamas, Gaza Strip
-
-Hamas has reasserted its control over the Gaza Strip, indicating a shift in power dynamics and potential implications for regional stability and investment climates.
-
-**[Private equity overcomes California hurdle to expansion in US legal market](https://www.ft.com/content/2e364a18-8183-4268-91c0-0c6623533c27)**  
-*finance* · 2025-10-11 · **Imp 4/5** — Entities: private equity, California, legal market
-
-Private equity firms have successfully navigated regulatory challenges in California, allowing for expansion into the US legal market. This development may reshape the landscape of legal services and investment opportunities.
