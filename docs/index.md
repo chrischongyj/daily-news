@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Thousands of customers imperiled after nation-state ransacks F5’s network](https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/)**  
+*tech* · 2025-10-15 · **Imp 5/5** — Entities: F5, BIG-IP
+
+F5's network breach poses significant risks to BIG-IP users, including potential supply-chain attacks, credential loss, and vulnerability exploits, endangering thousands of customers.
+
+**[OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/)**  
+*startup* · 2025-10-14 · **Imp 5/5** — Entities: OpenAI,Broadcom,AMD,Nvidia,Oracle
+
+OpenAI partners with Broadcom to develop custom AI accelerator hardware, estimated to cost $350-$500 billion. This collaboration aims to enhance AI capabilities in OpenAI's data centers from 2026 to 2029, following recent deals with AMD and Nvidia.
+
 **[How OpenAI put itself at the centre of a $1tn network of deals](https://www.ft.com/content/4e39d081-ab26-4bc2-9c4c-256d766f28e2)**  
 *finance* · 2025-10-10 · **Imp 5/5** — Entities: OpenAI
 
@@ -85,6 +95,81 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump strikes deal to lower costs of IVF treatment](https://www.ft.com/content/a6247824-4957-4804-93d7-634ea7e1530d)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, IVF treatment, healthcare
+
+Trump has reached an agreement aimed at reducing the costs associated with IVF treatment, potentially impacting healthcare access and affordability for families seeking fertility solutions.
+
+**[I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: Microsoft, Asus, The Verge
+
+Sean Hollister reviews Microsoft's Xbox Ally and Xbox Ally X handheld gaming PCs, co-developed with Asus, while engaging with subscribers through an AMA. The review highlights the growing trend of handheld gaming devices.
+
+**[AI-powered features begin creeping deeper into the bedrock of Windows 11](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: Windows 11, Copilot
+
+Windows 11 is integrating AI-powered features more extensively, with Copilot focusing on file creation, editing, and voice input functionalities.
+
+**[Nation-state hackers deliver malware from “bulletproof” blockchains](https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: Ethereum, BNB, nation-state hackers
+
+Nation-state hackers are utilizing Ethereum and BNB blockchains to deliver malware, exploiting their 'bulletproof' nature to evade takedowns. This poses significant security risks in the tech landscape.
+
+**[Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.](https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI, Ed Zitron, nuclear power
+
+The Ars Live discussion addressed concerns about the sustainability of the AI sector, focusing on OpenAI's financial health and insights from Ed Zitron regarding potential market corrections.
+
+**[Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”](https://arstechnica.com/tech-policy/2025/10/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Tickers: SONY — Entities: Sony, SCOTUS, music companies, ISPs
+
+Sony argues before SCOTUS that individuals accused of piracy should not be viewed as innocent, countering music companies' push for ISPs to take action against repeat infringers or face significant penalties.
+
+**[OpenAI wants to own it all](https://www.ft.com/content/5859c6f2-d89b-4958-bcee-bb2b548c6c35)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI
+
+OpenAI is pursuing a strategy to consolidate its ownership and control over its technologies and innovations, indicating a significant shift in its business model.
+
+**[OpenAI thinks Elon Musk funded its biggest critics—who also hate Musk](https://arstechnica.com/tech-policy/2025/10/openai-thinks-elon-musk-funded-its-biggest-critics-who-also-hate-musk/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI, Elon Musk
+
+OpenAI alleges that Elon Musk has financially supported its main critics, who are also opposed to Musk. This situation highlights tensions within the tech community and raises concerns about the influence of funding on public discourse.
+
+**[Cai Qi: Xi Jinping’s right-hand man drawn into UK’s China spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: Cai Qi, Xi Jinping, UK, China
+
+Cai Qi, a key aide to Xi Jinping, is implicated in a UK espionage case involving China, raising concerns over international relations and security.
+
+**[Fed governor Waller backs further rate cuts but urges caution](https://www.ft.com/content/4ad3d597-1207-4332-b4c4-1164e350d1c3)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: Federal Reserve, Christopher Waller
+
+Fed Governor Christopher Waller supports additional interest rate cuts but emphasizes the need for caution in monetary policy decisions, highlighting potential economic risks.
+
+**[Big investors scale back risky bond exposure after storming rally](https://www.ft.com/content/2667cba1-5a44-4463-b20b-c2216c7899d8)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: big investors, risky bonds, market sentiment
+
+Big investors are reducing their exposure to risky bonds following a significant rally, indicating a shift in market sentiment and risk appetite.
+
+**[Antarctica is starting to look a lot like Greenland—and that isn’t good](https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: Antarctica, Greenland, global warming
+
+Global warming is causing significant ice melt in Antarctica, resembling the alarming changes seen in Greenland. This shift poses serious environmental concerns.
+
+**[The Tomahawk missiles Trump is considering for Ukraine](https://www.ft.com/content/654a4d90-8b49-4aff-a05c-fc7a9f842432)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, Ukraine, military, geopolitics
+
+Former President Trump is contemplating the deployment of Tomahawk missiles to Ukraine, which could significantly impact military dynamics and geopolitical relations in the region.
+
+**[Inside the web infrastructure revolt over Google’s AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/)**  
+*tech* · 2025-10-16 · **Imp 4/5** — Entities: Cloudflare, Google, Matthew Prince
+
+Cloudflare's CEO Matthew Prince is implementing significant changes to challenge Google's AI Overviews, indicating a potential shift in web infrastructure dynamics.
+
+**[How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13)**  
+*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump companies, cryptocurrency
+
+Trump companies reportedly generated $1 billion from cryptocurrency ventures, highlighting the intersection of traditional business and emerging tech. This development could influence investor sentiment and market dynamics in the crypto space.
+
 **[Trump says Modi pledged India would stop buying Russian oil](https://www.ft.com/content/3d9949f5-2aeb-49c5-a038-e351dfe04c5a)**  
 *finance* · 2025-10-15 · **Imp 4/5** — Entities: Trump, Modi, India, Russia
 
@@ -98,17 +183,32 @@ Bank of America and BNY Mellon are facing lawsuits due to their financial connec
 **[Army general says he’s using AI to improve “decision-making”](https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/)**  
 *tech* · 2025-10-15 · **Imp 4/5** — Entities: Army, AI, military
 
-An Army general highlights the use of AI to enhance decision-making processes within military operations, indicating a growing trend of AI integration in defense strategies.
+An Army general highlights the use of AI to enhance decision-making processes within military operations, emphasizing its significance in leadership roles.
 
 **[Bill Ackman donates $1mn to oppose Zohran Mamdani’s NY mayoral campaign](https://www.ft.com/content/36866bb8-ad15-4537-bdfe-029a940abcef)**  
 *finance* · 2025-10-15 · **Imp 4/5** — Entities: Bill Ackman, Zohran Mamdani, New York mayoral campaign
 
 Bill Ackman has donated $1 million to oppose Zohran Mamdani's campaign for New York mayor, highlighting the influence of wealthy donors in local politics.
 
-**[I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: Microsoft, Asus, Sean Hollister, The Verge
+**[Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets](https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Tickers: LMT — Entities: NASA, Lockheed Martin, Orion spacecraft
 
-Sean Hollister reviews the Xbox Ally and Xbox Ally X, Microsoft's first handheld gaming PCs co-developed with Asus. He will host a subscriber-only AMA on launch day, October 16th, to answer questions about the devices.
+NASA and Lockheed are exploring the possibility of launching the Orion spacecraft on alternative rockets, marking a significant shift in their reuse strategy.
+
+**[CDC tormented: HR workers summoned from furlough to lay off themselves, others](https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: CDC, HR workers, union
+
+The CDC has reportedly lost 33% of its workforce this year, leading to HR workers being called back from furlough to manage layoffs, including their own. This situation highlights significant operational challenges within the agency.
+
+**[Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost](https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: Anthropic, Claude Haiku, GPT-5, Sonnet 4
+
+Anthropic's Claude Haiku 4.5 achieves coding scores comparable to GPT-5 and Sonnet 4, offering similar performance at a significantly lower cost. This advancement highlights the competitive landscape in AI model development.
+
+**[ISPs angry about California law that lets renters opt out of forced payments](https://arstechnica.com/tech-policy/2025/10/california-says-landlords-cant-make-tenants-pay-for-an-isp-they-dont-want/)**  
+*tech* · 2025-10-15 · **Imp 4/5** — Entities: California, ISPs, cable industry, Governor Newsom
+
+California's new broadband billing law allows renters to opt out of mandatory payments, drawing ire from ISPs and the cable industry. Governor Newsom's signing of this legislation could reshape billing practices and consumer rights in the broadband sector.
 
 **[Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)**  
 *tech* · 2025-10-15 · **Imp 4/5** — Entities: Insta360, Amazon, Best Buy
@@ -149,103 +249,3 @@ Federal Reserve Chair Jerome Powell indicates potential support for additional i
 *finance* · 2025-10-14 · **Imp 4/5** — Entities: Mikhail Khodorkovsky, Russia
 
 Russia has accused Mikhail Khodorkovsky of plotting a coup, escalating tensions surrounding the former oligarch and his political activities.
-
-**[Commodities trading houses braced for ‘smaller rewards’](https://www.ft.com/content/dfbf4db8-7cd0-4024-b112-db74d046b2e3)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: commodities trading houses
-
-Commodities trading houses are preparing for reduced profitability as market conditions shift, indicating a potential decline in rewards for traders and investors in the sector.
-
-**[Banks caution over bubble as they report bumper profits](https://www.ft.com/content/87d746a7-728e-4fe1-bc72-ec2946aa5eb5)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: banks, investors, economists
-
-Banks are warning of a potential bubble as they report significant profits, raising concerns about market sustainability and future economic impacts.
-
-**[Oil tumbles to five-month low on report of ‘large surplus’](https://www.ft.com/content/e9f5ed18-5ca2-4154-9982-40616121a69d)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: oil market, investors, suppliers
-
-Oil prices have dropped to a five-month low due to reports indicating a significant surplus in the market, raising concerns about supply and demand dynamics.
-
-**[The world economy in an age of disorder](https://www.ft.com/content/8176571c-9049-4b80-aede-f7a067b92646)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: global economy, investors, policymakers
-
-The article discusses the challenges facing the global economy amid increasing disorder, highlighting the need for strategic responses from investors and policymakers.
-
-**[The paradox of the resilient, fragile global economy](https://www.ft.com/content/ac920373-600d-4654-8091-c1ad0ae198b6)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: global economy, investors, sectors
-
-The article discusses the paradox of a global economy that appears resilient yet remains fragile, highlighting the complexities and vulnerabilities that could impact various sectors.
-
-**[US-China déjà vu all over again](https://www.ft.com/content/73434f3d-6698-4e19-917d-94bb106907a9)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: US, China, investors, market
-
-The article discusses the recurring tensions between the US and China, highlighting implications for global finance and trade. It suggests that these geopolitical dynamics could impact investor sentiment and market stability.
-
-**[Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)**  
-*tech* · 2025-10-13 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, OpenAI, Anthropic
-
-Microsoft AI has launched its first in-house text-to-image generator, MAI-Image-1, designed for photorealistic imagery and faster processing. It aims to improve creative outputs based on professional feedback and ranks in the top 10 on AI benchmark site LMArena.
-
-**[Gaza as it happened - Trump says next phase of peace plan has ‘started’ after Hamas releases Israeli hostages](https://www.ft.com/content/866689a7-4ae2-4d99-ab57-edac6747d4bc)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Trump, Hamas, Israel
-
-Trump announces the initiation of the next phase of the peace plan following Hamas's release of Israeli hostages, indicating potential shifts in geopolitical dynamics.
-
-**[Taylor Swift’s new album smashes sales records in first week](https://www.ft.com/content/cad50df6-3a4f-4576-9d86-866e64802051)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Taylor Swift, music industry
-
-Taylor Swift's latest album has achieved record-breaking sales in its first week, highlighting her significant influence in the music industry and potential economic impact.
-
-**[Hamas releases final hostages as Trump hails ‘historic dawn’ in Middle East](https://www.ft.com/content/c6a2ed43-1a93-41b3-a4bf-77d2063eb97f)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Hamas, Trump, Middle East
-
-Hamas has released its final hostages, prompting former President Trump to declare a 'historic dawn' in the Middle East, potentially signaling shifts in geopolitical dynamics.
-
-**[Measuring risk in the AI financing boom](https://www.ft.com/content/50f6a373-f7b9-455e-b8ab-129d312822c1)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: AI sector, investors, financial analysts
-
-The article discusses the increasing risks associated with financing in the AI sector, highlighting the need for careful assessment as investments surge.
-
-**[JPMorgan backs ‘America First’ push with up to $10bn investment](https://www.ft.com/content/255681a2-51d1-4c0f-b23d-feb1d203d021)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan Chase
-
-JPMorgan Chase is committing up to $10 billion to support the 'America First' initiative, emphasizing its investment strategy focused on domestic growth and economic resilience.
-
-**[‘Home, home’: Israel erupts as hostages are freed](https://www.ft.com/content/ce8c6b99-fa0a-4584-9b24-bed822ff3056)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Israel, hostages, conflict
-
-Israel celebrates the release of hostages, marking a significant moment in the ongoing conflict. This event may influence regional stability and investor sentiment in related sectors.
-
-**[Starboard builds stake in Keurig Dr Pepper after unpopular Peet’s deal](https://www.ft.com/content/4ad57839-cc83-4343-a0c7-b8fc5b18830e)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Starboard, Keurig Dr Pepper, Peet's
-
-Starboard has acquired a stake in Keurig Dr Pepper following dissatisfaction with the Peet's acquisition. This move signals potential changes in strategy or governance at Keurig Dr Pepper.
-
-**[Why peace in the Middle East may still be elusive](https://www.ft.com/content/374537af-69c8-4d7e-966d-fefbd630c3ba)**  
-*finance* · 2025-10-13 · **Imp 4/5** — Entities: Middle East, geopolitical dynamics, regional conflicts
-
-The article discusses the ongoing challenges to achieving peace in the Middle East, highlighting the complexities of regional conflicts and geopolitical dynamics.
-
-**[French PM Sébastien Lecornu names cabinet as he seeks to finalise a budget](https://www.ft.com/content/b7eddc06-2313-4c25-9f3f-390b0e4539c7)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: Sébastien Lecornu, French government
-
-French PM Sébastien Lecornu has appointed his cabinet as he aims to finalize the national budget, which could impact fiscal policies and economic stability in France.
-
-**[Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.ft.com/content/605e5456-9437-47ff-be6a-edc5c82810f2)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: Dutch government, Nexperia
-
-The Dutch government has taken control of Nexperia, a Chinese-owned chipmaker, amid rising concerns over national security and technology sovereignty.
-
-**[US intel guided Ukraine’s strikes on Russian energy sites](https://www.ft.com/content/f9f42c10-3a30-4ee1-aff7-3368dd831c8c)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: US, Ukraine, Russia
-
-US intelligence has played a role in guiding Ukraine's military strikes on Russian energy infrastructure, impacting the ongoing conflict and geopolitical dynamics in the region.
-
-**[Trump travels to Israel as country anxiously awaits hostage releases](https://www.ft.com/content/fad4e893-fa59-4862-b904-82c0da659eb0)**  
-*finance* · 2025-10-12 · **Imp 4/5** — Entities: Trump, Israel
-
-Trump's visit to Israel comes amid heightened tensions as the country anticipates the release of hostages. This situation could impact geopolitical stability and investor sentiment in the region.
-
-**[Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest)**  
-*tech* · 2025-10-12 · **Imp 4/5** — Entities: Marvel, New York Comic Con, Brad Winderbaum, Krysten Ritter, Eric Lewald, Julia Lewald, Larry Houston
-
-Marvel unveiled its upcoming slate of shows at New York Comic Con, including 'Wonder Man', 'Daredevil: Born Again', and 'X-Men ‘97' season two, with broad release windows set for 2026. Details remain sparse, but anticipation is high for these series.
