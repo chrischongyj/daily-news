@@ -95,6 +95,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Kering closes in on €4bn deal to offload beauty division to L’Oréal](https://www.ft.com/content/49ffdf9e-b971-4285-b63c-90e2e371d112)**  
+*finance* · 2025-10-18 · **Imp 4/5** — Entities: Kering, L’Oréal
+
+Kering is nearing a €4 billion agreement to sell its beauty division to L’Oréal, marking a significant strategic shift for the luxury group.
+
+**[Blackstone says Wall Street is complacent about AI disruption](https://www.ft.com/content/35d80b4d-eecd-424b-9350-8da138036d7e)**  
+*finance* · 2025-10-18 · **Imp 4/5** — Entities: Blackstone, Wall Street, AI technologies
+
+Blackstone warns that Wall Street is underestimating the potential disruptions caused by AI technologies, suggesting a need for increased awareness and adaptation among investors and financial professionals.
+
+**[Trump aims to topple Venezuela’s leader with military build-up](https://www.ft.com/content/bd217091-84bb-4af2-b08b-9d9556dbb6d6)**  
+*finance* · 2025-10-18 · **Imp 4/5** — Entities: Trump, Venezuela
+
+Trump's strategy to destabilize Venezuela's leadership includes a military build-up, potentially impacting geopolitical stability and investor confidence in the region.
+
+**[Could AI help identify skill in fund managers?](https://www.ft.com/content/23992b20-f00f-4fba-b466-01a7476a1744)**  
+*finance* · 2025-10-18 · **Imp 4/5** — Entities: AI, fund managers, investment decision-making
+
+The article explores the potential of AI in identifying skill levels among fund managers, suggesting that technology could enhance investment decision-making processes.
+
+**[Trump and the return of Great Man theory](https://www.ft.com/content/2b4b89f3-8594-47d9-9947-75ae41b1d45b)**  
+*finance* · 2025-10-18 · **Imp 4/5** — Entities: Donald Trump, Great Man theory
+
+The article discusses the resurgence of Great Man theory in the context of Donald Trump's influence on politics and finance, highlighting how individual leaders can shape economic landscapes.
+
+**[Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)**  
+*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California
+
+OpenAI advocates for less cautious AI development, facing criticism for removing safety measures. The discussion highlights the tension between innovation and responsibility in Silicon Valley, with startups exploring SEC workarounds for IPOs amid regulatory challenges.
+
 **[Trump strikes deal to lower costs of IVF treatment](https://www.ft.com/content/a6247824-4957-4804-93d7-634ea7e1530d)**  
 *finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, IVF treatment, healthcare
 
@@ -175,6 +205,11 @@ Trump companies reportedly generated $1 billion from cryptocurrency ventures, hi
 
 Trump claims Modi has committed to halting India's purchases of Russian oil, which could impact global oil markets and geopolitical relations.
 
+**[This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/)**  
+*startup* · 2025-10-15 · **Imp 4/5** — Entities: Enhanced Games, Peter Thiel, Donald Trump Jr., Aron D’Souza, Red Bull
+
+The Enhanced Games, backed by Peter Thiel and Donald Trump Jr., aims to disrupt traditional sports by allowing doping. Set to launch in May 2026 in Las Vegas, the event will offer $1 million bounties for record-breaking performances, leveraging a marketing model similar to Red Bull's.
+
 **[Bank of America and BNY sued over financial ties to Jeffrey Epstein](https://www.ft.com/content/920bec1a-0fc6-4aae-aa2e-efbabd15feb8)**  
 *finance* · 2025-10-15 · **Imp 4/5** — Entities: Bank of America, BNY Mellon, Jeffrey Epstein
 
@@ -214,38 +249,3 @@ California's new broadband billing law allows renters to opt out of mandatory pa
 *tech* · 2025-10-15 · **Imp 4/5** — Entities: Insta360, Amazon, Best Buy
 
 Insta360's X5 action camera is on sale for $499.99, marking an all-time low. It features improved image quality, 4K at 120fps, user-replaceable lenses, and faster charging. The sale runs through October 16th.
-
-**[US warns world will ‘decouple’ from China if it imposes new export controls](https://www.ft.com/content/15a957a7-104e-431a-807e-441e5c2c753f)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: US government, China
-
-The US government has issued a warning that the global economy may 'decouple' from China if it enforces new export controls, signaling potential shifts in international trade dynamics.
-
-**[The secretive First Brands founder, his $12bn debt and the future of private credit](https://www.ft.com/content/83734e55-f3a6-46b6-865e-f16667d2fd3b)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: First Brands, private credit market
-
-The article discusses the founder of First Brands, highlighting his $12 billion debt and the implications for the private credit market. It explores the potential impact on investors and the future of financing in this sector.
-
-**[US approves new bank backed by billionaires with ties to Trump](https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: US government, billionaires, Trump
-
-The US has approved a new bank backed by billionaires with connections to former President Trump, signaling potential shifts in the banking landscape and investor interest.
-
-**[Why the US could not shake off the Middle East](https://www.ft.com/content/1804d6d3-76e6-4a1e-a69b-a424c996eb9a)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: US, Middle East, financial markets, geopolitical strategies
-
-The article discusses the persistent influence of the Middle East on US financial markets and geopolitical strategies, highlighting the complexities of international relations and economic dependencies.
-
-**[Glass Lewis to end benchmark voting recommendations on proxy issues](https://www.ft.com/content/7860f94c-7b1c-49c9-9f4c-a561ee39ee31)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: Glass Lewis
-
-Glass Lewis will discontinue its benchmark voting recommendations on proxy issues, potentially impacting shareholder voting behavior and corporate governance practices.
-
-**[Powell signals support for more rate cuts as US job market cools](https://www.ft.com/content/57f33655-e4b4-4bea-ac1d-c5545924f73f)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: Jerome Powell, Federal Reserve
-
-Federal Reserve Chair Jerome Powell indicates potential support for additional interest rate cuts as the US job market shows signs of cooling, suggesting a shift in monetary policy to stimulate economic growth.
-
-**[Russia accuses Mikhail Khodorkovsky of plotting coup](https://www.ft.com/content/a34bab00-0098-4ebb-8b7b-91239032927d)**  
-*finance* · 2025-10-14 · **Imp 4/5** — Entities: Mikhail Khodorkovsky, Russia
-
-Russia has accused Mikhail Khodorkovsky of plotting a coup, escalating tensions surrounding the former oligarch and his political activities.
