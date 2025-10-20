@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8)**  
+*finance* · 2025-10-19 · **Imp 5/5** — Tickers: AAPL — Entities: Apple
+
+Apple's latest iPhone overhaul has sparked a significant upgrade frenzy among consumers, indicating strong demand and potential revenue growth for the company.
+
 **[Thousands of customers imperiled after nation-state ransacks F5’s network](https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/)**  
 *tech* · 2025-10-15 · **Imp 5/5** — Entities: F5, BIG-IP
 
@@ -95,6 +100,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)**  
+*tech* · 2025-10-19 · **Imp 4/5** — Entities: X, Elon Musk
+
+X is testing a new link-handling feature on iOS to enhance user engagement by keeping interaction buttons visible. This aligns with Elon Musk's vision of X as an 'everything app' and includes a shift to an AI-based recommendation system for content visibility.
+
+**[Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia](https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec)**  
+*finance* · 2025-10-19 · **Imp 4/5** — Entities: Trump, Zelenskyy, Putin, Russia, Ukraine
+
+Trump advised Ukrainian President Zelenskyy to comply with Putin's demands to avoid potential destruction by Russia, highlighting geopolitical tensions affecting global markets.
+
+**[Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)**  
+*tech* · 2025-10-19 · **Imp 4/5** — Entities: Indivisible, Donald Trump, ICE
+
+Over 7 million people participated in the No Kings protests against President Trump, marking a significant increase in opposition. The protests, organized by Indivisible, included over 2,700 events across all states, highlighting growing dissent amid recent immigration policies.
+
+**[This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal)**  
+*tech* · 2025-10-19 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Apple, Peacock, James Cameron, Taylor Swift
+
+Disney Plus will increase subscription prices starting October 21, with the ad-supported plan rising to $11.99 and the ad-free Premium plan to $18.99. Current subscribers can lock in lower rates before the hike.
+
+**[America’s rare earth delusion](https://www.ft.com/content/583abbd2-ffa8-4232-931f-66f55949b5d5)**  
+*finance* · 2025-10-19 · **Imp 4/5** — Entities: America, rare earth elements, foreign sources
+
+The article critiques America's reliance on rare earth elements, highlighting misconceptions about domestic production capabilities and the geopolitical implications of dependence on foreign sources.
+
+**[China’s innovation paradox](https://www.ft.com/content/b44458cc-03fd-46a1-b003-b7a097419e66)**  
+*finance* · 2025-10-19 · **Imp 4/5** — Entities: China, tech sector, finance sector
+
+The article discusses China's innovation paradox, highlighting the challenges and contradictions within its tech and finance sectors. It examines how these issues impact growth and investment opportunities.
+
+**[Apollo’s Marc Rowan says Europe ‘at war with itself’ over finance regulation](https://www.ft.com/content/221e5dd4-6d99-48fb-af4d-4326fe61c37a)**  
+*finance* · 2025-10-19 · **Imp 4/5** — Entities: Apollo, Marc Rowan, Europe
+
+Apollo's Marc Rowan critiques Europe's internal conflicts regarding financial regulation, highlighting the challenges faced by the industry amidst varying national policies.
+
 **[Kering closes in on €4bn deal to offload beauty division to L’Oréal](https://www.ft.com/content/49ffdf9e-b971-4285-b63c-90e2e371d112)**  
 *finance* · 2025-10-18 · **Imp 4/5** — Entities: Kering, L’Oréal
 
@@ -123,7 +163,12 @@ The article discusses the resurgence of Great Man theory in the context of Donal
 **[Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)**  
 *startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California
 
-OpenAI advocates for less cautious AI development, facing criticism for removing safety measures. The discussion highlights the tension between innovation and responsibility in Silicon Valley, with startups exploring SEC workarounds for IPOs amid regulatory challenges.
+OpenAI advocates for unrestricted AI development, sparking debate on innovation versus responsibility. The podcast discusses backlash against AI safety regulations and startups using SEC workarounds for IPOs amid shutdowns.
+
+**[From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/)**  
+*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California, SEC
+
+The Equity podcast discusses the backlash against AI safety regulations in Silicon Valley, highlighting the tension between innovation and responsibility. It also touches on startups using SEC workarounds for IPOs amid regulatory challenges.
 
 **[Trump strikes deal to lower costs of IVF treatment](https://www.ft.com/content/a6247824-4957-4804-93d7-634ea7e1530d)**  
 *finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, IVF treatment, healthcare
@@ -204,48 +249,3 @@ Trump companies reportedly generated $1 billion from cryptocurrency ventures, hi
 *finance* · 2025-10-15 · **Imp 4/5** — Entities: Trump, Modi, India, Russia
 
 Trump claims Modi has committed to halting India's purchases of Russian oil, which could impact global oil markets and geopolitical relations.
-
-**[This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/)**  
-*startup* · 2025-10-15 · **Imp 4/5** — Entities: Enhanced Games, Peter Thiel, Donald Trump Jr., Aron D’Souza, Red Bull
-
-The Enhanced Games, backed by Peter Thiel and Donald Trump Jr., aims to disrupt traditional sports by allowing doping. Set to launch in May 2026 in Las Vegas, the event will offer $1 million bounties for record-breaking performances, leveraging a marketing model similar to Red Bull's.
-
-**[Bank of America and BNY sued over financial ties to Jeffrey Epstein](https://www.ft.com/content/920bec1a-0fc6-4aae-aa2e-efbabd15feb8)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: Bank of America, BNY Mellon, Jeffrey Epstein
-
-Bank of America and BNY Mellon are facing lawsuits due to their financial connections with Jeffrey Epstein, raising concerns about compliance and reputational risks in the banking sector.
-
-**[Army general says he’s using AI to improve “decision-making”](https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: Army, AI, military
-
-An Army general highlights the use of AI to enhance decision-making processes within military operations, emphasizing its significance in leadership roles.
-
-**[Bill Ackman donates $1mn to oppose Zohran Mamdani’s NY mayoral campaign](https://www.ft.com/content/36866bb8-ad15-4537-bdfe-029a940abcef)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: Bill Ackman, Zohran Mamdani, New York mayoral campaign
-
-Bill Ackman has donated $1 million to oppose Zohran Mamdani's campaign for New York mayor, highlighting the influence of wealthy donors in local politics.
-
-**[Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets](https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Tickers: LMT — Entities: NASA, Lockheed Martin, Orion spacecraft
-
-NASA and Lockheed are exploring the possibility of launching the Orion spacecraft on alternative rockets, marking a significant shift in their reuse strategy.
-
-**[CDC tormented: HR workers summoned from furlough to lay off themselves, others](https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: CDC, HR workers, union
-
-The CDC has reportedly lost 33% of its workforce this year, leading to HR workers being called back from furlough to manage layoffs, including their own. This situation highlights significant operational challenges within the agency.
-
-**[Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost](https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: Anthropic, Claude Haiku, GPT-5, Sonnet 4
-
-Anthropic's Claude Haiku 4.5 achieves coding scores comparable to GPT-5 and Sonnet 4, offering similar performance at a significantly lower cost. This advancement highlights the competitive landscape in AI model development.
-
-**[ISPs angry about California law that lets renters opt out of forced payments](https://arstechnica.com/tech-policy/2025/10/california-says-landlords-cant-make-tenants-pay-for-an-isp-they-dont-want/)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: California, ISPs, cable industry, Governor Newsom
-
-California's new broadband billing law allows renters to opt out of mandatory payments, drawing ire from ISPs and the cable industry. Governor Newsom's signing of this legislation could reshape billing practices and consumer rights in the broadband sector.
-
-**[Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)**  
-*tech* · 2025-10-15 · **Imp 4/5** — Entities: Insta360, Amazon, Best Buy
-
-Insta360's X5 action camera is on sale for $499.99, marking an all-time low. It features improved image quality, 4K at 120fps, user-replaceable lenses, and faster charging. The sale runs through October 16th.
