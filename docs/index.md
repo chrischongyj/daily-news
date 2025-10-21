@@ -100,6 +100,66 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Amazon says cloud services recovering from widespread outage](https://www.ft.com/content/f9d13a0e-9378-429c-9be0-5f15f649cc3f)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, AWS
+
+Amazon reports that its cloud services are recovering from a recent widespread outage, indicating a return to normal operations for its AWS division.
+
+**[Argentine peso weakens to fresh low despite US interventions](https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Argentine peso, US
+
+The Argentine peso has reached a new low, continuing its decline despite interventions from the US. This situation raises concerns about the effectiveness of foreign support in stabilizing the currency.
+
+**[Trump signals backing for Aukus nuclear deal with Australia](https://www.ft.com/content/c20e6c85-1fce-4639-bcee-dea95c49a325)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Trump, Australia, Aukus
+
+Trump has indicated support for the Aukus nuclear deal with Australia, which could enhance defense collaboration and technology sharing between the nations.
+
+**[Netherlands curtails intelligence-sharing with US over ‘human rights’](https://www.ft.com/content/af8042f0-5de9-4509-bcb2-2d98d26a3d21)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Netherlands, US
+
+The Netherlands has limited intelligence-sharing with the US, citing concerns over human rights. This decision may impact international cooperation and intelligence operations.
+
+**[Amazon’s cloud outage may focus minds and broaden budgets](https://www.ft.com/content/2712823d-270e-4822-8bb3-7a332c8353e9)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, cloud services, businesses
+
+Amazon's recent cloud outage highlights the vulnerabilities in cloud infrastructure, prompting businesses to reconsider their budgets and strategies for cloud services.
+
+**[Europeans rush to Zelenskyy’s defence after tense Trump meeting](https://www.ft.com/content/d26d9203-7ca6-4477-a251-7d4c81f195a1)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Zelenskyy, Trump, European leaders
+
+Following a tense meeting between Trump and Zelenskyy, European leaders are rallying to support Ukraine, indicating potential shifts in geopolitical alliances and financial commitments.
+
+**[Europe needs its own channels to the Kremlin](https://www.ft.com/content/882c10b0-97bd-41be-bfe6-efb2656ca8e9)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Europe, Kremlin
+
+The article discusses the necessity for Europe to establish independent communication channels with the Kremlin, emphasizing the importance of direct dialogue in geopolitical relations.
+
+**[JPMorgan warns First Brands fallout driving up banks’ funding costs](https://www.ft.com/content/0fb77ee9-622c-4cf1-bd77-8dd75d196b36)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: JPMorgan, First Brands
+
+JPMorgan has indicated that the fallout from First Brands is leading to increased funding costs for banks, which could impact their profitability and lending capabilities.
+
+**[BNP Paribas shares slump after Sudan court ruling](https://www.ft.com/content/40b268f5-2bb4-4ef5-bb6d-2a645b33e2d5)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Tickers: BNP — Entities: BNP Paribas, Sudan
+
+BNP Paribas shares have declined following a court ruling in Sudan, impacting investor confidence and raising concerns over the bank's exposure in the region.
+
+**[China is well positioned for a trade showdown with Trump](https://www.ft.com/content/c2fd550d-cbca-4e39-a9a5-29a1e9d902c4)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: China, Trump administration
+
+China's economic strategies and trade policies suggest it is prepared for potential trade conflicts with the Trump administration, indicating a robust stance in international trade relations.
+
+**[Why gold and stocks are partying together](https://www.ft.com/content/f54be5f0-7d6b-43b5-8aad-a4b9d7e3cae5)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: gold, stocks, investors
+
+Gold and stocks are experiencing a simultaneous rise, indicating a unique market trend where traditional safe-haven assets and equities are moving in tandem, potentially impacting investor strategies.
+
+**[Flying blind: how Trump’s climate censorship threatens global disaster defences](https://www.ft.com/content/2df1e0c5-f347-4cb3-abfb-b97996e24562)**  
+*finance* · 2025-10-20 · **Imp 4/5** — Entities: Trump, climate policies, global disaster preparedness
+
+The article discusses the implications of Trump's climate censorship on global disaster preparedness, highlighting potential risks to environmental policies and their impact on financial markets and investments in climate resilience.
+
 **[X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)**  
 *tech* · 2025-10-19 · **Imp 4/5** — Entities: X, Elon Musk
 
@@ -161,14 +221,14 @@ The article explores the potential of AI in identifying skill levels among fund 
 The article discusses the resurgence of Great Man theory in the context of Donald Trump's influence on politics and finance, highlighting how individual leaders can shape economic landscapes.
 
 **[Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)**  
-*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California
+*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California, SEC
 
-OpenAI advocates for unrestricted AI development, sparking debate on innovation versus responsibility. The podcast discusses backlash against AI safety regulations and startups using SEC workarounds for IPOs amid shutdowns.
+OpenAI's stance on AI development raises concerns as it removes safety guardrails, leading to criticism of companies like Anthropic. The discussion highlights the tension between innovation and responsibility in Silicon Valley, especially regarding AI regulations and IPO strategies during shutdowns.
 
 **[From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/)**  
 *startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California, SEC
 
-The Equity podcast discusses the backlash against AI safety regulations in Silicon Valley, highlighting the tension between innovation and responsibility. It also touches on startups using SEC workarounds for IPOs amid regulatory challenges.
+The podcast discusses the backlash against AI safety regulations in Silicon Valley, highlighting the tension between innovation and responsibility. It also touches on startups using SEC workarounds for IPOs amid regulatory challenges.
 
 **[Trump strikes deal to lower costs of IVF treatment](https://www.ft.com/content/a6247824-4957-4804-93d7-634ea7e1530d)**  
 *finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, IVF treatment, healthcare
@@ -189,63 +249,3 @@ Windows 11 is integrating AI-powered features more extensively, with Copilot foc
 *tech* · 2025-10-16 · **Imp 4/5** — Entities: Ethereum, BNB, nation-state hackers
 
 Nation-state hackers are utilizing Ethereum and BNB blockchains to deliver malware, exploiting their 'bulletproof' nature to evade takedowns. This poses significant security risks in the tech landscape.
-
-**[Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.](https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI, Ed Zitron, nuclear power
-
-The Ars Live discussion addressed concerns about the sustainability of the AI sector, focusing on OpenAI's financial health and insights from Ed Zitron regarding potential market corrections.
-
-**[Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”](https://arstechnica.com/tech-policy/2025/10/sony-tells-scotus-that-people-accused-of-piracy-arent-innocent-grandmothers/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Tickers: SONY — Entities: Sony, SCOTUS, music companies, ISPs
-
-Sony argues before SCOTUS that individuals accused of piracy should not be viewed as innocent, countering music companies' push for ISPs to take action against repeat infringers or face significant penalties.
-
-**[OpenAI wants to own it all](https://www.ft.com/content/5859c6f2-d89b-4958-bcee-bb2b548c6c35)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI
-
-OpenAI is pursuing a strategy to consolidate its ownership and control over its technologies and innovations, indicating a significant shift in its business model.
-
-**[OpenAI thinks Elon Musk funded its biggest critics—who also hate Musk](https://arstechnica.com/tech-policy/2025/10/openai-thinks-elon-musk-funded-its-biggest-critics-who-also-hate-musk/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: OpenAI, Elon Musk
-
-OpenAI alleges that Elon Musk has financially supported its main critics, who are also opposed to Musk. This situation highlights tensions within the tech community and raises concerns about the influence of funding on public discourse.
-
-**[Cai Qi: Xi Jinping’s right-hand man drawn into UK’s China spy drama](https://www.ft.com/content/f8832fa6-1482-4f95-ad7c-b964d2271847)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: Cai Qi, Xi Jinping, UK, China
-
-Cai Qi, a key aide to Xi Jinping, is implicated in a UK espionage case involving China, raising concerns over international relations and security.
-
-**[Fed governor Waller backs further rate cuts but urges caution](https://www.ft.com/content/4ad3d597-1207-4332-b4c4-1164e350d1c3)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: Federal Reserve, Christopher Waller
-
-Fed Governor Christopher Waller supports additional interest rate cuts but emphasizes the need for caution in monetary policy decisions, highlighting potential economic risks.
-
-**[Big investors scale back risky bond exposure after storming rally](https://www.ft.com/content/2667cba1-5a44-4463-b20b-c2216c7899d8)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: big investors, risky bonds, market sentiment
-
-Big investors are reducing their exposure to risky bonds following a significant rally, indicating a shift in market sentiment and risk appetite.
-
-**[Antarctica is starting to look a lot like Greenland—and that isn’t good](https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: Antarctica, Greenland, global warming
-
-Global warming is causing significant ice melt in Antarctica, resembling the alarming changes seen in Greenland. This shift poses serious environmental concerns.
-
-**[The Tomahawk missiles Trump is considering for Ukraine](https://www.ft.com/content/654a4d90-8b49-4aff-a05c-fc7a9f842432)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, Ukraine, military, geopolitics
-
-Former President Trump is contemplating the deployment of Tomahawk missiles to Ukraine, which could significantly impact military dynamics and geopolitical relations in the region.
-
-**[Inside the web infrastructure revolt over Google’s AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: Cloudflare, Google, Matthew Prince
-
-Cloudflare's CEO Matthew Prince is implementing significant changes to challenge Google's AI Overviews, indicating a potential shift in web infrastructure dynamics.
-
-**[How the Trump companies made $1bn from crypto](https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump companies, cryptocurrency
-
-Trump companies reportedly generated $1 billion from cryptocurrency ventures, highlighting the intersection of traditional business and emerging tech. This development could influence investor sentiment and market dynamics in the crypto space.
-
-**[Trump says Modi pledged India would stop buying Russian oil](https://www.ft.com/content/3d9949f5-2aeb-49c5-a038-e351dfe04c5a)**  
-*finance* · 2025-10-15 · **Imp 4/5** — Entities: Trump, Modi, India, Russia
-
-Trump claims Modi has committed to halting India's purchases of Russian oil, which could impact global oil markets and geopolitical relations.
