@@ -100,6 +100,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Netflix shares drop as Brazil tax dispute hits profits](https://www.ft.com/content/3fbacca3-0b93-4fec-8207-0ac75401b697)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Brazil
+
+Netflix shares have declined due to a tax dispute in Brazil, impacting the company's profits. This situation raises concerns among investors regarding the company's financial stability in international markets.
+
+**[FDA slows down on drug reviews, approvals amid Trump admin chaos](https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/)**  
+*tech* · 2025-10-21 · **Imp 4/5** — Entities: FDA, Trump administration
+
+The FDA has paused drug reviews and approvals due to the ongoing government shutdown, halting new drug submissions. This situation reflects the broader chaos within the Trump administration.
+
+**[Kyiv and European allies prepare Russia peace plan to keep Trump onside](https://www.ft.com/content/22b3b203-27a3-455f-9ed2-ce59622b563f)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: Kyiv, European allies, Russia, Trump
+
+Kyiv and European allies are formulating a peace plan regarding Russia, aiming to maintain support from former President Trump. This initiative could influence geopolitical stability and investor sentiment in the region.
+
+**[Trump and Putin cancel Budapest summit over Ukraine](https://www.ft.com/content/49eb8e95-93c1-4d22-aded-16b1612c034a)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
+
+Trump and Putin have canceled their planned summit in Budapest, primarily due to ongoing tensions surrounding Ukraine. This decision may impact geopolitical stability and investor sentiment in affected regions.
+
+**[Gold tumbles 6% in biggest sell-off since 2013](https://www.ft.com/content/5ad25988-da6f-4d2c-98a7-76ba1dd31736)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: gold, commodities market
+
+Gold prices have dropped 6%, marking the largest sell-off since 2013. This significant decline may impact investor sentiment and market dynamics in the commodities sector.
+
+**[OpenAI launches Atlas web browser](https://www.ft.com/content/c2cc28d9-1ac1-47f9-8c56-d6f4323d2610)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: OpenAI, Atlas web browser
+
+OpenAI has launched the Atlas web browser, expanding its portfolio in the tech space and potentially impacting the browsing experience with AI integration.
+
+**[BCG appoints new chief risk officer after Gaza aid controversy](https://www.ft.com/content/5a93aae7-d76d-4aa2-88ac-dde54141305f)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: BCG
+
+BCG has appointed a new chief risk officer following a controversy related to aid in Gaza, highlighting the firm's commitment to addressing risk management in sensitive geopolitical contexts.
+
+**[Military briefing: the US naval and special forces build-up off Venezuela](https://www.ft.com/content/dc10dbae-14e6-4819-97ef-9df7cd1a2d01)**  
+*finance* · 2025-10-21 · **Imp 4/5** — Entities: US Navy, Venezuela, special forces
+
+The US is increasing its naval and special forces presence near Venezuela, signaling potential geopolitical tensions that could impact regional stability and international markets.
+
 **[Amazon says cloud services recovering from widespread outage](https://www.ft.com/content/f9d13a0e-9378-429c-9be0-5f15f649cc3f)**  
 *finance* · 2025-10-20 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, AWS
 
@@ -209,43 +249,3 @@ Blackstone warns that Wall Street is underestimating the potential disruptions c
 *finance* · 2025-10-18 · **Imp 4/5** — Entities: Trump, Venezuela
 
 Trump's strategy to destabilize Venezuela's leadership includes a military build-up, potentially impacting geopolitical stability and investor confidence in the region.
-
-**[Could AI help identify skill in fund managers?](https://www.ft.com/content/23992b20-f00f-4fba-b466-01a7476a1744)**  
-*finance* · 2025-10-18 · **Imp 4/5** — Entities: AI, fund managers, investment decision-making
-
-The article explores the potential of AI in identifying skill levels among fund managers, suggesting that technology could enhance investment decision-making processes.
-
-**[Trump and the return of Great Man theory](https://www.ft.com/content/2b4b89f3-8594-47d9-9947-75ae41b1d45b)**  
-*finance* · 2025-10-18 · **Imp 4/5** — Entities: Donald Trump, Great Man theory
-
-The article discusses the resurgence of Great Man theory in the context of Donald Trump's influence on politics and finance, highlighting how individual leaders can shape economic landscapes.
-
-**[Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/)**  
-*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California, SEC
-
-OpenAI's stance on AI development raises concerns as it removes safety guardrails, leading to criticism of companies like Anthropic. The discussion highlights the tension between innovation and responsibility in Silicon Valley, especially regarding AI regulations and IPO strategies during shutdowns.
-
-**[From SB 243 to ChatGPT: Why it’s ‘not cool’ to be cautious about AI](https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/)**  
-*startup* · 2025-10-17 · **Imp 4/5** — Entities: OpenAI, Anthropic, Character.AI, California, SEC
-
-The podcast discusses the backlash against AI safety regulations in Silicon Valley, highlighting the tension between innovation and responsibility. It also touches on startups using SEC workarounds for IPOs amid regulatory challenges.
-
-**[Trump strikes deal to lower costs of IVF treatment](https://www.ft.com/content/a6247824-4957-4804-93d7-634ea7e1530d)**  
-*finance* · 2025-10-16 · **Imp 4/5** — Entities: Trump, IVF treatment, healthcare
-
-Trump has reached an agreement aimed at reducing the costs associated with IVF treatment, potentially impacting healthcare access and affordability for families seeking fertility solutions.
-
-**[I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: Microsoft, Asus, The Verge
-
-Sean Hollister reviews Microsoft's Xbox Ally and Xbox Ally X handheld gaming PCs, co-developed with Asus, while engaging with subscribers through an AMA. The review highlights the growing trend of handheld gaming devices.
-
-**[AI-powered features begin creeping deeper into the bedrock of Windows 11](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: Windows 11, Copilot
-
-Windows 11 is integrating AI-powered features more extensively, with Copilot focusing on file creation, editing, and voice input functionalities.
-
-**[Nation-state hackers deliver malware from “bulletproof” blockchains](https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/)**  
-*tech* · 2025-10-16 · **Imp 4/5** — Entities: Ethereum, BNB, nation-state hackers
-
-Nation-state hackers are utilizing Ethereum and BNB blockchains to deliver malware, exploiting their 'bulletproof' nature to evade takedowns. This poses significant security risks in the tech landscape.
