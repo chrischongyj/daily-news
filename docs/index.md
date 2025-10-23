@@ -105,6 +105,76 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Goldman nears $1bn deal to buy talent agency Excel Sports](https://www.ft.com/content/1e899313-060d-41e1-b975-c24106b0934e)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Tickers: GS — Entities: Goldman Sachs, Excel Sports
+
+Goldman Sachs is close to finalizing a $1 billion acquisition of talent agency Excel Sports, indicating a strategic move to expand its influence in the sports and entertainment sectors.
+
+**[Trump pardons Binance crypto founder Changpeng Zhao](https://www.ft.com/content/d8266cc4-087b-4c93-ade7-a12a167f950e)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, Changpeng Zhao, Binance
+
+Former President Trump has pardoned Changpeng Zhao, the founder of Binance, a major cryptocurrency exchange, potentially impacting the regulatory landscape for crypto firms.
+
+**[Apple loses UK class action lawsuit over ‘excessive’ App Store charges](https://www.ft.com/content/37a5c1e4-4433-4b56-b47f-f80fcd3d52b8)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
+
+Apple has lost a class action lawsuit in the UK regarding alleged excessive charges in its App Store, which may impact its revenue model and pricing strategies.
+
+**[CS2 item market loses nearly $2B in value overnight due to “trade up” update](https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: CS2, item market, trade up update
+
+The CS2 item market experienced a significant loss of nearly $2 billion in value overnight following a 'trade up' update, drastically reducing the price of rare items while inflating the value of common guns.
+
+**[Can Trump stop India and China from buying Russian oil?](https://www.ft.com/content/55738281-fa09-4d41-965c-decb83d371fa)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russia, oil market
+
+The article discusses the potential impact of Trump's policies on India's and China's ability to purchase Russian oil, highlighting geopolitical tensions and energy market dynamics.
+
+**[Trump’s Russian oil sanctions hit India and China’s imports](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russian oil
+
+Trump's sanctions on Russian oil are impacting India's and China's oil imports, potentially affecting global oil markets and geopolitical dynamics.
+
+**[Germany races to secure US sanctions exemption for Rosneft refineries](https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Germany, Rosneft
+
+Germany is actively seeking an exemption from US sanctions for Rosneft's refineries, which could impact energy supply and market stability in Europe.
+
+**[For China, ‘involution’ is a blessing as well as a curse](https://www.ft.com/content/e768dffb-a1b6-4c5c-a5c7-814f5617dcc2)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: China, investors, market strategies
+
+The concept of 'involution' in China presents both opportunities and challenges, impacting economic dynamics and societal structures. This duality influences investor sentiment and market strategies.
+
+**[Trump eyes government control of quantum computing firms with Intel-like deals](https://arstechnica.com/tech-policy/2025/10/trumps-industry-meddling-may-give-us-a-stake-in-quantum-computing-firms/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: Trump, quantum computing firms, Intel
+
+Trump is considering government control over quantum computing firms, proposing deals similar to those made with Intel. Some firms in the sector express optimism about these potential agreements.
+
+**[Porsche does U-turn on electric vehicles, will focus on gas engines](https://arstechnica.com/cars/2025/10/porsche-does-u-turn-on-electric-vehicles-will-focus-on-gas-engines/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: Porsche
+
+Porsche shifts strategy, prioritizing gas engines over electric vehicles due to challenges in China, US tariffs, and low adoption rates of battery vehicles.
+
+**[Blackstone says era of bumper private-credit returns has ended](https://www.ft.com/content/9659a5fc-939d-451e-bb06-6ac0dffe2d19)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Blackstone
+
+Blackstone announces that the period of high returns in private credit investments has concluded, signaling a shift in the market landscape for investors.
+
+**[California startup to demonstrate space weapon on its own dime](https://arstechnica.com/space/2025/10/california-startup-to-demonstrate-space-weapon-on-its-own-dime/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: California startup, space weapon
+
+A California startup plans to demonstrate a space weapon independently, asserting that all necessary components for viability are in place.
+
+**[We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened](https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: OpenAI, Atlas
+
+OpenAI's 'Agent Mode' demonstrates the ability to automate web-based tasks, such as scanning emails and creating fansites, showcasing advancements in AI-driven automation.
+
+**[Cache poisoning vulnerabilities found in 2 DNS resolving apps](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: DNS resolving applications, cybersecurity
+
+Cache poisoning vulnerabilities have been identified in two DNS resolving applications, potentially undermining security measures established after a 2008 disclosure. This could expose users to various cyber threats.
+
 **[US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f)**  
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: US, Rosneft, Lukoil
 
@@ -114,6 +184,11 @@ The US has imposed sanctions on Russian oil companies Rosneft and Lukoil, impact
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: Citi, Jane Fraser
 
 Citi's board has appointed Jane Fraser as chair and awarded her a $25 million bonus, marking a significant leadership change in the financial institution.
+
+**[Tesla profits fall 37% in Q3 despite healthy sales](https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
+
+Tesla reported a 37% decline in profits for Q3, attributed to the loss of regulatory credits and rising expenses, despite maintaining healthy sales figures.
 
 **[Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a)**  
 *finance* · 2025-10-22 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
@@ -125,15 +200,40 @@ Tesla's profits have decreased by over 25% despite achieving record car sales, i
 
 Investors are anticipating a devaluation of the Argentine peso following the recent weekend elections, indicating potential volatility in the currency market.
 
+**[General Motors will integrate AI into its cars, plus new hands-free assist](https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Tickers: GM — Entities: General Motors, AI, automotive technology
+
+General Motors plans to integrate AI, including large language models, into its vehicles, enhancing features like hands-free assistance. This move reflects the growing trend of incorporating advanced technology in automotive design.
+
+**[Health plan enrollment period is set to be horrifying for everyone this year](https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: health plans, marketplace, employer-based plans
+
+This year's health plan enrollment period may see significant premium increases, with marketplace premiums potentially doubling and employer-based plans also rising sharply. This could lead to financial strain for consumers and impact overall healthcare affordability.
+
+**[When sycophancy and bias meet medicine](https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: health research, AI models, medical findings
+
+Biased AI models in health research compromise replicability and trust, raising concerns about their reliability and impact on medical findings.
+
+**[SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: SpaceX, Starlink, Myanmar
+
+SpaceX has disabled 2,500 Starlink terminals that were allegedly utilized by scam centers in Asia, particularly in Myanmar where the service is prohibited. This action highlights the challenges of managing satellite internet access in regions with regulatory restrictions.
+
+**[Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800](https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Tickers: SSNLF — Entities: Samsung, Galaxy XR, Android, Vision Pro
+
+Samsung has launched the Galaxy XR, the first Android XR headset, priced at $1,800. While it is less expensive than Apple's Vision Pro, it still represents a significant investment in the XR market.
+
 **[Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/)**  
-*startup* · 2025-10-22 · **Imp 4/5** — Entities: Tools for Humanity, Adrian Ludwig, TechCrunch, Equity podcast
+*startup* · 2025-10-22 · **Imp 4/5** — Entities: Tools for Humanity, Adrian Ludwig, TechCrunch
 
-Tools for Humanity is developing iris-scanning technology to verify human identity amid rising AI-driven fraud. Chief Security Officer Adrian Ludwig discusses the importance of privacy-first solutions and the open-source approach to biometric tech on TechCrunch’s Equity podcast.
+Tools for Humanity is developing iris-scanning technology to verify human identity amidst rising AI-driven fraud. The approach emphasizes privacy and open-source biometric tech, addressing concerns over deepfakes and bots.
 
-**[Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/)**  
-*startup* · 2025-10-22 · **Imp 4/5** — Entities: Sam Altman, Tools for Humanity, Adrian Ludwig, Match Group, Event Pop
+**[AWS outage reminds us why $2,449 Internet-dependent beds are a bad idea](https://arstechnica.com/gadgets/2025/10/smart-beds-leave-sleepers-hot-and-bothered-during-aws-outage/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Tickers: AMZN — Entities: AWS, smart bed, IoT
 
-Tools for Humanity introduces eye-scanning Orbs for identity verification to combat AI bots and deepfakes. The technology emphasizes privacy and is open-sourced, with partnerships from major platforms like Match Group to enhance security.
+An AWS outage highlights the risks of relying on internet-connected devices, exemplified by a $2,449 smart bed that became inoperable. This incident raises concerns about the reliability of IoT products in critical situations.
 
 **[Russia strikes Ukraine after Trump-Putin meeting cancelled](https://www.ft.com/content/1eef1df3-0da0-4e17-9073-085d178003d9)**  
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: Russia, Ukraine, Trump, Putin
@@ -149,103 +249,3 @@ The article emphasizes the significance of politics over technology in shaping g
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: investors, financial analysts, market strategists
 
 Discussions about potential financial bubbles are increasing, indicating heightened market volatility and investor caution. This trend could impact investment strategies and market confidence.
-
-**[Trump administration under growing pressure over Argentine intervention](https://www.ft.com/content/0954a93f-066a-4153-b3ea-d5304e55e57f)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: Trump administration, Argentina
-
-The Trump administration faces increasing scrutiny regarding its intervention in Argentina's financial matters, raising concerns among investors and analysts about potential impacts on U.S.-Argentina relations and market stability.
-
-**[Netflix shares drop as Brazil tax dispute hits profits](https://www.ft.com/content/3fbacca3-0b93-4fec-8207-0ac75401b697)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Brazil
-
-Netflix shares have declined due to a tax dispute in Brazil, impacting the company's profits. This situation raises concerns among investors regarding the company's financial stability in international markets.
-
-**[FDA slows down on drug reviews, approvals amid Trump admin chaos](https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/)**  
-*tech* · 2025-10-21 · **Imp 4/5** — Entities: FDA, Trump administration
-
-The FDA has paused drug reviews and approvals due to the ongoing government shutdown, halting new drug submissions. This situation reflects the broader chaos within the Trump administration.
-
-**[Kyiv and European allies prepare Russia peace plan to keep Trump onside](https://www.ft.com/content/22b3b203-27a3-455f-9ed2-ce59622b563f)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: Kyiv, European allies, Russia, Trump
-
-Kyiv and European allies are formulating a peace plan regarding Russia, aiming to maintain support from former President Trump. This initiative could influence geopolitical stability and investor sentiment in the region.
-
-**[Trump and Putin cancel Budapest summit over Ukraine](https://www.ft.com/content/49eb8e95-93c1-4d22-aded-16b1612c034a)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: Trump, Putin, Ukraine
-
-Trump and Putin have canceled their planned summit in Budapest, primarily due to ongoing tensions surrounding Ukraine. This decision may impact geopolitical stability and investor sentiment in affected regions.
-
-**[Gold tumbles 6% in biggest sell-off since 2013](https://www.ft.com/content/5ad25988-da6f-4d2c-98a7-76ba1dd31736)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: gold, commodities market
-
-Gold prices have dropped 6%, marking the largest sell-off since 2013. This significant decline may impact investor sentiment and market dynamics in the commodities sector.
-
-**[OpenAI launches Atlas web browser](https://www.ft.com/content/c2cc28d9-1ac1-47f9-8c56-d6f4323d2610)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: OpenAI, Atlas web browser
-
-OpenAI has launched the Atlas web browser, expanding its portfolio in the tech space and potentially impacting the browsing experience with AI integration.
-
-**[BCG appoints new chief risk officer after Gaza aid controversy](https://www.ft.com/content/5a93aae7-d76d-4aa2-88ac-dde54141305f)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: BCG
-
-BCG has appointed a new chief risk officer following a controversy related to aid in Gaza, highlighting the firm's commitment to addressing risk management in sensitive geopolitical contexts.
-
-**[Military briefing: the US naval and special forces build-up off Venezuela](https://www.ft.com/content/dc10dbae-14e6-4819-97ef-9df7cd1a2d01)**  
-*finance* · 2025-10-21 · **Imp 4/5** — Entities: US Navy, Venezuela, special forces
-
-The US is increasing its naval and special forces presence near Venezuela, signaling potential geopolitical tensions that could impact regional stability and international markets.
-
-**[Amazon says cloud services recovering from widespread outage](https://www.ft.com/content/f9d13a0e-9378-429c-9be0-5f15f649cc3f)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, AWS
-
-Amazon reports that its cloud services are recovering from a recent widespread outage, indicating a return to normal operations for its AWS division.
-
-**[Argentine peso weakens to fresh low despite US interventions](https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Argentine peso, US
-
-The Argentine peso has reached a new low, continuing its decline despite interventions from the US. This situation raises concerns about the effectiveness of foreign support in stabilizing the currency.
-
-**[Trump signals backing for Aukus nuclear deal with Australia](https://www.ft.com/content/c20e6c85-1fce-4639-bcee-dea95c49a325)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Trump, Australia, Aukus
-
-Trump has indicated support for the Aukus nuclear deal with Australia, which could enhance defense collaboration and technology sharing between the nations.
-
-**[Netherlands curtails intelligence-sharing with US over ‘human rights’](https://www.ft.com/content/af8042f0-5de9-4509-bcb2-2d98d26a3d21)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Netherlands, US
-
-The Netherlands has limited intelligence-sharing with the US, citing concerns over human rights. This decision may impact international cooperation and intelligence operations.
-
-**[Amazon’s cloud outage may focus minds and broaden budgets](https://www.ft.com/content/2712823d-270e-4822-8bb3-7a332c8353e9)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, cloud services, businesses
-
-Amazon's recent cloud outage highlights the vulnerabilities in cloud infrastructure, prompting businesses to reconsider their budgets and strategies for cloud services.
-
-**[Europeans rush to Zelenskyy’s defence after tense Trump meeting](https://www.ft.com/content/d26d9203-7ca6-4477-a251-7d4c81f195a1)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Zelenskyy, Trump, European leaders
-
-Following a tense meeting between Trump and Zelenskyy, European leaders are rallying to support Ukraine, indicating potential shifts in geopolitical alliances and financial commitments.
-
-**[Europe needs its own channels to the Kremlin](https://www.ft.com/content/882c10b0-97bd-41be-bfe6-efb2656ca8e9)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Europe, Kremlin
-
-The article discusses the necessity for Europe to establish independent communication channels with the Kremlin, emphasizing the importance of direct dialogue in geopolitical relations.
-
-**[JPMorgan warns First Brands fallout driving up banks’ funding costs](https://www.ft.com/content/0fb77ee9-622c-4cf1-bd77-8dd75d196b36)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: JPMorgan, First Brands
-
-JPMorgan has indicated that the fallout from First Brands is leading to increased funding costs for banks, which could impact their profitability and lending capabilities.
-
-**[BNP Paribas shares slump after Sudan court ruling](https://www.ft.com/content/40b268f5-2bb4-4ef5-bb6d-2a645b33e2d5)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Tickers: BNP — Entities: BNP Paribas, Sudan
-
-BNP Paribas shares have declined following a court ruling in Sudan, impacting investor confidence and raising concerns over the bank's exposure in the region.
-
-**[China is well positioned for a trade showdown with Trump](https://www.ft.com/content/c2fd550d-cbca-4e39-a9a5-29a1e9d902c4)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: China, Trump administration
-
-China's economic strategies and trade policies suggest it is prepared for potential trade conflicts with the Trump administration, indicating a robust stance in international trade relations.
-
-**[Why gold and stocks are partying together](https://www.ft.com/content/f54be5f0-7d6b-43b5-8aad-a4b9d7e3cae5)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: gold, stocks, investors
-
-Gold and stocks are experiencing a simultaneous rise, indicating a unique market trend where traditional safe-haven assets and equities are moving in tandem, potentially impacting investor strategies.
