@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Andreessen Horowitz lines up $10bn for tech bets](https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e)**  
+*finance* · 2025-10-22 · **Imp 5/5** — Entities: Andreessen Horowitz
+
+Andreessen Horowitz has secured $10 billion for investments in technology, signaling strong confidence in the tech sector's growth potential.
+
 **[Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8)**  
 *finance* · 2025-10-19 · **Imp 5/5** — Tickers: AAPL — Entities: Apple
 
@@ -100,6 +105,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: US, Rosneft, Lukoil
+
+The US has imposed sanctions on Russian oil companies Rosneft and Lukoil, impacting their operations and international trade.
+
+**[Citi board names Jane Fraser as chair and awards her $25mn bonus](https://www.ft.com/content/e307a32a-7921-4b47-87bb-f82c4e53fc4b)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: Citi, Jane Fraser
+
+Citi's board has appointed Jane Fraser as chair and awarded her a $25 million bonus, marking a significant leadership change in the financial institution.
+
+**[Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
+
+Tesla's profits have decreased by over 25% despite achieving record car sales, indicating potential challenges in maintaining profitability amidst growth.
+
+**[Investors bet on Argentine peso devaluation after weekend elections](https://www.ft.com/content/a4ac78be-ad69-4e54-8e8b-9692d11d07e6)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: Argentina, investors, currency market
+
+Investors are anticipating a devaluation of the Argentine peso following the recent weekend elections, indicating potential volatility in the currency market.
+
+**[Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/)**  
+*startup* · 2025-10-22 · **Imp 4/5** — Entities: Tools for Humanity, Adrian Ludwig, TechCrunch, Equity podcast
+
+Tools for Humanity is developing iris-scanning technology to verify human identity amid rising AI-driven fraud. Chief Security Officer Adrian Ludwig discusses the importance of privacy-first solutions and the open-source approach to biometric tech on TechCrunch’s Equity podcast.
+
+**[Sam Altman’s eye-scanning orb promises to prove humanity in the age of AI bots](https://techcrunch.com/podcast/sam-altmans-eye-scanning-orb-promises-to-prove-humanity-in-the-age-of-ai-bots/)**  
+*startup* · 2025-10-22 · **Imp 4/5** — Entities: Sam Altman, Tools for Humanity, Adrian Ludwig, Match Group, Event Pop
+
+Tools for Humanity introduces eye-scanning Orbs for identity verification to combat AI bots and deepfakes. The technology emphasizes privacy and is open-sourced, with partnerships from major platforms like Match Group to enhance security.
+
+**[Russia strikes Ukraine after Trump-Putin meeting cancelled](https://www.ft.com/content/1eef1df3-0da0-4e17-9073-085d178003d9)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: Russia, Ukraine, Trump, Putin
+
+Following the cancellation of a meeting between Trump and Putin, Russia has launched strikes on Ukraine, escalating geopolitical tensions that could impact global markets and investor sentiment.
+
+**[Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: politics, technology, economy
+
+The article emphasizes the significance of politics over technology in shaping global dynamics, suggesting that political factors are more influential in driving economic and financial trends.
+
+**[Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: investors, financial analysts, market strategists
+
+Discussions about potential financial bubbles are increasing, indicating heightened market volatility and investor caution. This trend could impact investment strategies and market confidence.
+
+**[Trump administration under growing pressure over Argentine intervention](https://www.ft.com/content/0954a93f-066a-4153-b3ea-d5304e55e57f)**  
+*finance* · 2025-10-22 · **Imp 4/5** — Entities: Trump administration, Argentina
+
+The Trump administration faces increasing scrutiny regarding its intervention in Argentina's financial matters, raising concerns among investors and analysts about potential impacts on U.S.-Argentina relations and market stability.
+
 **[Netflix shares drop as Brazil tax dispute hits profits](https://www.ft.com/content/3fbacca3-0b93-4fec-8207-0ac75401b697)**  
 *finance* · 2025-10-21 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Brazil
 
@@ -194,58 +249,3 @@ China's economic strategies and trade policies suggest it is prepared for potent
 *finance* · 2025-10-20 · **Imp 4/5** — Entities: gold, stocks, investors
 
 Gold and stocks are experiencing a simultaneous rise, indicating a unique market trend where traditional safe-haven assets and equities are moving in tandem, potentially impacting investor strategies.
-
-**[Flying blind: how Trump’s climate censorship threatens global disaster defences](https://www.ft.com/content/2df1e0c5-f347-4cb3-abfb-b97996e24562)**  
-*finance* · 2025-10-20 · **Imp 4/5** — Entities: Trump, climate policies, global disaster preparedness
-
-The article discusses the implications of Trump's climate censorship on global disaster preparedness, highlighting potential risks to environmental policies and their impact on financial markets and investments in climate resilience.
-
-**[X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)**  
-*tech* · 2025-10-19 · **Imp 4/5** — Entities: X, Elon Musk
-
-X is testing a new link-handling feature on iOS to enhance user engagement by keeping interaction buttons visible. This aligns with Elon Musk's vision of X as an 'everything app' and includes a shift to an AI-based recommendation system for content visibility.
-
-**[Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia](https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec)**  
-*finance* · 2025-10-19 · **Imp 4/5** — Entities: Trump, Zelenskyy, Putin, Russia, Ukraine
-
-Trump advised Ukrainian President Zelenskyy to comply with Putin's demands to avoid potential destruction by Russia, highlighting geopolitical tensions affecting global markets.
-
-**[Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)**  
-*tech* · 2025-10-19 · **Imp 4/5** — Entities: Indivisible, Donald Trump, ICE
-
-Over 7 million people participated in the No Kings protests against President Trump, marking a significant increase in opposition. The protests, organized by Indivisible, included over 2,700 events across all states, highlighting growing dissent amid recent immigration policies.
-
-**[This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal)**  
-*tech* · 2025-10-19 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Apple, Peacock, James Cameron, Taylor Swift
-
-Disney Plus will increase subscription prices starting October 21, with the ad-supported plan rising to $11.99 and the ad-free Premium plan to $18.99. Current subscribers can lock in lower rates before the hike.
-
-**[America’s rare earth delusion](https://www.ft.com/content/583abbd2-ffa8-4232-931f-66f55949b5d5)**  
-*finance* · 2025-10-19 · **Imp 4/5** — Entities: America, rare earth elements, foreign sources
-
-The article critiques America's reliance on rare earth elements, highlighting misconceptions about domestic production capabilities and the geopolitical implications of dependence on foreign sources.
-
-**[China’s innovation paradox](https://www.ft.com/content/b44458cc-03fd-46a1-b003-b7a097419e66)**  
-*finance* · 2025-10-19 · **Imp 4/5** — Entities: China, tech sector, finance sector
-
-The article discusses China's innovation paradox, highlighting the challenges and contradictions within its tech and finance sectors. It examines how these issues impact growth and investment opportunities.
-
-**[Apollo’s Marc Rowan says Europe ‘at war with itself’ over finance regulation](https://www.ft.com/content/221e5dd4-6d99-48fb-af4d-4326fe61c37a)**  
-*finance* · 2025-10-19 · **Imp 4/5** — Entities: Apollo, Marc Rowan, Europe
-
-Apollo's Marc Rowan critiques Europe's internal conflicts regarding financial regulation, highlighting the challenges faced by the industry amidst varying national policies.
-
-**[Kering closes in on €4bn deal to offload beauty division to L’Oréal](https://www.ft.com/content/49ffdf9e-b971-4285-b63c-90e2e371d112)**  
-*finance* · 2025-10-18 · **Imp 4/5** — Entities: Kering, L’Oréal
-
-Kering is nearing a €4 billion agreement to sell its beauty division to L’Oréal, marking a significant strategic shift for the luxury group.
-
-**[Blackstone says Wall Street is complacent about AI disruption](https://www.ft.com/content/35d80b4d-eecd-424b-9350-8da138036d7e)**  
-*finance* · 2025-10-18 · **Imp 4/5** — Entities: Blackstone, Wall Street, AI technologies
-
-Blackstone warns that Wall Street is underestimating the potential disruptions caused by AI technologies, suggesting a need for increased awareness and adaptation among investors and financial professionals.
-
-**[Trump aims to topple Venezuela’s leader with military build-up](https://www.ft.com/content/bd217091-84bb-4af2-b08b-9d9556dbb6d6)**  
-*finance* · 2025-10-18 · **Imp 4/5** — Entities: Trump, Venezuela
-
-Trump's strategy to destabilize Venezuela's leadership includes a military build-up, potentially impacting geopolitical stability and investor confidence in the region.
