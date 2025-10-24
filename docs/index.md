@@ -105,15 +105,50 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Intel shares jump on improved revenue as turnaround shows progress](https://www.ft.com/content/116786aa-4f2e-4573-bedd-bd4a3404c5f0)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Tickers: INTC — Entities: Intel
+
+Intel's shares have surged due to improved revenue, indicating progress in the company's turnaround efforts.
+
+**[Anthropic and Google Cloud strike blockbuster AI chips deal](https://www.ft.com/content/286133f2-5766-4e1c-90b5-3c5d1e5d2dd9)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Anthropic, Google Cloud
+
+Anthropic has secured a significant deal with Google Cloud for AI chips, enhancing its capabilities in artificial intelligence development.
+
+**[EU leaders stall €140bn Ukraine loan using frozen Russian assets](https://www.ft.com/content/9ec35777-2dc5-48ca-97bf-ae760f06eda0)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: EU, Ukraine, Russian assets
+
+EU leaders have delayed a €140 billion loan to Ukraine, which was intended to be funded by frozen Russian assets, impacting financial support for Ukraine amidst ongoing conflict.
+
+**[With new acquisition, OpenAI signals plans to integrate deeper into the OS](https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: OpenAI, macOS
+
+OpenAI's recent acquisition of a firm developing AI tools for macOS indicates its intention to enhance integration of AI within operating systems, potentially transforming user interactions and workflows.
+
+**[Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results](https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: Reddit, Perplexity
+
+Reddit has filed a lawsuit against Perplexity, alleging that the AI-powered search engine unlawfully scraped data from its platform, raising concerns about data ownership and usage rights in the tech industry.
+
+**[Oil supply glut paves way for Trump to tighten screws on Russia](https://www.ft.com/content/3ee6a2ee-b515-497f-a2da-ca248d3d17e1)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, Russia, oil market
+
+The ongoing oil supply glut may provide an opportunity for Trump to impose stricter measures on Russia, potentially impacting global oil prices and geopolitical dynamics.
+
+**[Researchers show that training on “junk data” can lead to LLM “brain rot”](https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/)**  
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: researchers, large language models, benchmarks
+
+Research indicates that training large language models (LLMs) on low-quality data, such as superficial tweets, can degrade their performance on benchmarks, a phenomenon referred to as 'brain rot.'
+
 **[Goldman nears $1bn deal to buy talent agency Excel Sports](https://www.ft.com/content/1e899313-060d-41e1-b975-c24106b0934e)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Tickers: GS — Entities: Goldman Sachs, Excel Sports
 
-Goldman Sachs is close to finalizing a $1 billion acquisition of talent agency Excel Sports, indicating a strategic move to expand its influence in the sports and entertainment sectors.
+Goldman Sachs is close to finalizing a $1 billion acquisition of talent agency Excel Sports, signaling a strategic move into the sports and entertainment sector.
 
 **[Trump pardons Binance crypto founder Changpeng Zhao](https://www.ft.com/content/d8266cc4-087b-4c93-ade7-a12a167f950e)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, Changpeng Zhao, Binance
 
-Former President Trump has pardoned Changpeng Zhao, the founder of Binance, a major cryptocurrency exchange, potentially impacting the regulatory landscape for crypto firms.
+Former President Trump has pardoned Changpeng Zhao, the founder of Binance, a major cryptocurrency exchange. This development could have significant implications for the crypto market and regulatory landscape.
 
 **[Apple loses UK class action lawsuit over ‘excessive’ App Store charges](https://www.ft.com/content/37a5c1e4-4433-4b56-b47f-f80fcd3d52b8)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
@@ -123,7 +158,7 @@ Apple has lost a class action lawsuit in the UK regarding alleged excessive char
 **[CS2 item market loses nearly $2B in value overnight due to “trade up” update](https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/)**  
 *tech* · 2025-10-23 · **Imp 4/5** — Entities: CS2, item market, trade up update
 
-The CS2 item market experienced a significant loss of nearly $2 billion in value overnight following a 'trade up' update, drastically reducing the price of rare items while inflating the value of common guns.
+The CS2 item market experienced a dramatic loss of nearly $2 billion in value overnight following a 'trade up' update, significantly affecting the prices of various in-game items, including a rare knife dropping from $14K to $7K.
 
 **[Can Trump stop India and China from buying Russian oil?](https://www.ft.com/content/55738281-fa09-4d41-965c-decb83d371fa)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russia, oil market
@@ -133,7 +168,12 @@ The article discusses the potential impact of Trump's policies on India's and Ch
 **[Trump’s Russian oil sanctions hit India and China’s imports](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russian oil
 
-Trump's sanctions on Russian oil are impacting India's and China's oil imports, potentially affecting global oil markets and geopolitical dynamics.
+Trump's sanctions on Russian oil are affecting India's and China's oil imports, potentially reshaping global energy markets and trade dynamics.
+
+**[NBA coach and player among dozens charged in US gambling cases](https://www.ft.com/content/685d0147-49ec-4ebd-afc2-634529f8ebb2)**  
+*finance* · 2025-10-23 · **Imp 4/5** — Entities: NBA, US gambling authorities
+
+Numerous individuals, including an NBA coach and player, have been charged in connection with US gambling cases, highlighting ongoing issues in sports integrity and gambling regulations.
 
 **[Germany races to secure US sanctions exemption for Rosneft refineries](https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Germany, Rosneft
@@ -153,7 +193,7 @@ Trump is considering government control over quantum computing firms, proposing 
 **[Porsche does U-turn on electric vehicles, will focus on gas engines](https://arstechnica.com/cars/2025/10/porsche-does-u-turn-on-electric-vehicles-will-focus-on-gas-engines/)**  
 *tech* · 2025-10-23 · **Imp 4/5** — Entities: Porsche
 
-Porsche shifts strategy, prioritizing gas engines over electric vehicles due to challenges in China, US tariffs, and low adoption rates of battery vehicles.
+Porsche shifts strategy from electric vehicles back to gas engines, citing challenges such as weak demand in China, US tariffs, and low adoption rates of battery-powered cars.
 
 **[Blackstone says era of bumper private-credit returns has ended](https://www.ft.com/content/9659a5fc-939d-451e-bb06-6ac0dffe2d19)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Blackstone
@@ -161,19 +201,19 @@ Porsche shifts strategy, prioritizing gas engines over electric vehicles due to 
 Blackstone announces that the period of high returns in private credit investments has concluded, signaling a shift in the market landscape for investors.
 
 **[California startup to demonstrate space weapon on its own dime](https://arstechnica.com/space/2025/10/california-startup-to-demonstrate-space-weapon-on-its-own-dime/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: California startup, space weapon
+*tech* · 2025-10-23 · **Imp 4/5** — Entities: California startup, space weapon, technology, defense
 
-A California startup plans to demonstrate a space weapon independently, asserting that all necessary components for viability are in place.
+A California startup plans to independently demonstrate a space weapon, claiming all necessary components for viability are in place. This move could signal advancements in space technology and defense.
 
 **[We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened](https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/)**  
 *tech* · 2025-10-23 · **Imp 4/5** — Entities: OpenAI, Atlas
 
-OpenAI's 'Agent Mode' demonstrates the ability to automate web-based tasks, such as scanning emails and creating fansites, showcasing advancements in AI-driven automation.
+OpenAI's 'Agent Mode' demonstrates the ability to automate web-based tasks, such as scanning emails and creating fansites, showcasing its potential for efficiency in tech applications.
 
 **[Cache poisoning vulnerabilities found in 2 DNS resolving apps](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: DNS resolving applications, cybersecurity
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: DNS resolving applications, CVE
 
-Cache poisoning vulnerabilities have been identified in two DNS resolving applications, potentially undermining security measures established after a 2008 disclosure. This could expose users to various cyber threats.
+Recent vulnerabilities identified in two DNS resolving applications could compromise security measures established since a 2008 disclosure, highlighting ongoing risks in network security.
 
 **[US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f)**  
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: US, Rosneft, Lukoil
@@ -195,57 +235,17 @@ Tesla reported a 37% decline in profits for Q3, attributed to the loss of regula
 
 Tesla's profits have decreased by over 25% despite achieving record car sales, indicating potential challenges in maintaining profitability amidst growth.
 
+**[This may be the most bonkers tech job listing I’ve ever seen](https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/)**  
+*tech* · 2025-10-22 · **Imp 4/5** — Entities: tech industry, job market, talent acquisition
+
+A tech job listing has gained attention for its extreme requirements, specifically seeking only Tier 1 'A-players.' This reflects a growing trend in the tech industry for companies to demand top-tier talent.
+
 **[Investors bet on Argentine peso devaluation after weekend elections](https://www.ft.com/content/a4ac78be-ad69-4e54-8e8b-9692d11d07e6)**  
 *finance* · 2025-10-22 · **Imp 4/5** — Entities: Argentina, investors, currency market
 
 Investors are anticipating a devaluation of the Argentine peso following the recent weekend elections, indicating potential volatility in the currency market.
 
 **[General Motors will integrate AI into its cars, plus new hands-free assist](https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Tickers: GM — Entities: General Motors, AI, automotive technology
+*tech* · 2025-10-22 · **Imp 4/5** — Tickers: GM — Entities: General Motors, AI, automotive industry
 
-General Motors plans to integrate AI, including large language models, into its vehicles, enhancing features like hands-free assistance. This move reflects the growing trend of incorporating advanced technology in automotive design.
-
-**[Health plan enrollment period is set to be horrifying for everyone this year](https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: health plans, marketplace, employer-based plans
-
-This year's health plan enrollment period may see significant premium increases, with marketplace premiums potentially doubling and employer-based plans also rising sharply. This could lead to financial strain for consumers and impact overall healthcare affordability.
-
-**[When sycophancy and bias meet medicine](https://arstechnica.com/health/2025/10/when-sycophancy-and-bias-meet-medicine/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: health research, AI models, medical findings
-
-Biased AI models in health research compromise replicability and trust, raising concerns about their reliability and impact on medical findings.
-
-**[SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: SpaceX, Starlink, Myanmar
-
-SpaceX has disabled 2,500 Starlink terminals that were allegedly utilized by scam centers in Asia, particularly in Myanmar where the service is prohibited. This action highlights the challenges of managing satellite internet access in regions with regulatory restrictions.
-
-**[Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800](https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Tickers: SSNLF — Entities: Samsung, Galaxy XR, Android, Vision Pro
-
-Samsung has launched the Galaxy XR, the first Android XR headset, priced at $1,800. While it is less expensive than Apple's Vision Pro, it still represents a significant investment in the XR market.
-
-**[Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/)**  
-*startup* · 2025-10-22 · **Imp 4/5** — Entities: Tools for Humanity, Adrian Ludwig, TechCrunch
-
-Tools for Humanity is developing iris-scanning technology to verify human identity amidst rising AI-driven fraud. The approach emphasizes privacy and open-source biometric tech, addressing concerns over deepfakes and bots.
-
-**[AWS outage reminds us why $2,449 Internet-dependent beds are a bad idea](https://arstechnica.com/gadgets/2025/10/smart-beds-leave-sleepers-hot-and-bothered-during-aws-outage/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Tickers: AMZN — Entities: AWS, smart bed, IoT
-
-An AWS outage highlights the risks of relying on internet-connected devices, exemplified by a $2,449 smart bed that became inoperable. This incident raises concerns about the reliability of IoT products in critical situations.
-
-**[Russia strikes Ukraine after Trump-Putin meeting cancelled](https://www.ft.com/content/1eef1df3-0da0-4e17-9073-085d178003d9)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: Russia, Ukraine, Trump, Putin
-
-Following the cancellation of a meeting between Trump and Putin, Russia has launched strikes on Ukraine, escalating geopolitical tensions that could impact global markets and investor sentiment.
-
-**[Politics not tech makes the world go round](https://www.ft.com/content/519a7fc9-5ccf-493e-876c-0656c8f00cd4)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: politics, technology, economy
-
-The article emphasizes the significance of politics over technology in shaping global dynamics, suggesting that political factors are more influential in driving economic and financial trends.
-
-**[Bubble-talk is breaking out everywhere](https://www.ft.com/content/ce8bc257-5f06-4005-bd36-b094a9b91938)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: investors, financial analysts, market strategists
-
-Discussions about potential financial bubbles are increasing, indicating heightened market volatility and investor caution. This trend could impact investment strategies and market confidence.
+General Motors plans to integrate AI technology, including large language models, into its vehicles, enhancing features like hands-free assistance. This move reflects the growing trend of AI adoption in the automotive industry.
