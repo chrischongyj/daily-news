@@ -105,6 +105,51 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[X’s advertising boss leaves in latest departure from Musk’s businesses](https://www.ft.com/content/9a11ffa8-aa4c-40d4-982e-ede163b8a0b2)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: X, Elon Musk
+
+X's advertising chief has departed, marking another exit from Elon Musk's companies. This trend raises concerns about leadership stability and strategic direction within the organization.
+
+**[Trump clears way for new China tariffs and hits out at Canada](https://www.ft.com/content/a0f47d0c-964d-491f-a88d-05c120c868f7)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump, China, Canada
+
+Trump's recent actions pave the way for new tariffs on China while criticizing Canada, potentially impacting international trade relations and market dynamics.
+
+**[US sanctions Colombia’s president over alleged drug trafficking](https://www.ft.com/content/3b8b759d-623c-4a6d-8be0-813781ba3320)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: US, Colombia
+
+The US has imposed sanctions on Colombia's president due to alleged involvement in drug trafficking, raising concerns about political stability and economic implications in the region.
+
+**[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**  
+*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, TechCrunch, AWS
+
+OpenAI has launched Atlas, a ChatGPT-powered browser that utilizes AI for web navigation and task completion. However, it faces a significant security flaw that risks exposing sensitive user data.
+
+**[Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: Canada, Asia, US, PM Carney
+
+Canada's Prime Minister Carney is seeking to strengthen economic ties with Asia to reduce the country's reliance on the US economy.
+
+**[Trump Jr-linked drone company wins Pentagon contract](https://www.ft.com/content/4cedc140-4a02-4ab6-9f78-93dd8c51aeef)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump Jr., Pentagon, drone company
+
+A drone company associated with Donald Trump Jr. has secured a contract with the Pentagon, indicating potential growth in defense technology and government contracts.
+
+**[Will AI lengthen lifespans or shorten them?](https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: AI, technology, healthcare
+
+The article discusses the potential impact of AI on human lifespans, exploring whether advancements in technology will lead to longer lives or pose risks that could shorten them.
+
+**[America’s risky bid to make Argentina great again](https://www.ft.com/content/6965ed28-4fb0-47dd-8a76-a8c3c39a9ca8)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: America, Argentina
+
+The article discusses America's financial strategies aimed at revitalizing Argentina's economy, highlighting the associated risks and potential impacts on investors and the local market.
+
+**[The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1)**  
+*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump, financial markets, investors
+
+The article discusses the implications of Trump's influence on financial markets and investor sentiment, highlighting the intersection of politics and finance.
+
 **[Intel shares jump on improved revenue as turnaround shows progress](https://www.ft.com/content/116786aa-4f2e-4573-bedd-bd4a3404c5f0)**  
 *finance* · 2025-10-23 · **Imp 4/5** — Tickers: INTC — Entities: Intel
 
@@ -204,48 +249,3 @@ Blackstone announces that the period of high returns in private credit investmen
 *tech* · 2025-10-23 · **Imp 4/5** — Entities: California startup, space weapon, technology, defense
 
 A California startup plans to independently demonstrate a space weapon, claiming all necessary components for viability are in place. This move could signal advancements in space technology and defense.
-
-**[We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened](https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: OpenAI, Atlas
-
-OpenAI's 'Agent Mode' demonstrates the ability to automate web-based tasks, such as scanning emails and creating fansites, showcasing its potential for efficiency in tech applications.
-
-**[Cache poisoning vulnerabilities found in 2 DNS resolving apps](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: DNS resolving applications, CVE
-
-Recent vulnerabilities identified in two DNS resolving applications could compromise security measures established since a 2008 disclosure, highlighting ongoing risks in network security.
-
-**[US sanctions Russia’s Rosneft and Lukoil](https://www.ft.com/content/7bcc7206-db12-4aab-b84d-7e02e1a1400f)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: US, Rosneft, Lukoil
-
-The US has imposed sanctions on Russian oil companies Rosneft and Lukoil, impacting their operations and international trade.
-
-**[Citi board names Jane Fraser as chair and awards her $25mn bonus](https://www.ft.com/content/e307a32a-7921-4b47-87bb-f82c4e53fc4b)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: Citi, Jane Fraser
-
-Citi's board has appointed Jane Fraser as chair and awarded her a $25 million bonus, marking a significant leadership change in the financial institution.
-
-**[Tesla profits fall 37% in Q3 despite healthy sales](https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
-
-Tesla reported a 37% decline in profits for Q3, attributed to the loss of regulatory credits and rising expenses, despite maintaining healthy sales figures.
-
-**[Tesla profits drop more than a quarter despite record car sales](https://www.ft.com/content/8476bce8-fa5c-4476-bfff-e7cc742a105a)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla
-
-Tesla's profits have decreased by over 25% despite achieving record car sales, indicating potential challenges in maintaining profitability amidst growth.
-
-**[This may be the most bonkers tech job listing I’ve ever seen](https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Entities: tech industry, job market, talent acquisition
-
-A tech job listing has gained attention for its extreme requirements, specifically seeking only Tier 1 'A-players.' This reflects a growing trend in the tech industry for companies to demand top-tier talent.
-
-**[Investors bet on Argentine peso devaluation after weekend elections](https://www.ft.com/content/a4ac78be-ad69-4e54-8e8b-9692d11d07e6)**  
-*finance* · 2025-10-22 · **Imp 4/5** — Entities: Argentina, investors, currency market
-
-Investors are anticipating a devaluation of the Argentine peso following the recent weekend elections, indicating potential volatility in the currency market.
-
-**[General Motors will integrate AI into its cars, plus new hands-free assist](https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/)**  
-*tech* · 2025-10-22 · **Imp 4/5** — Tickers: GM — Entities: General Motors, AI, automotive industry
-
-General Motors plans to integrate AI technology, including large language models, into its vehicles, enhancing features like hands-free assistance. This move reflects the growing trend of AI adoption in the automotive industry.
