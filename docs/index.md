@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[US and China kick off trade talks ahead of high-stakes Trump-Xi summit](https://www.ft.com/content/219b23f2-a189-4137-a58e-acd0f60f4ed0)**  
+*finance* · 2025-10-25 · **Imp 5/5** — Entities: US, China, Trump, Xi
+
+The US and China have initiated trade talks in anticipation of a crucial summit between President Trump and President Xi, aiming to address ongoing trade tensions.
+
 **[Andreessen Horowitz lines up $10bn for tech bets](https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e)**  
 *finance* · 2025-10-22 · **Imp 5/5** — Entities: Andreessen Horowitz
 
@@ -105,6 +110,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad](https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: Trump, Canada, Ontario, Reagan
+
+Trump plans to increase tariffs on Canada by 10% in response to an advertisement from Ontario, which references Reagan. This move could impact trade relations and economic dynamics between the U.S. and Canada.
+
+**[Hard-left candidate secures landslide in Irish presidential election](https://www.ft.com/content/0501b34e-5538-4382-9b09-1f9a9ebca6a0)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: Irish presidential election, hard-left candidate
+
+A hard-left candidate has won a decisive victory in the Irish presidential election, signaling a potential shift in the country's political landscape.
+
+**[China upgraded missiles using UAE technology, Biden spies said](https://www.ft.com/content/a1882789-d283-4bf9-a3df-19b1b7ce9799)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: China, UAE, Biden administration
+
+U.S. intelligence reports indicate that China has enhanced its missile technology by utilizing advancements from the UAE, raising concerns about military capabilities and geopolitical tensions.
+
+**[‘We’re going to kill them’: doubts grow over legality of US strikes in Caribbean](https://www.ft.com/content/667c19ab-e59c-4b1f-8a11-4af00ae44162)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: US, Caribbean, international law
+
+Concerns are rising regarding the legality of US military strikes in the Caribbean, with implications for international law and regional stability.
+
+**[‘Where the hell is the market risk?’ Scott Bessent takes on his critics](https://www.ft.com/content/96ac2e66-77cb-43ed-804a-15b0ac078633)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: Scott Bessent
+
+Scott Bessent addresses critics questioning the absence of market risk, emphasizing the need for a deeper understanding of current financial dynamics.
+
+**[The Temu theory of populism](https://www.ft.com/content/891b2fc6-d2ee-47cc-bdc4-1b5d8be0bcf2)**  
+*finance* · 2025-10-25 · **Imp 4/5** — Entities: Temu, finance sector, populism
+
+The article discusses the 'Temu theory of populism,' exploring its implications in the finance sector and its potential impact on market dynamics. It highlights how populist movements can influence consumer behavior and investment strategies.
+
 **[X’s advertising boss leaves in latest departure from Musk’s businesses](https://www.ft.com/content/9a11ffa8-aa4c-40d4-982e-ede163b8a0b2)**  
 *finance* · 2025-10-24 · **Imp 4/5** — Entities: X, Elon Musk
 
@@ -121,9 +156,9 @@ Trump's recent actions pave the way for new tariffs on China while criticizing C
 The US has imposed sanctions on Colombia's president due to alleged involvement in drug trafficking, raising concerns about political stability and economic implications in the region.
 
 **[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**  
-*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, TechCrunch, AWS
+*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, AWS, TechCrunch
 
-OpenAI has launched Atlas, a ChatGPT-powered browser that utilizes AI for web navigation and task completion. However, it faces a significant security flaw that risks exposing sensitive user data.
+OpenAI launched Atlas, a ChatGPT-powered browser, introducing AI-driven web navigation. However, it faces a significant security flaw that risks user data exposure. This marks a notable resurgence in the browser market, highlighting the impact of AI technologies.
 
 **[Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be)**  
 *finance* · 2025-10-24 · **Imp 4/5** — Entities: Canada, Asia, US, PM Carney
@@ -214,38 +249,3 @@ The article discusses the potential impact of Trump's policies on India's and Ch
 *finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russian oil
 
 Trump's sanctions on Russian oil are affecting India's and China's oil imports, potentially reshaping global energy markets and trade dynamics.
-
-**[NBA coach and player among dozens charged in US gambling cases](https://www.ft.com/content/685d0147-49ec-4ebd-afc2-634529f8ebb2)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: NBA, US gambling authorities
-
-Numerous individuals, including an NBA coach and player, have been charged in connection with US gambling cases, highlighting ongoing issues in sports integrity and gambling regulations.
-
-**[Germany races to secure US sanctions exemption for Rosneft refineries](https://www.ft.com/content/0d9a5946-1cb6-4c0b-aa5b-7f5383dedef7)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Germany, Rosneft
-
-Germany is actively seeking an exemption from US sanctions for Rosneft's refineries, which could impact energy supply and market stability in Europe.
-
-**[For China, ‘involution’ is a blessing as well as a curse](https://www.ft.com/content/e768dffb-a1b6-4c5c-a5c7-814f5617dcc2)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: China, investors, market strategies
-
-The concept of 'involution' in China presents both opportunities and challenges, impacting economic dynamics and societal structures. This duality influences investor sentiment and market strategies.
-
-**[Trump eyes government control of quantum computing firms with Intel-like deals](https://arstechnica.com/tech-policy/2025/10/trumps-industry-meddling-may-give-us-a-stake-in-quantum-computing-firms/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: Trump, quantum computing firms, Intel
-
-Trump is considering government control over quantum computing firms, proposing deals similar to those made with Intel. Some firms in the sector express optimism about these potential agreements.
-
-**[Porsche does U-turn on electric vehicles, will focus on gas engines](https://arstechnica.com/cars/2025/10/porsche-does-u-turn-on-electric-vehicles-will-focus-on-gas-engines/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: Porsche
-
-Porsche shifts strategy from electric vehicles back to gas engines, citing challenges such as weak demand in China, US tariffs, and low adoption rates of battery-powered cars.
-
-**[Blackstone says era of bumper private-credit returns has ended](https://www.ft.com/content/9659a5fc-939d-451e-bb06-6ac0dffe2d19)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Blackstone
-
-Blackstone announces that the period of high returns in private credit investments has concluded, signaling a shift in the market landscape for investors.
-
-**[California startup to demonstrate space weapon on its own dime](https://arstechnica.com/space/2025/10/california-startup-to-demonstrate-space-weapon-on-its-own-dime/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: California startup, space weapon, technology, defense
-
-A California startup plans to independently demonstrate a space weapon, claiming all necessary components for viability are in place. This move could signal advancements in space technology and defense.
