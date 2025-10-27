@@ -110,6 +110,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Novartis to buy Avidity Biosciences for $12bn](https://www.ft.com/content/6029e1f1-f27b-4e29-a48c-314442305837)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Tickers: NVS, RNA — Entities: Novartis, Avidity Biosciences
+
+Novartis has announced its acquisition of Avidity Biosciences for $12 billion, signaling a significant investment in biotechnology and expanding its portfolio.
+
+**[US expects China to delay rare earth export controls as trade deal nears](https://www.ft.com/content/3ae00c92-f216-4da5-9217-220ec42d37cc)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Entities: US, China, rare earths, trade deal
+
+The US anticipates that China will postpone its rare earth export controls as negotiations for a trade deal progress, potentially impacting global supply chains and market dynamics.
+
+**[Adobe’s Project Indigo camera finally adds iPhone 17 support](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)**  
+*tech* · 2025-10-26 · **Imp 4/5** — Tickers: ADBE,AAPL — Entities: Adobe, Apple
+
+Adobe's Project Indigo app now supports iPhone 17, although front-facing camera access is temporarily disabled due to compatibility issues with the new sensors. A fix is expected in iOS 26.1, allowing full functionality.
+
+**[OpenAI shunned advisers on $1.5tn of deals](https://www.ft.com/content/967b0d78-62df-4eea-a441-8ce3a5d03564)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Entities: OpenAI
+
+OpenAI has opted to bypass financial advisers in managing $1.5 trillion worth of deals, indicating a significant shift in its approach to financial strategy and partnerships.
+
+**[French police make first arrests in €88mn Louvre heist](https://www.ft.com/content/3f52cf8e-50bd-4928-a9f0-83b180520c26)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Entities: French police, Louvre
+
+French police have made their first arrests related to the €88 million heist at the Louvre, marking a significant development in the investigation of this high-profile crime.
+
+**[‘Do not trust your eyes’: AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Entities: AI, expense fraud, businesses, investors
+
+AI advancements are leading to a significant increase in expense fraud, challenging traditional verification methods. This trend raises concerns for businesses and investors regarding financial integrity and risk management.
+
+**[CVC tax fraud probe threatens to rock Spain’s private equity sector](https://www.ft.com/content/6739ee96-9f5e-42ce-bc3e-3d0b805c109f)**  
+*finance* · 2025-10-26 · **Imp 4/5** — Entities: CVC, Spain, private equity sector
+
+A tax fraud investigation involving CVC is poised to significantly impact Spain's private equity sector, raising concerns among investors and stakeholders about regulatory scrutiny and potential financial repercussions.
+
 **[Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad](https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6)**  
 *finance* · 2025-10-25 · **Imp 4/5** — Entities: Trump, Canada, Ontario, Reagan
 
@@ -129,6 +164,11 @@ U.S. intelligence reports indicate that China has enhanced its missile technolog
 *finance* · 2025-10-25 · **Imp 4/5** — Entities: US, Caribbean, international law
 
 Concerns are rising regarding the legality of US military strikes in the Caribbean, with implications for international law and regional stability.
+
+**[Whale and dolphin migrations are being disrupted by climate change](https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/)**  
+*tech* · 2025-10-25 · **Imp 4/5** — Entities: whales, dolphins, climate change, marine mammals
+
+Climate change is disrupting whale and dolphin migrations, pushing these marine mammals into riskier environments, according to scientists.
 
 **[‘Where the hell is the market risk?’ Scott Bessent takes on his critics](https://www.ft.com/content/96ac2e66-77cb-43ed-804a-15b0ac078633)**  
 *finance* · 2025-10-25 · **Imp 4/5** — Entities: Scott Bessent
@@ -156,9 +196,9 @@ Trump's recent actions pave the way for new tariffs on China while criticizing C
 The US has imposed sanctions on Colombia's president due to alleged involvement in drug trafficking, raising concerns about political stability and economic implications in the region.
 
 **[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**  
-*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, AWS, TechCrunch
+*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, TechCrunch, AWS
 
-OpenAI launched Atlas, a ChatGPT-powered browser, introducing AI-driven web navigation. However, it faces a significant security flaw that risks user data exposure. This marks a notable resurgence in the browser market, highlighting the impact of AI technologies.
+OpenAI launched Atlas, a ChatGPT-powered browser, introducing AI-driven web surfing and task automation. However, it faces a significant security flaw that risks exposing sensitive user data.
 
 **[Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be)**  
 *finance* · 2025-10-24 · **Imp 4/5** — Entities: Canada, Asia, US, PM Carney
@@ -209,43 +249,3 @@ OpenAI's recent acquisition of a firm developing AI tools for macOS indicates it
 *tech* · 2025-10-23 · **Imp 4/5** — Entities: Reddit, Perplexity
 
 Reddit has filed a lawsuit against Perplexity, alleging that the AI-powered search engine unlawfully scraped data from its platform, raising concerns about data ownership and usage rights in the tech industry.
-
-**[Oil supply glut paves way for Trump to tighten screws on Russia](https://www.ft.com/content/3ee6a2ee-b515-497f-a2da-ca248d3d17e1)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, Russia, oil market
-
-The ongoing oil supply glut may provide an opportunity for Trump to impose stricter measures on Russia, potentially impacting global oil prices and geopolitical dynamics.
-
-**[Researchers show that training on “junk data” can lead to LLM “brain rot”](https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: researchers, large language models, benchmarks
-
-Research indicates that training large language models (LLMs) on low-quality data, such as superficial tweets, can degrade their performance on benchmarks, a phenomenon referred to as 'brain rot.'
-
-**[Goldman nears $1bn deal to buy talent agency Excel Sports](https://www.ft.com/content/1e899313-060d-41e1-b975-c24106b0934e)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Tickers: GS — Entities: Goldman Sachs, Excel Sports
-
-Goldman Sachs is close to finalizing a $1 billion acquisition of talent agency Excel Sports, signaling a strategic move into the sports and entertainment sector.
-
-**[Trump pardons Binance crypto founder Changpeng Zhao](https://www.ft.com/content/d8266cc4-087b-4c93-ade7-a12a167f950e)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, Changpeng Zhao, Binance
-
-Former President Trump has pardoned Changpeng Zhao, the founder of Binance, a major cryptocurrency exchange. This development could have significant implications for the crypto market and regulatory landscape.
-
-**[Apple loses UK class action lawsuit over ‘excessive’ App Store charges](https://www.ft.com/content/37a5c1e4-4433-4b56-b47f-f80fcd3d52b8)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
-
-Apple has lost a class action lawsuit in the UK regarding alleged excessive charges in its App Store, which may impact its revenue model and pricing strategies.
-
-**[CS2 item market loses nearly $2B in value overnight due to “trade up” update](https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: CS2, item market, trade up update
-
-The CS2 item market experienced a dramatic loss of nearly $2 billion in value overnight following a 'trade up' update, significantly affecting the prices of various in-game items, including a rare knife dropping from $14K to $7K.
-
-**[Can Trump stop India and China from buying Russian oil?](https://www.ft.com/content/55738281-fa09-4d41-965c-decb83d371fa)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russia, oil market
-
-The article discusses the potential impact of Trump's policies on India's and China's ability to purchase Russian oil, highlighting geopolitical tensions and energy market dynamics.
-
-**[Trump’s Russian oil sanctions hit India and China’s imports](https://www.ft.com/content/94acd635-d772-4fae-99b7-f907ba3b0075)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Trump, India, China, Russian oil
-
-Trump's sanctions on Russian oil are affecting India's and China's oil imports, potentially reshaping global energy markets and trade dynamics.
