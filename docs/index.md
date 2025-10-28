@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[AMD, Department of Energy announce $1 billion AI supercomputer partnership](https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership)**  
+*tech* · 2025-10-27 · **Imp 5/5** — Tickers: AMD — Entities: AMD, Department of Energy
+
+AMD and the Department of Energy have partnered on a $1 billion AI supercomputer initiative aimed at advancing energy, biology, and manufacturing technologies.
+
 **[US and China kick off trade talks ahead of high-stakes Trump-Xi summit](https://www.ft.com/content/219b23f2-a189-4137-a58e-acd0f60f4ed0)**  
 *finance* · 2025-10-25 · **Imp 5/5** — Entities: US, China, Trump, Xi
 
@@ -110,6 +115,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Empire AI](https://avc.com/2024/01/empire-ai/)**  
+*startup* · 2024-01-09 · **Imp 5/5** — Entities: Empire AI, Tom Secunda, Governor Hochul, Jim Simons
+
+Empire AI, announced by Governor Hochul, will establish a state-of-the-art AI/ML facility in Upstate New York, funded by $400mm from public and private sources. This initiative aims to enhance academic research capabilities and promote responsible AI development.
+
+**[Google agrees deal to reopen US nuclear plant with NextEra](https://www.ft.com/content/b8bd9240-50b1-488b-bdcf-5546f6609da3)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Google, NextEra
+
+Google has reached an agreement with NextEra to reopen a US nuclear plant, signaling a strategic move towards sustainable energy solutions.
+
+**[Argentine bonds and currency surge after victory for Javier Milei’s party](https://www.ft.com/content/af4472e0-c0a3-4dca-bb29-bab4f969b624)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Argentina, Javier Milei
+
+Argentine bonds and currency experienced a significant surge following the electoral victory of Javier Milei's party, indicating a potential shift in economic policy and investor sentiment.
+
+**[Milei’s moment? Election triumph hands libertarian shot at reform](https://www.ft.com/content/fbcf2af4-f4d8-4f8b-bd3d-cfe5265f5c8a)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Javier Milei, Argentina
+
+Javier Milei's election victory presents a significant opportunity for libertarian reforms in Argentina, potentially impacting economic policies and investor confidence.
+
+**[Zuckerberg appoints former metaverse executive to boost AI efforts](https://www.ft.com/content/89a089db-432e-44eb-96e3-21f9ffce555c)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Mark Zuckerberg, Meta, AI, metaverse
+
+Mark Zuckerberg has appointed a former metaverse executive to enhance AI initiatives at Meta, signaling a strategic shift towards integrating AI technologies into the company's future plans.
+
+**[Russia ramps up its military offensive in eastern Ukraine](https://www.ft.com/content/05d7d28e-8e9e-49e6-844f-57009ba98a62)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Russia, Ukraine
+
+Russia is intensifying its military operations in eastern Ukraine, which may have significant geopolitical and economic implications.
+
+**[Argentina’s Javier Milei hails ‘historic’ win in pivotal elections](https://www.ft.com/content/766f134b-63c3-41b5-8d5b-bda10cd91760)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Javier Milei, Argentina
+
+Javier Milei's victory in Argentina's elections is deemed 'historic', signaling potential shifts in the country's economic policies and governance.
+
+**[Silicon Valley called — the 1990s are back](https://www.ft.com/content/834487ce-2357-40c4-bf45-34562e522755)**  
+*finance* · 2025-10-27 · **Imp 4/5** — Entities: Silicon Valley, tech industry
+
+The article discusses the resurgence of 1990s trends in Silicon Valley, highlighting potential implications for the tech industry and investment landscape.
+
 **[Novartis to buy Avidity Biosciences for $12bn](https://www.ft.com/content/6029e1f1-f27b-4e29-a48c-314442305837)**  
 *finance* · 2025-10-26 · **Imp 4/5** — Tickers: NVS, RNA — Entities: Novartis, Avidity Biosciences
 
@@ -196,56 +241,11 @@ Trump's recent actions pave the way for new tariffs on China while criticizing C
 The US has imposed sanctions on Colombia's president due to alleged involvement in drug trafficking, raising concerns about political stability and economic implications in the region.
 
 **[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**  
-*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, TechCrunch, AWS
+*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, AWS, TechCrunch, Equity podcast
 
-OpenAI launched Atlas, a ChatGPT-powered browser, introducing AI-driven web surfing and task automation. However, it faces a significant security flaw that risks exposing sensitive user data.
+OpenAI launched Atlas, a ChatGPT-powered browser that utilizes AI for web navigation and task completion. However, it has a significant security flaw that risks exposing sensitive data. This marks a notable resurgence in the browser market, highlighting the impact of AI technology.
 
 **[Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be)**  
 *finance* · 2025-10-24 · **Imp 4/5** — Entities: Canada, Asia, US, PM Carney
 
 Canada's Prime Minister Carney is seeking to strengthen economic ties with Asia to reduce the country's reliance on the US economy.
-
-**[Trump Jr-linked drone company wins Pentagon contract](https://www.ft.com/content/4cedc140-4a02-4ab6-9f78-93dd8c51aeef)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump Jr., Pentagon, drone company
-
-A drone company associated with Donald Trump Jr. has secured a contract with the Pentagon, indicating potential growth in defense technology and government contracts.
-
-**[Will AI lengthen lifespans or shorten them?](https://www.ft.com/content/eac9e5e4-5401-4411-9a69-c037b609c0cb)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: AI, technology, healthcare
-
-The article discusses the potential impact of AI on human lifespans, exploring whether advancements in technology will lead to longer lives or pose risks that could shorten them.
-
-**[America’s risky bid to make Argentina great again](https://www.ft.com/content/6965ed28-4fb0-47dd-8a76-a8c3c39a9ca8)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: America, Argentina
-
-The article discusses America's financial strategies aimed at revitalizing Argentina's economy, highlighting the associated risks and potential impacts on investors and the local market.
-
-**[The Trump Supremacy](https://www.ft.com/content/13772e91-de69-48df-9a51-1c27dae44fc1)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump, financial markets, investors
-
-The article discusses the implications of Trump's influence on financial markets and investor sentiment, highlighting the intersection of politics and finance.
-
-**[Intel shares jump on improved revenue as turnaround shows progress](https://www.ft.com/content/116786aa-4f2e-4573-bedd-bd4a3404c5f0)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Tickers: INTC — Entities: Intel
-
-Intel's shares have surged due to improved revenue, indicating progress in the company's turnaround efforts.
-
-**[Anthropic and Google Cloud strike blockbuster AI chips deal](https://www.ft.com/content/286133f2-5766-4e1c-90b5-3c5d1e5d2dd9)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: Anthropic, Google Cloud
-
-Anthropic has secured a significant deal with Google Cloud for AI chips, enhancing its capabilities in artificial intelligence development.
-
-**[EU leaders stall €140bn Ukraine loan using frozen Russian assets](https://www.ft.com/content/9ec35777-2dc5-48ca-97bf-ae760f06eda0)**  
-*finance* · 2025-10-23 · **Imp 4/5** — Entities: EU, Ukraine, Russian assets
-
-EU leaders have delayed a €140 billion loan to Ukraine, which was intended to be funded by frozen Russian assets, impacting financial support for Ukraine amidst ongoing conflict.
-
-**[With new acquisition, OpenAI signals plans to integrate deeper into the OS](https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: OpenAI, macOS
-
-OpenAI's recent acquisition of a firm developing AI tools for macOS indicates its intention to enhance integration of AI within operating systems, potentially transforming user interactions and workflows.
-
-**[Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results](https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/)**  
-*tech* · 2025-10-23 · **Imp 4/5** — Entities: Reddit, Perplexity
-
-Reddit has filed a lawsuit against Perplexity, alleging that the AI-powered search engine unlawfully scraped data from its platform, raising concerns about data ownership and usage rights in the tech industry.
