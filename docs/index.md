@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Apple joins Microsoft and Nvidia in elite $4tn valuation club](https://www.ft.com/content/cac347b9-279f-4652-9b42-4f01f3b8f040)**  
+*finance* · 2025-10-28 · **Imp 5/5** — Tickers: AAPL, MSFT, NVDA — Entities: Apple, Microsoft, Nvidia
+
+Apple has joined Microsoft and Nvidia in the exclusive $4 trillion valuation club, marking a significant milestone in the tech industry.
+
+**[OpenAI restructuring pushes Microsoft’s valuation above $4tn](https://www.ft.com/content/74d537c6-bd80-4797-9897-3d5455dfc414)**  
+*finance* · 2025-10-28 · **Imp 5/5** — Tickers: MSFT — Entities: OpenAI, Microsoft
+
+OpenAI's restructuring has led to a significant increase in Microsoft's valuation, surpassing $4 trillion. This development highlights the growing influence of AI on major tech companies' market positions.
+
 **[AMD, Department of Energy announce $1 billion AI supercomputer partnership](https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership)**  
 *tech* · 2025-10-27 · **Imp 5/5** — Tickers: AMD — Entities: AMD, Department of Energy
 
@@ -115,10 +125,35 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Empire AI](https://avc.com/2024/01/empire-ai/)**  
-*startup* · 2024-01-09 · **Imp 5/5** — Entities: Empire AI, Tom Secunda, Governor Hochul, Jim Simons
+**[Israel launches strikes on Gaza after accusing Hamas of ceasefire violations](https://www.ft.com/content/f2b25bc1-58ac-40cc-96c1-756672fee14e)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Entities: Israel, Hamas, Gaza
 
-Empire AI, announced by Governor Hochul, will establish a state-of-the-art AI/ML facility in Upstate New York, funded by $400mm from public and private sources. This initiative aims to enhance academic research capabilities and promote responsible AI development.
+Israel has initiated military strikes on Gaza, citing violations of the ceasefire by Hamas. This escalation may impact regional stability and investor sentiment in affected sectors.
+
+**[Nvidia to invest $1bn in Nokia as chip giant extends deal spree](https://www.ft.com/content/075c6d4e-7319-45c7-9de8-49da908aa594)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Tickers: NVDA,NOK — Entities: Nvidia, Nokia
+
+Nvidia plans to invest $1 billion in Nokia, marking a significant expansion of its investment strategy in the tech sector. This move highlights Nvidia's commitment to strengthening partnerships and enhancing its portfolio.
+
+**[Trump floats Treasury secretary Scott Bessent as new Fed chair](https://www.ft.com/content/5344084e-3254-4c8c-9ca5-c30447a30d61)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Entities: Trump, Scott Bessent, Federal Reserve
+
+Trump has suggested Treasury Secretary Scott Bessent as a potential candidate for the Federal Reserve chair position, indicating a shift in monetary policy direction.
+
+**[The political economy of Trump’s luck](https://www.ft.com/content/dcea6bc1-ee1d-46cd-b23c-043e1dcfa964)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Entities: Trump, investors, policymakers
+
+The article discusses the political economy surrounding Trump's administration, focusing on the implications of his policies and decisions on economic outcomes and investor sentiment.
+
+**[Tesla chair warns Musk could quit if shareholders reject $1tn pay deal](https://www.ft.com/content/81fece48-0d1f-4164-b9aa-3a82ed9199fe)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
+
+Tesla's chair cautions that Elon Musk may resign if shareholders do not approve a $1 trillion compensation package, highlighting potential leadership instability.
+
+**[Amazon to cut 14,000 corporate jobs](https://www.ft.com/content/106a0ea2-5f76-47c3-b1d6-c6b425b556fc)**  
+*finance* · 2025-10-28 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon
+
+Amazon plans to cut 14,000 corporate jobs as part of a restructuring effort, impacting its workforce significantly.
 
 **[Google agrees deal to reopen US nuclear plant with NextEra](https://www.ft.com/content/b8bd9240-50b1-488b-bdcf-5546f6609da3)**  
 *finance* · 2025-10-27 · **Imp 4/5** — Entities: Google, NextEra
@@ -214,38 +249,3 @@ Concerns are rising regarding the legality of US military strikes in the Caribbe
 *tech* · 2025-10-25 · **Imp 4/5** — Entities: whales, dolphins, climate change, marine mammals
 
 Climate change is disrupting whale and dolphin migrations, pushing these marine mammals into riskier environments, according to scientists.
-
-**[‘Where the hell is the market risk?’ Scott Bessent takes on his critics](https://www.ft.com/content/96ac2e66-77cb-43ed-804a-15b0ac078633)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: Scott Bessent
-
-Scott Bessent addresses critics questioning the absence of market risk, emphasizing the need for a deeper understanding of current financial dynamics.
-
-**[The Temu theory of populism](https://www.ft.com/content/891b2fc6-d2ee-47cc-bdc4-1b5d8be0bcf2)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: Temu, finance sector, populism
-
-The article discusses the 'Temu theory of populism,' exploring its implications in the finance sector and its potential impact on market dynamics. It highlights how populist movements can influence consumer behavior and investment strategies.
-
-**[X’s advertising boss leaves in latest departure from Musk’s businesses](https://www.ft.com/content/9a11ffa8-aa4c-40d4-982e-ede163b8a0b2)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: X, Elon Musk
-
-X's advertising chief has departed, marking another exit from Elon Musk's companies. This trend raises concerns about leadership stability and strategic direction within the organization.
-
-**[Trump clears way for new China tariffs and hits out at Canada](https://www.ft.com/content/a0f47d0c-964d-491f-a88d-05c120c868f7)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: Trump, China, Canada
-
-Trump's recent actions pave the way for new tariffs on China while criticizing Canada, potentially impacting international trade relations and market dynamics.
-
-**[US sanctions Colombia’s president over alleged drug trafficking](https://www.ft.com/content/3b8b759d-623c-4a6d-8be0-813781ba3320)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: US, Colombia
-
-The US has imposed sanctions on Colombia's president due to alleged involvement in drug trafficking, raising concerns about political stability and economic implications in the region.
-
-**[The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/)**  
-*startup* · 2025-10-24 · **Imp 4/5** — Entities: OpenAI, Atlas, AWS, TechCrunch, Equity podcast
-
-OpenAI launched Atlas, a ChatGPT-powered browser that utilizes AI for web navigation and task completion. However, it has a significant security flaw that risks exposing sensitive data. This marks a notable resurgence in the browser market, highlighting the impact of AI technology.
-
-**[Canada’s PM Carney courts Asia to cut economic dependence on US](https://www.ft.com/content/6b18c86b-fb1d-49fd-a674-b9fbdee0c8be)**  
-*finance* · 2025-10-24 · **Imp 4/5** — Entities: Canada, Asia, US, PM Carney
-
-Canada's Prime Minister Carney is seeking to strengthen economic ties with Asia to reduce the country's reliance on the US economy.
