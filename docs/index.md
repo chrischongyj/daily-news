@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses](https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/)**  
+*tech* · 2025-10-30 · **Imp 5/5** — Entities: ChatGPT, Reuters
+
+ChatGPT's creator is reportedly planning a $1 trillion IPO, potentially one of the largest in history, despite facing significant quarterly losses.
+
 **[Apple joins Microsoft and Nvidia in elite $4tn valuation club](https://www.ft.com/content/cac347b9-279f-4652-9b42-4f01f3b8f040)**  
 *finance* · 2025-10-28 · **Imp 5/5** — Tickers: AAPL, MSFT, NVDA — Entities: Apple, Microsoft, Nvidia
 
@@ -125,6 +130,91 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Cellebrite, Pixel, GrapheneOS
+
+Cellebrite can extract data from most Pixel phones, highlighting a vulnerability in these devices, except for those running GrapheneOS, which offers enhanced security.
+
+**[Caught cheating in class, college students “apologized” using AI—and profs called them out](https://arstechnica.com/culture/2025/10/when-caught-cheating-in-college-dont-apologize-with-ai/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: college students, professors, AI technology
+
+College students used AI to craft apologies for cheating, prompting professors to address the ethical implications of technology in education. This incident highlights the challenges of academic integrity in the digital age.
+
+**[Affinity’s image-editing apps go “freemium” in first major post-Canva update](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity, Canva
+
+Affinity has transitioned its image-editing apps to a 'freemium' model following its first major update post-Canva acquisition, eliminating the option for perpetual licenses.
+
+**[Trump admin demands states exempt ISPs from net neutrality and price laws](https://arstechnica.com/tech-policy/2025/10/trump-admin-demands-states-exempt-isps-from-net-neutrality-and-price-laws/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Trump administration, ISPs, states
+
+The Trump administration has mandated that states exempt Internet Service Providers (ISPs) from net neutrality and price regulations, asserting that such regulations are prohibited under a $42 billion grant program.
+
+**[TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: TruthWave
+
+TruthWave offers a financial rewards model for corporate whistleblowers, promising $200 million in payouts from every $1 billion collected, incentivizing justice and transparency.
+
+**[Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Microsoft, Meta
+
+Microsoft's Windows 11 remote desktop feature is now available on Meta's Quest 3 and 3S headsets, allowing users to access multiple high-resolution monitors and an immersive ultrawide mode, enhancing virtual desktop experiences.
+
+**[Disney+ gets HDR10+ via “over 1,000” Hulu titles](https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Hulu, Netflix, Apple TV
+
+Disney+ has added HDR10+ support for over 1,000 titles from Hulu, enhancing its streaming quality and competing with platforms like Netflix and Apple TV.
+
+**[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Propolis, Y Combinator, web applications, quality assurance
+
+Propolis, a startup from Y Combinator's X25 batch, has launched a tool that utilizes browser agents to autonomously perform quality assurance on web applications, enhancing efficiency in testing processes.
+
+**[Google makes first Play Store changes after losing Epic Games antitrust case](https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Google, Epic Games
+
+Google is implementing changes to the Play Store following its antitrust loss to Epic Games, allowing developers to direct users away from the platform.
+
+**[Affinity Studio now free](https://www.affinity.studio/get-affinity)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity Studio
+
+Affinity Studio has transitioned to a free model, potentially increasing its user base and market penetration in the design software sector.
+
+**[After teen death lawsuits, Character.AI will restrict chats for under-18 users](https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: Character.AI
+
+Character.AI will implement chat restrictions for users under 18 following lawsuits related to teen deaths, addressing legal and regulatory pressures regarding child safety in AI applications.
+
+**[TikTok may become more right-wing as China signals approval for US sale](https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: TikTok, China, US
+
+TikTok's potential sale to a US entity could lead to a shift towards more right-wing content, reflecting regulatory influences from China. This change may impact user engagement and platform policies.
+
+**[Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: solar power, US market, investors
+
+Global solar power adoption is surging due to declining panel prices, although the US market is lagging behind. The economic viability of solar energy continues to improve, enhancing its attractiveness for investment.
+
+**[Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: GitHub, GPT-5 Codex
+
+A new heatmap diff viewer for code reviews color-codes code changes based on the level of human attention required. It utilizes GPT-5 Codex to analyze diffs and highlight areas needing a second look, enhancing the review process beyond traditional bug detection.
+
+**[An in-space construction firm says it can help build massive data centers in orbit](https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Entities: in-space construction firm, data centers, orbit
+
+An in-space construction firm claims it can facilitate the construction of large-scale data centers in orbit, indicating a significant advancement in space infrastructure capabilities.
+
+**[GM lays off 1,700 workers making EVs and batteries in Michigan, Tennessee](https://arstechnica.com/cars/2025/10/weak-ev-demand-sees-gm-lay-off-1700-workers-at-two-plants/)**  
+*tech* · 2025-10-30 · **Imp 4/5** — Tickers: GM — Entities: GM, electric vehicles, batteries, Michigan, Tennessee
+
+GM has announced the layoff of 1,700 workers involved in the production of electric vehicles and batteries across Michigan and Tennessee, citing anticipated regulatory challenges that may hinder EV demand.
+
+**[NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)**  
+*tech* · 2025-10-29 · **Imp 4/5** — Entities: NPM, developers, cybersecurity
+
+Malicious packages on NPM have been downloaded over 86,000 times, posing risks as they can fetch dependencies from untrusted sources. This highlights vulnerabilities in package management systems.
+
 **[Israel launches strikes on Gaza after accusing Hamas of ceasefire violations](https://www.ft.com/content/f2b25bc1-58ac-40cc-96c1-756672fee14e)**  
 *finance* · 2025-10-28 · **Imp 4/5** — Entities: Israel, Hamas, Gaza
 
@@ -159,93 +249,3 @@ Amazon plans to cut 14,000 corporate jobs as part of a restructuring effort, imp
 *finance* · 2025-10-27 · **Imp 4/5** — Entities: Google, NextEra
 
 Google has reached an agreement with NextEra to reopen a US nuclear plant, signaling a strategic move towards sustainable energy solutions.
-
-**[Argentine bonds and currency surge after victory for Javier Milei’s party](https://www.ft.com/content/af4472e0-c0a3-4dca-bb29-bab4f969b624)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Argentina, Javier Milei
-
-Argentine bonds and currency experienced a significant surge following the electoral victory of Javier Milei's party, indicating a potential shift in economic policy and investor sentiment.
-
-**[Milei’s moment? Election triumph hands libertarian shot at reform](https://www.ft.com/content/fbcf2af4-f4d8-4f8b-bd3d-cfe5265f5c8a)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Javier Milei, Argentina
-
-Javier Milei's election victory presents a significant opportunity for libertarian reforms in Argentina, potentially impacting economic policies and investor confidence.
-
-**[Zuckerberg appoints former metaverse executive to boost AI efforts](https://www.ft.com/content/89a089db-432e-44eb-96e3-21f9ffce555c)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Mark Zuckerberg, Meta, AI, metaverse
-
-Mark Zuckerberg has appointed a former metaverse executive to enhance AI initiatives at Meta, signaling a strategic shift towards integrating AI technologies into the company's future plans.
-
-**[Russia ramps up its military offensive in eastern Ukraine](https://www.ft.com/content/05d7d28e-8e9e-49e6-844f-57009ba98a62)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Russia, Ukraine
-
-Russia is intensifying its military operations in eastern Ukraine, which may have significant geopolitical and economic implications.
-
-**[Argentina’s Javier Milei hails ‘historic’ win in pivotal elections](https://www.ft.com/content/766f134b-63c3-41b5-8d5b-bda10cd91760)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Javier Milei, Argentina
-
-Javier Milei's victory in Argentina's elections is deemed 'historic', signaling potential shifts in the country's economic policies and governance.
-
-**[Silicon Valley called — the 1990s are back](https://www.ft.com/content/834487ce-2357-40c4-bf45-34562e522755)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Silicon Valley, tech industry
-
-The article discusses the resurgence of 1990s trends in Silicon Valley, highlighting potential implications for the tech industry and investment landscape.
-
-**[Novartis to buy Avidity Biosciences for $12bn](https://www.ft.com/content/6029e1f1-f27b-4e29-a48c-314442305837)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Tickers: NVS, RNA — Entities: Novartis, Avidity Biosciences
-
-Novartis has announced its acquisition of Avidity Biosciences for $12 billion, signaling a significant investment in biotechnology and expanding its portfolio.
-
-**[US expects China to delay rare earth export controls as trade deal nears](https://www.ft.com/content/3ae00c92-f216-4da5-9217-220ec42d37cc)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Entities: US, China, rare earths, trade deal
-
-The US anticipates that China will postpone its rare earth export controls as negotiations for a trade deal progress, potentially impacting global supply chains and market dynamics.
-
-**[Adobe’s Project Indigo camera finally adds iPhone 17 support](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)**  
-*tech* · 2025-10-26 · **Imp 4/5** — Tickers: ADBE,AAPL — Entities: Adobe, Apple
-
-Adobe's Project Indigo app now supports iPhone 17, although front-facing camera access is temporarily disabled due to compatibility issues with the new sensors. A fix is expected in iOS 26.1, allowing full functionality.
-
-**[OpenAI shunned advisers on $1.5tn of deals](https://www.ft.com/content/967b0d78-62df-4eea-a441-8ce3a5d03564)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Entities: OpenAI
-
-OpenAI has opted to bypass financial advisers in managing $1.5 trillion worth of deals, indicating a significant shift in its approach to financial strategy and partnerships.
-
-**[French police make first arrests in €88mn Louvre heist](https://www.ft.com/content/3f52cf8e-50bd-4928-a9f0-83b180520c26)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Entities: French police, Louvre
-
-French police have made their first arrests related to the €88 million heist at the Louvre, marking a significant development in the investigation of this high-profile crime.
-
-**[‘Do not trust your eyes’: AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Entities: AI, expense fraud, businesses, investors
-
-AI advancements are leading to a significant increase in expense fraud, challenging traditional verification methods. This trend raises concerns for businesses and investors regarding financial integrity and risk management.
-
-**[CVC tax fraud probe threatens to rock Spain’s private equity sector](https://www.ft.com/content/6739ee96-9f5e-42ce-bc3e-3d0b805c109f)**  
-*finance* · 2025-10-26 · **Imp 4/5** — Entities: CVC, Spain, private equity sector
-
-A tax fraud investigation involving CVC is poised to significantly impact Spain's private equity sector, raising concerns among investors and stakeholders about regulatory scrutiny and potential financial repercussions.
-
-**[Trump to raise tariffs on Canada by 10% over Ontario’s Reagan ad](https://www.ft.com/content/8e90d02c-13d6-4bad-8795-68a5c81f7aa6)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: Trump, Canada, Ontario, Reagan
-
-Trump plans to increase tariffs on Canada by 10% in response to an advertisement from Ontario, which references Reagan. This move could impact trade relations and economic dynamics between the U.S. and Canada.
-
-**[Hard-left candidate secures landslide in Irish presidential election](https://www.ft.com/content/0501b34e-5538-4382-9b09-1f9a9ebca6a0)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: Irish presidential election, hard-left candidate
-
-A hard-left candidate has won a decisive victory in the Irish presidential election, signaling a potential shift in the country's political landscape.
-
-**[China upgraded missiles using UAE technology, Biden spies said](https://www.ft.com/content/a1882789-d283-4bf9-a3df-19b1b7ce9799)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: China, UAE, Biden administration
-
-U.S. intelligence reports indicate that China has enhanced its missile technology by utilizing advancements from the UAE, raising concerns about military capabilities and geopolitical tensions.
-
-**[‘We’re going to kill them’: doubts grow over legality of US strikes in Caribbean](https://www.ft.com/content/667c19ab-e59c-4b1f-8a11-4af00ae44162)**  
-*finance* · 2025-10-25 · **Imp 4/5** — Entities: US, Caribbean, international law
-
-Concerns are rising regarding the legality of US military strikes in the Caribbean, with implications for international law and regional stability.
-
-**[Whale and dolphin migrations are being disrupted by climate change](https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/)**  
-*tech* · 2025-10-25 · **Imp 4/5** — Entities: whales, dolphins, climate change, marine mammals
-
-Climate change is disrupting whale and dolphin migrations, pushing these marine mammals into riskier environments, according to scientists.
