@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Amazon shares jump 13% as AI powers fastest cloud growth in years](https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42)**  
+*finance* · 2025-10-30 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon, AI, cloud computing
+
+Amazon's shares surged 13% following a report of accelerated cloud growth driven by AI advancements, marking the fastest growth in years.
+
 **[ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses](https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/)**  
 *tech* · 2025-10-30 · **Imp 5/5** — Entities: ChatGPT, Reuters
 
@@ -130,6 +135,21 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Apple predicts holiday boom in iPhone sales](https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
+
+Apple forecasts a significant increase in iPhone sales during the holiday season, indicating strong consumer demand and potential revenue growth.
+
+**[Xi-Trump summit underlines China’s growing confidence as a US peer](https://www.ft.com/content/b505bd49-66bf-4848-9f6d-642c83a1c9b5)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: Xi Jinping, Donald Trump, China, United States
+
+The Xi-Trump summit highlights China's increasing confidence as a global peer to the US, signaling potential shifts in international relations and economic strategies.
+
+**[Federal Reserve plans to shrink board of top banking supervisor](https://www.ft.com/content/279a535b-aa3d-4974-8466-f6b7402fdd12)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: Federal Reserve, banking sector
+
+The Federal Reserve is set to reduce the size of its top banking supervisory board, potentially impacting regulatory oversight in the financial sector.
+
 **[Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)**  
 *tech* · 2025-10-30 · **Imp 4/5** — Entities: Cellebrite, Pixel, GrapheneOS
 
@@ -139,6 +159,11 @@ Cellebrite can extract data from most Pixel phones, highlighting a vulnerability
 *tech* · 2025-10-30 · **Imp 4/5** — Entities: college students, professors, AI technology
 
 College students used AI to craft apologies for cheating, prompting professors to address the ethical implications of technology in education. This incident highlights the challenges of academic integrity in the digital age.
+
+**[Meta readies $25bn bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Tickers: META — Entities: Meta, AI technology
+
+Meta plans to raise $25 billion through a bond sale amid rising AI costs, which have led to a stock sell-off. This move reflects the company's strategy to manage financial pressures while investing in AI technology.
 
 **[Affinity’s image-editing apps go “freemium” in first major post-Canva update](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)**  
 *tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity, Canva
@@ -155,10 +180,10 @@ The Trump administration has mandated that states exempt Internet Service Provid
 
 TruthWave offers a financial rewards model for corporate whistleblowers, promising $200 million in payouts from every $1 billion collected, incentivizing justice and transparency.
 
-**[Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Microsoft, Meta
+**[In the AI boom, not all capex is created equal](https://www.ft.com/content/53958078-be2e-43fc-ba70-13a68b5fddf1)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: AI sector, capital expenditures, digital journalism
 
-Microsoft's Windows 11 remote desktop feature is now available on Meta's Quest 3 and 3S headsets, allowing users to access multiple high-resolution monitors and an immersive ultrawide mode, enhancing virtual desktop experiences.
+The article discusses the varying quality of capital expenditures (capex) in the AI sector, emphasizing that not all investments yield the same returns or benefits in the current AI boom.
 
 **[Disney+ gets HDR10+ via “over 1,000” Hulu titles](https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/)**  
 *tech* · 2025-10-30 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Hulu, Netflix, Apple TV
@@ -210,42 +235,17 @@ An in-space construction firm claims it can facilitate the construction of large
 
 GM has announced the layoff of 1,700 workers involved in the production of electric vehicles and batteries across Michigan and Tennessee, citing anticipated regulatory challenges that may hinder EV demand.
 
-**[NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)**  
-*tech* · 2025-10-29 · **Imp 4/5** — Entities: NPM, developers, cybersecurity
+**[Mark Zuckerberg goes all in on the AI YOLO trade](https://www.ft.com/content/7ccd3431-b50c-4474-8d79-90464b8b0263)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: Mark Zuckerberg, AI technologies
 
-Malicious packages on NPM have been downloaded over 86,000 times, posing risks as they can fetch dependencies from untrusted sources. This highlights vulnerabilities in package management systems.
+Mark Zuckerberg is heavily investing in AI technologies, aligning with the YOLO (You Only Live Once) investment strategy, indicating a significant shift in focus towards artificial intelligence.
 
-**[Israel launches strikes on Gaza after accusing Hamas of ceasefire violations](https://www.ft.com/content/f2b25bc1-58ac-40cc-96c1-756672fee14e)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Entities: Israel, Hamas, Gaza
+**[The flashy Utah-based leasing firm that lent billions to First Brands](https://www.ft.com/content/f0aefc14-680d-471d-aa72-cf3d59b48483?syn-25a6b1a6=1)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: Utah-based leasing firm, First Brands
 
-Israel has initiated military strikes on Gaza, citing violations of the ceasefire by Hamas. This escalation may impact regional stability and investor sentiment in affected sectors.
+A Utah-based leasing firm has provided billions in loans to First Brands, highlighting the firm's significant role in financing within the industry.
 
-**[Nvidia to invest $1bn in Nokia as chip giant extends deal spree](https://www.ft.com/content/075c6d4e-7319-45c7-9de8-49da908aa594)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Tickers: NVDA,NOK — Entities: Nvidia, Nokia
+**[How sports gambling took over prediction markets in the US](https://www.ft.com/content/e80df917-2af7-4a37-b9af-55d23f941ec6)**  
+*finance* · 2025-10-30 · **Imp 4/5** — Entities: sports gambling, prediction markets, US
 
-Nvidia plans to invest $1 billion in Nokia, marking a significant expansion of its investment strategy in the tech sector. This move highlights Nvidia's commitment to strengthening partnerships and enhancing its portfolio.
-
-**[Trump floats Treasury secretary Scott Bessent as new Fed chair](https://www.ft.com/content/5344084e-3254-4c8c-9ca5-c30447a30d61)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Entities: Trump, Scott Bessent, Federal Reserve
-
-Trump has suggested Treasury Secretary Scott Bessent as a potential candidate for the Federal Reserve chair position, indicating a shift in monetary policy direction.
-
-**[The political economy of Trump’s luck](https://www.ft.com/content/dcea6bc1-ee1d-46cd-b23c-043e1dcfa964)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Entities: Trump, investors, policymakers
-
-The article discusses the political economy surrounding Trump's administration, focusing on the implications of his policies and decisions on economic outcomes and investor sentiment.
-
-**[Tesla chair warns Musk could quit if shareholders reject $1tn pay deal](https://www.ft.com/content/81fece48-0d1f-4164-b9aa-3a82ed9199fe)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
-
-Tesla's chair cautions that Elon Musk may resign if shareholders do not approve a $1 trillion compensation package, highlighting potential leadership instability.
-
-**[Amazon to cut 14,000 corporate jobs](https://www.ft.com/content/106a0ea2-5f76-47c3-b1d6-c6b425b556fc)**  
-*finance* · 2025-10-28 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon
-
-Amazon plans to cut 14,000 corporate jobs as part of a restructuring effort, impacting its workforce significantly.
-
-**[Google agrees deal to reopen US nuclear plant with NextEra](https://www.ft.com/content/b8bd9240-50b1-488b-bdcf-5546f6609da3)**  
-*finance* · 2025-10-27 · **Imp 4/5** — Entities: Google, NextEra
-
-Google has reached an agreement with NextEra to reopen a US nuclear plant, signaling a strategic move towards sustainable energy solutions.
+The article discusses the rise of sports gambling in the US and its impact on prediction markets, highlighting the shift in consumer interest and investment dynamics.
