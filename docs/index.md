@@ -135,6 +135,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Canada launches C$6.4bn minerals push as race to counter China heats up](https://www.ft.com/content/2625fbb1-553b-4c1d-91cf-4ec69293a863)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: Canada, minerals sector, China
+
+Canada initiates a C$6.4 billion initiative to boost its minerals sector, aiming to reduce dependency on China amid rising geopolitical tensions.
+
+**[Private jet owners rent out aircraft engines amid supply crunch](https://www.ft.com/content/d97e30cf-ac15-40a6-a630-86a50745c28b)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: private jet owners, aviation sector
+
+Private jet owners are capitalizing on a supply crunch by renting out aircraft engines, addressing increased demand in the aviation sector. This trend highlights the evolving dynamics in private aviation and potential revenue streams for owners.
+
+**[Trump stirs global alarm with pledge to restart nuclear testing](https://www.ft.com/content/051f592c-9913-47bf-899a-91fea13bb167)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: Trump, nuclear testing, international relations
+
+Trump's commitment to resume nuclear testing raises global concerns, potentially impacting international relations and market stability.
+
+**[US stocks ride AI hype and trade truce to 6-month winning streak](https://www.ft.com/content/b78abb32-223a-45b2-a999-133e4273aa52)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: US stocks, AI, trade truce
+
+US stocks have achieved a six-month winning streak, driven by excitement around AI advancements and a trade truce. This positive momentum reflects investor confidence in technology sectors.
+
+**[Animal spirits have returned to MA](https://www.ft.com/content/5a3fe5c7-f1b9-4dc6-a97a-f241b5f0eed1)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: Animal spirits, M&A
+
+Animal spirits have returned to mergers and acquisitions (M&A), indicating a resurgence in market confidence and activity in the finance sector.
+
+**[First Brands formally accused of ‘massive fraud’ by lenders](https://www.ft.com/content/27a28cce-b0c9-471a-a7ac-1f060e68f32f)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: First Brands, lenders
+
+First Brands has been formally accused of massive fraud by its lenders, raising concerns about the company's financial integrity and potential implications for stakeholders.
+
+**[Big Tech’s market dominance is becoming ever more extreme](https://www.ft.com/content/ae4d7961-cf59-4369-8e64-8a9c9da956d1)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: Big Tech, FT Edit
+
+Big Tech's market dominance is increasingly pronounced, raising concerns about competition and market fairness. This trend could impact regulatory scrutiny and investment strategies.
+
+**[Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)**  
+*tech* · 2025-10-31 · **Imp 4/5** — Entities: Hyundai, Dolby Atmos, Kugou Music, iQIYI
+
+Hyundai's new Elexio EV, exclusive to China, features Dolby Atmos audio as standard, making immersive sound accessible in an entry-level SUV priced between $16,800 and $21,000. This move may signal a shift towards more affordable Dolby Atmos options in vehicles.
+
+**[China ‘made a real mistake’ by ‘firing shots’ on rare earths, says Scott Bessent](https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: Scott Bessent, China, rare earths
+
+Scott Bessent criticizes China's recent actions regarding rare earths, suggesting it was a significant error. This commentary highlights potential geopolitical and economic implications for global markets reliant on these materials.
+
+**[Corporate job losses mount amid tightening economy and AI growth](https://www.ft.com/content/fabbdb77-14da-49bf-862e-3269ab9f9cb3)**  
+*finance* · 2025-10-31 · **Imp 4/5** — Entities: corporate sector, AI technology, economy
+
+Corporate job losses are increasing as the economy tightens and AI technology advances, impacting employment across various sectors.
+
 **[Apple predicts holiday boom in iPhone sales](https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6)**  
 *finance* · 2025-10-30 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
 
@@ -199,53 +249,3 @@ Propolis, a startup from Y Combinator's X25 batch, has launched a tool that util
 *tech* · 2025-10-30 · **Imp 4/5** — Entities: Google, Epic Games
 
 Google is implementing changes to the Play Store following its antitrust loss to Epic Games, allowing developers to direct users away from the platform.
-
-**[Affinity Studio now free](https://www.affinity.studio/get-affinity)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity Studio
-
-Affinity Studio has transitioned to a free model, potentially increasing its user base and market penetration in the design software sector.
-
-**[After teen death lawsuits, Character.AI will restrict chats for under-18 users](https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Character.AI
-
-Character.AI will implement chat restrictions for users under 18 following lawsuits related to teen deaths, addressing legal and regulatory pressures regarding child safety in AI applications.
-
-**[TikTok may become more right-wing as China signals approval for US sale](https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: TikTok, China, US
-
-TikTok's potential sale to a US entity could lead to a shift towards more right-wing content, reflecting regulatory influences from China. This change may impact user engagement and platform policies.
-
-**[Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: solar power, US market, investors
-
-Global solar power adoption is surging due to declining panel prices, although the US market is lagging behind. The economic viability of solar energy continues to improve, enhancing its attractiveness for investment.
-
-**[Show HN: I made a heatmap diff viewer for code reviews](https://0github.com)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: GitHub, GPT-5 Codex
-
-A new heatmap diff viewer for code reviews color-codes code changes based on the level of human attention required. It utilizes GPT-5 Codex to analyze diffs and highlight areas needing a second look, enhancing the review process beyond traditional bug detection.
-
-**[An in-space construction firm says it can help build massive data centers in orbit](https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: in-space construction firm, data centers, orbit
-
-An in-space construction firm claims it can facilitate the construction of large-scale data centers in orbit, indicating a significant advancement in space infrastructure capabilities.
-
-**[GM lays off 1,700 workers making EVs and batteries in Michigan, Tennessee](https://arstechnica.com/cars/2025/10/weak-ev-demand-sees-gm-lay-off-1700-workers-at-two-plants/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Tickers: GM — Entities: GM, electric vehicles, batteries, Michigan, Tennessee
-
-GM has announced the layoff of 1,700 workers involved in the production of electric vehicles and batteries across Michigan and Tennessee, citing anticipated regulatory challenges that may hinder EV demand.
-
-**[Mark Zuckerberg goes all in on the AI YOLO trade](https://www.ft.com/content/7ccd3431-b50c-4474-8d79-90464b8b0263)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: Mark Zuckerberg, AI technologies
-
-Mark Zuckerberg is heavily investing in AI technologies, aligning with the YOLO (You Only Live Once) investment strategy, indicating a significant shift in focus towards artificial intelligence.
-
-**[The flashy Utah-based leasing firm that lent billions to First Brands](https://www.ft.com/content/f0aefc14-680d-471d-aa72-cf3d59b48483?syn-25a6b1a6=1)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: Utah-based leasing firm, First Brands
-
-A Utah-based leasing firm has provided billions in loans to First Brands, highlighting the firm's significant role in financing within the industry.
-
-**[How sports gambling took over prediction markets in the US](https://www.ft.com/content/e80df917-2af7-4a37-b9af-55d23f941ec6)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: sports gambling, prediction markets, US
-
-The article discusses the rise of sports gambling in the US and its impact on prediction markets, highlighting the shift in consumer interest and investment dynamics.
