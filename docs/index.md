@@ -135,6 +135,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Gulf states will invest in Lebanon if Hizbollah disarms, says top US diplomat](https://www.ft.com/content/975b6182-3ad2-469d-ae18-ec82d64e19e0)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Entities: Gulf states, Lebanon, Hizbollah, US diplomat
+
+A top US diplomat stated that Gulf states are willing to invest in Lebanon contingent upon the disarmament of Hizbollah, highlighting geopolitical influences on investment flows in the region.
+
+**[Berkshire Hathaway offloads $6.1bn of stock](https://www.ft.com/content/bfaac196-fbc5-4c4e-bfe0-a78a63149cb4)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Tickers: BRK.A, BRK.B — Entities: Berkshire Hathaway
+
+Berkshire Hathaway has sold $6.1 billion worth of stock, indicating a significant shift in its investment strategy. This move may impact market perceptions and investor confidence.
+
+**[Poor Americans face food aid delay during government shutdown](https://www.ft.com/content/32b8bd54-ce88-43d2-ad2d-07f0f5e351bf)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Entities: U.S. government, low-income Americans, food aid programs
+
+The government shutdown is causing delays in food aid for low-income Americans, impacting their access to essential resources during a critical time.
+
+**[A finance chief joined the Trump administration. Then his company unravelled](https://www.ft.com/content/7afcce7c-b7b8-44e2-888b-90a3e42b6499)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Entities: Trump administration, finance chief, company
+
+A finance chief's appointment to the Trump administration coincided with significant challenges for his company, leading to its unraveling. This situation highlights the potential risks associated with political appointments in the finance sector.
+
+**[Populists of the left and right unite behind the politics of easy answers](https://www.ft.com/content/21ef6579-1845-466c-847a-739d6decd284)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Entities: populists, political discourse, economic policies
+
+The article discusses the convergence of left and right populists in advocating for simplistic solutions to complex issues, highlighting a trend in political discourse that may impact economic policies and investor sentiment.
+
+**[He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401)**  
+*finance* · 2025-11-01 · **Imp 4/5** — Entities: Michael Jackson, estate management
+
+The article discusses efforts to preserve and enhance the legacy of Michael Jackson through strategic management of his estate, highlighting the challenges and potential impacts on his brand.
+
+**[GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)**  
+*tech* · 2025-10-31 · **Imp 4/5** — Entities: Rockstar Games, IWGB, Rockstar Union
+
+Rockstar Games faces accusations of union busting following mass firings, raising concerns about worker rights in the gaming industry. The Rockstar Union vows to continue its fight for better conditions despite the company's actions.
+
 **[Canada launches C$6.4bn minerals push as race to counter China heats up](https://www.ft.com/content/2625fbb1-553b-4c1d-91cf-4ec69293a863)**  
 *finance* · 2025-10-31 · **Imp 4/5** — Entities: Canada, minerals sector, China
 
@@ -169,11 +204,6 @@ First Brands has been formally accused of massive fraud by its lenders, raising 
 *finance* · 2025-10-31 · **Imp 4/5** — Entities: Big Tech, FT Edit
 
 Big Tech's market dominance is increasingly pronounced, raising concerns about competition and market fairness. This trend could impact regulatory scrutiny and investment strategies.
-
-**[Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)**  
-*tech* · 2025-10-31 · **Imp 4/5** — Entities: Hyundai, Dolby Atmos, Kugou Music, iQIYI
-
-Hyundai's new Elexio EV, exclusive to China, features Dolby Atmos audio as standard, making immersive sound accessible in an entry-level SUV priced between $16,800 and $21,000. This move may signal a shift towards more affordable Dolby Atmos options in vehicles.
 
 **[China ‘made a real mistake’ by ‘firing shots’ on rare earths, says Scott Bessent](https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c)**  
 *finance* · 2025-10-31 · **Imp 4/5** — Entities: Scott Bessent, China, rare earths
@@ -219,33 +249,3 @@ Meta plans to raise $25 billion through a bond sale amid rising AI costs, which 
 *tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity, Canva
 
 Affinity has transitioned its image-editing apps to a 'freemium' model following its first major update post-Canva acquisition, eliminating the option for perpetual licenses.
-
-**[Trump admin demands states exempt ISPs from net neutrality and price laws](https://arstechnica.com/tech-policy/2025/10/trump-admin-demands-states-exempt-isps-from-net-neutrality-and-price-laws/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Trump administration, ISPs, states
-
-The Trump administration has mandated that states exempt Internet Service Providers (ISPs) from net neutrality and price regulations, asserting that such regulations are prohibited under a $42 billion grant program.
-
-**[TruthWave – A platform for corporate whistleblowers](https://www.truthwave.com)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: TruthWave
-
-TruthWave offers a financial rewards model for corporate whistleblowers, promising $200 million in payouts from every $1 billion collected, incentivizing justice and transparency.
-
-**[In the AI boom, not all capex is created equal](https://www.ft.com/content/53958078-be2e-43fc-ba70-13a68b5fddf1)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: AI sector, capital expenditures, digital journalism
-
-The article discusses the varying quality of capital expenditures (capex) in the AI sector, emphasizing that not all investments yield the same returns or benefits in the current AI boom.
-
-**[Disney+ gets HDR10+ via “over 1,000” Hulu titles](https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Tickers: DIS — Entities: Disney, Hulu, Netflix, Apple TV
-
-Disney+ has added HDR10+ support for over 1,000 titles from Hulu, enhancing its streaming quality and competing with platforms like Netflix and Apple TV.
-
-**[Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Propolis, Y Combinator, web applications, quality assurance
-
-Propolis, a startup from Y Combinator's X25 batch, has launched a tool that utilizes browser agents to autonomously perform quality assurance on web applications, enhancing efficiency in testing processes.
-
-**[Google makes first Play Store changes after losing Epic Games antitrust case](https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Google, Epic Games
-
-Google is implementing changes to the Play Store following its antitrust loss to Epic Games, allowing developers to direct users away from the platform.
