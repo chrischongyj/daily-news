@@ -135,6 +135,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Tech groups step up efforts to solve AI’s big security flaw](https://www.ft.com/content/56cb100e-7146-488f-aae5-55304ae0eff6)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: tech companies, AI systems, cybersecurity
+
+Tech companies are intensifying their initiatives to address significant security vulnerabilities associated with artificial intelligence systems, aiming to enhance safety and trust in AI technologies.
+
+**[US bank deals surge as Trump-era regulators race through approvals](https://www.ft.com/content/72c16455-c11c-4e0a-9ddb-882d1a5e7647)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: US banks, regulators, Trump administration
+
+US bank mergers and acquisitions are accelerating as regulators expedite approval processes, reflecting a shift in the financial landscape since the Trump administration. This surge may impact market dynamics and investor confidence.
+
+**[US accused of ‘bully-boy’ tactics to sink climate deal](https://www.ft.com/content/4e0a9a30-b014-4745-afe5-c841e36b41da)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: US, climate deal
+
+The US faces accusations of using aggressive tactics to undermine a climate deal, raising concerns about international cooperation on climate issues.
+
+**[The economic upsides of Trump’s second term](https://www.ft.com/content/b72eca2c-554d-4148-b571-c5a8d73fc311)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: Donald Trump, investors, economic sectors
+
+The article discusses the potential economic benefits of Donald Trump's second presidential term, highlighting implications for various sectors and investor sentiment.
+
+**[Elon Musk’s Grokipedia is a major own goal](https://www.ft.com/content/5ada1835-bdee-4326-adc0-e90a33123588)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: Elon Musk, Grokipedia, Financial Times
+
+Elon Musk's Grokipedia faces criticism as a significant misstep, potentially impacting its credibility and user trust. This development raises concerns among investors and industry observers regarding the platform's future viability.
+
+**[Private capital zombie firms will pile up in next decade, says EQT chief](https://www.ft.com/content/49d2cb79-5e0b-4c71-9258-b3fea4ca70c4)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: EQT
+
+EQT's chief warns that private capital zombie firms are expected to increase over the next decade, indicating potential challenges for investors and the market.
+
+**[US pushes for wider global dollar adoption](https://www.ft.com/content/fae0ec80-1d65-429b-9147-90bf911d9001)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: US government, global finance, international trade
+
+The US government is advocating for increased global adoption of the dollar, aiming to strengthen its position in international finance and trade.
+
+**[The new hot job in AI: forward-deployed engineers](https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408)**  
+*finance* · 2025-11-02 · **Imp 4/5** — Entities: AI, forward-deployed engineers, finance, tech industry
+
+Forward-deployed engineers are emerging as a crucial role in the AI sector, driving innovation and implementation in various industries. This trend highlights the growing demand for specialized tech talent in finance and beyond.
+
 **[Gulf states will invest in Lebanon if Hizbollah disarms, says top US diplomat](https://www.ft.com/content/975b6182-3ad2-469d-ae18-ec82d64e19e0)**  
 *finance* · 2025-11-01 · **Imp 4/5** — Entities: Gulf states, Lebanon, Hizbollah, US diplomat
 
@@ -209,43 +249,3 @@ Big Tech's market dominance is increasingly pronounced, raising concerns about c
 *finance* · 2025-10-31 · **Imp 4/5** — Entities: Scott Bessent, China, rare earths
 
 Scott Bessent criticizes China's recent actions regarding rare earths, suggesting it was a significant error. This commentary highlights potential geopolitical and economic implications for global markets reliant on these materials.
-
-**[Corporate job losses mount amid tightening economy and AI growth](https://www.ft.com/content/fabbdb77-14da-49bf-862e-3269ab9f9cb3)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: corporate sector, AI technology, economy
-
-Corporate job losses are increasing as the economy tightens and AI technology advances, impacting employment across various sectors.
-
-**[Apple predicts holiday boom in iPhone sales](https://www.ft.com/content/7e4e5c42-6b67-4e92-aaec-4c5714f672f6)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
-
-Apple forecasts a significant increase in iPhone sales during the holiday season, indicating strong consumer demand and potential revenue growth.
-
-**[Xi-Trump summit underlines China’s growing confidence as a US peer](https://www.ft.com/content/b505bd49-66bf-4848-9f6d-642c83a1c9b5)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: Xi Jinping, Donald Trump, China, United States
-
-The Xi-Trump summit highlights China's increasing confidence as a global peer to the US, signaling potential shifts in international relations and economic strategies.
-
-**[Federal Reserve plans to shrink board of top banking supervisor](https://www.ft.com/content/279a535b-aa3d-4974-8466-f6b7402fdd12)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Entities: Federal Reserve, banking sector
-
-The Federal Reserve is set to reduce the size of its top banking supervisory board, potentially impacting regulatory oversight in the financial sector.
-
-**[Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Cellebrite, Pixel, GrapheneOS
-
-Cellebrite can extract data from most Pixel phones, highlighting a vulnerability in these devices, except for those running GrapheneOS, which offers enhanced security.
-
-**[Caught cheating in class, college students “apologized” using AI—and profs called them out](https://arstechnica.com/culture/2025/10/when-caught-cheating-in-college-dont-apologize-with-ai/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: college students, professors, AI technology
-
-College students used AI to craft apologies for cheating, prompting professors to address the ethical implications of technology in education. This incident highlights the challenges of academic integrity in the digital age.
-
-**[Meta readies $25bn bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9)**  
-*finance* · 2025-10-30 · **Imp 4/5** — Tickers: META — Entities: Meta, AI technology
-
-Meta plans to raise $25 billion through a bond sale amid rising AI costs, which have led to a stock sell-off. This move reflects the company's strategy to manage financial pressures while investing in AI technology.
-
-**[Affinity’s image-editing apps go “freemium” in first major post-Canva update](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)**  
-*tech* · 2025-10-30 · **Imp 4/5** — Entities: Affinity, Canva
-
-Affinity has transitioned its image-editing apps to a 'freemium' model following its first major update post-Canva acquisition, eliminating the option for perpetual licenses.
