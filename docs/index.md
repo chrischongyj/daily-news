@@ -135,6 +135,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[US stocks slide as investors fret over high valuations for AI companies](https://www.ft.com/content/a07c97d6-0780-4c3c-abc6-246fe19e5c5e)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Entities: US stocks, AI companies, investors
+
+US stocks declined as investors expressed concerns over inflated valuations in AI companies, signaling potential market corrections.
+
+**[Palantir shares slide after Michael Burry reveals bet against stock](https://www.ft.com/content/cc6e62a9-b901-4e1d-befa-ed304947f525)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Tickers: PLTR — Entities: Palantir, Michael Burry
+
+Palantir's stock price has declined following investor Michael Burry's announcement of a short position against the company, raising concerns among investors about its future performance.
+
+**[Sequoia chief Roelof Botha steps down from Silicon Valley venture firm](https://www.ft.com/content/d3c9c946-1ba8-4611-a45a-a22db4db3de1)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Entities: Sequoia Capital, Roelof Botha
+
+Roelof Botha, the chief of Sequoia Capital, has announced his resignation from the prominent Silicon Valley venture firm, marking a significant leadership change.
+
+**[Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2](https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2)**  
+*tech* · 2025-11-04 · **Imp 4/5** — Entities: Samsung, Amazon Prime Video, Netflix, Disney
+
+Samsung introduces HDR10 Plus Advanced, a dynamic HDR format with features similar to Dolby Vision 2, enhancing picture quality for high-end TVs. Support from streaming services is crucial for its success, with Amazon Prime Video already on board.
+
+**[US government heads to longest shutdown as Trump resists calls to talk](https://www.ft.com/content/aade913c-6293-4704-9b8e-3b11a7faa093)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Entities: US government, Trump
+
+The US government is facing its longest shutdown as former President Trump continues to resist calls for negotiations. This situation raises concerns about economic stability and impacts various sectors reliant on government operations.
+
+**[Apple is reportedly working on a cheaper Mac laptop with an iPhone chip](https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper)**  
+*tech* · 2025-11-04 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Bloomberg, Ming-Chi Kuo
+
+Apple is developing a low-cost Mac laptop with an iPhone chip, targeting casual users and students, set to launch in early 2026. Priced under $1,000, it aims to compete with entry-level devices like the iPad.
+
+**[America votes: five states to watch in the off-year elections](https://www.ft.com/content/0c95788b-05dd-4b55-bf8f-3ccc048c368a)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Entities: America, states, elections
+
+The article discusses key states to monitor in the upcoming off-year elections, highlighting their potential impact on political and economic landscapes in the U.S.
+
+**[How two tiny banks are helping Trump’s sons build a crypto empire](https://www.ft.com/content/39a4a5c9-aa33-40b4-addb-076ee0242430)**  
+*finance* · 2025-11-04 · **Imp 4/5** — Entities: Trump sons, cryptocurrency, banks
+
+Two small banks are reportedly aiding Donald Trump's sons in establishing a cryptocurrency business, highlighting the intersection of traditional banking and digital finance.
+
 **[Tech groups step up efforts to solve AI’s big security flaw](https://www.ft.com/content/56cb100e-7146-488f-aae5-55304ae0eff6)**  
 *finance* · 2025-11-02 · **Imp 4/5** — Entities: tech companies, AI systems, cybersecurity
 
@@ -209,43 +249,3 @@ The article discusses efforts to preserve and enhance the legacy of Michael Jack
 *tech* · 2025-10-31 · **Imp 4/5** — Entities: Rockstar Games, IWGB, Rockstar Union
 
 Rockstar Games faces accusations of union busting following mass firings, raising concerns about worker rights in the gaming industry. The Rockstar Union vows to continue its fight for better conditions despite the company's actions.
-
-**[Canada launches C$6.4bn minerals push as race to counter China heats up](https://www.ft.com/content/2625fbb1-553b-4c1d-91cf-4ec69293a863)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: Canada, minerals sector, China
-
-Canada initiates a C$6.4 billion initiative to boost its minerals sector, aiming to reduce dependency on China amid rising geopolitical tensions.
-
-**[Private jet owners rent out aircraft engines amid supply crunch](https://www.ft.com/content/d97e30cf-ac15-40a6-a630-86a50745c28b)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: private jet owners, aviation sector
-
-Private jet owners are capitalizing on a supply crunch by renting out aircraft engines, addressing increased demand in the aviation sector. This trend highlights the evolving dynamics in private aviation and potential revenue streams for owners.
-
-**[Trump stirs global alarm with pledge to restart nuclear testing](https://www.ft.com/content/051f592c-9913-47bf-899a-91fea13bb167)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: Trump, nuclear testing, international relations
-
-Trump's commitment to resume nuclear testing raises global concerns, potentially impacting international relations and market stability.
-
-**[US stocks ride AI hype and trade truce to 6-month winning streak](https://www.ft.com/content/b78abb32-223a-45b2-a999-133e4273aa52)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: US stocks, AI, trade truce
-
-US stocks have achieved a six-month winning streak, driven by excitement around AI advancements and a trade truce. This positive momentum reflects investor confidence in technology sectors.
-
-**[Animal spirits have returned to MA](https://www.ft.com/content/5a3fe5c7-f1b9-4dc6-a97a-f241b5f0eed1)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: Animal spirits, M&A
-
-Animal spirits have returned to mergers and acquisitions (M&A), indicating a resurgence in market confidence and activity in the finance sector.
-
-**[First Brands formally accused of ‘massive fraud’ by lenders](https://www.ft.com/content/27a28cce-b0c9-471a-a7ac-1f060e68f32f)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: First Brands, lenders
-
-First Brands has been formally accused of massive fraud by its lenders, raising concerns about the company's financial integrity and potential implications for stakeholders.
-
-**[Big Tech’s market dominance is becoming ever more extreme](https://www.ft.com/content/ae4d7961-cf59-4369-8e64-8a9c9da956d1)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: Big Tech, FT Edit
-
-Big Tech's market dominance is increasingly pronounced, raising concerns about competition and market fairness. This trend could impact regulatory scrutiny and investment strategies.
-
-**[China ‘made a real mistake’ by ‘firing shots’ on rare earths, says Scott Bessent](https://www.ft.com/content/399ad440-ecd3-4fb0-b97d-a0d8e0a8a22c)**  
-*finance* · 2025-10-31 · **Imp 4/5** — Entities: Scott Bessent, China, rare earths
-
-Scott Bessent criticizes China's recent actions regarding rare earths, suggesting it was a significant error. This commentary highlights potential geopolitical and economic implications for global markets reliant on these materials.
