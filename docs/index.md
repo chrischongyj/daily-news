@@ -135,6 +135,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Supreme Court appears sceptical of legal basis for Trump tariffs](https://www.ft.com/content/f4420b48-0ed3-4f32-9b72-7ff90365ff93)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: Supreme Court, Trump administration
+
+The Supreme Court is expressing skepticism regarding the legal foundation for tariffs imposed by the Trump administration, which could have significant implications for trade policy and economic relations.
+
+**[France says it will ban Shein in row over sex dolls and weapons](https://www.ft.com/content/ca54a917-7bed-4d77-ab07-991624925c75)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: France, Shein
+
+France plans to ban Shein amid controversies involving sex dolls and weapons, raising concerns about the company's practices and regulatory compliance.
+
+**[US private sector employers added 42,000 jobs in October](https://www.ft.com/content/40da56ea-c8d3-43ad-86cc-0133d310a5dc)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: US private sector, employers
+
+In October, US private sector employers added 42,000 jobs, indicating a modest growth in employment. This data is crucial for understanding labor market trends and economic health.
+
+**[Democrats’ electoral sweep deals blow to Trump](https://www.ft.com/content/8669125f-4a01-4185-aaa1-73ec7e7e93cf)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: Democrats, Trump
+
+The recent electoral success of Democrats poses a significant challenge to former President Trump, potentially impacting his political influence and future endeavors.
+
+**[Mamdani and the new challenge for nation states](https://www.ft.com/content/f9c2c963-ad7e-45fb-ac20-3c1e028a3e9d)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: Mamdani, nation states
+
+The article discusses Mamdani's perspectives on the evolving challenges faced by nation states in the context of finance and governance.
+
+**[A year of Donald Trump in charts](https://www.ft.com/content/266ae6df-89c2-4413-be51-0b3a7c6e8015)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Entities: Donald Trump, FT
+
+The article analyzes the financial impact of Donald Trump's policies over the past year, presented through various charts. It highlights key economic indicators and trends relevant to investors and policymakers.
+
 **[US stocks slide as investors fret over high valuations for AI companies](https://www.ft.com/content/a07c97d6-0780-4c3c-abc6-246fe19e5c5e)**  
 *finance* · 2025-11-04 · **Imp 4/5** — Entities: US stocks, AI companies, investors
 
@@ -219,33 +249,3 @@ Forward-deployed engineers are emerging as a crucial role in the AI sector, driv
 *finance* · 2025-11-01 · **Imp 4/5** — Entities: Gulf states, Lebanon, Hizbollah, US diplomat
 
 A top US diplomat stated that Gulf states are willing to invest in Lebanon contingent upon the disarmament of Hizbollah, highlighting geopolitical influences on investment flows in the region.
-
-**[Berkshire Hathaway offloads $6.1bn of stock](https://www.ft.com/content/bfaac196-fbc5-4c4e-bfe0-a78a63149cb4)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Tickers: BRK.A, BRK.B — Entities: Berkshire Hathaway
-
-Berkshire Hathaway has sold $6.1 billion worth of stock, indicating a significant shift in its investment strategy. This move may impact market perceptions and investor confidence.
-
-**[Poor Americans face food aid delay during government shutdown](https://www.ft.com/content/32b8bd54-ce88-43d2-ad2d-07f0f5e351bf)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Entities: U.S. government, low-income Americans, food aid programs
-
-The government shutdown is causing delays in food aid for low-income Americans, impacting their access to essential resources during a critical time.
-
-**[A finance chief joined the Trump administration. Then his company unravelled](https://www.ft.com/content/7afcce7c-b7b8-44e2-888b-90a3e42b6499)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Entities: Trump administration, finance chief, company
-
-A finance chief's appointment to the Trump administration coincided with significant challenges for his company, leading to its unraveling. This situation highlights the potential risks associated with political appointments in the finance sector.
-
-**[Populists of the left and right unite behind the politics of easy answers](https://www.ft.com/content/21ef6579-1845-466c-847a-739d6decd284)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Entities: populists, political discourse, economic policies
-
-The article discusses the convergence of left and right populists in advocating for simplistic solutions to complex issues, highlighting a trend in political discourse that may impact economic policies and investor sentiment.
-
-**[He rescued the Michael Jackson estate. Can he save the star’s legacy?](https://www.ft.com/content/f425ca55-e6a3-4111-b55b-1b8cd46b6401)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Entities: Michael Jackson, estate management
-
-The article discusses efforts to preserve and enhance the legacy of Michael Jackson through strategic management of his estate, highlighting the challenges and potential impacts on his brand.
-
-**[GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)**  
-*tech* · 2025-10-31 · **Imp 4/5** — Entities: Rockstar Games, IWGB, Rockstar Union
-
-Rockstar Games faces accusations of union busting following mass firings, raising concerns about worker rights in the gaming industry. The Rockstar Union vows to continue its fight for better conditions despite the company's actions.
