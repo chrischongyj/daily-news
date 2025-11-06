@@ -135,6 +135,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Novo Nordisk challenges Pfizer to raise offer for obesity biotech Metsera](https://www.ft.com/content/52216b29-9f22-4338-85a7-eacfc33103a1)**  
+*finance* · 2025-11-06 · **Imp 4/5** — Entities: Novo Nordisk, Pfizer, Metsera
+
+Novo Nordisk has urged Pfizer to increase its acquisition offer for obesity biotech Metsera, indicating a competitive landscape in the biotech sector focused on obesity treatments.
+
+**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
+*tech* · 2025-11-06 · **Imp 4/5** — Entities: Fitbit, Google, Apple, Walmart, Best Buy, Target
+
+Early Black Friday deals are emerging, with significant discounts on laptops, TVs, and tech gadgets. Notable offers include 50% off Fitbits and 25% off Google Pixel 10. Apple's MacBook Air is priced at $749.99, marking a record low. More deals are anticipated as November progresses.
+
+**[FBI subpoenas the web registrar behind Archive.is](https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner)**  
+*tech* · 2025-11-06 · **Imp 4/5** — Entities: FBI, Archive.today, Tucows, News/Media Alliance
+
+The FBI has subpoenaed Tucows, the registrar for Archive.today, to uncover the identity of its owner amid a federal criminal investigation. The site is known for circumventing paywalls, raising concerns similar to previous legal actions against similar services.
+
+**[US stocks slide as tech jitters return](https://www.ft.com/content/a05ce491-9b32-4de9-b878-b34805a861a3)**  
+*finance* · 2025-11-06 · **Imp 4/5** — Entities: US stocks, technology sector, investors
+
+US stocks experienced a decline as concerns regarding the technology sector resurfaced, impacting investor sentiment and market performance.
+
+**[UBS to liquidate funds with substantial First Brands exposure](https://www.ft.com/content/4d413bd2-3daa-4ffd-983f-c58130adee99)**  
+*finance* · 2025-11-06 · **Imp 4/5** — Entities: UBS, First Brands
+
+UBS plans to liquidate funds that have significant exposure to First Brands, indicating a strategic shift in investment focus.
+
+**[Milei defies calls to float Argentine peso freely](https://www.ft.com/content/b22f4076-3cb9-400c-98b3-071058219b9a)**  
+*finance* · 2025-11-06 · **Imp 4/5** — Entities: Javier Milei, Argentine peso, Argentina
+
+Argentine presidential candidate Javier Milei resists pressure to allow the peso to float freely, maintaining a fixed exchange rate strategy amidst economic challenges.
+
+**[Nvidia’s Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43)**  
+*finance* · 2025-11-05 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Jensen Huang, China, US
+
+Nvidia's CEO Jensen Huang asserts that China is poised to surpass the US in the AI race, highlighting the competitive landscape in artificial intelligence development.
+
 **[Supreme Court appears sceptical of legal basis for Trump tariffs](https://www.ft.com/content/f4420b48-0ed3-4f32-9b72-7ff90365ff93)**  
 *finance* · 2025-11-05 · **Imp 4/5** — Entities: Supreme Court, Trump administration
 
@@ -214,38 +249,3 @@ Tech companies are intensifying their initiatives to address significant securit
 *finance* · 2025-11-02 · **Imp 4/5** — Entities: US banks, regulators, Trump administration
 
 US bank mergers and acquisitions are accelerating as regulators expedite approval processes, reflecting a shift in the financial landscape since the Trump administration. This surge may impact market dynamics and investor confidence.
-
-**[US accused of ‘bully-boy’ tactics to sink climate deal](https://www.ft.com/content/4e0a9a30-b014-4745-afe5-c841e36b41da)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: US, climate deal
-
-The US faces accusations of using aggressive tactics to undermine a climate deal, raising concerns about international cooperation on climate issues.
-
-**[The economic upsides of Trump’s second term](https://www.ft.com/content/b72eca2c-554d-4148-b571-c5a8d73fc311)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: Donald Trump, investors, economic sectors
-
-The article discusses the potential economic benefits of Donald Trump's second presidential term, highlighting implications for various sectors and investor sentiment.
-
-**[Elon Musk’s Grokipedia is a major own goal](https://www.ft.com/content/5ada1835-bdee-4326-adc0-e90a33123588)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: Elon Musk, Grokipedia, Financial Times
-
-Elon Musk's Grokipedia faces criticism as a significant misstep, potentially impacting its credibility and user trust. This development raises concerns among investors and industry observers regarding the platform's future viability.
-
-**[Private capital zombie firms will pile up in next decade, says EQT chief](https://www.ft.com/content/49d2cb79-5e0b-4c71-9258-b3fea4ca70c4)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: EQT
-
-EQT's chief warns that private capital zombie firms are expected to increase over the next decade, indicating potential challenges for investors and the market.
-
-**[US pushes for wider global dollar adoption](https://www.ft.com/content/fae0ec80-1d65-429b-9147-90bf911d9001)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: US government, global finance, international trade
-
-The US government is advocating for increased global adoption of the dollar, aiming to strengthen its position in international finance and trade.
-
-**[The new hot job in AI: forward-deployed engineers](https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: AI, forward-deployed engineers, finance, tech industry
-
-Forward-deployed engineers are emerging as a crucial role in the AI sector, driving innovation and implementation in various industries. This trend highlights the growing demand for specialized tech talent in finance and beyond.
-
-**[Gulf states will invest in Lebanon if Hizbollah disarms, says top US diplomat](https://www.ft.com/content/975b6182-3ad2-469d-ae18-ec82d64e19e0)**  
-*finance* · 2025-11-01 · **Imp 4/5** — Entities: Gulf states, Lebanon, Hizbollah, US diplomat
-
-A top US diplomat stated that Gulf states are willing to invest in Lebanon contingent upon the disarmament of Hizbollah, highlighting geopolitical influences on investment flows in the region.
