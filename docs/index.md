@@ -135,6 +135,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump orders probe into meat groups amid affordability backlash](https://www.ft.com/content/049654fd-800a-4ab7-bb20-16d8d9a3ca0f)**  
+*finance* · 2025-11-07 · **Imp 4/5** — Entities: Trump, meat industry groups
+
+Trump has initiated a probe into meat industry groups in response to public backlash over rising meat prices and affordability issues. This move could impact market dynamics and regulatory scrutiny in the sector.
+
+**[Pete Hegseth issues warning to major US defence contractors](https://www.ft.com/content/dba5d81d-aa4a-48c8-8f13-3fc516efff18)**  
+*finance* · 2025-11-07 · **Imp 4/5** — Entities: Pete Hegseth, US defense contractors
+
+Pete Hegseth has issued a warning to major US defense contractors, highlighting potential risks and challenges they may face in the current geopolitical climate.
+
+**[Tech stocks suffer worst week since April after $800bn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8)**  
+*finance* · 2025-11-07 · **Imp 4/5** — Entities: tech stocks, AI investments
+
+Tech stocks experienced their worst week since April, driven by an $800 billion sell-off in AI-related investments, signaling potential volatility in the tech sector.
+
+**[Researchers surprised that with AI, toxicity is harder to fake than intelligence](https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/)**  
+*tech* · 2025-11-07 · **Imp 4/5** — Entities: AI, researchers, technology
+
+A new computational Turing test achieves 80% accuracy in identifying AI pretending to be human, highlighting that toxicity is more challenging for AI to mimic than intelligence.
+
+**[Sequoia’s ‘imperial’ Roelof Botha pushed out by top lieutenants](https://www.ft.com/content/0f16e194-5e9b-4486-988e-6f90f927b153)**  
+*finance* · 2025-11-07 · **Imp 4/5** — Entities: Sequoia Capital, Roelof Botha
+
+Roelof Botha, a prominent figure at Sequoia Capital, has been ousted by his top lieutenants, signaling a significant shift in leadership within the firm.
+
+**[First Brands wins court approval for $1.1bn rescue loan to avoid liquidation](https://www.ft.com/content/6a8b1336-ad80-4866-a459-c484d27b6465)**  
+*finance* · 2025-11-07 · **Imp 4/5** — Entities: First Brands
+
+First Brands has secured court approval for a $1.1 billion rescue loan, enabling the company to avoid liquidation and continue operations.
+
 **[Novo Nordisk challenges Pfizer to raise offer for obesity biotech Metsera](https://www.ft.com/content/52216b29-9f22-4338-85a7-eacfc33103a1)**  
 *finance* · 2025-11-06 · **Imp 4/5** — Entities: Novo Nordisk, Pfizer, Metsera
 
@@ -219,33 +249,3 @@ Roelof Botha, the chief of Sequoia Capital, has announced his resignation from t
 *tech* · 2025-11-04 · **Imp 4/5** — Entities: Samsung, Amazon Prime Video, Netflix, Disney
 
 Samsung introduces HDR10 Plus Advanced, a dynamic HDR format with features similar to Dolby Vision 2, enhancing picture quality for high-end TVs. Support from streaming services is crucial for its success, with Amazon Prime Video already on board.
-
-**[US government heads to longest shutdown as Trump resists calls to talk](https://www.ft.com/content/aade913c-6293-4704-9b8e-3b11a7faa093)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Entities: US government, Trump
-
-The US government is facing its longest shutdown as former President Trump continues to resist calls for negotiations. This situation raises concerns about economic stability and impacts various sectors reliant on government operations.
-
-**[Apple is reportedly working on a cheaper Mac laptop with an iPhone chip](https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper)**  
-*tech* · 2025-11-04 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Bloomberg, Ming-Chi Kuo
-
-Apple is developing a low-cost Mac laptop with an iPhone chip, targeting casual users and students, set to launch in early 2026. Priced under $1,000, it aims to compete with entry-level devices like the iPad.
-
-**[America votes: five states to watch in the off-year elections](https://www.ft.com/content/0c95788b-05dd-4b55-bf8f-3ccc048c368a)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Entities: America, states, elections
-
-The article discusses key states to monitor in the upcoming off-year elections, highlighting their potential impact on political and economic landscapes in the U.S.
-
-**[How two tiny banks are helping Trump’s sons build a crypto empire](https://www.ft.com/content/39a4a5c9-aa33-40b4-addb-076ee0242430)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Entities: Trump sons, cryptocurrency, banks
-
-Two small banks are reportedly aiding Donald Trump's sons in establishing a cryptocurrency business, highlighting the intersection of traditional banking and digital finance.
-
-**[Tech groups step up efforts to solve AI’s big security flaw](https://www.ft.com/content/56cb100e-7146-488f-aae5-55304ae0eff6)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: tech companies, AI systems, cybersecurity
-
-Tech companies are intensifying their initiatives to address significant security vulnerabilities associated with artificial intelligence systems, aiming to enhance safety and trust in AI technologies.
-
-**[US bank deals surge as Trump-era regulators race through approvals](https://www.ft.com/content/72c16455-c11c-4e0a-9ddb-882d1a5e7647)**  
-*finance* · 2025-11-02 · **Imp 4/5** — Entities: US banks, regulators, Trump administration
-
-US bank mergers and acquisitions are accelerating as regulators expedite approval processes, reflecting a shift in the financial landscape since the Trump administration. This surge may impact market dynamics and investor confidence.
