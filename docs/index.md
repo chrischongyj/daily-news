@@ -135,6 +135,41 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Contractors tap emergency cash as US government shutdown pain mounts](https://www.ft.com/content/41b15d39-401d-4059-bdd2-60c19c6b2c83)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: US government, contractors
+
+Contractors are increasingly relying on emergency cash as the effects of the US government shutdown intensify, highlighting financial strain and operational challenges faced by businesses dependent on government contracts.
+
+**[BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: BBC, Tim Davie, Donald Trump
+
+BBC Director-General Tim Davie resigns following controversy over edits made to a documentary about Donald Trump, raising questions about editorial independence and governance within the organization.
+
+**[Officials warn of big hit to air travel and GDP as US government shutdown drags on](https://www.ft.com/content/8780f61f-e40d-4e5c-8867-49cdd75d29a7)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: US government, air travel, GDP
+
+Officials caution that a prolonged US government shutdown could significantly impact air travel and GDP, raising concerns for the economy and related sectors.
+
+**[Voice phishing is AI fraud in real time](https://www.ft.com/content/2134dc55-c994-426e-98eb-ee4221819053)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: AI, voice phishing, fraud, security
+
+Voice phishing, or vishing, is evolving with AI technology, enabling real-time fraud that poses significant risks to individuals and businesses. This emerging threat highlights the need for enhanced security measures in digital communications.
+
+**[Gulf between rich and poor risks US downturn, Fed official warns](https://www.ft.com/content/32e292ca-c906-4a47-8662-3e6f7b1a5327)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: Federal Reserve, U.S. economy
+
+A Federal Reserve official warns that the growing wealth gap in the U.S. poses a risk for an economic downturn, highlighting potential implications for financial stability and economic growth.
+
+**[Private equity steps in as Europe’s last industrial groups splinter](https://www.ft.com/content/b2861b49-f10d-4f12-b8c6-d866bb4eb84e)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: private equity, industrial groups, Europe
+
+Private equity firms are increasingly acquiring Europe's last remaining industrial groups as they face fragmentation. This trend highlights the shifting landscape of European industry and investment opportunities.
+
+**[Orbán nemesis vows to bring Hungary back into the fold](https://www.ft.com/content/e80489e2-48c8-4f24-b423-9a7b89154da3)**  
+*finance* · 2025-11-09 · **Imp 4/5** — Entities: Viktor Orbán, European Union
+
+A political figure opposing Viktor Orbán pledges to reintegrate Hungary into the European Union's mainstream, potentially impacting economic policies and investor confidence.
+
 **[Trump orders probe into meat groups amid affordability backlash](https://www.ft.com/content/049654fd-800a-4ab7-bb20-16d8d9a3ca0f)**  
 *finance* · 2025-11-07 · **Imp 4/5** — Entities: Trump, meat industry groups
 
@@ -164,6 +199,11 @@ Roelof Botha, a prominent figure at Sequoia Capital, has been ousted by his top 
 *finance* · 2025-11-07 · **Imp 4/5** — Entities: First Brands
 
 First Brands has secured court approval for a $1.1 billion rescue loan, enabling the company to avoid liquidation and continue operations.
+
+**[SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/)**  
+*startup* · 2025-11-07 · **Imp 4/5** — Entities: SoftBank, OpenAI, Box
+
+SoftBank and OpenAI have formed a 50-50 joint venture, 'Crystal Intelligence,' to market enterprise AI tools in Japan. This partnership raises concerns about the sustainability of AI investments and whether they generate genuine economic value or merely circulate capital.
 
 **[Novo Nordisk challenges Pfizer to raise offer for obesity biotech Metsera](https://www.ft.com/content/52216b29-9f22-4338-85a7-eacfc33103a1)**  
 *finance* · 2025-11-06 · **Imp 4/5** — Entities: Novo Nordisk, Pfizer, Metsera
@@ -209,43 +249,3 @@ The Supreme Court is expressing skepticism regarding the legal foundation for ta
 *finance* · 2025-11-05 · **Imp 4/5** — Entities: France, Shein
 
 France plans to ban Shein amid controversies involving sex dolls and weapons, raising concerns about the company's practices and regulatory compliance.
-
-**[US private sector employers added 42,000 jobs in October](https://www.ft.com/content/40da56ea-c8d3-43ad-86cc-0133d310a5dc)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: US private sector, employers
-
-In October, US private sector employers added 42,000 jobs, indicating a modest growth in employment. This data is crucial for understanding labor market trends and economic health.
-
-**[Democrats’ electoral sweep deals blow to Trump](https://www.ft.com/content/8669125f-4a01-4185-aaa1-73ec7e7e93cf)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: Democrats, Trump
-
-The recent electoral success of Democrats poses a significant challenge to former President Trump, potentially impacting his political influence and future endeavors.
-
-**[Mamdani and the new challenge for nation states](https://www.ft.com/content/f9c2c963-ad7e-45fb-ac20-3c1e028a3e9d)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: Mamdani, nation states
-
-The article discusses Mamdani's perspectives on the evolving challenges faced by nation states in the context of finance and governance.
-
-**[A year of Donald Trump in charts](https://www.ft.com/content/266ae6df-89c2-4413-be51-0b3a7c6e8015)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: Donald Trump, FT
-
-The article analyzes the financial impact of Donald Trump's policies over the past year, presented through various charts. It highlights key economic indicators and trends relevant to investors and policymakers.
-
-**[US stocks slide as investors fret over high valuations for AI companies](https://www.ft.com/content/a07c97d6-0780-4c3c-abc6-246fe19e5c5e)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Entities: US stocks, AI companies, investors
-
-US stocks declined as investors expressed concerns over inflated valuations in AI companies, signaling potential market corrections.
-
-**[Palantir shares slide after Michael Burry reveals bet against stock](https://www.ft.com/content/cc6e62a9-b901-4e1d-befa-ed304947f525)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Tickers: PLTR — Entities: Palantir, Michael Burry
-
-Palantir's stock price has declined following investor Michael Burry's announcement of a short position against the company, raising concerns among investors about its future performance.
-
-**[Sequoia chief Roelof Botha steps down from Silicon Valley venture firm](https://www.ft.com/content/d3c9c946-1ba8-4611-a45a-a22db4db3de1)**  
-*finance* · 2025-11-04 · **Imp 4/5** — Entities: Sequoia Capital, Roelof Botha
-
-Roelof Botha, the chief of Sequoia Capital, has announced his resignation from the prominent Silicon Valley venture firm, marking a significant leadership change.
-
-**[Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2](https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2)**  
-*tech* · 2025-11-04 · **Imp 4/5** — Entities: Samsung, Amazon Prime Video, Netflix, Disney
-
-Samsung introduces HDR10 Plus Advanced, a dynamic HDR format with features similar to Dolby Vision 2, enhancing picture quality for high-end TVs. Support from streaming services is crucial for its success, with Amazon Prime Video already on board.
