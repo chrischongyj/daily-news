@@ -135,6 +135,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)**  
+*tech* · 2025-11-10 · **Imp 4/5** — Entities: Samsung, Apple, SmartThings, Siri
+
+Samsung's SmartThings update now supports Siri Shortcuts, enabling users to control smart home routines via Apple's voice assistant. This integration enhances user experience on Apple devices, including iPhone and Apple Watch.
+
+**[Global markets rise as US senators move to end shutdown](https://www.ft.com/content/fca83dc8-385a-4218-864e-c0f00a82ac27)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Entities: US senators, global markets
+
+Global markets are experiencing an uptick as US senators take steps to prevent a government shutdown, signaling potential stability in economic conditions.
+
+**[Warren Buffett says he is ‘going quiet’](https://www.ft.com/content/b862426a-955e-4ef5-a116-31dbe1f6e35e)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Tickers: BRK.A, BRK.B — Entities: Warren Buffett, Berkshire Hathaway
+
+Warren Buffett has announced that he is 'going quiet', signaling a potential shift in his public engagement and investment strategies. This could impact investor sentiment and market dynamics.
+
+**[Ukraine raids top officials as energy sector scandal unfolds](https://www.ft.com/content/ac5c8f2c-a318-4938-beee-4985533673fc)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Entities: Ukraine, energy sector, officials
+
+Ukrainian authorities have conducted raids on top officials amid a scandal in the energy sector, raising concerns over governance and corruption. This development could impact investor confidence and the stability of the energy market in Ukraine.
+
+**[Democrats face party backlash over US government shutdown deal](https://www.ft.com/content/0816094a-1f01-4b37-b621-4013ad3bcbca)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Entities: Democratic Party, US government
+
+Democrats are experiencing internal backlash regarding a deal to avert a US government shutdown, highlighting divisions within the party that could impact future negotiations and voter sentiment.
+
+**[Visa and Mastercard forge deal to end long-term dispute with merchants](https://www.ft.com/content/dc1468ab-1242-466f-813c-c7d3b44cf2b4)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Tickers: V, MA — Entities: Visa, Mastercard, merchants
+
+Visa and Mastercard have reached an agreement to resolve a prolonged dispute with merchants, potentially impacting transaction fees and payment processing dynamics.
+
+**[The nuclear arms race is back](https://www.ft.com/content/3c303425-95f4-408b-be0a-e2f08ab93cf7)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Entities: Financial Times
+
+The resurgence of the nuclear arms race is highlighted in today's Financial Times, emphasizing its implications for global security and finance.
+
+**[Reasons to be bearish about China’s rise](https://www.ft.com/content/146750fa-acd4-4814-afc8-a814a726c555)**  
+*finance* · 2025-11-10 · **Imp 4/5** — Entities: China, global markets, investors
+
+The article discusses concerns regarding China's economic rise, highlighting potential risks that could impact global markets and investor sentiment.
+
 **[Contractors tap emergency cash as US government shutdown pain mounts](https://www.ft.com/content/41b15d39-401d-4059-bdd2-60c19c6b2c83)**  
 *finance* · 2025-11-09 · **Imp 4/5** — Entities: US government, contractors
 
@@ -185,11 +225,6 @@ Pete Hegseth has issued a warning to major US defense contractors, highlighting 
 
 Tech stocks experienced their worst week since April, driven by an $800 billion sell-off in AI-related investments, signaling potential volatility in the tech sector.
 
-**[Researchers surprised that with AI, toxicity is harder to fake than intelligence](https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/)**  
-*tech* · 2025-11-07 · **Imp 4/5** — Entities: AI, researchers, technology
-
-A new computational Turing test achieves 80% accuracy in identifying AI pretending to be human, highlighting that toxicity is more challenging for AI to mimic than intelligence.
-
 **[Sequoia’s ‘imperial’ Roelof Botha pushed out by top lieutenants](https://www.ft.com/content/0f16e194-5e9b-4486-988e-6f90f927b153)**  
 *finance* · 2025-11-07 · **Imp 4/5** — Entities: Sequoia Capital, Roelof Botha
 
@@ -210,42 +245,7 @@ SoftBank and OpenAI have formed a 50-50 joint venture, 'Crystal Intelligence,' t
 
 Novo Nordisk has urged Pfizer to increase its acquisition offer for obesity biotech Metsera, indicating a competitive landscape in the biotech sector focused on obesity treatments.
 
-**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
-*tech* · 2025-11-06 · **Imp 4/5** — Entities: Fitbit, Google, Apple, Walmart, Best Buy, Target
-
-Early Black Friday deals are emerging, with significant discounts on laptops, TVs, and tech gadgets. Notable offers include 50% off Fitbits and 25% off Google Pixel 10. Apple's MacBook Air is priced at $749.99, marking a record low. More deals are anticipated as November progresses.
-
 **[FBI subpoenas the web registrar behind Archive.is](https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner)**  
 *tech* · 2025-11-06 · **Imp 4/5** — Entities: FBI, Archive.today, Tucows, News/Media Alliance
 
 The FBI has subpoenaed Tucows, the registrar for Archive.today, to uncover the identity of its owner amid a federal criminal investigation. The site is known for circumventing paywalls, raising concerns similar to previous legal actions against similar services.
-
-**[US stocks slide as tech jitters return](https://www.ft.com/content/a05ce491-9b32-4de9-b878-b34805a861a3)**  
-*finance* · 2025-11-06 · **Imp 4/5** — Entities: US stocks, technology sector, investors
-
-US stocks experienced a decline as concerns regarding the technology sector resurfaced, impacting investor sentiment and market performance.
-
-**[UBS to liquidate funds with substantial First Brands exposure](https://www.ft.com/content/4d413bd2-3daa-4ffd-983f-c58130adee99)**  
-*finance* · 2025-11-06 · **Imp 4/5** — Entities: UBS, First Brands
-
-UBS plans to liquidate funds that have significant exposure to First Brands, indicating a strategic shift in investment focus.
-
-**[Milei defies calls to float Argentine peso freely](https://www.ft.com/content/b22f4076-3cb9-400c-98b3-071058219b9a)**  
-*finance* · 2025-11-06 · **Imp 4/5** — Entities: Javier Milei, Argentine peso, Argentina
-
-Argentine presidential candidate Javier Milei resists pressure to allow the peso to float freely, maintaining a fixed exchange rate strategy amidst economic challenges.
-
-**[Nvidia’s Huang says China ‘will win’ AI race with US](https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Jensen Huang, China, US
-
-Nvidia's CEO Jensen Huang asserts that China is poised to surpass the US in the AI race, highlighting the competitive landscape in artificial intelligence development.
-
-**[Supreme Court appears sceptical of legal basis for Trump tariffs](https://www.ft.com/content/f4420b48-0ed3-4f32-9b72-7ff90365ff93)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: Supreme Court, Trump administration
-
-The Supreme Court is expressing skepticism regarding the legal foundation for tariffs imposed by the Trump administration, which could have significant implications for trade policy and economic relations.
-
-**[France says it will ban Shein in row over sex dolls and weapons](https://www.ft.com/content/ca54a917-7bed-4d77-ab07-991624925c75)**  
-*finance* · 2025-11-05 · **Imp 4/5** — Entities: France, Shein
-
-France plans to ban Shein amid controversies involving sex dolls and weapons, raising concerns about the company's practices and regulatory compliance.
