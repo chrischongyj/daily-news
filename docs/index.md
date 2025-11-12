@@ -135,6 +135,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Toto Wolff in talks to sell part of Mercedes F1 stake to CrowdStrike chief at $6bn valuation](https://www.ft.com/content/c808539a-c5ad-4e9b-ac25-3bf70196e611)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Entities: Toto Wolff, Mercedes F1, CrowdStrike
+
+Toto Wolff is negotiating to sell a portion of his Mercedes F1 stake to CrowdStrike's CEO, valuing the team at $6 billion. This move could reshape investment dynamics in Formula 1.
+
+**[Google says new cloud-based “Private AI Compute” is just as secure as local processing](https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/)**  
+*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, Pixel, Magic Cue, Gemini Nano
+
+Google's new cloud-based 'Private AI Compute' aims to enhance AI features like Magic Cue on Pixel devices, promising security comparable to local processing. This hybrid approach could improve functionality while offloading data to the cloud.
+
+**[Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute)**  
+*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, Apple
+
+Google is launching a cloud platform, Private AI Compute, to enhance AI features while ensuring user data privacy, similar to Apple's offering. This aims to meet the increasing computational demands of AI applications without compromising security.
+
+**[Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)**  
+*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, iPhone, Android, AI
+
+Google Photos introduces AI-driven editing features for iPhone users, allowing conversational edits and enhanced facial adjustments. The update includes a redesigned UI, personalized editing tools, and new AI capabilities, expanding accessibility and functionality for users.
+
+**[SoftBank sells Nvidia stake for $5.8bn as it prepares for AI investments](https://www.ft.com/content/5f04e0e2-7a9c-4885-92a3-9ed5242c7d38)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Tickers: NVDA — Entities: SoftBank, Nvidia, AI investments
+
+SoftBank has divested its stake in Nvidia for $5.8 billion to allocate funds towards AI investments, signaling a strategic shift in its investment focus.
+
+**[Investor angst over Big Tech’s AI spending spills into bond market](https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Entities: Big Tech, investors, bond market
+
+Investor concerns regarding Big Tech's expenditures on AI are influencing the bond market, reflecting broader anxieties about financial sustainability and future profitability in the tech sector.
+
+**[Can a fragmented Europe continue to prosper?](https://www.ft.com/content/b1f2c189-809f-4054-bf73-0eba674f4e13)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Entities: Europe, FT newspaper, digital transformation
+
+The article explores the challenges and opportunities for a fragmented Europe in maintaining economic prosperity amidst digital transformation.
+
+**[Why Nvidia should be glad to see the back of SoftBank](https://www.ft.com/content/9a6a92aa-9907-45df-9aa7-6028b70adb85)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Tickers: NVDA,SFTBY — Entities: Nvidia, SoftBank
+
+Nvidia's separation from SoftBank is seen as a positive move, allowing Nvidia to focus on its core business without external influence. This shift may enhance Nvidia's strategic direction and operational efficiency.
+
+**[Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Tickers: META — Entities: Meta, Yann LeCun
+
+Yann LeCun, Meta's chief AI scientist, is set to leave the company to start his own venture, signaling potential shifts in AI leadership and innovation.
+
+**[Reverse mortgages edge up as US economy squeezes older Americans](https://www.ft.com/content/87faddf6-c892-4b81-87f0-230dc79f5ac8)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Entities: reverse mortgages, older Americans, US economy
+
+Reverse mortgages are increasing as older Americans face economic pressures, highlighting a growing financial trend among seniors seeking liquidity from home equity.
+
+**[Maga + AI is not a recipe for stability](https://www.ft.com/content/ac770d89-3c21-45fe-9aea-189bbfe412ef)**  
+*finance* · 2025-11-11 · **Imp 4/5** — Entities: MAGA, AI, investors, tech industry
+
+The article discusses the instability associated with the combination of MAGA politics and AI technology, suggesting potential risks for investors and stakeholders in the tech industry.
+
 **[Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)**  
 *tech* · 2025-11-10 · **Imp 4/5** — Entities: Samsung, Apple, SmartThings, Siri
 
@@ -194,58 +249,3 @@ Officials caution that a prolonged US government shutdown could significantly im
 *finance* · 2025-11-09 · **Imp 4/5** — Entities: AI, voice phishing, fraud, security
 
 Voice phishing, or vishing, is evolving with AI technology, enabling real-time fraud that poses significant risks to individuals and businesses. This emerging threat highlights the need for enhanced security measures in digital communications.
-
-**[Gulf between rich and poor risks US downturn, Fed official warns](https://www.ft.com/content/32e292ca-c906-4a47-8662-3e6f7b1a5327)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: Federal Reserve, U.S. economy
-
-A Federal Reserve official warns that the growing wealth gap in the U.S. poses a risk for an economic downturn, highlighting potential implications for financial stability and economic growth.
-
-**[Private equity steps in as Europe’s last industrial groups splinter](https://www.ft.com/content/b2861b49-f10d-4f12-b8c6-d866bb4eb84e)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: private equity, industrial groups, Europe
-
-Private equity firms are increasingly acquiring Europe's last remaining industrial groups as they face fragmentation. This trend highlights the shifting landscape of European industry and investment opportunities.
-
-**[Orbán nemesis vows to bring Hungary back into the fold](https://www.ft.com/content/e80489e2-48c8-4f24-b423-9a7b89154da3)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: Viktor Orbán, European Union
-
-A political figure opposing Viktor Orbán pledges to reintegrate Hungary into the European Union's mainstream, potentially impacting economic policies and investor confidence.
-
-**[Trump orders probe into meat groups amid affordability backlash](https://www.ft.com/content/049654fd-800a-4ab7-bb20-16d8d9a3ca0f)**  
-*finance* · 2025-11-07 · **Imp 4/5** — Entities: Trump, meat industry groups
-
-Trump has initiated a probe into meat industry groups in response to public backlash over rising meat prices and affordability issues. This move could impact market dynamics and regulatory scrutiny in the sector.
-
-**[Pete Hegseth issues warning to major US defence contractors](https://www.ft.com/content/dba5d81d-aa4a-48c8-8f13-3fc516efff18)**  
-*finance* · 2025-11-07 · **Imp 4/5** — Entities: Pete Hegseth, US defense contractors
-
-Pete Hegseth has issued a warning to major US defense contractors, highlighting potential risks and challenges they may face in the current geopolitical climate.
-
-**[Tech stocks suffer worst week since April after $800bn AI sell-off](https://www.ft.com/content/8c6e3c18-c5a0-4f60-bac4-fcdab6328bf8)**  
-*finance* · 2025-11-07 · **Imp 4/5** — Entities: tech stocks, AI investments
-
-Tech stocks experienced their worst week since April, driven by an $800 billion sell-off in AI-related investments, signaling potential volatility in the tech sector.
-
-**[Sequoia’s ‘imperial’ Roelof Botha pushed out by top lieutenants](https://www.ft.com/content/0f16e194-5e9b-4486-988e-6f90f927b153)**  
-*finance* · 2025-11-07 · **Imp 4/5** — Entities: Sequoia Capital, Roelof Botha
-
-Roelof Botha, a prominent figure at Sequoia Capital, has been ousted by his top lieutenants, signaling a significant shift in leadership within the firm.
-
-**[First Brands wins court approval for $1.1bn rescue loan to avoid liquidation](https://www.ft.com/content/6a8b1336-ad80-4866-a459-c484d27b6465)**  
-*finance* · 2025-11-07 · **Imp 4/5** — Entities: First Brands
-
-First Brands has secured court approval for a $1.1 billion rescue loan, enabling the company to avoid liquidation and continue operations.
-
-**[SoftBank is back, and the AI hype cycle is eating itself](https://techcrunch.com/podcast/softbank-is-back-and-the-ai-hype-cycle-is-eating-itself/)**  
-*startup* · 2025-11-07 · **Imp 4/5** — Entities: SoftBank, OpenAI, Box
-
-SoftBank and OpenAI have formed a 50-50 joint venture, 'Crystal Intelligence,' to market enterprise AI tools in Japan. This partnership raises concerns about the sustainability of AI investments and whether they generate genuine economic value or merely circulate capital.
-
-**[Novo Nordisk challenges Pfizer to raise offer for obesity biotech Metsera](https://www.ft.com/content/52216b29-9f22-4338-85a7-eacfc33103a1)**  
-*finance* · 2025-11-06 · **Imp 4/5** — Entities: Novo Nordisk, Pfizer, Metsera
-
-Novo Nordisk has urged Pfizer to increase its acquisition offer for obesity biotech Metsera, indicating a competitive landscape in the biotech sector focused on obesity treatments.
-
-**[FBI subpoenas the web registrar behind Archive.is](https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner)**  
-*tech* · 2025-11-06 · **Imp 4/5** — Entities: FBI, Archive.today, Tucows, News/Media Alliance
-
-The FBI has subpoenaed Tucows, the registrar for Archive.today, to uncover the identity of its owner amid a federal criminal investigation. The site is known for circumventing paywalls, raising concerns similar to previous legal actions against similar services.
