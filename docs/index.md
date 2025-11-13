@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[US House to vote on deal to end longest government shutdown](https://www.ft.com/content/48d46c20-878c-4c91-8b09-82e4062a393c)**  
+*finance* · 2025-11-12 · **Imp 5/5** — Entities: US House, government, federal operations
+
+The US House is set to vote on a deal aimed at ending the longest government shutdown in history, which could have significant implications for federal operations and economic stability.
+
 **[Amazon shares jump 13% as AI powers fastest cloud growth in years](https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42)**  
 *finance* · 2025-10-30 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon, AI, cloud computing
 
@@ -135,15 +140,65 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[US antitrust regulator launches probe into ISS and Glass Lewis](https://www.ft.com/content/95c0f0e7-f736-4963-af8b-acc0ec9eee1b)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: US antitrust regulator, ISS, Glass Lewis
+
+The US antitrust regulator has initiated an investigation into ISS and Glass Lewis, two prominent proxy advisory firms, potentially impacting their operations and influence in corporate governance.
+
+**[Japan and China spar over Taiwan as Trump tilts global ‘chessboard’](https://www.ft.com/content/a1f8a83d-3d26-4412-ad14-0c0b97505f4a)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: Japan, China, Taiwan, Trump
+
+Japan and China are engaged in heightened tensions over Taiwan, with implications for global geopolitics as former President Trump influences international relations.
+
+**[The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation)**  
+*tech* · 2025-11-12 · **Imp 4/5** — Entities: Valve, Steam Frame, Jeremy Selan, The Verge
+
+Valve's new Steam Frame VR headset features dual audio drivers on each side for vibration cancellation, enhancing audio quality and tracking accuracy. The modular design allows for potential upgrades with different audio solutions.
+
+**[Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates)**  
+*tech* · 2025-11-12 · **Imp 4/5** — Entities: Brazil, Luiz Inacio Lula da Silva, COP30, UN Climate Change Conference
+
+Brazil's President Lula da Silva participated in the COP30 UN Climate Change Conference, emphasizing the intersection of energy and technology in climate negotiations.
+
+**[Trump ‘spent hours’ at Epstein’s house with victim of sex trafficking, email alleges](https://www.ft.com/content/92424763-1b64-4d0e-b2e3-fddac6edca22)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: Trump, Epstein
+
+An email alleges that Trump spent significant time at Epstein's residence with a victim of sex trafficking, raising concerns about his associations and potential legal implications.
+
+**[Microsoft releases update-fixing update for update-eligible Windows 10 PCs](https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/)**  
+*tech* · 2025-11-12 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+
+Microsoft has released an update for Windows 10 that fixes the ESU enrollment process, which is necessary for receiving security updates. This change may encourage users to upgrade to Windows 11 as the 2025 deadline approaches.
+
+**[We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)**  
+*tech* · 2025-11-12 · **Imp 4/5** — Entities: Valve, Steam Deck, Steam Frame, Steam Machine, Steam Controller
+
+Valve has unveiled three new hardware products: the Steam Frame VR headset, Steam Machine gaming PC, and Steam Controller. An AMA session is available for subscribers to ask questions about these innovations and Valve's strategy.
+
+**[Well-received big-budget Alien Earth TV series gets a second season](https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/)**  
+*tech* · 2025-11-12 · **Imp 4/5** — Entities: FX, Disney, Hulu, Noah Hawley
+
+The big-budget Alien Earth TV series has been renewed for a second season by FX, Disney+, and Hulu, with production set to begin next year in London. The deal, reportedly worth nine figures, secures creator Noah Hawley's return as the creative lead.
+
+**[Wall Street CEOs flock to White House dinner with Trump](https://www.ft.com/content/97bf8c04-3d6c-477c-9f5f-e92786070a33)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: Wall Street, CEOs, White House, Trump
+
+Wall Street CEOs attended a White House dinner hosted by Trump, highlighting the ongoing relationship between finance leaders and government officials.
+
+**[How the American dream turned out to be pay to play](https://www.ft.com/content/280589c0-c63d-48b5-b546-dc7f4ff27dd3)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: American dream, financial barriers, opportunities
+
+The article discusses the transformation of the American dream into a 'pay to play' system, highlighting the financial barriers that hinder access to opportunities for many individuals.
+
+**[Colombia to suspend intelligence sharing with US](https://www.ft.com/content/724b343e-dea2-4b1c-a2f5-4aa019cc5b44)**  
+*finance* · 2025-11-12 · **Imp 4/5** — Entities: Colombia, United States
+
+Colombia has announced the suspension of intelligence sharing with the United States, potentially impacting bilateral relations and security cooperation.
+
 **[Toto Wolff in talks to sell part of Mercedes F1 stake to CrowdStrike chief at $6bn valuation](https://www.ft.com/content/c808539a-c5ad-4e9b-ac25-3bf70196e611)**  
 *finance* · 2025-11-11 · **Imp 4/5** — Entities: Toto Wolff, Mercedes F1, CrowdStrike
 
 Toto Wolff is negotiating to sell a portion of his Mercedes F1 stake to CrowdStrike's CEO, valuing the team at $6 billion. This move could reshape investment dynamics in Formula 1.
-
-**[Google says new cloud-based “Private AI Compute” is just as secure as local processing](https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/)**  
-*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, Pixel, Magic Cue, Gemini Nano
-
-Google's new cloud-based 'Private AI Compute' aims to enhance AI features like Magic Cue on Pixel devices, promising security comparable to local processing. This hybrid approach could improve functionality while offloading data to the cloud.
 
 **[Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute)**  
 *tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, Apple
@@ -194,58 +249,3 @@ The article discusses the instability associated with the combination of MAGA po
 *tech* · 2025-11-10 · **Imp 4/5** — Entities: Samsung, Apple, SmartThings, Siri
 
 Samsung's SmartThings update now supports Siri Shortcuts, enabling users to control smart home routines via Apple's voice assistant. This integration enhances user experience on Apple devices, including iPhone and Apple Watch.
-
-**[Global markets rise as US senators move to end shutdown](https://www.ft.com/content/fca83dc8-385a-4218-864e-c0f00a82ac27)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Entities: US senators, global markets
-
-Global markets are experiencing an uptick as US senators take steps to prevent a government shutdown, signaling potential stability in economic conditions.
-
-**[Warren Buffett says he is ‘going quiet’](https://www.ft.com/content/b862426a-955e-4ef5-a116-31dbe1f6e35e)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Tickers: BRK.A, BRK.B — Entities: Warren Buffett, Berkshire Hathaway
-
-Warren Buffett has announced that he is 'going quiet', signaling a potential shift in his public engagement and investment strategies. This could impact investor sentiment and market dynamics.
-
-**[Ukraine raids top officials as energy sector scandal unfolds](https://www.ft.com/content/ac5c8f2c-a318-4938-beee-4985533673fc)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Entities: Ukraine, energy sector, officials
-
-Ukrainian authorities have conducted raids on top officials amid a scandal in the energy sector, raising concerns over governance and corruption. This development could impact investor confidence and the stability of the energy market in Ukraine.
-
-**[Democrats face party backlash over US government shutdown deal](https://www.ft.com/content/0816094a-1f01-4b37-b621-4013ad3bcbca)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Entities: Democratic Party, US government
-
-Democrats are experiencing internal backlash regarding a deal to avert a US government shutdown, highlighting divisions within the party that could impact future negotiations and voter sentiment.
-
-**[Visa and Mastercard forge deal to end long-term dispute with merchants](https://www.ft.com/content/dc1468ab-1242-466f-813c-c7d3b44cf2b4)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Tickers: V, MA — Entities: Visa, Mastercard, merchants
-
-Visa and Mastercard have reached an agreement to resolve a prolonged dispute with merchants, potentially impacting transaction fees and payment processing dynamics.
-
-**[The nuclear arms race is back](https://www.ft.com/content/3c303425-95f4-408b-be0a-e2f08ab93cf7)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Entities: Financial Times
-
-The resurgence of the nuclear arms race is highlighted in today's Financial Times, emphasizing its implications for global security and finance.
-
-**[Reasons to be bearish about China’s rise](https://www.ft.com/content/146750fa-acd4-4814-afc8-a814a726c555)**  
-*finance* · 2025-11-10 · **Imp 4/5** — Entities: China, global markets, investors
-
-The article discusses concerns regarding China's economic rise, highlighting potential risks that could impact global markets and investor sentiment.
-
-**[Contractors tap emergency cash as US government shutdown pain mounts](https://www.ft.com/content/41b15d39-401d-4059-bdd2-60c19c6b2c83)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: US government, contractors
-
-Contractors are increasingly relying on emergency cash as the effects of the US government shutdown intensify, highlighting financial strain and operational challenges faced by businesses dependent on government contracts.
-
-**[BBC boss Tim Davie resigns over Trump documentary edit](https://www.ft.com/content/ccc0ec9a-aba6-4380-aeaa-ffe5fe803578)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: BBC, Tim Davie, Donald Trump
-
-BBC Director-General Tim Davie resigns following controversy over edits made to a documentary about Donald Trump, raising questions about editorial independence and governance within the organization.
-
-**[Officials warn of big hit to air travel and GDP as US government shutdown drags on](https://www.ft.com/content/8780f61f-e40d-4e5c-8867-49cdd75d29a7)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: US government, air travel, GDP
-
-Officials caution that a prolonged US government shutdown could significantly impact air travel and GDP, raising concerns for the economy and related sectors.
-
-**[Voice phishing is AI fraud in real time](https://www.ft.com/content/2134dc55-c994-426e-98eb-ee4221819053)**  
-*finance* · 2025-11-09 · **Imp 4/5** — Entities: AI, voice phishing, fraud, security
-
-Voice phishing, or vishing, is evolving with AI technology, enabling real-time fraud that poses significant risks to individuals and businesses. This emerging threat highlights the need for enhanced security measures in digital communications.
