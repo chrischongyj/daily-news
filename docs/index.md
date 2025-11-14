@@ -140,6 +140,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Merck nears deal for flu treatment biotech Cidara](https://www.ft.com/content/743e1962-3dd1-4785-a20b-4b097e5514ae)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Tickers: MRK — Entities: Merck, Cidara
+
+Merck is close to finalizing a deal to acquire Cidara, a biotech company specializing in flu treatments. This acquisition could enhance Merck's portfolio in infectious disease management.
+
+**[US announces new trade deals in attempt to cut costs for consumers](https://www.ft.com/content/b85018ad-4fc1-43b6-81a0-60f81756dbd2)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: US government, consumers, trade sectors
+
+The US government has announced new trade deals aimed at reducing costs for consumers, potentially impacting various sectors and market dynamics.
+
+**[Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)**  
+*tech* · 2025-11-13 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Major League Soccer
+
+Starting in 2026, Apple TV will include all MLS matches at no extra cost for subscribers, ending the standalone MLS Season Pass. This aligns with Apple's strategy to bundle sports content, enhancing its streaming offerings.
+
+**[BBC crisis turns spotlight on role of Sir Robbie Gibb](https://www.ft.com/content/a8e294d6-a62e-4593-b8c6-858429c6e832)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: BBC, Sir Robbie Gibb
+
+The BBC crisis highlights the influence of Sir Robbie Gibb, raising questions about governance and leadership within the organization.
+
+**[Wall Street stocks slide as tech jitters return](https://www.ft.com/content/36211977-d032-401d-a15c-9404d547c3b1)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: Wall Street, technology sector, investors
+
+Wall Street stocks experienced a decline as concerns regarding the technology sector resurfaced, impacting investor sentiment and market stability.
+
+**[Google will let Android power users bypass upcoming sideloading restrictions](https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/)**  
+*tech* · 2025-11-13 · **Imp 4/5** — Entities: Google, Android, developers, users
+
+Google will allow experienced Android users to bypass new sideloading restrictions amid backlash from developers. The company is testing an alternative for those with higher risk tolerance, acknowledging concerns over centralized app verification and its impact on user freedom.
+
+**[‘Big Short’ investor Michael Burry to close fund as he warns on valuations](https://www.ft.com/content/cec33db6-7842-4bf5-80d5-677007bcab3e)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: Michael Burry, Big Short
+
+Michael Burry, known for his role in 'The Big Short', is closing his fund while expressing concerns over current market valuations, signaling potential risks for investors.
+
+**[Epstein’s network: ‘Life among the lucrative and louche’](https://www.ft.com/content/b345abcb-c714-4857-8189-265ae39bff3a)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: Jeffrey Epstein, FT Digital Edition
+
+The article explores Jeffrey Epstein's connections within affluent circles, highlighting the intertwining of wealth and questionable ethics. It reflects on the implications of such networks in finance and society.
+
+**[Former MI6 chief Richard Moore: Britain must regain the ‘power of example’](https://www.ft.com/content/acfeec5c-63c4-4706-a497-13c948d0edc0)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: Richard Moore, MI6, Britain
+
+Former MI6 chief Richard Moore emphasizes the need for Britain to restore its 'power of example' in global affairs, highlighting the importance of leadership and influence in a digitized world.
+
+**[US drew $900mn from IMF account as Argentina debt payment loomed](https://www.ft.com/content/273085f7-90e7-4187-b30d-5fac132147b5)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: US, IMF, Argentina
+
+The US withdrew $900 million from its IMF account as Argentina faced an impending debt payment, highlighting the ongoing financial challenges in managing international debts.
+
+**[The elite Russian unit hunting Ukraine’s drone warriors](https://www.ft.com/content/05ca82cc-2613-4144-a4e0-fd595246df8e)**  
+*finance* · 2025-11-13 · **Imp 4/5** — Entities: Russia, Ukraine, drone technology
+
+An elite Russian unit is actively targeting Ukraine's drone operators, highlighting the ongoing conflict's technological warfare aspect. This development underscores the importance of drone technology in modern military strategies.
+
 **[US antitrust regulator launches probe into ISS and Glass Lewis](https://www.ft.com/content/95c0f0e7-f736-4963-af8b-acc0ec9eee1b)**  
 *finance* · 2025-11-12 · **Imp 4/5** — Entities: US antitrust regulator, ISS, Glass Lewis
 
@@ -168,7 +223,7 @@ An email alleges that Trump spent significant time at Epstein's residence with a
 **[Microsoft releases update-fixing update for update-eligible Windows 10 PCs](https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/)**  
 *tech* · 2025-11-12 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
 
-Microsoft has released an update for Windows 10 that fixes the ESU enrollment process, which is necessary for receiving security updates. This change may encourage users to upgrade to Windows 11 as the 2025 deadline approaches.
+Microsoft has released an update to fix issues with the ESU enrollment process for Windows 10 PCs, which is necessary for receiving security updates. This move may encourage upgrades to Windows 11 as the 2025 transition approaches.
 
 **[We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)**  
 *tech* · 2025-11-12 · **Imp 4/5** — Entities: Valve, Steam Deck, Steam Frame, Steam Machine, Steam Controller
@@ -176,9 +231,9 @@ Microsoft has released an update for Windows 10 that fixes the ESU enrollment pr
 Valve has unveiled three new hardware products: the Steam Frame VR headset, Steam Machine gaming PC, and Steam Controller. An AMA session is available for subscribers to ask questions about these innovations and Valve's strategy.
 
 **[Well-received big-budget Alien Earth TV series gets a second season](https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Entities: FX, Disney, Hulu, Noah Hawley
+*tech* · 2025-11-12 · **Imp 4/5** — Entities: Disney, FX, Noah Hawley
 
-The big-budget Alien Earth TV series has been renewed for a second season by FX, Disney+, and Hulu, with production set to begin next year in London. The deal, reportedly worth nine figures, secures creator Noah Hawley's return as the creative lead.
+The big-budget Alien Earth TV series has been renewed for a second season by Disney, with production set to begin next year in London. Creator Noah Hawley returns, following a lucrative deal reportedly worth nine figures.
 
 **[Wall Street CEOs flock to White House dinner with Trump](https://www.ft.com/content/97bf8c04-3d6c-477c-9f5f-e92786070a33)**  
 *finance* · 2025-11-12 · **Imp 4/5** — Entities: Wall Street, CEOs, White House, Trump
@@ -194,58 +249,3 @@ The article discusses the transformation of the American dream into a 'pay to pl
 *finance* · 2025-11-12 · **Imp 4/5** — Entities: Colombia, United States
 
 Colombia has announced the suspension of intelligence sharing with the United States, potentially impacting bilateral relations and security cooperation.
-
-**[Toto Wolff in talks to sell part of Mercedes F1 stake to CrowdStrike chief at $6bn valuation](https://www.ft.com/content/c808539a-c5ad-4e9b-ac25-3bf70196e611)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Entities: Toto Wolff, Mercedes F1, CrowdStrike
-
-Toto Wolff is negotiating to sell a portion of his Mercedes F1 stake to CrowdStrike's CEO, valuing the team at $6 billion. This move could reshape investment dynamics in Formula 1.
-
-**[Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute)**  
-*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, Apple
-
-Google is launching a cloud platform, Private AI Compute, to enhance AI features while ensuring user data privacy, similar to Apple's offering. This aims to meet the increasing computational demands of AI applications without compromising security.
-
-**[Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)**  
-*tech* · 2025-11-11 · **Imp 4/5** — Entities: Google, iPhone, Android, AI
-
-Google Photos introduces AI-driven editing features for iPhone users, allowing conversational edits and enhanced facial adjustments. The update includes a redesigned UI, personalized editing tools, and new AI capabilities, expanding accessibility and functionality for users.
-
-**[SoftBank sells Nvidia stake for $5.8bn as it prepares for AI investments](https://www.ft.com/content/5f04e0e2-7a9c-4885-92a3-9ed5242c7d38)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Tickers: NVDA — Entities: SoftBank, Nvidia, AI investments
-
-SoftBank has divested its stake in Nvidia for $5.8 billion to allocate funds towards AI investments, signaling a strategic shift in its investment focus.
-
-**[Investor angst over Big Tech’s AI spending spills into bond market](https://www.ft.com/content/d2bf6c25-fb42-4f13-b81c-a72883632f50)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Entities: Big Tech, investors, bond market
-
-Investor concerns regarding Big Tech's expenditures on AI are influencing the bond market, reflecting broader anxieties about financial sustainability and future profitability in the tech sector.
-
-**[Can a fragmented Europe continue to prosper?](https://www.ft.com/content/b1f2c189-809f-4054-bf73-0eba674f4e13)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Entities: Europe, FT newspaper, digital transformation
-
-The article explores the challenges and opportunities for a fragmented Europe in maintaining economic prosperity amidst digital transformation.
-
-**[Why Nvidia should be glad to see the back of SoftBank](https://www.ft.com/content/9a6a92aa-9907-45df-9aa7-6028b70adb85)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Tickers: NVDA,SFTBY — Entities: Nvidia, SoftBank
-
-Nvidia's separation from SoftBank is seen as a positive move, allowing Nvidia to focus on its core business without external influence. This shift may enhance Nvidia's strategic direction and operational efficiency.
-
-**[Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Tickers: META — Entities: Meta, Yann LeCun
-
-Yann LeCun, Meta's chief AI scientist, is set to leave the company to start his own venture, signaling potential shifts in AI leadership and innovation.
-
-**[Reverse mortgages edge up as US economy squeezes older Americans](https://www.ft.com/content/87faddf6-c892-4b81-87f0-230dc79f5ac8)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Entities: reverse mortgages, older Americans, US economy
-
-Reverse mortgages are increasing as older Americans face economic pressures, highlighting a growing financial trend among seniors seeking liquidity from home equity.
-
-**[Maga + AI is not a recipe for stability](https://www.ft.com/content/ac770d89-3c21-45fe-9aea-189bbfe412ef)**  
-*finance* · 2025-11-11 · **Imp 4/5** — Entities: MAGA, AI, investors, tech industry
-
-The article discusses the instability associated with the combination of MAGA politics and AI technology, suggesting potential risks for investors and stakeholders in the tech industry.
-
-**[Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)**  
-*tech* · 2025-11-10 · **Imp 4/5** — Entities: Samsung, Apple, SmartThings, Siri
-
-Samsung's SmartThings update now supports Siri Shortcuts, enabling users to control smart home routines via Apple's voice assistant. This integration enhances user experience on Apple devices, including iPhone and Apple Watch.
