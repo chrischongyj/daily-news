@@ -140,10 +140,75 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Ex-Fed official to face ethics inquiry over stock trades](https://www.ft.com/content/368c2f6c-0fb7-425f-a299-0f827da23529)**  
+*finance* · 2025-11-15 · **Imp 4/5** — Entities: Federal Reserve, ethics inquiry
+
+A former Federal Reserve official is set to undergo an ethics inquiry regarding stock trades, raising concerns about potential conflicts of interest and regulatory compliance.
+
+**[US economic outlook obscured by shutdown-triggered data gap](https://www.ft.com/content/1932bcda-0cde-4e5a-bd96-0216b6990616)**  
+*finance* · 2025-11-15 · **Imp 4/5** — Entities: US government, economic analysts
+
+The US economic outlook is currently unclear due to a data gap caused by the government shutdown, impacting the availability of critical economic indicators.
+
+**[US retailers try to handle change after penny’s demise](https://www.ft.com/content/c68c8bc9-423a-4633-943b-ab999638cda0)**  
+*finance* · 2025-11-15 · **Imp 4/5** — Entities: US retailers, digital solutions, pricing strategies
+
+US retailers are adapting to the market changes following the decline of the penny, exploring new pricing strategies and digital solutions to enhance consumer experience.
+
+**[Bags of cash and a gold toilet: the corruption crisis engulfing Zelenskyy’s government](https://www.ft.com/content/e244a251-4bb1-439a-8c35-2cdabdc2f880)**  
+*finance* · 2025-11-15 · **Imp 4/5** — Entities: Zelenskyy, Ukrainian government
+
+Ukrainian President Zelenskyy's government faces a corruption crisis, highlighted by incidents involving bags of cash and a gold toilet, raising concerns about governance and accountability.
+
+**[Apple intensifies succession planning for CEO Tim Cook](https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e)**  
+*finance* · 2025-11-15 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Tim Cook
+
+Apple is enhancing its succession planning for CEO Tim Cook, indicating a strategic focus on leadership continuity amidst evolving market dynamics.
+
+**[Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)**  
+*tech* · 2025-11-15 · **Imp 4/5** — Tickers: DIS — Entities: Disney, ESPN, YouTube TV, Hulu
+
+Disney and ESPN have rejoined YouTube TV, offering subscribers access to a full range of Disney's channels and ESPN's new direct-to-consumer service at no extra cost. This includes live and on-demand programming and options for bundling Disney+ and Hulu.
+
+**[US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs](https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: US government, Supreme Court, tech industry
+
+The US could face $1 trillion in refunds if the Supreme Court rules against Trump-era tariffs, significantly impacting the tech industry, which stands to benefit from such a decision.
+
+**[Three astronauts are stuck on China’s space station without a safe ride home](https://arstechnica.com/science/2025/11/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: China, astronauts, space station
+
+Three astronauts are currently stranded on China's space station due to unsafe conditions for their return. This situation raises concerns about the safety protocols and operational capabilities of China's space program.
+
+**[World’s oldest RNA extracted from Ice Age woolly mammoth](https://arstechnica.com/science/2025/11/worlds-oldest-rna-extracted-from-ice-age-woolly-mammoth/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: researchers, RNA, woolly mammoth, ancient genetics
+
+Researchers have extracted and sequenced the world's oldest RNA from an Ice Age woolly mammoth, providing insights into extinct life forms and advancing the field of ancient genetics.
+
+**[Blue Origin’s New Glenn rocket came back home after taking aim at Mars](https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, New Glenn, Mars exploration
+
+Blue Origin's New Glenn rocket successfully returned after its second landing attempt, marking a historic achievement for large boosters. This milestone highlights advancements in space technology and the company's ambitions for Mars exploration.
+
+**[Rocket Report: Blue Origin’s stunning success; vive le Baguette One!](https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, NASA
+
+Blue Origin's recent achievements highlight its potential to accelerate NASA's space exploration efforts, emphasizing the company's commitment to innovation and rapid development.
+
+**[US spy satellites built by SpaceX send signals in the “wrong direction”](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)**  
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: SpaceX, US government, Starshield
+
+US spy satellites developed by SpaceX are reportedly transmitting signals in an uncoordinated spectrum, raising concerns about international communication protocols.
+
 **[Merck nears deal for flu treatment biotech Cidara](https://www.ft.com/content/743e1962-3dd1-4785-a20b-4b097e5514ae)**  
 *finance* · 2025-11-13 · **Imp 4/5** — Tickers: MRK — Entities: Merck, Cidara
 
 Merck is close to finalizing a deal to acquire Cidara, a biotech company specializing in flu treatments. This acquisition could enhance Merck's portfolio in infectious disease management.
+
+**[This flu season looks grim as H3N2 emerges with mutations](https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/)**  
+*tech* · 2025-11-13 · **Imp 4/5** — Entities: UK, US, H3N2
+
+The UK is experiencing a severe flu season due to the emergence of the H3N2 strain with mutations, raising concerns that the US may face similar challenges.
 
 **[US announces new trade deals in attempt to cut costs for consumers](https://www.ft.com/content/b85018ad-4fc1-43b6-81a0-60f81756dbd2)**  
 *finance* · 2025-11-13 · **Imp 4/5** — Entities: US government, consumers, trade sectors
@@ -154,6 +219,16 @@ The US government has announced new trade deals aimed at reducing costs for cons
 *tech* · 2025-11-13 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Major League Soccer
 
 Starting in 2026, Apple TV will include all MLS matches at no extra cost for subscribers, ending the standalone MLS Season Pass. This aligns with Apple's strategy to bundle sports content, enhancing its streaming offerings.
+
+**[Google claims win for everyone as text scammers lost their cloud server](https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/)**  
+*tech* · 2025-11-13 · **Imp 4/5** — Entities: Google, text scammers, Telegram
+
+Google announces a significant victory against text scammers by disrupting their cloud server operations. The ringleader acknowledged the impact on their activities via Telegram, highlighting the effectiveness of Google's intervention.
+
+**[Are you ready for a $1,000 Steam Machine? Some analysts think you should be.](https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/)**  
+*tech* · 2025-11-13 · **Imp 4/5** — Entities: Valve
+
+Analysts suggest readiness for a $1,000 Steam Machine due to tariffs, component volatility, and Valve's potential for losses, creating uncertainty in the market.
 
 **[BBC crisis turns spotlight on role of Sir Robbie Gibb](https://www.ft.com/content/a8e294d6-a62e-4593-b8c6-858429c6e832)**  
 *finance* · 2025-11-13 · **Imp 4/5** — Entities: BBC, Sir Robbie Gibb
@@ -174,78 +249,3 @@ Google will allow experienced Android users to bypass new sideloading restrictio
 *finance* · 2025-11-13 · **Imp 4/5** — Entities: Michael Burry, Big Short
 
 Michael Burry, known for his role in 'The Big Short', is closing his fund while expressing concerns over current market valuations, signaling potential risks for investors.
-
-**[Epstein’s network: ‘Life among the lucrative and louche’](https://www.ft.com/content/b345abcb-c714-4857-8189-265ae39bff3a)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: Jeffrey Epstein, FT Digital Edition
-
-The article explores Jeffrey Epstein's connections within affluent circles, highlighting the intertwining of wealth and questionable ethics. It reflects on the implications of such networks in finance and society.
-
-**[Former MI6 chief Richard Moore: Britain must regain the ‘power of example’](https://www.ft.com/content/acfeec5c-63c4-4706-a497-13c948d0edc0)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: Richard Moore, MI6, Britain
-
-Former MI6 chief Richard Moore emphasizes the need for Britain to restore its 'power of example' in global affairs, highlighting the importance of leadership and influence in a digitized world.
-
-**[US drew $900mn from IMF account as Argentina debt payment loomed](https://www.ft.com/content/273085f7-90e7-4187-b30d-5fac132147b5)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: US, IMF, Argentina
-
-The US withdrew $900 million from its IMF account as Argentina faced an impending debt payment, highlighting the ongoing financial challenges in managing international debts.
-
-**[The elite Russian unit hunting Ukraine’s drone warriors](https://www.ft.com/content/05ca82cc-2613-4144-a4e0-fd595246df8e)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: Russia, Ukraine, drone technology
-
-An elite Russian unit is actively targeting Ukraine's drone operators, highlighting the ongoing conflict's technological warfare aspect. This development underscores the importance of drone technology in modern military strategies.
-
-**[US antitrust regulator launches probe into ISS and Glass Lewis](https://www.ft.com/content/95c0f0e7-f736-4963-af8b-acc0ec9eee1b)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: US antitrust regulator, ISS, Glass Lewis
-
-The US antitrust regulator has initiated an investigation into ISS and Glass Lewis, two prominent proxy advisory firms, potentially impacting their operations and influence in corporate governance.
-
-**[Japan and China spar over Taiwan as Trump tilts global ‘chessboard’](https://www.ft.com/content/a1f8a83d-3d26-4412-ad14-0c0b97505f4a)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: Japan, China, Taiwan, Trump
-
-Japan and China are engaged in heightened tensions over Taiwan, with implications for global geopolitics as former President Trump influences international relations.
-
-**[The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Entities: Valve, Steam Frame, Jeremy Selan, The Verge
-
-Valve's new Steam Frame VR headset features dual audio drivers on each side for vibration cancellation, enhancing audio quality and tracking accuracy. The modular design allows for potential upgrades with different audio solutions.
-
-**[Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Entities: Brazil, Luiz Inacio Lula da Silva, COP30, UN Climate Change Conference
-
-Brazil's President Lula da Silva participated in the COP30 UN Climate Change Conference, emphasizing the intersection of energy and technology in climate negotiations.
-
-**[Trump ‘spent hours’ at Epstein’s house with victim of sex trafficking, email alleges](https://www.ft.com/content/92424763-1b64-4d0e-b2e3-fddac6edca22)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: Trump, Epstein
-
-An email alleges that Trump spent significant time at Epstein's residence with a victim of sex trafficking, raising concerns about his associations and potential legal implications.
-
-**[Microsoft releases update-fixing update for update-eligible Windows 10 PCs](https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
-
-Microsoft has released an update to fix issues with the ESU enrollment process for Windows 10 PCs, which is necessary for receiving security updates. This move may encourage upgrades to Windows 11 as the 2025 transition approaches.
-
-**[We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Entities: Valve, Steam Deck, Steam Frame, Steam Machine, Steam Controller
-
-Valve has unveiled three new hardware products: the Steam Frame VR headset, Steam Machine gaming PC, and Steam Controller. An AMA session is available for subscribers to ask questions about these innovations and Valve's strategy.
-
-**[Well-received big-budget Alien Earth TV series gets a second season](https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/)**  
-*tech* · 2025-11-12 · **Imp 4/5** — Entities: Disney, FX, Noah Hawley
-
-The big-budget Alien Earth TV series has been renewed for a second season by Disney, with production set to begin next year in London. Creator Noah Hawley returns, following a lucrative deal reportedly worth nine figures.
-
-**[Wall Street CEOs flock to White House dinner with Trump](https://www.ft.com/content/97bf8c04-3d6c-477c-9f5f-e92786070a33)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: Wall Street, CEOs, White House, Trump
-
-Wall Street CEOs attended a White House dinner hosted by Trump, highlighting the ongoing relationship between finance leaders and government officials.
-
-**[How the American dream turned out to be pay to play](https://www.ft.com/content/280589c0-c63d-48b5-b546-dc7f4ff27dd3)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: American dream, financial barriers, opportunities
-
-The article discusses the transformation of the American dream into a 'pay to play' system, highlighting the financial barriers that hinder access to opportunities for many individuals.
-
-**[Colombia to suspend intelligence sharing with US](https://www.ft.com/content/724b343e-dea2-4b1c-a2f5-4aa019cc5b44)**  
-*finance* · 2025-11-12 · **Imp 4/5** — Entities: Colombia, United States
-
-Colombia has announced the suspension of intelligence sharing with the United States, potentially impacting bilateral relations and security cooperation.
