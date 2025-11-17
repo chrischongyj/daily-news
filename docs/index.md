@@ -140,6 +140,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump trade negotiator hits out at EU delays in cutting tariffs and rules](https://www.ft.com/content/bea85c4d-facd-4895-b6ae-9e7c607badaf)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: Trump, EU, trade negotiator
+
+A Trump trade negotiator criticizes the EU for its slow progress in reducing tariffs and regulatory barriers, potentially impacting trade relations and economic policies.
+
+**[Saudi Arabia’s PIF sells stakes in US groups ahead of Crown Prince’s White House visit](https://www.ft.com/content/b7511c91-265d-4d08-8375-4dc114ed3612)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: Saudi Arabia, Public Investment Fund, US companies, Crown Prince Mohammed bin Salman, White House
+
+Saudi Arabia's Public Investment Fund (PIF) has sold stakes in various US companies prior to Crown Prince Mohammed bin Salman's visit to the White House, signaling strategic financial maneuvers.
+
+**[Coalitions of the willing are Europe’s path to ever closer union](https://www.ft.com/content/370fe0b4-6896-4f24-9787-eb68dec071fe)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: European Union, coalitions
+
+The article discusses how coalitions among European nations can facilitate deeper integration within the EU, emphasizing the importance of collaboration for achieving common goals.
+
+**[Carney’s ‘energy superpower’ vision up against political hurdles](https://www.ft.com/content/44308ca0-8ac6-495d-b346-a44f703e86da)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: Mark Carney, UK government, energy sector
+
+Mark Carney's vision for transforming the UK into an 'energy superpower' faces significant political challenges, potentially impacting investment and policy direction in the energy sector.
+
+**[Blue Owl private credit fund merger leaves some investors facing 20% hit](https://www.ft.com/content/8c953f6d-3d30-4657-bda1-ba4c2911c8d8)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: Blue Owl
+
+The merger of Blue Owl's private credit funds is causing some investors to face potential losses of up to 20%. This development raises concerns about the stability and performance of private credit investments.
+
+**[Foreign investors return to China’s stock market](https://www.ft.com/content/df68254d-a1f5-4fc1-9ee2-6d29bca012e5)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: foreign investors, China, stock market
+
+Foreign investors are re-entering China's stock market, signaling renewed confidence in the country's economic prospects. This trend may influence market dynamics and investment strategies moving forward.
+
+**[A new spectre looms over democracy: prediction markets](https://www.ft.com/content/f98a5340-a16e-49d8-8449-1bc4de3e57b3)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: prediction markets, democracy, governance
+
+The rise of prediction markets poses new challenges for democratic processes, potentially influencing decision-making and public opinion. As these markets gain traction, their implications for governance and investor behavior warrant close examination.
+
+**[Fast-growing Vinted explores share sale at €8bn valuation](https://www.ft.com/content/76b8784e-438b-49aa-b044-b1b590a5af0b)**  
+*finance* · 2025-11-16 · **Imp 4/5** — Entities: Vinted
+
+Vinted, a rapidly expanding online marketplace, is considering a share sale that could value the company at €8 billion, signaling significant growth potential in the digital marketplace sector.
+
 **[Ex-Fed official to face ethics inquiry over stock trades](https://www.ft.com/content/368c2f6c-0fb7-425f-a299-0f827da23529)**  
 *finance* · 2025-11-15 · **Imp 4/5** — Entities: Federal Reserve, ethics inquiry
 
@@ -178,22 +218,22 @@ The US could face $1 trillion in refunds if the Supreme Court rules against Trum
 **[Three astronauts are stuck on China’s space station without a safe ride home](https://arstechnica.com/science/2025/11/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)**  
 *tech* · 2025-11-14 · **Imp 4/5** — Entities: China, astronauts, space station
 
-Three astronauts are currently stranded on China's space station due to unsafe conditions for their return. This situation raises concerns about the safety protocols and operational capabilities of China's space program.
+Three astronauts are stranded on China's space station due to safety concerns regarding their return. The situation raises questions about the reliability of China's space missions.
 
 **[World’s oldest RNA extracted from Ice Age woolly mammoth](https://arstechnica.com/science/2025/11/worlds-oldest-rna-extracted-from-ice-age-woolly-mammoth/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: researchers, RNA, woolly mammoth, ancient genetics
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: scientists, woolly mammoth, genetic research
 
-Researchers have extracted and sequenced the world's oldest RNA from an Ice Age woolly mammoth, providing insights into extinct life forms and advancing the field of ancient genetics.
+Scientists have extracted and sequenced the world's oldest RNA from an Ice Age woolly mammoth, providing insights into extinct life forms and advancing genetic research.
 
 **[Blue Origin’s New Glenn rocket came back home after taking aim at Mars](https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, New Glenn, Mars exploration
+*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, New Glenn, Mars
 
-Blue Origin's New Glenn rocket successfully returned after its second landing attempt, marking a historic achievement for large boosters. This milestone highlights advancements in space technology and the company's ambitions for Mars exploration.
+Blue Origin's New Glenn rocket successfully returned after its second landing attempt, marking a historic achievement for large boosters. This milestone highlights advancements in space technology and the potential for future Mars missions.
 
 **[Rocket Report: Blue Origin’s stunning success; vive le Baguette One!](https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/)**  
 *tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, NASA
 
-Blue Origin's recent achievements highlight its potential to accelerate NASA's space exploration efforts, emphasizing the company's commitment to innovation and rapid development.
+Blue Origin's recent achievements highlight its growing capabilities in space exploration, potentially accelerating NASA's timelines. The company's commitment to rapid progress may influence future contracts and partnerships.
 
 **[US spy satellites built by SpaceX send signals in the “wrong direction”](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)**  
 *tech* · 2025-11-14 · **Imp 4/5** — Entities: SpaceX, US government, Starshield
@@ -208,44 +248,4 @@ Merck is close to finalizing a deal to acquire Cidara, a biotech company special
 **[This flu season looks grim as H3N2 emerges with mutations](https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/)**  
 *tech* · 2025-11-13 · **Imp 4/5** — Entities: UK, US, H3N2
 
-The UK is experiencing a severe flu season due to the emergence of the H3N2 strain with mutations, raising concerns that the US may face similar challenges.
-
-**[US announces new trade deals in attempt to cut costs for consumers](https://www.ft.com/content/b85018ad-4fc1-43b6-81a0-60f81756dbd2)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: US government, consumers, trade sectors
-
-The US government has announced new trade deals aimed at reducing costs for consumers, potentially impacting various sectors and market dynamics.
-
-**[Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)**  
-*tech* · 2025-11-13 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Major League Soccer
-
-Starting in 2026, Apple TV will include all MLS matches at no extra cost for subscribers, ending the standalone MLS Season Pass. This aligns with Apple's strategy to bundle sports content, enhancing its streaming offerings.
-
-**[Google claims win for everyone as text scammers lost their cloud server](https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/)**  
-*tech* · 2025-11-13 · **Imp 4/5** — Entities: Google, text scammers, Telegram
-
-Google announces a significant victory against text scammers by disrupting their cloud server operations. The ringleader acknowledged the impact on their activities via Telegram, highlighting the effectiveness of Google's intervention.
-
-**[Are you ready for a $1,000 Steam Machine? Some analysts think you should be.](https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/)**  
-*tech* · 2025-11-13 · **Imp 4/5** — Entities: Valve
-
-Analysts suggest readiness for a $1,000 Steam Machine due to tariffs, component volatility, and Valve's potential for losses, creating uncertainty in the market.
-
-**[BBC crisis turns spotlight on role of Sir Robbie Gibb](https://www.ft.com/content/a8e294d6-a62e-4593-b8c6-858429c6e832)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: BBC, Sir Robbie Gibb
-
-The BBC crisis highlights the influence of Sir Robbie Gibb, raising questions about governance and leadership within the organization.
-
-**[Wall Street stocks slide as tech jitters return](https://www.ft.com/content/36211977-d032-401d-a15c-9404d547c3b1)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: Wall Street, technology sector, investors
-
-Wall Street stocks experienced a decline as concerns regarding the technology sector resurfaced, impacting investor sentiment and market stability.
-
-**[Google will let Android power users bypass upcoming sideloading restrictions](https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/)**  
-*tech* · 2025-11-13 · **Imp 4/5** — Entities: Google, Android, developers, users
-
-Google will allow experienced Android users to bypass new sideloading restrictions amid backlash from developers. The company is testing an alternative for those with higher risk tolerance, acknowledging concerns over centralized app verification and its impact on user freedom.
-
-**[‘Big Short’ investor Michael Burry to close fund as he warns on valuations](https://www.ft.com/content/cec33db6-7842-4bf5-80d5-677007bcab3e)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Entities: Michael Burry, Big Short
-
-Michael Burry, known for his role in 'The Big Short', is closing his fund while expressing concerns over current market valuations, signaling potential risks for investors.
+The UK is experiencing a severe flu season driven by the H3N2 strain, with expectations that the US will follow suit. This situation raises concerns about public health and potential economic impacts.
