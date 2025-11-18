@@ -140,6 +140,86 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Trump admin axed 383 active clinical trials, dumping over 74K participants](https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Trump administration, clinical trials, human participant research
+
+The Trump administration terminated 383 active clinical trials, affecting over 74,000 participants, raising ethical concerns regarding human participant research.
+
+**[Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Google, Meta, Robby Starbuck
+
+Google is contesting a defamation lawsuit from Robby Starbuck, who claims its AI falsely linked him to sexual assault and white nationalism. This follows Meta's settlement of a similar lawsuit with Starbuck. Google argues his claims stem from misuse of developer tools.
+
+**[UN Security Council approves US-backed proposal for Gaza](https://www.ft.com/content/a18f1d96-371d-429b-9ea0-ea51c2751231)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: UN Security Council, US, Gaza
+
+The UN Security Council has approved a US-backed proposal concerning Gaza, which may influence geopolitical stability and economic conditions in the region.
+
+**[With a new company, Jeff Bezos will become a CEO again](https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Jeff Bezos, Amazon, Blue Origin
+
+Jeff Bezos is set to return as CEO of a new company, marking his first CEO role since stepping down at Amazon in 2021. He currently does not hold a CEO title at Blue Origin.
+
+**[5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs](https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: North Korea, US IT jobs, laptop farm, identity theft
+
+Five individuals have pleaded guilty to a scheme involving a laptop farm and identity theft, aimed at securing US IT jobs for North Koreans by creating the illusion that they were working from within the US.
+
+**[UCLA faculty gets big win in suit against Trump’s university attacks](https://arstechnica.com/science/2025/11/ucla-faculty-gets-big-win-in-suit-against-trumps-university-attacks/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: UCLA, Trump administration
+
+UCLA faculty achieved a significant legal victory, affirming that the government cannot leverage funding threats to infringe upon First Amendment rights. This ruling reinforces academic freedom and may influence future funding policies.
+
+**[Lawrence Summers faces new scrutiny over ties to sex offender Epstein](https://www.ft.com/content/bfd4af20-630b-4aec-b091-e61e4ab8795d)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: Lawrence Summers, Jeffrey Epstein
+
+Lawrence Summers is under renewed scrutiny due to his connections with convicted sex offender Jeffrey Epstein, raising concerns about his influence and ethical standards in finance and policy.
+
+**[After last week’s stunning landing, here’s what comes next for Blue Origin](https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Blue Origin
+
+Following a successful landing, Blue Origin is poised to capitalize on unprecedented demand for launch services, indicating a robust future for the company in the aerospace sector.
+
+**[US probes firms that borrowed $400mn from private credit giant HPS](https://www.ft.com/content/a9e7bfa0-1e60-4bf4-b403-d566c3ca8644)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: HPS, US government
+
+The US is investigating firms that borrowed $400 million from private credit firm HPS, raising concerns about financial practices and regulatory compliance.
+
+**[Amazon joins Big Tech bond rush with $12bn debt sale](https://www.ft.com/content/fc924871-e80f-46ea-aa8f-fe4ad5ce1c32)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Big Tech
+
+Amazon has entered the Big Tech bond market with a $12 billion debt sale, reflecting a growing trend among major tech companies to raise capital through bonds.
+
+**[Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet](https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle, OpenAI
+
+Oracle's stock has significantly declined amid a broader tech sell-off, primarily due to its substantial borrowing and dependence on contracts with OpenAI for its AI initiatives.
+
+**[Cities: Skylines upheaval: Developer and publisher announce “mutual” breakup](https://arstechnica.com/gaming/2025/11/cities-skylines-upheaval-developer-and-publisher-announce-mutual-breakup/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Paradox Interactive, Iceflake Studios, Cities: Skylines
+
+Paradox Interactive's subsidiary Iceflake Studios will assume development responsibilities for Cities: Skylines following a mutual breakup with the previous developer. This transition may impact future updates and expansions of the popular city simulation game.
+
+**[Trump’s 50-year mortgages are poor deal for homebuyers](https://www.ft.com/content/96ac2564-1616-468d-bdde-4bf70b3d72ec)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: Trump, homebuyers
+
+Trump's proposal for 50-year mortgages is criticized as a poor deal for homebuyers, potentially leading to higher long-term costs and financial strain.
+
+**[Trump family and Saudi partner unveil tokenised Maldives resort](https://www.ft.com/content/ddf70e4f-8d1d-474c-b079-a90022a7f0ee)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: Trump family, Saudi partner, Maldives resort
+
+The Trump family, in partnership with a Saudi entity, has announced a tokenized resort project in the Maldives, indicating a growing trend in digital asset investment in real estate.
+
+**[The scramble for Europe is just beginning](https://www.ft.com/content/307c73cc-3fb7-4165-8455-53c14f4390fc)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: FT, Europe, digital journalism
+
+The competition for digital market share in Europe is intensifying, with a focus on quality journalism and expert analysis. Subscribing upfront offers significant savings, highlighting the value of premium content.
+
+**[The hot new investment trend is the ‘Total Portfolio Approach’. Does it work?](https://www.ft.com/content/540b2f9a-9c58-44f5-8ae9-36a58c95d26c)**  
+*finance* · 2025-11-17 · **Imp 4/5** — Entities: Total Portfolio Approach, investment management
+
+The 'Total Portfolio Approach' is emerging as a significant investment trend, prompting discussions about its effectiveness in portfolio management.
+
 **[Trump trade negotiator hits out at EU delays in cutting tariffs and rules](https://www.ft.com/content/bea85c4d-facd-4895-b6ae-9e7c607badaf)**  
 *finance* · 2025-11-16 · **Imp 4/5** — Entities: Trump, EU, trade negotiator
 
@@ -169,83 +249,3 @@ The merger of Blue Owl's private credit funds is causing some investors to face 
 *finance* · 2025-11-16 · **Imp 4/5** — Entities: foreign investors, China, stock market
 
 Foreign investors are re-entering China's stock market, signaling renewed confidence in the country's economic prospects. This trend may influence market dynamics and investment strategies moving forward.
-
-**[A new spectre looms over democracy: prediction markets](https://www.ft.com/content/f98a5340-a16e-49d8-8449-1bc4de3e57b3)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: prediction markets, democracy, governance
-
-The rise of prediction markets poses new challenges for democratic processes, potentially influencing decision-making and public opinion. As these markets gain traction, their implications for governance and investor behavior warrant close examination.
-
-**[Fast-growing Vinted explores share sale at €8bn valuation](https://www.ft.com/content/76b8784e-438b-49aa-b044-b1b590a5af0b)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: Vinted
-
-Vinted, a rapidly expanding online marketplace, is considering a share sale that could value the company at €8 billion, signaling significant growth potential in the digital marketplace sector.
-
-**[Ex-Fed official to face ethics inquiry over stock trades](https://www.ft.com/content/368c2f6c-0fb7-425f-a299-0f827da23529)**  
-*finance* · 2025-11-15 · **Imp 4/5** — Entities: Federal Reserve, ethics inquiry
-
-A former Federal Reserve official is set to undergo an ethics inquiry regarding stock trades, raising concerns about potential conflicts of interest and regulatory compliance.
-
-**[US economic outlook obscured by shutdown-triggered data gap](https://www.ft.com/content/1932bcda-0cde-4e5a-bd96-0216b6990616)**  
-*finance* · 2025-11-15 · **Imp 4/5** — Entities: US government, economic analysts
-
-The US economic outlook is currently unclear due to a data gap caused by the government shutdown, impacting the availability of critical economic indicators.
-
-**[US retailers try to handle change after penny’s demise](https://www.ft.com/content/c68c8bc9-423a-4633-943b-ab999638cda0)**  
-*finance* · 2025-11-15 · **Imp 4/5** — Entities: US retailers, digital solutions, pricing strategies
-
-US retailers are adapting to the market changes following the decline of the penny, exploring new pricing strategies and digital solutions to enhance consumer experience.
-
-**[Bags of cash and a gold toilet: the corruption crisis engulfing Zelenskyy’s government](https://www.ft.com/content/e244a251-4bb1-439a-8c35-2cdabdc2f880)**  
-*finance* · 2025-11-15 · **Imp 4/5** — Entities: Zelenskyy, Ukrainian government
-
-Ukrainian President Zelenskyy's government faces a corruption crisis, highlighted by incidents involving bags of cash and a gold toilet, raising concerns about governance and accountability.
-
-**[Apple intensifies succession planning for CEO Tim Cook](https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e)**  
-*finance* · 2025-11-15 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Tim Cook
-
-Apple is enhancing its succession planning for CEO Tim Cook, indicating a strategic focus on leadership continuity amidst evolving market dynamics.
-
-**[Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)**  
-*tech* · 2025-11-15 · **Imp 4/5** — Tickers: DIS — Entities: Disney, ESPN, YouTube TV, Hulu
-
-Disney and ESPN have rejoined YouTube TV, offering subscribers access to a full range of Disney's channels and ESPN's new direct-to-consumer service at no extra cost. This includes live and on-demand programming and options for bundling Disney+ and Hulu.
-
-**[US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs](https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: US government, Supreme Court, tech industry
-
-The US could face $1 trillion in refunds if the Supreme Court rules against Trump-era tariffs, significantly impacting the tech industry, which stands to benefit from such a decision.
-
-**[Three astronauts are stuck on China’s space station without a safe ride home](https://arstechnica.com/science/2025/11/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: China, astronauts, space station
-
-Three astronauts are stranded on China's space station due to safety concerns regarding their return. The situation raises questions about the reliability of China's space missions.
-
-**[World’s oldest RNA extracted from Ice Age woolly mammoth](https://arstechnica.com/science/2025/11/worlds-oldest-rna-extracted-from-ice-age-woolly-mammoth/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: scientists, woolly mammoth, genetic research
-
-Scientists have extracted and sequenced the world's oldest RNA from an Ice Age woolly mammoth, providing insights into extinct life forms and advancing genetic research.
-
-**[Blue Origin’s New Glenn rocket came back home after taking aim at Mars](https://arstechnica.com/science/2025/11/blue-origin-caps-second-heavy-lift-launch-with-first-offshore-landing/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, New Glenn, Mars
-
-Blue Origin's New Glenn rocket successfully returned after its second landing attempt, marking a historic achievement for large boosters. This milestone highlights advancements in space technology and the potential for future Mars missions.
-
-**[Rocket Report: Blue Origin’s stunning success; vive le Baguette One!](https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: Blue Origin, NASA
-
-Blue Origin's recent achievements highlight its growing capabilities in space exploration, potentially accelerating NASA's timelines. The company's commitment to rapid progress may influence future contracts and partnerships.
-
-**[US spy satellites built by SpaceX send signals in the “wrong direction”](https://arstechnica.com/tech-policy/2025/11/us-spy-satellites-built-by-spacex-send-signals-in-the-wrong-direction/)**  
-*tech* · 2025-11-14 · **Imp 4/5** — Entities: SpaceX, US government, Starshield
-
-US spy satellites developed by SpaceX are reportedly transmitting signals in an uncoordinated spectrum, raising concerns about international communication protocols.
-
-**[Merck nears deal for flu treatment biotech Cidara](https://www.ft.com/content/743e1962-3dd1-4785-a20b-4b097e5514ae)**  
-*finance* · 2025-11-13 · **Imp 4/5** — Tickers: MRK — Entities: Merck, Cidara
-
-Merck is close to finalizing a deal to acquire Cidara, a biotech company specializing in flu treatments. This acquisition could enhance Merck's portfolio in infectious disease management.
-
-**[This flu season looks grim as H3N2 emerges with mutations](https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/)**  
-*tech* · 2025-11-13 · **Imp 4/5** — Entities: UK, US, H3N2
-
-The UK is experiencing a severe flu season driven by the H3N2 strain, with expectations that the US will follow suit. This situation raises concerns about public health and potential economic impacts.
