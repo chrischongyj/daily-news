@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Tech giants pour billions into Anthropic as circular AI investments roll on](https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/)**  
+*tech* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic
+
+Tech giants Microsoft and Nvidia invest billions in Anthropic, a competitor to ChatGPT, to leverage their cloud services and chips, highlighting the ongoing trend of circular investments in AI.
+
+**[Microsoft and Nvidia to invest up to $15bn in OpenAI rival Anthropic](https://www.ft.com/content/2f82a42c-7b41-40a4-b549-bce7805166f3)**  
+*finance* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic, OpenAI
+
+Microsoft and Nvidia plan to invest up to $15 billion in Anthropic, a competitor to OpenAI, signaling a significant shift in AI funding dynamics.
+
 **[US House to vote on deal to end longest government shutdown](https://www.ft.com/content/48d46c20-878c-4c91-8b09-82e4062a393c)**  
 *finance* · 2025-11-12 · **Imp 5/5** — Entities: US House, government, federal operations
 
@@ -140,10 +150,90 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Trump admin axed 383 active clinical trials, dumping over 74K participants](https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Trump administration, clinical trials, human participant research
+**[The Apple deals worth shopping before Black Friday (and the discounts to expect)](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, AirPods, MacBook Pro, Black Friday, Cyber Monday
 
-The Trump administration terminated 383 active clinical trials, affecting over 74,000 participants, raising ethical concerns regarding human participant research.
+Early Black Friday deals on Apple products are emerging, featuring significant discounts on items like AirPods and the M5-powered MacBook Pro. Consumers can take advantage of these offers before the holiday rush, with expectations for further price drops as Black Friday approaches.
+
+**[GOP overhaul of broadband permit laws: Cities hate it, cable companies love it](https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Entities: GOP, cities, counties, cable companies
+
+The GOP's proposed overhaul of broadband permit laws is facing backlash from cities and counties, which view it as an unprecedented federal intrusion, while cable companies support the changes. This legislation could significantly impact local governance and broadband expansion efforts.
+
+**[CDC data confirms US is 2 months away from losing measles elimination status](https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Entities: CDC, US public health
+
+CDC data indicates the US is two months from potentially losing its measles elimination status if the virus spreads continuously for 12 months, raising public health concerns.
+
+**[Green groups sue to block Trump’s first oil lease auction in US Gulf](https://www.ft.com/content/697cf69f-2718-42a4-93d4-f87da708d050)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Entities: Trump administration, environmental groups, US Gulf
+
+Environmental groups are suing to prevent the Trump administration's initial oil lease auction in the US Gulf, raising concerns over ecological impacts and regulatory compliance.
+
+**[Fund managers warn AI investment boom has gone too far](https://www.ft.com/content/e2d93034-ef3b-4259-9ab1-c45396ca59b3)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Entities: fund managers, AI investments, market risks
+
+Fund managers caution that the surge in AI investments may be excessive, signaling potential risks for the market. This warning highlights the need for careful evaluation of AI-related assets.
+
+**[US tech stocks slide as traders fret over ‘frothy’ AI valuations](https://www.ft.com/content/72c35b5a-f75f-493d-ba86-a35d8d1f3490)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Entities: US tech stocks, AI sector, traders
+
+US tech stocks are declining as concerns grow over inflated valuations in the AI sector, prompting traders to reassess their investments.
+
+**[Meta wins US case that threatened split with WhatsApp and Instagram](https://www.ft.com/content/f3206cf5-82d3-4b38-9999-907448b5a6d0)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Tickers: META — Entities: Meta, WhatsApp, Instagram
+
+Meta has successfully won a US legal case that could have led to a separation of its platforms WhatsApp and Instagram, ensuring continued integration and operational synergy.
+
+**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: AAPL — Entities: Bose, Apple, Walmart, Best Buy, Target
+
+Early Black Friday deals are emerging, with significant discounts on laptops, TVs, and tech accessories. Notable offers include $50 off Bose earbuds and a record low price for Apple's MacBook Air at $749.99. More deals are expected as the event approaches.
+
+**[Microsoft tries to head off the “novel security risks” of Windows 11 AI agents](https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+
+Microsoft is addressing potential security risks associated with AI agents in Windows 11 that have read/write access to user files, highlighting concerns over privacy and data integrity.
+
+**[Judge rules Purdue Pharma must pay $7bn in bankruptcy settlement](https://www.ft.com/content/3b939048-7893-4686-9fbf-061f4f7ff4c1)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Entities: Purdue Pharma, opioid crisis
+
+A judge has ruled that Purdue Pharma must pay $7 billion as part of its bankruptcy settlement, impacting the opioid crisis and its stakeholders.
+
+**[Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds](https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Entities: Bitcoin, crypto, mining hardware, luxury hotels
+
+A Bitcoin mining hardware executive was scammed out of $200,000 in a sophisticated crypto scheme involving luxury hotels and cash-filled envelopes, highlighting vulnerabilities in the crypto sector.
+
+**[Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Sundar Pichai
+
+Google CEO Sundar Pichai warns that if the AI bubble bursts, no company will escape unscathed, drawing parallels to the dotcom crash.
+
+**[Google unveils Gemini 3 AI model and AI-first IDE called Antigravity](https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini 3, Antigravity
+
+Google has launched the Gemini 3 AI model and an AI-first integrated development environment (IDE) named Antigravity, marking its second major upgrade in 2023.
+
+**[Tesla safety driver falls asleep during passenger’s robotaxi ride](https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla, Reddit, San Francisco
+
+A Reddit user shared a video showing a Tesla safety driver asleep during a robotaxi ride in San Francisco, raising concerns about safety protocols in autonomous vehicle operations.
+
+**[Widespread Cloudflare outage blamed on mysterious traffic spike](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Entities: Cloudflare, websites, platforms
+
+A significant outage at Cloudflare has resulted in numerous websites and major platforms becoming inaccessible, attributed to an unexplained surge in traffic.
+
+**[We have to be able to hold tech platforms accountable for fraud](https://www.ft.com/content/456075bf-940b-4ad4-88e4-6dc4aeace268)**  
+*finance* · 2025-11-18 · **Imp 4/5** — Entities: tech platforms, fraud prevention, consumers, investors
+
+The article emphasizes the need for accountability of tech platforms in preventing fraud, highlighting the importance of regulatory measures to protect consumers and investors.
+
+**[Trump admin axed 383 active clinical trials, dumping over 74K participants](https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/)**  
+*tech* · 2025-11-17 · **Imp 4/5** — Entities: Trump administration, clinical trials, human research ethics
+
+The Trump administration terminated 383 active clinical trials, affecting over 74,000 participants, raising ethical concerns regarding human research standards.
 
 **[Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)**  
 *tech* · 2025-11-17 · **Imp 4/5** — Entities: Google, Meta, Robby Starbuck
@@ -159,93 +249,3 @@ The UN Security Council has approved a US-backed proposal concerning Gaza, which
 *tech* · 2025-11-17 · **Imp 4/5** — Entities: Jeff Bezos, Amazon, Blue Origin
 
 Jeff Bezos is set to return as CEO of a new company, marking his first CEO role since stepping down at Amazon in 2021. He currently does not hold a CEO title at Blue Origin.
-
-**[5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs](https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: North Korea, US IT jobs, laptop farm, identity theft
-
-Five individuals have pleaded guilty to a scheme involving a laptop farm and identity theft, aimed at securing US IT jobs for North Koreans by creating the illusion that they were working from within the US.
-
-**[UCLA faculty gets big win in suit against Trump’s university attacks](https://arstechnica.com/science/2025/11/ucla-faculty-gets-big-win-in-suit-against-trumps-university-attacks/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: UCLA, Trump administration
-
-UCLA faculty achieved a significant legal victory, affirming that the government cannot leverage funding threats to infringe upon First Amendment rights. This ruling reinforces academic freedom and may influence future funding policies.
-
-**[Lawrence Summers faces new scrutiny over ties to sex offender Epstein](https://www.ft.com/content/bfd4af20-630b-4aec-b091-e61e4ab8795d)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: Lawrence Summers, Jeffrey Epstein
-
-Lawrence Summers is under renewed scrutiny due to his connections with convicted sex offender Jeffrey Epstein, raising concerns about his influence and ethical standards in finance and policy.
-
-**[After last week’s stunning landing, here’s what comes next for Blue Origin](https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Blue Origin
-
-Following a successful landing, Blue Origin is poised to capitalize on unprecedented demand for launch services, indicating a robust future for the company in the aerospace sector.
-
-**[US probes firms that borrowed $400mn from private credit giant HPS](https://www.ft.com/content/a9e7bfa0-1e60-4bf4-b403-d566c3ca8644)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: HPS, US government
-
-The US is investigating firms that borrowed $400 million from private credit firm HPS, raising concerns about financial practices and regulatory compliance.
-
-**[Amazon joins Big Tech bond rush with $12bn debt sale](https://www.ft.com/content/fc924871-e80f-46ea-aa8f-fe4ad5ce1c32)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, Big Tech
-
-Amazon has entered the Big Tech bond market with a $12 billion debt sale, reflecting a growing trend among major tech companies to raise capital through bonds.
-
-**[Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet](https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle, OpenAI
-
-Oracle's stock has significantly declined amid a broader tech sell-off, primarily due to its substantial borrowing and dependence on contracts with OpenAI for its AI initiatives.
-
-**[Cities: Skylines upheaval: Developer and publisher announce “mutual” breakup](https://arstechnica.com/gaming/2025/11/cities-skylines-upheaval-developer-and-publisher-announce-mutual-breakup/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Paradox Interactive, Iceflake Studios, Cities: Skylines
-
-Paradox Interactive's subsidiary Iceflake Studios will assume development responsibilities for Cities: Skylines following a mutual breakup with the previous developer. This transition may impact future updates and expansions of the popular city simulation game.
-
-**[Trump’s 50-year mortgages are poor deal for homebuyers](https://www.ft.com/content/96ac2564-1616-468d-bdde-4bf70b3d72ec)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: Trump, homebuyers
-
-Trump's proposal for 50-year mortgages is criticized as a poor deal for homebuyers, potentially leading to higher long-term costs and financial strain.
-
-**[Trump family and Saudi partner unveil tokenised Maldives resort](https://www.ft.com/content/ddf70e4f-8d1d-474c-b079-a90022a7f0ee)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: Trump family, Saudi partner, Maldives resort
-
-The Trump family, in partnership with a Saudi entity, has announced a tokenized resort project in the Maldives, indicating a growing trend in digital asset investment in real estate.
-
-**[The scramble for Europe is just beginning](https://www.ft.com/content/307c73cc-3fb7-4165-8455-53c14f4390fc)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: FT, Europe, digital journalism
-
-The competition for digital market share in Europe is intensifying, with a focus on quality journalism and expert analysis. Subscribing upfront offers significant savings, highlighting the value of premium content.
-
-**[The hot new investment trend is the ‘Total Portfolio Approach’. Does it work?](https://www.ft.com/content/540b2f9a-9c58-44f5-8ae9-36a58c95d26c)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: Total Portfolio Approach, investment management
-
-The 'Total Portfolio Approach' is emerging as a significant investment trend, prompting discussions about its effectiveness in portfolio management.
-
-**[Trump trade negotiator hits out at EU delays in cutting tariffs and rules](https://www.ft.com/content/bea85c4d-facd-4895-b6ae-9e7c607badaf)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: Trump, EU, trade negotiator
-
-A Trump trade negotiator criticizes the EU for its slow progress in reducing tariffs and regulatory barriers, potentially impacting trade relations and economic policies.
-
-**[Saudi Arabia’s PIF sells stakes in US groups ahead of Crown Prince’s White House visit](https://www.ft.com/content/b7511c91-265d-4d08-8375-4dc114ed3612)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: Saudi Arabia, Public Investment Fund, US companies, Crown Prince Mohammed bin Salman, White House
-
-Saudi Arabia's Public Investment Fund (PIF) has sold stakes in various US companies prior to Crown Prince Mohammed bin Salman's visit to the White House, signaling strategic financial maneuvers.
-
-**[Coalitions of the willing are Europe’s path to ever closer union](https://www.ft.com/content/370fe0b4-6896-4f24-9787-eb68dec071fe)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: European Union, coalitions
-
-The article discusses how coalitions among European nations can facilitate deeper integration within the EU, emphasizing the importance of collaboration for achieving common goals.
-
-**[Carney’s ‘energy superpower’ vision up against political hurdles](https://www.ft.com/content/44308ca0-8ac6-495d-b346-a44f703e86da)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: Mark Carney, UK government, energy sector
-
-Mark Carney's vision for transforming the UK into an 'energy superpower' faces significant political challenges, potentially impacting investment and policy direction in the energy sector.
-
-**[Blue Owl private credit fund merger leaves some investors facing 20% hit](https://www.ft.com/content/8c953f6d-3d30-4657-bda1-ba4c2911c8d8)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: Blue Owl
-
-The merger of Blue Owl's private credit funds is causing some investors to face potential losses of up to 20%. This development raises concerns about the stability and performance of private credit investments.
-
-**[Foreign investors return to China’s stock market](https://www.ft.com/content/df68254d-a1f5-4fc1-9ee2-6d29bca012e5)**  
-*finance* · 2025-11-16 · **Imp 4/5** — Entities: foreign investors, China, stock market
-
-Foreign investors are re-entering China's stock market, signaling renewed confidence in the country's economic prospects. This trend may influence market dynamics and investment strategies moving forward.
