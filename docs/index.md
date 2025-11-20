@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
-**[Tech giants pour billions into Anthropic as circular AI investments roll on](https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/)**  
-*tech* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic
+**[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
+*finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
 
-Tech giants Microsoft and Nvidia invest billions in Anthropic, a competitor to ChatGPT, to leverage their cloud services and chips, highlighting the ongoing trend of circular investments in AI.
+Nvidia reports strong demand for its chips, dismissing concerns about an 'AI bubble'. The company's performance highlights its resilience and growth potential in the tech sector.
+
+**[Musk’s xAI nears $230bn valuation in fundraising deal](https://www.ft.com/content/b13c6f36-7810-42cd-af8e-526828b04682)**  
+*finance* · 2025-11-19 · **Imp 5/5** — Entities: Musk, xAI
+
+Musk's xAI is approaching a $230 billion valuation through a recent fundraising deal, highlighting significant investor interest in AI technologies.
 
 **[Microsoft and Nvidia to invest up to $15bn in OpenAI rival Anthropic](https://www.ft.com/content/2f82a42c-7b41-40a4-b549-bce7805166f3)**  
 *finance* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic, OpenAI
@@ -150,6 +155,66 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: Hugging Face, AI, manufacturing
+
+Hugging Face CEO warns of a bubble in large language models (LLMs) but distinguishes it from a broader AI bubble, highlighting uncertainties in AI investments across sectors like manufacturing.
+
+**[Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: Cloudflare
+
+A significant outage at Cloudflare was caused by a file that unexpectedly doubled in size, leading to widespread service disruption. The CEO expressed concerns about potential botnet involvement, although the issue was ultimately self-inflicted.
+
+**[Critics scoff after Microsoft warns AI feature can infect machines and pilfer data](https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, Copilot Actions, Windows
+
+Microsoft's warning about potential data theft from its AI feature, Copilot Actions, raises concerns among users. The feature is currently off by default, but its future activation could pose risks.
+
+**[Fed officials ‘strongly’ divided on December rate cut](https://www.ft.com/content/c5f202a7-b8c1-42ec-bc9c-db5d71748c26)**  
+*finance* · 2025-11-19 · **Imp 4/5** — Entities: Federal Reserve
+
+Federal Reserve officials are significantly divided on the potential for a rate cut in December, indicating uncertainty in monetary policy direction.
+
+**[Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way](https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Tickers: AAPL, AVGO — Entities: Apple, Broadcom
+
+Apple's N1 Wi-Fi chip outperforms older Broadcom chips in all tested aspects, showcasing the company's advancements in in-house technology. While it may not break records, its reliability enhances Apple's hardware ecosystem.
+
+**[US and Russian officials draft new peace plan for Ukraine](https://www.ft.com/content/23536bf6-c550-4896-931f-a33a1c2ad91a)**  
+*finance* · 2025-11-19 · **Imp 4/5** — Entities: US, Russia, Ukraine
+
+US and Russian officials are collaborating on a new peace plan for Ukraine, potentially impacting geopolitical stability and economic conditions in the region.
+
+**[Quantum computing needs its own industrial revolution](https://www.ft.com/content/de55d987-13bb-4821-9e72-d7a066e48ccd)**  
+*finance* · 2025-11-19 · **Imp 4/5** — Entities: quantum computing, digital access, FT journalism, industry leaders
+
+The article discusses the necessity for an industrial revolution in quantum computing to unlock its full potential, emphasizing the importance of investment and innovation in this emerging field.
+
+**[Kering must kick Gucci habit, chief Luca de Meo tells staff](https://www.ft.com/content/aafc6696-d493-4755-95e7-a28d89eaf2e3)**  
+*finance* · 2025-11-19 · **Imp 4/5** — Entities: Kering, Gucci, Luca de Meo
+
+Kering's CEO Luca de Meo emphasizes the need for the company to reduce its reliance on Gucci, urging staff to diversify the brand portfolio for sustainable growth.
+
+**[Celebrated game developer Rebecca Heineman dies at age 62](https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: Rebecca Heineman, gaming community, LGBTQ+ rights
+
+Rebecca Heineman, a renowned game developer and advocate for LGBTQ+ rights, has passed away at the age of 62, leaving a significant impact on the gaming community.
+
+**[DeepMind’s latest: An AI for handling mathematical proofs](https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: DeepMind, AlphaProof
+
+DeepMind has introduced AlphaProof, an AI designed to tackle mathematical proofs. While it shows promise in handling math challenges, it currently requires some assistance.
+
+**[Lawrence Summers steps down from OpenAI board over Epstein emails](https://www.ft.com/content/fbf2421b-2170-4406-be1e-d3dcea18f03e)**  
+*finance* · 2025-11-19 · **Imp 4/5** — Entities: Lawrence Summers, OpenAI, Jeffrey Epstein
+
+Lawrence Summers has resigned from the OpenAI board following controversy over emails related to Jeffrey Epstein. This decision may impact OpenAI's governance and public perception.
+
+**[OnePlus 15 review: The end of range anxiety](https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: OnePlus
+
+OnePlus has launched its second super-fast phone of 2025, the OnePlus 15, addressing range anxiety with improved performance and features.
+
 **[The Apple deals worth shopping before Black Friday (and the discounts to expect)](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)**  
 *tech* · 2025-11-18 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, AirPods, MacBook Pro, Black Friday, Cyber Monday
 
@@ -163,7 +228,7 @@ The GOP's proposed overhaul of broadband permit laws is facing backlash from cit
 **[CDC data confirms US is 2 months away from losing measles elimination status](https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/)**  
 *tech* · 2025-11-18 · **Imp 4/5** — Entities: CDC, US public health
 
-CDC data indicates the US is two months from potentially losing its measles elimination status if the virus spreads continuously for 12 months, raising public health concerns.
+CDC data indicates the US is two months from potentially losing its measles elimination status due to continuous virus spread for 12 months. This could impact public health policies and vaccination efforts.
 
 **[Green groups sue to block Trump’s first oil lease auction in US Gulf](https://www.ft.com/content/697cf69f-2718-42a4-93d4-f87da708d050)**  
 *finance* · 2025-11-18 · **Imp 4/5** — Entities: Trump administration, environmental groups, US Gulf
@@ -180,72 +245,7 @@ Fund managers caution that the surge in AI investments may be excessive, signali
 
 US tech stocks are declining as concerns grow over inflated valuations in the AI sector, prompting traders to reassess their investments.
 
-**[Meta wins US case that threatened split with WhatsApp and Instagram](https://www.ft.com/content/f3206cf5-82d3-4b38-9999-907448b5a6d0)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Tickers: META — Entities: Meta, WhatsApp, Instagram
+**[Tech giants pour billions into Anthropic as circular AI investments roll on](https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/)**  
+*tech* · 2025-11-18 · **Imp 4/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic
 
-Meta has successfully won a US legal case that could have led to a separation of its platforms WhatsApp and Instagram, ensuring continued integration and operational synergy.
-
-**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: AAPL — Entities: Bose, Apple, Walmart, Best Buy, Target
-
-Early Black Friday deals are emerging, with significant discounts on laptops, TVs, and tech accessories. Notable offers include $50 off Bose earbuds and a record low price for Apple's MacBook Air at $749.99. More deals are expected as the event approaches.
-
-**[Microsoft tries to head off the “novel security risks” of Windows 11 AI agents](https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
-
-Microsoft is addressing potential security risks associated with AI agents in Windows 11 that have read/write access to user files, highlighting concerns over privacy and data integrity.
-
-**[Judge rules Purdue Pharma must pay $7bn in bankruptcy settlement](https://www.ft.com/content/3b939048-7893-4686-9fbf-061f4f7ff4c1)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Entities: Purdue Pharma, opioid crisis
-
-A judge has ruled that Purdue Pharma must pay $7 billion as part of its bankruptcy settlement, impacting the opioid crisis and its stakeholders.
-
-**[Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds](https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Entities: Bitcoin, crypto, mining hardware, luxury hotels
-
-A Bitcoin mining hardware executive was scammed out of $200,000 in a sophisticated crypto scheme involving luxury hotels and cash-filled envelopes, highlighting vulnerabilities in the crypto sector.
-
-**[Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Sundar Pichai
-
-Google CEO Sundar Pichai warns that if the AI bubble bursts, no company will escape unscathed, drawing parallels to the dotcom crash.
-
-**[Google unveils Gemini 3 AI model and AI-first IDE called Antigravity](https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini 3, Antigravity
-
-Google has launched the Gemini 3 AI model and an AI-first integrated development environment (IDE) named Antigravity, marking its second major upgrade in 2023.
-
-**[Tesla safety driver falls asleep during passenger’s robotaxi ride](https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: TSLA — Entities: Tesla, Reddit, San Francisco
-
-A Reddit user shared a video showing a Tesla safety driver asleep during a robotaxi ride in San Francisco, raising concerns about safety protocols in autonomous vehicle operations.
-
-**[Widespread Cloudflare outage blamed on mysterious traffic spike](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Entities: Cloudflare, websites, platforms
-
-A significant outage at Cloudflare has resulted in numerous websites and major platforms becoming inaccessible, attributed to an unexplained surge in traffic.
-
-**[We have to be able to hold tech platforms accountable for fraud](https://www.ft.com/content/456075bf-940b-4ad4-88e4-6dc4aeace268)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Entities: tech platforms, fraud prevention, consumers, investors
-
-The article emphasizes the need for accountability of tech platforms in preventing fraud, highlighting the importance of regulatory measures to protect consumers and investors.
-
-**[Trump admin axed 383 active clinical trials, dumping over 74K participants](https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Trump administration, clinical trials, human research ethics
-
-The Trump administration terminated 383 active clinical trials, affecting over 74,000 participants, raising ethical concerns regarding human research standards.
-
-**[Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Google, Meta, Robby Starbuck
-
-Google is contesting a defamation lawsuit from Robby Starbuck, who claims its AI falsely linked him to sexual assault and white nationalism. This follows Meta's settlement of a similar lawsuit with Starbuck. Google argues his claims stem from misuse of developer tools.
-
-**[UN Security Council approves US-backed proposal for Gaza](https://www.ft.com/content/a18f1d96-371d-429b-9ea0-ea51c2751231)**  
-*finance* · 2025-11-17 · **Imp 4/5** — Entities: UN Security Council, US, Gaza
-
-The UN Security Council has approved a US-backed proposal concerning Gaza, which may influence geopolitical stability and economic conditions in the region.
-
-**[With a new company, Jeff Bezos will become a CEO again](https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/)**  
-*tech* · 2025-11-17 · **Imp 4/5** — Entities: Jeff Bezos, Amazon, Blue Origin
-
-Jeff Bezos is set to return as CEO of a new company, marking his first CEO role since stepping down at Amazon in 2021. He currently does not hold a CEO title at Blue Origin.
+Tech giants Microsoft and Nvidia invest billions in Anthropic, a competitor to ChatGPT, to leverage cloud services and chips, highlighting ongoing circular investments in AI technology.
