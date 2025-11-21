@@ -155,97 +155,97 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: Hugging Face, AI, manufacturing
+**[Ukraine fears US pressure campaign to accept peace plan drawn up with Russia](https://www.ft.com/content/26beeac1-bbe3-455b-97f6-84cf7c7c86fe)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: Ukraine, US, Russia
 
-Hugging Face CEO warns of a bubble in large language models (LLMs) but distinguishes it from a broader AI bubble, highlighting uncertainties in AI investments across sectors like manufacturing.
+Ukraine is concerned about potential US pressure to accept a peace plan proposed by Russia, which may impact geopolitical stability and investor confidence in the region.
+
+**[From defiant to contrite: Formula maker confirms bacteria amid botulism outbreak](https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: ByHeart, botulism outbreak
+
+ByHeart has confirmed the presence of bacteria linked to a botulism outbreak in its formula, contradicting earlier statements. The company’s testing revealed the contamination, raising concerns about product safety.
+
+**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: AirPods Pro 3, Google Pixel Watch 4, Amazon, Walmart, Best Buy, Target
+
+Early Black Friday deals are emerging, with significant discounts on products like AirPods Pro 3 and Google Pixel Watch 4. Major retailers such as Amazon, Walmart, Best Buy, and Target are already promoting holiday sales, indicating a competitive shopping season ahead.
+
+**[Microsoft’s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, PowerToys, Foundry Local, Ollama, Azure OpenAI, Gemini, Mistral
+
+Microsoft enhances its Advanced Paste tool in PowerToys for Windows 11 with on-device AI capabilities, allowing users to perform actions without cloud dependency. The update supports multiple AI models and improves user interface features.
+
+**[US adds 119,000 jobs in September but unemployment hits four-year peak](https://www.ft.com/content/c6a10c68-c570-4cc5-8c22-067162f4a9f2)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: US economy, job market, unemployment rate
+
+The US economy added 119,000 jobs in September, yet the unemployment rate reached a four-year high, indicating potential economic challenges ahead.
+
+**[SEC weighs looser independence rules for Big Four auditors](https://www.ft.com/content/15abe896-e31b-43bd-86d9-010dca5976fb)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: SEC, Big Four auditors
+
+The SEC is considering relaxing independence rules for Big Four auditors, which could impact their operational flexibility and regulatory compliance. This potential change may affect investor confidence and audit quality.
+
+**[US tech stocks slide as jolt of volatility hits Wall Street](https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: US tech stocks, Wall Street
+
+US tech stocks experienced a decline as volatility surged on Wall Street, impacting investor sentiment and market stability.
+
+**[The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: Apple, Google, EU
+
+The EU has mandated Apple to adopt new Wi-Fi standards, enabling Android devices, starting with Google's Pixel 10, to support AirDrop functionality. This development may enhance interoperability between Apple and Android ecosystems.
+
+**[Top Fed official warns on risk hedge funds pose to $30tn Treasury market](https://www.ft.com/content/754ef60f-bbbb-496c-9548-04cde2930730)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: Federal Reserve, hedge funds, Treasury market
+
+A top Federal Reserve official has raised concerns about the risks hedge funds pose to the $30 trillion Treasury market, highlighting potential vulnerabilities in the financial system.
+
+**[Apple will need to move on from the Tim Cook gravy train](https://www.ft.com/content/718d5bac-8bcb-4aaf-8554-08763b6144e4)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Tim Cook
+
+The article discusses the necessity for Apple to evolve beyond the leadership style of Tim Cook, suggesting a potential shift in strategy or management to maintain growth.
+
+**[Blue Origin revealed some massively cool plans for its New Glenn rocket](https://arstechnica.com/space/2025/11/blue-origin-says-its-just-getting-started-with-the-new-glenn-rocket/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: Blue Origin, New Glenn, 7x2 vehicle
+
+Blue Origin announced plans for its New Glenn rocket, emphasizing an iterative design approach that allows for rapid construction based on their existing 7x2 vehicle.
+
+**[Flying with whales: Drones are remaking marine mammal research](https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: drones, marine mammals, scientists
+
+Aerial drones are revolutionizing marine mammal research by providing scientists with unprecedented aerial views, enhancing data collection and analysis.
+
+**[“Hey Google, did you upgrade your AI in my Android Auto?”](https://arstechnica.com/cars/2025/11/hey-google-did-you-upgrade-your-ai-in-my-android-auto/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Android Auto
+
+Google is enhancing its AI capabilities in Android Auto, promising improved conversational AI for users. This upgrade aims to enhance the integration of mobile technology in vehicles.
+
+**[Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images](https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini 3
+
+Google launches the Nano Banana Pro, leveraging Gemini 3 technology to create more realistic AI-generated images, now available for global use.
+
+**[RFK Jr.’s loathesome edits: CDC website now falsely links vaccines and autism](https://arstechnica.com/health/2025/11/rfk-jr-s-loathesome-edits-cdc-website-now-falsely-links-vaccines-and-autism/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: CDC, RFK Jr.
+
+The CDC website has been edited to inaccurately suggest a connection between vaccines and autism, contradicting extensive research that disproves this link. This change raises concerns about misinformation in public health communications.
+
+**[Attack, defend, pursue—the Space Force’s new naming scheme foretells new era](https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/)**  
+*tech* · 2025-11-20 · **Imp 4/5** — Entities: Space Force, military technology, defense strategy
+
+The Space Force has introduced a new naming scheme for its weapon systems, emphasizing a strategic approach that reflects its operational goals. This change signals a shift in military technology and defense strategy.
+
+**[The matrix: Ellison overtures for Warner Bros kick off bidding war](https://www.ft.com/content/8e46bd7f-c3f3-4572-af12-12398b0f9fff)**  
+*finance* · 2025-11-20 · **Imp 4/5** — Entities: Larry Ellison, Warner Bros
+
+Larry Ellison's interest in acquiring Warner Bros has initiated a competitive bidding process, potentially reshaping the media landscape and impacting investor sentiment.
+
+**[“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/)**  
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: Hugging Face
+
+Hugging Face CEO warns of an LLM bubble, distinguishing it from a broader AI bubble. The implications for AI investments in sectors like manufacturing remain uncertain.
 
 **[Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: Cloudflare
+*tech* · 2025-11-19 · **Imp 4/5** — Entities: Cloudflare, CEO
 
-A significant outage at Cloudflare was caused by a file that unexpectedly doubled in size, leading to widespread service disruption. The CEO expressed concerns about potential botnet involvement, although the issue was ultimately self-inflicted.
-
-**[Critics scoff after Microsoft warns AI feature can infect machines and pilfer data](https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, Copilot Actions, Windows
-
-Microsoft's warning about potential data theft from its AI feature, Copilot Actions, raises concerns among users. The feature is currently off by default, but its future activation could pose risks.
-
-**[Fed officials ‘strongly’ divided on December rate cut](https://www.ft.com/content/c5f202a7-b8c1-42ec-bc9c-db5d71748c26)**  
-*finance* · 2025-11-19 · **Imp 4/5** — Entities: Federal Reserve
-
-Federal Reserve officials are significantly divided on the potential for a rate cut in December, indicating uncertainty in monetary policy direction.
-
-**[Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way](https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Tickers: AAPL, AVGO — Entities: Apple, Broadcom
-
-Apple's N1 Wi-Fi chip outperforms older Broadcom chips in all tested aspects, showcasing the company's advancements in in-house technology. While it may not break records, its reliability enhances Apple's hardware ecosystem.
-
-**[US and Russian officials draft new peace plan for Ukraine](https://www.ft.com/content/23536bf6-c550-4896-931f-a33a1c2ad91a)**  
-*finance* · 2025-11-19 · **Imp 4/5** — Entities: US, Russia, Ukraine
-
-US and Russian officials are collaborating on a new peace plan for Ukraine, potentially impacting geopolitical stability and economic conditions in the region.
-
-**[Quantum computing needs its own industrial revolution](https://www.ft.com/content/de55d987-13bb-4821-9e72-d7a066e48ccd)**  
-*finance* · 2025-11-19 · **Imp 4/5** — Entities: quantum computing, digital access, FT journalism, industry leaders
-
-The article discusses the necessity for an industrial revolution in quantum computing to unlock its full potential, emphasizing the importance of investment and innovation in this emerging field.
-
-**[Kering must kick Gucci habit, chief Luca de Meo tells staff](https://www.ft.com/content/aafc6696-d493-4755-95e7-a28d89eaf2e3)**  
-*finance* · 2025-11-19 · **Imp 4/5** — Entities: Kering, Gucci, Luca de Meo
-
-Kering's CEO Luca de Meo emphasizes the need for the company to reduce its reliance on Gucci, urging staff to diversify the brand portfolio for sustainable growth.
-
-**[Celebrated game developer Rebecca Heineman dies at age 62](https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: Rebecca Heineman, gaming community, LGBTQ+ rights
-
-Rebecca Heineman, a renowned game developer and advocate for LGBTQ+ rights, has passed away at the age of 62, leaving a significant impact on the gaming community.
-
-**[DeepMind’s latest: An AI for handling mathematical proofs](https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: DeepMind, AlphaProof
-
-DeepMind has introduced AlphaProof, an AI designed to tackle mathematical proofs. While it shows promise in handling math challenges, it currently requires some assistance.
-
-**[Lawrence Summers steps down from OpenAI board over Epstein emails](https://www.ft.com/content/fbf2421b-2170-4406-be1e-d3dcea18f03e)**  
-*finance* · 2025-11-19 · **Imp 4/5** — Entities: Lawrence Summers, OpenAI, Jeffrey Epstein
-
-Lawrence Summers has resigned from the OpenAI board following controversy over emails related to Jeffrey Epstein. This decision may impact OpenAI's governance and public perception.
-
-**[OnePlus 15 review: The end of range anxiety](https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: OnePlus
-
-OnePlus has launched its second super-fast phone of 2025, the OnePlus 15, addressing range anxiety with improved performance and features.
-
-**[The Apple deals worth shopping before Black Friday (and the discounts to expect)](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, AirPods, MacBook Pro, Black Friday, Cyber Monday
-
-Early Black Friday deals on Apple products are emerging, featuring significant discounts on items like AirPods and the M5-powered MacBook Pro. Consumers can take advantage of these offers before the holiday rush, with expectations for further price drops as Black Friday approaches.
-
-**[GOP overhaul of broadband permit laws: Cities hate it, cable companies love it](https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Entities: GOP, cities, counties, cable companies
-
-The GOP's proposed overhaul of broadband permit laws is facing backlash from cities and counties, which view it as an unprecedented federal intrusion, while cable companies support the changes. This legislation could significantly impact local governance and broadband expansion efforts.
-
-**[CDC data confirms US is 2 months away from losing measles elimination status](https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Entities: CDC, US public health
-
-CDC data indicates the US is two months from potentially losing its measles elimination status due to continuous virus spread for 12 months. This could impact public health policies and vaccination efforts.
-
-**[Green groups sue to block Trump’s first oil lease auction in US Gulf](https://www.ft.com/content/697cf69f-2718-42a4-93d4-f87da708d050)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Entities: Trump administration, environmental groups, US Gulf
-
-Environmental groups are suing to prevent the Trump administration's initial oil lease auction in the US Gulf, raising concerns over ecological impacts and regulatory compliance.
-
-**[Fund managers warn AI investment boom has gone too far](https://www.ft.com/content/e2d93034-ef3b-4259-9ab1-c45396ca59b3)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Entities: fund managers, AI investments, market risks
-
-Fund managers caution that the surge in AI investments may be excessive, signaling potential risks for the market. This warning highlights the need for careful evaluation of AI-related assets.
-
-**[US tech stocks slide as traders fret over ‘frothy’ AI valuations](https://www.ft.com/content/72c35b5a-f75f-493d-ba86-a35d8d1f3490)**  
-*finance* · 2025-11-18 · **Imp 4/5** — Entities: US tech stocks, AI sector, traders
-
-US tech stocks are declining as concerns grow over inflated valuations in the AI sector, prompting traders to reassess their investments.
-
-**[Tech giants pour billions into Anthropic as circular AI investments roll on](https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/)**  
-*tech* · 2025-11-18 · **Imp 4/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic
-
-Tech giants Microsoft and Nvidia invest billions in Anthropic, a competitor to ChatGPT, to leverage cloud services and chips, highlighting ongoing circular investments in AI technology.
+A significant outage at Cloudflare was caused by a file that unexpectedly doubled in size, leading to widespread service disruptions. The CEO expressed concerns about potential botnet involvement, although the incident was ultimately self-inflicted.
