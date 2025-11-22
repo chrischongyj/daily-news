@@ -1,5 +1,20 @@
 # AI Curated News Analyst — Latest
 
+**[Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)**  
+*tech* · 2025-11-21 · **Imp 5/5** — Entities: Google, Justice Department, Judge Leonie Brinkema, Meta, TikTok
+
+Judge Leonie Brinkema is set to rule on whether Google must divest parts of its ad tech business to address its monopoly. The DOJ seeks a forced sale of AdX, while Google argues for behavioral changes. Timing is critical, as appeals could complicate enforcement.
+
+**[Eli Lilly becomes first pharma group to join $1tn club](https://www.ft.com/content/62063045-388a-4bae-b533-ea733ed85627)**  
+*finance* · 2025-11-21 · **Imp 5/5** — Tickers: LLY — Entities: Eli Lilly
+
+Eli Lilly has achieved a significant milestone by becoming the first pharmaceutical company to join the $1 trillion market capitalization club, highlighting its strong performance and growth potential in the industry.
+
+**[Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/)**  
+*tech* · 2025-11-21 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI infrastructure
+
+Google's AI infrastructure chief emphasizes the need for a thousandfold increase in capacity over the next five years to meet growing AI demand, indicating a significant shift in operational strategy.
+
 **[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
 *finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
 
@@ -155,97 +170,82 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Ukraine fears US pressure campaign to accept peace plan drawn up with Russia](https://www.ft.com/content/26beeac1-bbe3-455b-97f6-84cf7c7c86fe)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: Ukraine, US, Russia
+**[Trump envoys issue ultimatum to Ukraine to sign peace deal by Thursday](https://www.ft.com/content/f4112e32-b742-4e91-9c51-aab08067e53e)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: Trump, Ukraine
 
-Ukraine is concerned about potential US pressure to accept a peace plan proposed by Russia, which may impact geopolitical stability and investor confidence in the region.
+Trump envoys have issued an ultimatum to Ukraine, demanding a peace deal be signed by Thursday. This development could significantly impact geopolitical stability and investor sentiment in the region.
 
-**[From defiant to contrite: Formula maker confirms bacteria amid botulism outbreak](https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: ByHeart, botulism outbreak
+**[Science-centric streaming service Curiosity Stream is an AI-licensing firm now](https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: Curiosity Stream
 
-ByHeart has confirmed the presence of bacteria linked to a botulism outbreak in its formula, contradicting earlier statements. The company’s testing revealed the contamination, raising concerns about product safety.
+Curiosity Stream, a science-centric streaming service, has transitioned to an AI-licensing firm, offering more content for AI companies than for its subscribers.
 
-**[The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: AirPods Pro 3, Google Pixel Watch 4, Amazon, Walmart, Best Buy, Target
+**[Judge shows reluctance to break up Google ads business in US monopoly case](https://www.ft.com/content/07fd1c1d-c7c1-4e83-8679-297cc6311498)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, US regulators
 
-Early Black Friday deals are emerging, with significant discounts on products like AirPods Pro 3 and Google Pixel Watch 4. Major retailers such as Amazon, Walmart, Best Buy, and Target are already promoting holiday sales, indicating a competitive shopping season ahead.
+A judge has expressed hesitation in dismantling Google's advertising business amid ongoing US monopoly litigation, indicating potential challenges for regulators seeking to enforce antitrust measures.
 
-**[Microsoft’s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft, PowerToys, Foundry Local, Ollama, Azure OpenAI, Gemini, Mistral
+**[Bill Ackman plots IPO of hedge fund Pershing Square in early 2026](https://www.ft.com/content/27fcabcc-afcb-4847-9883-5035bfd94d3f)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: Bill Ackman, Pershing Square
 
-Microsoft enhances its Advanced Paste tool in PowerToys for Windows 11 with on-device AI capabilities, allowing users to perform actions without cloud dependency. The update supports multiple AI models and improves user interface features.
+Bill Ackman plans to launch an IPO for his hedge fund, Pershing Square, in early 2026, signaling a significant move in the hedge fund industry.
 
-**[US adds 119,000 jobs in September but unemployment hits four-year peak](https://www.ft.com/content/c6a10c68-c570-4cc5-8c22-067162f4a9f2)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: US economy, job market, unemployment rate
+**[How to know if your Asus router is one of thousands hacked by China-state hackers](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: Asus, China-state hackers
 
-The US economy added 119,000 jobs in September, yet the unemployment rate reached a four-year high, indicating potential economic challenges ahead.
+Asus routers have been targeted by state-sponsored hackers from China, with thousands potentially compromised. The hackers are currently inactive, suggesting a strategy for future exploitation.
 
-**[SEC weighs looser independence rules for Big Four auditors](https://www.ft.com/content/15abe896-e31b-43bd-86d9-010dca5976fb)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: SEC, Big Four auditors
+**[US stocks rebound after top Fed official signals openness to rate cut](https://www.ft.com/content/24766819-c787-4daf-b421-fb9337fac9ac)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: US stocks, Federal Reserve
 
-The SEC is considering relaxing independence rules for Big Four auditors, which could impact their operational flexibility and regulatory compliance. This potential change may affect investor confidence and audit quality.
+US stocks experienced a rebound following comments from a top Federal Reserve official indicating a willingness to consider interest rate cuts, which could positively impact market sentiment and investor confidence.
 
-**[US tech stocks slide as jolt of volatility hits Wall Street](https://www.ft.com/content/2c0bb19c-7c64-453f-95ab-c0f54a184089)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: US tech stocks, Wall Street
+**[AI trained on bacterial genomes produces never-before-seen proteins](https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: AI, bacterial genomes, biotechnology, pharmaceuticals
 
-US tech stocks experienced a decline as volatility surged on Wall Street, impacting investor sentiment and market stability.
+An AI system has been developed to analyze bacterial genomes, enabling the creation of novel proteins by clustering genes with similar functions. This advancement could have significant implications for biotechnology and pharmaceuticals.
 
-**[The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: Apple, Google, EU
+**[Tech company CTO and others indicted for exporting Nvidia chips to China](https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, tech company, CTO
 
-The EU has mandated Apple to adopt new Wi-Fi standards, enabling Android devices, starting with Google's Pixel 10, to support AirDrop functionality. This development may enhance interoperability between Apple and Android ecosystems.
+A tech company's CTO and three others have been indicted for illegally exporting Nvidia chips to China, facing charges of smuggling and money laundering.
 
-**[Top Fed official warns on risk hedge funds pose to $30tn Treasury market](https://www.ft.com/content/754ef60f-bbbb-496c-9548-04cde2930730)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: Federal Reserve, hedge funds, Treasury market
+**[Data-driven sport: How Red Bull and AT&T move terabytes of F1 info](https://arstechnica.com/cars/2025/11/data-driven-sport-how-red-bull-and-att-move-terabytes-of-f1-info/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: Red Bull Racing, AT&T
 
-A top Federal Reserve official has raised concerns about the risks hedge funds pose to the $30 trillion Treasury market, highlighting potential vulnerabilities in the financial system.
+Red Bull Racing has significantly enhanced its Formula 1 cars with three times more sensors, enabling the collection of terabytes of data. This advancement, supported by AT&T's technology, underscores the growing importance of data analytics in sports.
 
-**[Apple will need to move on from the Tim Cook gravy train](https://www.ft.com/content/718d5bac-8bcb-4aaf-8554-08763b6144e4)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Tim Cook
+**[Keep your receipts: Tech firms told to prepare for possible tariff refunds](https://arstechnica.com/tech-policy/2025/11/keep-your-receipts-tech-firms-told-to-prepare-for-possible-tariff-refunds/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: tech firms, chip manufacturers
 
-The article discusses the necessity for Apple to evolve beyond the leadership style of Tim Cook, suggesting a potential shift in strategy or management to maintain growth.
+Tech firms are advised to retain receipts as they may be eligible for tariff refunds amid speculation of delays in chip tariffs. This development could impact financial planning for companies in the sector.
 
-**[Blue Origin revealed some massively cool plans for its New Glenn rocket](https://arstechnica.com/space/2025/11/blue-origin-says-its-just-getting-started-with-the-new-glenn-rocket/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: Blue Origin, New Glenn, 7x2 vehicle
+**[Trump’s grab for Russian frozen assets puts EU Ukraine loan in doubt](https://www.ft.com/content/8922b0f8-e7d8-4874-ac97-3c699a3055a7)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: Trump, EU, Ukraine, Russia
 
-Blue Origin announced plans for its New Glenn rocket, emphasizing an iterative design approach that allows for rapid construction based on their existing 7x2 vehicle.
+Trump's efforts to seize Russian frozen assets may jeopardize the EU's loan to Ukraine, raising concerns about financial stability and geopolitical implications in the region.
 
-**[Flying with whales: Drones are remaking marine mammal research](https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: drones, marine mammals, scientists
+**[Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again](https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: SpaceX, FAA
 
-Aerial drones are revolutionizing marine mammal research by providing scientists with unprecedented aerial views, enhancing data collection and analysis.
+SpaceX's next-generation booster has failed, impacting its launch schedule. Meanwhile, the FAA has lifted the daytime launch curfew following the end of the government shutdown, allowing for increased launch opportunities.
 
-**[“Hey Google, did you upgrade your AI in my Android Auto?”](https://arstechnica.com/cars/2025/11/hey-google-did-you-upgrade-your-ai-in-my-android-auto/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Android Auto
+**[Newest Starship booster is significantly damaged during testing early Friday](https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: SpaceX, Starship
 
-Google is enhancing its AI capabilities in Android Auto, promising improved conversational AI for users. This upgrade aims to enhance the integration of mobile technology in vehicles.
+SpaceX's latest Starship booster suffered significant damage during testing, impacting the company's plans for the upgraded vehicle. This setback may affect timelines for future launches.
 
-**[Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images](https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini 3
+**[Stoke Space goes for broke to solve the only launch problem that “moves the needle”](https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/)**  
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: Stoke Space
 
-Google launches the Nano Banana Pro, leveraging Gemini 3 technology to create more realistic AI-generated images, now available for global use.
+Stoke Space aims to address a critical issue in the launch industry, questioning the necessity of additional rocket companies. Their focus on solving significant launch challenges could impact market dynamics.
 
-**[RFK Jr.’s loathesome edits: CDC website now falsely links vaccines and autism](https://arstechnica.com/health/2025/11/rfk-jr-s-loathesome-edits-cdc-website-now-falsely-links-vaccines-and-autism/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: CDC, RFK Jr.
+**[Lawrence Summers’ extraordinary fall from grace](https://www.ft.com/content/ed977895-0751-4dde-95db-ffd759e0d590)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: Lawrence Summers
 
-The CDC website has been edited to inaccurately suggest a connection between vaccines and autism, contradicting extensive research that disproves this link. This change raises concerns about misinformation in public health communications.
+Lawrence Summers, a prominent economist, faces significant criticism, marking a notable decline in his reputation. This situation raises questions about his influence and the implications for economic policy discussions.
 
-**[Attack, defend, pursue—the Space Force’s new naming scheme foretells new era](https://arstechnica.com/space/2025/11/attack-defend-pursue-the-space-forces-new-naming-scheme-foretells-new-era/)**  
-*tech* · 2025-11-20 · **Imp 4/5** — Entities: Space Force, military technology, defense strategy
+**[The bear case for 2026](https://www.ft.com/content/d8aec181-3547-4c20-bfc8-a7a74b8fbda7)**  
+*finance* · 2025-11-21 · **Imp 4/5** — Entities: FT, journalism, financial markets
 
-The Space Force has introduced a new naming scheme for its weapon systems, emphasizing a strategic approach that reflects its operational goals. This change signals a shift in military technology and defense strategy.
-
-**[The matrix: Ellison overtures for Warner Bros kick off bidding war](https://www.ft.com/content/8e46bd7f-c3f3-4572-af12-12398b0f9fff)**  
-*finance* · 2025-11-20 · **Imp 4/5** — Entities: Larry Ellison, Warner Bros
-
-Larry Ellison's interest in acquiring Warner Bros has initiated a competitive bidding process, potentially reshaping the media landscape and impacting investor sentiment.
-
-**[“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: Hugging Face
-
-Hugging Face CEO warns of an LLM bubble, distinguishing it from a broader AI bubble. The implications for AI investments in sectors like manufacturing remain uncertain.
-
-**[Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/)**  
-*tech* · 2025-11-19 · **Imp 4/5** — Entities: Cloudflare, CEO
-
-A significant outage at Cloudflare was caused by a file that unexpectedly doubled in size, leading to widespread service disruptions. The CEO expressed concerns about potential botnet involvement, although the incident was ultimately self-inflicted.
+The article discusses the potential bearish outlook for 2026, emphasizing the need for quality journalism and expert analysis in navigating financial markets.
