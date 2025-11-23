@@ -3,7 +3,7 @@
 **[Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)**  
 *tech* · 2025-11-21 · **Imp 5/5** — Entities: Google, Justice Department, Judge Leonie Brinkema, Meta, TikTok
 
-Judge Leonie Brinkema is set to rule on whether Google must divest parts of its ad tech business to address its monopoly. The DOJ seeks a forced sale of AdX, while Google argues for behavioral changes. Timing is critical, as appeals could complicate enforcement.
+Judge Leonie Brinkema is set to rule on whether Google must divest parts of its ad tech business to address its monopoly. The DOJ seeks a forced sale of Google's AdX exchange, while Google argues for behavioral changes. Timing is critical as appeals could delay enforcement.
 
 **[Eli Lilly becomes first pharma group to join $1tn club](https://www.ft.com/content/62063045-388a-4bae-b533-ea733ed85627)**  
 *finance* · 2025-11-21 · **Imp 5/5** — Tickers: LLY — Entities: Eli Lilly
@@ -13,7 +13,7 @@ Eli Lilly has achieved a significant milestone by becoming the first pharmaceuti
 **[Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/)**  
 *tech* · 2025-11-21 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI infrastructure
 
-Google's AI infrastructure chief emphasizes the need for a thousandfold increase in capacity over the next five years to meet growing AI demand, indicating a significant shift in operational strategy.
+Google's AI infrastructure chief emphasizes the need to double capacity every six months to meet surging AI demand, projecting a thousandfold increase in five years.
 
 **[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
 *finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
@@ -170,6 +170,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Kyiv’s allies insist more work is needed on US-Russian peace plan](https://www.ft.com/content/ee8acc59-5075-4b93-8b26-31302f0d0d9d)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Entities: Kyiv, US, Russia
+
+Kyiv's allies emphasize the necessity for further efforts on the US-Russian peace plan, indicating ongoing geopolitical tensions that could impact financial markets and investor sentiment.
+
+**[Brazil police take ex-president Jair Bolsonaro into custody](https://www.ft.com/content/3564e5a6-2cc1-4bce-90e3-564b08e29523)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Entities: Brazil, Jair Bolsonaro, police
+
+Brazilian police have taken former president Jair Bolsonaro into custody, marking a significant political event in the country. This development could impact investor sentiment and political stability in Brazil.
+
+**[Apple’s ‘skinny’ iPhone falls flat with disappointing early sales](https://www.ft.com/content/b015206e-dc5b-46cb-b813-98448eb64c9b)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
+
+Apple's new 'skinny' iPhone has underperformed in early sales, raising concerns about its market reception and potential impact on the company's revenue.
+
+**[The warning signal from bitcoin’s fall](https://www.ft.com/content/d0d71c5b-e822-41ba-a86a-f8c460387972)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Entities: Bitcoin, cryptocurrency, investors
+
+Bitcoin's recent decline raises concerns among investors about market stability and potential future volatility, signaling a need for caution in cryptocurrency investments.
+
+**[Kremlin plotted to blame unpopular tax rise on west to shield Putin](https://www.ft.com/content/212673d1-1527-4b70-aa64-7f03e4055fcd)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Entities: Kremlin, Putin, Western influences
+
+The Kremlin is reportedly strategizing to attribute an unpopular tax increase to Western influences, aiming to protect President Putin's image amidst domestic discontent.
+
+**[Oops. Cryptographers cancel election results after losing decryption key.](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)**  
+*tech* · 2025-11-22 · **Imp 4/5** — Entities: cryptographers, voting system
+
+Cryptographers have canceled election results due to the irretrievable loss of one of three required decryption keys, raising concerns about the integrity of the voting system.
+
+**[Trump wields dealmaking diplomacy to shape US foreign policy](https://www.ft.com/content/7743e2ff-edfd-4af2-8498-bb0ec6a20750)**  
+*finance* · 2025-11-22 · **Imp 4/5** — Entities: Trump, US foreign policy
+
+Trump's approach to dealmaking diplomacy is influencing US foreign policy, potentially impacting international relations and economic agreements.
+
+**[Google denies ‘misleading’ reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)**  
+*tech* · 2025-11-22 · **Imp 4/5** — Entities: Google, Malwarebytes, The Verge
+
+Google refutes claims that Gmail emails are used to train its AI, stating that reports are misleading. Users can manage settings for smart features independently, but Gmail content is not utilized for AI model training.
+
 **[Trump envoys issue ultimatum to Ukraine to sign peace deal by Thursday](https://www.ft.com/content/f4112e32-b742-4e91-9c51-aab08067e53e)**  
 *finance* · 2025-11-21 · **Imp 4/5** — Entities: Trump, Ukraine
 
@@ -178,7 +218,7 @@ Trump envoys have issued an ultimatum to Ukraine, demanding a peace deal be sign
 **[Science-centric streaming service Curiosity Stream is an AI-licensing firm now](https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/)**  
 *tech* · 2025-11-21 · **Imp 4/5** — Entities: Curiosity Stream
 
-Curiosity Stream, a science-centric streaming service, has transitioned to an AI-licensing firm, offering more content for AI companies than for its subscribers.
+Curiosity Stream has transitioned into an AI-licensing firm, offering more content for AI companies than for its subscribers, indicating a strategic shift in its business model.
 
 **[Judge shows reluctance to break up Google ads business in US monopoly case](https://www.ft.com/content/07fd1c1d-c7c1-4e83-8679-297cc6311498)**  
 *finance* · 2025-11-21 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, US regulators
@@ -191,9 +231,9 @@ A judge has expressed hesitation in dismantling Google's advertising business am
 Bill Ackman plans to launch an IPO for his hedge fund, Pershing Square, in early 2026, signaling a significant move in the hedge fund industry.
 
 **[How to know if your Asus router is one of thousands hacked by China-state hackers](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: Asus, China-state hackers
+*tech* · 2025-11-21 · **Imp 4/5** — Entities: Asus, Chinese hackers
 
-Asus routers have been targeted by state-sponsored hackers from China, with thousands potentially compromised. The hackers are currently inactive, suggesting a strategy for future exploitation.
+Thousands of Asus routers may have been compromised by state-sponsored Chinese hackers, who are currently inactive but could exploit the vulnerabilities later. Users should verify their devices' security to prevent potential breaches.
 
 **[US stocks rebound after top Fed official signals openness to rate cut](https://www.ft.com/content/24766819-c787-4daf-b421-fb9337fac9ac)**  
 *finance* · 2025-11-21 · **Imp 4/5** — Entities: US stocks, Federal Reserve
@@ -203,49 +243,9 @@ US stocks experienced a rebound following comments from a top Federal Reserve of
 **[AI trained on bacterial genomes produces never-before-seen proteins](https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/)**  
 *tech* · 2025-11-21 · **Imp 4/5** — Entities: AI, bacterial genomes, biotechnology, pharmaceuticals
 
-An AI system has been developed to analyze bacterial genomes, enabling the creation of novel proteins by clustering genes with similar functions. This advancement could have significant implications for biotechnology and pharmaceuticals.
+An AI system has been developed to analyze bacterial genomes, leading to the discovery of novel proteins. This advancement leverages the clustering of genes with similar functions, potentially revolutionizing biotechnology and pharmaceuticals.
 
 **[Tech company CTO and others indicted for exporting Nvidia chips to China](https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/)**  
 *tech* · 2025-11-21 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, tech company, CTO
 
 A tech company's CTO and three others have been indicted for illegally exporting Nvidia chips to China, facing charges of smuggling and money laundering.
-
-**[Data-driven sport: How Red Bull and AT&T move terabytes of F1 info](https://arstechnica.com/cars/2025/11/data-driven-sport-how-red-bull-and-att-move-terabytes-of-f1-info/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: Red Bull Racing, AT&T
-
-Red Bull Racing has significantly enhanced its Formula 1 cars with three times more sensors, enabling the collection of terabytes of data. This advancement, supported by AT&T's technology, underscores the growing importance of data analytics in sports.
-
-**[Keep your receipts: Tech firms told to prepare for possible tariff refunds](https://arstechnica.com/tech-policy/2025/11/keep-your-receipts-tech-firms-told-to-prepare-for-possible-tariff-refunds/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: tech firms, chip manufacturers
-
-Tech firms are advised to retain receipts as they may be eligible for tariff refunds amid speculation of delays in chip tariffs. This development could impact financial planning for companies in the sector.
-
-**[Trump’s grab for Russian frozen assets puts EU Ukraine loan in doubt](https://www.ft.com/content/8922b0f8-e7d8-4874-ac97-3c699a3055a7)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: Trump, EU, Ukraine, Russia
-
-Trump's efforts to seize Russian frozen assets may jeopardize the EU's loan to Ukraine, raising concerns about financial stability and geopolitical implications in the region.
-
-**[Rocket Report: SpaceX’s next-gen booster fails; Pegasus will fly again](https://arstechnica.com/space/2025/11/rocket-report-spacexs-next-gen-booster-fails-pegasus-will-fly-again/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: SpaceX, FAA
-
-SpaceX's next-generation booster has failed, impacting its launch schedule. Meanwhile, the FAA has lifted the daytime launch curfew following the end of the government shutdown, allowing for increased launch opportunities.
-
-**[Newest Starship booster is significantly damaged during testing early Friday](https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: SpaceX, Starship
-
-SpaceX's latest Starship booster suffered significant damage during testing, impacting the company's plans for the upgraded vehicle. This setback may affect timelines for future launches.
-
-**[Stoke Space goes for broke to solve the only launch problem that “moves the needle”](https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: Stoke Space
-
-Stoke Space aims to address a critical issue in the launch industry, questioning the necessity of additional rocket companies. Their focus on solving significant launch challenges could impact market dynamics.
-
-**[Lawrence Summers’ extraordinary fall from grace](https://www.ft.com/content/ed977895-0751-4dde-95db-ffd759e0d590)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: Lawrence Summers
-
-Lawrence Summers, a prominent economist, faces significant criticism, marking a notable decline in his reputation. This situation raises questions about his influence and the implications for economic policy discussions.
-
-**[The bear case for 2026](https://www.ft.com/content/d8aec181-3547-4c20-bfc8-a7a74b8fbda7)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: FT, journalism, financial markets
-
-The article discusses the potential bearish outlook for 2026, emphasizing the need for quality journalism and expert analysis in navigating financial markets.
