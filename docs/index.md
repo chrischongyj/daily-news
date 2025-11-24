@@ -13,7 +13,7 @@ Eli Lilly has achieved a significant milestone by becoming the first pharmaceuti
 **[Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/)**  
 *tech* · 2025-11-21 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI infrastructure
 
-Google's AI infrastructure chief emphasizes the need to double capacity every six months to meet surging AI demand, projecting a thousandfold increase in five years.
+Google's AI infrastructure chief announced the need for a thousandfold capacity increase over the next five years to meet rising AI demand, emphasizing the urgency for employees to double capacity every six months.
 
 **[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
 *finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
@@ -170,6 +170,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Israel targets top Hizbollah commander in Beirut strike](https://www.ft.com/content/c1367e64-731d-48ef-a335-4732dbf18570)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: Israel, Hizbollah
+
+Israel conducted a strike in Beirut aimed at a senior Hizbollah commander, escalating regional tensions. This action may impact geopolitical stability and investor sentiment in the Middle East.
+
+**[G20 defies Trump as leaders press on without the US](https://www.ft.com/content/79ea917f-6fe5-4d89-8a26-971a563994b8)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: G20, Trump, global leaders
+
+G20 leaders continue discussions and initiatives despite the absence of the US, signaling a shift in global economic dynamics and cooperation among member nations.
+
+**[US peace plan: What could Ukraine compromise on?](https://www.ft.com/content/c24e59c2-1d01-4b85-afd3-a928a8ed7e6c)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: Ukraine, US, FT Digital Edition
+
+The article discusses potential compromises Ukraine may consider in peace negotiations, impacting geopolitical stability and economic conditions in the region.
+
+**[Here’s how to make Argentina grow again](https://www.ft.com/content/27e562cd-9460-4983-b9c4-b500bca50db0)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: Argentina, FT
+
+The article discusses strategies for revitalizing Argentina's economy, emphasizing the need for digital access to quality journalism and expert analysis to inform decision-making.
+
+**[Ukraine has no choice but to engage with US peace plan](https://www.ft.com/content/36db3301-5a75-454d-bf0b-8ed660b2b75b)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: Ukraine, US
+
+Ukraine is compelled to engage with the US peace plan, indicating a strategic shift in its diplomatic approach amidst ongoing conflicts.
+
+**[New York and California are losing their shine](https://www.ft.com/content/527f5a03-b2db-4f7d-b0cc-9c6f23f8b04b)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: New York, California, FT
+
+New York and California are experiencing a decline in attractiveness for businesses and investors, signaling potential shifts in economic opportunities.
+
+**[AI risks deepening inequality, says head of world’s largest SWF](https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: sovereign wealth fund, AI, inequality
+
+The head of the world's largest sovereign wealth fund warns that AI could exacerbate economic inequality, highlighting potential risks for investors and the tech industry.
+
+**[Surge in Israeli settler violence shakes West Bank](https://www.ft.com/content/6bc55472-7868-4bf7-875e-42004aad0637)**  
+*finance* · 2025-11-23 · **Imp 4/5** — Entities: Israeli settlers, West Bank
+
+Recent escalations in violence by Israeli settlers in the West Bank have raised concerns about regional stability and its implications for investors and businesses operating in the area.
+
 **[Kyiv’s allies insist more work is needed on US-Russian peace plan](https://www.ft.com/content/ee8acc59-5075-4b93-8b26-31302f0d0d9d)**  
 *finance* · 2025-11-22 · **Imp 4/5** — Entities: Kyiv, US, Russia
 
@@ -196,9 +236,9 @@ Bitcoin's recent decline raises concerns among investors about market stability 
 The Kremlin is reportedly strategizing to attribute an unpopular tax increase to Western influences, aiming to protect President Putin's image amidst domestic discontent.
 
 **[Oops. Cryptographers cancel election results after losing decryption key.](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)**  
-*tech* · 2025-11-22 · **Imp 4/5** — Entities: cryptographers, voting system
+*tech* · 2025-11-22 · **Imp 4/5** — Entities: cryptographers, voting system, election results
 
-Cryptographers have canceled election results due to the irretrievable loss of one of three required decryption keys, raising concerns about the integrity of the voting system.
+Cryptographers have canceled election results due to the loss of a crucial decryption key, which was one of three required for the voting system. This incident raises concerns about the security and reliability of electronic voting systems.
 
 **[Trump wields dealmaking diplomacy to shape US foreign policy](https://www.ft.com/content/7743e2ff-edfd-4af2-8498-bb0ec6a20750)**  
 *finance* · 2025-11-22 · **Imp 4/5** — Entities: Trump, US foreign policy
@@ -209,43 +249,3 @@ Trump's approach to dealmaking diplomacy is influencing US foreign policy, poten
 *tech* · 2025-11-22 · **Imp 4/5** — Entities: Google, Malwarebytes, The Verge
 
 Google refutes claims that Gmail emails are used to train its AI, stating that reports are misleading. Users can manage settings for smart features independently, but Gmail content is not utilized for AI model training.
-
-**[Trump envoys issue ultimatum to Ukraine to sign peace deal by Thursday](https://www.ft.com/content/f4112e32-b742-4e91-9c51-aab08067e53e)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: Trump, Ukraine
-
-Trump envoys have issued an ultimatum to Ukraine, demanding a peace deal be signed by Thursday. This development could significantly impact geopolitical stability and investor sentiment in the region.
-
-**[Science-centric streaming service Curiosity Stream is an AI-licensing firm now](https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: Curiosity Stream
-
-Curiosity Stream has transitioned into an AI-licensing firm, offering more content for AI companies than for its subscribers, indicating a strategic shift in its business model.
-
-**[Judge shows reluctance to break up Google ads business in US monopoly case](https://www.ft.com/content/07fd1c1d-c7c1-4e83-8679-297cc6311498)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, US regulators
-
-A judge has expressed hesitation in dismantling Google's advertising business amid ongoing US monopoly litigation, indicating potential challenges for regulators seeking to enforce antitrust measures.
-
-**[Bill Ackman plots IPO of hedge fund Pershing Square in early 2026](https://www.ft.com/content/27fcabcc-afcb-4847-9883-5035bfd94d3f)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: Bill Ackman, Pershing Square
-
-Bill Ackman plans to launch an IPO for his hedge fund, Pershing Square, in early 2026, signaling a significant move in the hedge fund industry.
-
-**[How to know if your Asus router is one of thousands hacked by China-state hackers](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: Asus, Chinese hackers
-
-Thousands of Asus routers may have been compromised by state-sponsored Chinese hackers, who are currently inactive but could exploit the vulnerabilities later. Users should verify their devices' security to prevent potential breaches.
-
-**[US stocks rebound after top Fed official signals openness to rate cut](https://www.ft.com/content/24766819-c787-4daf-b421-fb9337fac9ac)**  
-*finance* · 2025-11-21 · **Imp 4/5** — Entities: US stocks, Federal Reserve
-
-US stocks experienced a rebound following comments from a top Federal Reserve official indicating a willingness to consider interest rate cuts, which could positively impact market sentiment and investor confidence.
-
-**[AI trained on bacterial genomes produces never-before-seen proteins](https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Entities: AI, bacterial genomes, biotechnology, pharmaceuticals
-
-An AI system has been developed to analyze bacterial genomes, leading to the discovery of novel proteins. This advancement leverages the clustering of genes with similar functions, potentially revolutionizing biotechnology and pharmaceuticals.
-
-**[Tech company CTO and others indicted for exporting Nvidia chips to China](https://arstechnica.com/tech-policy/2025/11/tech-company-cto-and-others-indicted-for-exporting-nvidia-chips-to-china/)**  
-*tech* · 2025-11-21 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, tech company, CTO
-
-A tech company's CTO and three others have been indicted for illegally exporting Nvidia chips to China, facing charges of smuggling and money laundering.
