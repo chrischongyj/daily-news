@@ -13,7 +13,7 @@ Eli Lilly has achieved a significant milestone by becoming the first pharmaceuti
 **[Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/)**  
 *tech* · 2025-11-21 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI infrastructure
 
-Google's AI infrastructure chief announced the need for a thousandfold capacity increase over the next five years to meet rising AI demand, emphasizing the urgency for employees to double capacity every six months.
+Google's AI infrastructure chief emphasizes the need to double capacity every six months to meet surging AI demand, projecting a thousandfold increase in five years.
 
 **[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
 *finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
@@ -170,82 +170,82 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
+*finance* · 2025-01-27 · **Imp 5/5** — Tickers: NVDA — Entities: DeepSeek, Nvidia
+
+Stocks fell sharply as China's DeepSeek developed a cost-effective AI model, undermining Silicon Valley's dominance. Nvidia's shares plummeted 17%, erasing $589 billion in market value and impacting investor sentiment.
+
+**[Anthropic introduces cheaper, more powerful, more efficienct Opus 4.5 model](https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: Anthropic, Claude
+
+Anthropic has launched the Opus 4.5 model, which is cheaper, more powerful, and more efficient, addressing previous criticisms regarding longer chat capabilities of its Claude model.
+
+**[Spotify to raise US prices in first quarter of next year](https://www.ft.com/content/fb490480-5d9a-495f-8c23-f34149bbcadb)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Tickers: SPOT — Entities: Spotify
+
+Spotify plans to increase subscription prices in the US during Q1 2024, potentially impacting user retention and revenue growth.
+
+**[Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?](https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: SpaceX, LOX, methane, aerospace sector
+
+Rivals are opposing SpaceX's Starship plans in Florida, raising concerns about safety regulations regarding LOX-methane vehicles. The debate highlights tensions in the aerospace sector as companies navigate regulatory landscapes.
+
+**[US and Ukraine draft new 19-point peace plan but defer biggest decisions](https://www.ft.com/content/883e5a47-430c-4fc2-85ee-cd6af9bb599d)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Entities: US, Ukraine
+
+The US and Ukraine have developed a new 19-point peace plan, though key decisions remain postponed. This initiative may influence geopolitical stability and economic conditions in the region.
+
+**[US tech stocks notch biggest jump in six months](https://www.ft.com/content/bea68366-f644-44f8-a38d-0c041e4a646d)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Entities: US tech stocks, investors, market
+
+US tech stocks experienced their largest increase in six months, indicating a significant rebound in the sector. This surge may reflect investor confidence and market recovery.
+
+**[DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: DOGE, US government
+
+DOGE has rehired 26,000 experts after significant layoffs, emphasizing a strategy to 'cut muscle, not fat'. This move follows concerns about a government brain drain impacting the US economy.
+
+**[Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition](https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Tickers: QCOM — Entities: Arduino, Qualcomm
+
+Arduino's updated terms of service, which prohibit reverse-engineering, raise concerns among hobbyists, especially in light of Qualcomm's impending acquisition. This shift may impact the open-source ethos that Arduino was built upon.
+
+**[Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: Signal
+
+Signal has introduced secure message backups on iOS, allowing users to store messages and media with end-to-end encryption. A free version offers 100MB storage, while a $1.99/month plan provides 100GB. This feature enhances user data security and will soon extend to desktop applications.
+
+**[Binance founder Changpeng Zhao accused of facilitating payments to Hamas](https://www.ft.com/content/0aea27d8-89a8-4f33-8bfa-2441a16f2b4d)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Entities: Binance, Changpeng Zhao, Hamas
+
+Binance founder Changpeng Zhao faces allegations of facilitating payments to Hamas, raising concerns about the platform's compliance and regulatory scrutiny.
+
+**[What US hedge funds are shorting right now](https://www.ft.com/content/a081aa60-eaca-4413-ba15-489762154c57)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Entities: US hedge funds
+
+The article discusses current short-selling strategies employed by US hedge funds, highlighting specific sectors and stocks they are targeting. This insight can inform investors about market sentiment and potential risks.
+
+**[UK government will buy tech to boost AI sector in $130M growth push](https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: UK government, British startups, AI sector
+
+The UK government is investing $130 million to enhance its AI sector by purchasing technology and providing guaranteed payments to British startups focused on AI hardware development.
+
+**[Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science](https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: Rocket Lab, NASA
+
+Rocket Lab's CEO discusses delays in the Neutron rocket project, the success of the New Glenn rocket, and the importance of NASA in engaging the public's interest in space exploration.
+
+**[“Go generate a bridge and jump off it”: How video pros are navigating AI](https://arstechnica.com/features/2025/11/go-generate-a-bridge-and-jump-off-it-how-video-pros-are-navigating-ai/)**  
+*tech* · 2025-11-24 · **Imp 4/5** — Entities: video professionals, creators, AI
+
+Video professionals are adapting to economic pressures and fan backlash while navigating the impact of AI on their work. Insights from nine creators highlight the challenges and strategies in the evolving landscape.
+
+**[Affordability is Trump’s problem now](https://www.ft.com/content/1d70c4a7-1077-4c5e-b49d-615df13a8382)**  
+*finance* · 2025-11-24 · **Imp 4/5** — Entities: Trump, political analysts
+
+The article discusses how affordability issues are currently a significant challenge for Trump, impacting his political and financial standing.
+
 **[Israel targets top Hizbollah commander in Beirut strike](https://www.ft.com/content/c1367e64-731d-48ef-a335-4732dbf18570)**  
 *finance* · 2025-11-23 · **Imp 4/5** — Entities: Israel, Hizbollah
 
 Israel conducted a strike in Beirut aimed at a senior Hizbollah commander, escalating regional tensions. This action may impact geopolitical stability and investor sentiment in the Middle East.
-
-**[G20 defies Trump as leaders press on without the US](https://www.ft.com/content/79ea917f-6fe5-4d89-8a26-971a563994b8)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: G20, Trump, global leaders
-
-G20 leaders continue discussions and initiatives despite the absence of the US, signaling a shift in global economic dynamics and cooperation among member nations.
-
-**[US peace plan: What could Ukraine compromise on?](https://www.ft.com/content/c24e59c2-1d01-4b85-afd3-a928a8ed7e6c)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: Ukraine, US, FT Digital Edition
-
-The article discusses potential compromises Ukraine may consider in peace negotiations, impacting geopolitical stability and economic conditions in the region.
-
-**[Here’s how to make Argentina grow again](https://www.ft.com/content/27e562cd-9460-4983-b9c4-b500bca50db0)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: Argentina, FT
-
-The article discusses strategies for revitalizing Argentina's economy, emphasizing the need for digital access to quality journalism and expert analysis to inform decision-making.
-
-**[Ukraine has no choice but to engage with US peace plan](https://www.ft.com/content/36db3301-5a75-454d-bf0b-8ed660b2b75b)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: Ukraine, US
-
-Ukraine is compelled to engage with the US peace plan, indicating a strategic shift in its diplomatic approach amidst ongoing conflicts.
-
-**[New York and California are losing their shine](https://www.ft.com/content/527f5a03-b2db-4f7d-b0cc-9c6f23f8b04b)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: New York, California, FT
-
-New York and California are experiencing a decline in attractiveness for businesses and investors, signaling potential shifts in economic opportunities.
-
-**[AI risks deepening inequality, says head of world’s largest SWF](https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: sovereign wealth fund, AI, inequality
-
-The head of the world's largest sovereign wealth fund warns that AI could exacerbate economic inequality, highlighting potential risks for investors and the tech industry.
-
-**[Surge in Israeli settler violence shakes West Bank](https://www.ft.com/content/6bc55472-7868-4bf7-875e-42004aad0637)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: Israeli settlers, West Bank
-
-Recent escalations in violence by Israeli settlers in the West Bank have raised concerns about regional stability and its implications for investors and businesses operating in the area.
-
-**[Kyiv’s allies insist more work is needed on US-Russian peace plan](https://www.ft.com/content/ee8acc59-5075-4b93-8b26-31302f0d0d9d)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Entities: Kyiv, US, Russia
-
-Kyiv's allies emphasize the necessity for further efforts on the US-Russian peace plan, indicating ongoing geopolitical tensions that could impact financial markets and investor sentiment.
-
-**[Brazil police take ex-president Jair Bolsonaro into custody](https://www.ft.com/content/3564e5a6-2cc1-4bce-90e3-564b08e29523)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Entities: Brazil, Jair Bolsonaro, police
-
-Brazilian police have taken former president Jair Bolsonaro into custody, marking a significant political event in the country. This development could impact investor sentiment and political stability in Brazil.
-
-**[Apple’s ‘skinny’ iPhone falls flat with disappointing early sales](https://www.ft.com/content/b015206e-dc5b-46cb-b813-98448eb64c9b)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
-
-Apple's new 'skinny' iPhone has underperformed in early sales, raising concerns about its market reception and potential impact on the company's revenue.
-
-**[The warning signal from bitcoin’s fall](https://www.ft.com/content/d0d71c5b-e822-41ba-a86a-f8c460387972)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Entities: Bitcoin, cryptocurrency, investors
-
-Bitcoin's recent decline raises concerns among investors about market stability and potential future volatility, signaling a need for caution in cryptocurrency investments.
-
-**[Kremlin plotted to blame unpopular tax rise on west to shield Putin](https://www.ft.com/content/212673d1-1527-4b70-aa64-7f03e4055fcd)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Entities: Kremlin, Putin, Western influences
-
-The Kremlin is reportedly strategizing to attribute an unpopular tax increase to Western influences, aiming to protect President Putin's image amidst domestic discontent.
-
-**[Oops. Cryptographers cancel election results after losing decryption key.](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)**  
-*tech* · 2025-11-22 · **Imp 4/5** — Entities: cryptographers, voting system, election results
-
-Cryptographers have canceled election results due to the loss of a crucial decryption key, which was one of three required for the voting system. This incident raises concerns about the security and reliability of electronic voting systems.
-
-**[Trump wields dealmaking diplomacy to shape US foreign policy](https://www.ft.com/content/7743e2ff-edfd-4af2-8498-bb0ec6a20750)**  
-*finance* · 2025-11-22 · **Imp 4/5** — Entities: Trump, US foreign policy
-
-Trump's approach to dealmaking diplomacy is influencing US foreign policy, potentially impacting international relations and economic agreements.
-
-**[Google denies ‘misleading’ reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)**  
-*tech* · 2025-11-22 · **Imp 4/5** — Entities: Google, Malwarebytes, The Verge
-
-Google refutes claims that Gmail emails are used to train its AI, stating that reports are misleading. Users can manage settings for smart features independently, but Gmail content is not utilized for AI model training.
