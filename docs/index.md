@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Google is a near-$4tn monument to monopoly power](https://www.ft.com/content/26584ead-1d6d-4775-96d7-492066837255)**  
+*finance* · 2025-11-25 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, FT
+
+Google's valuation approaches $4 trillion, highlighting its dominance in the digital market and raising concerns about monopoly power in the tech industry.
+
 **[Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)**  
 *tech* · 2025-11-21 · **Imp 5/5** — Entities: Google, Justice Department, Judge Leonie Brinkema, Meta, TikTok
 
@@ -170,82 +175,77 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Stocks Sink in Broad AI Rout Sparked by China's DeepSeek](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)**  
-*finance* · 2025-01-27 · **Imp 5/5** — Tickers: NVDA — Entities: DeepSeek, Nvidia
+**[There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)**  
+*tech* · 2025-11-25 · **Imp 4/5** — Entities: GLP-1 drugs, cardiovascular health, weight management
 
-Stocks fell sharply as China's DeepSeek developed a cost-effective AI model, undermining Silicon Valley's dominance. Nvidia's shares plummeted 17%, erasing $589 billion in market value and impacting investor sentiment.
+A study indicates that 82% of participants using GLP-1 drugs experienced weight regain and deterioration in cardiovascular health after discontinuation, raising concerns about long-term efficacy and safety.
 
-**[Anthropic introduces cheaper, more powerful, more efficienct Opus 4.5 model](https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/)**  
+**[Nvidia shares fall on signs Google gaining upper hand in AI](https://www.ft.com/content/7d0cd87e-99b0-4411-b54f-f5b239af8e76)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Tickers: NVDA, GOOGL — Entities: Nvidia, Google
+
+Nvidia shares have declined as Google appears to be gaining a competitive advantage in the AI sector, raising concerns among investors about Nvidia's market position.
+
+**[Trump sends top envoy to Russia to finalise US peace plan for Ukraine](https://www.ft.com/content/b0d9a52c-60f8-47a3-9ea9-2afcb118c702)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: Trump, US, Russia, Ukraine
+
+Trump has dispatched a senior envoy to Russia to finalize a US peace plan for Ukraine, indicating a potential shift in diplomatic efforts regarding the ongoing conflict.
+
+**[Altice USA accuses creditors of forming ‘illegal cartel’](https://www.ft.com/content/0a0a3887-c340-4699-9bea-fd3044155992)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: Altice USA, creditors
+
+Altice USA has accused its creditors of forming an illegal cartel, potentially impacting its financial negotiations and restructuring efforts.
+
+**[GPU prices are coming to earth just as RAM costs shoot into the stratosphere](https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/)**  
+*tech* · 2025-11-25 · **Imp 4/5** — Entities: GPU, RAM, tech sector
+
+GPU prices are declining, providing relief to consumers, while RAM costs have surged, with some kits increasing over threefold in just three months. This shift in hardware pricing could impact purchasing decisions in the tech sector.
+
+**[Grim retail sales data fuels concerns about health of US economy](https://www.ft.com/content/62539bfd-1b5b-4cde-af0e-a210e6a3d79a)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: US economy, retail sector, consumer confidence
+
+Recent retail sales data raises concerns regarding the health of the US economy, potentially impacting consumer confidence and spending patterns.
+
+**[China launches an emergency lifeboat to bring three astronauts back to Earth](https://arstechnica.com/space/2025/11/china-launches-an-emergency-lifeboat-to-bring-three-astronauts-back-to-earth/)**  
+*tech* · 2025-11-25 · **Imp 4/5** — Entities: China, international space industry
+
+China successfully launched an emergency lifeboat to return three astronauts to Earth, showcasing efficient emergency response capabilities in the international space industry.
+
+**[Bose and Sony headphones are up to $200 off in the run-up to Black Friday](https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025)**  
+*tech* · 2025-11-25 · **Imp 4/5** — Entities: Bose, Sony, Apple, Sonos
+
+Bose and Sony headphones are discounted up to $200 ahead of Black Friday, with significant savings on various models including Apple and Sonos products. Retailers are also offering extended return periods for purchases.
+
+**[Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement](https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/)**  
+*tech* · 2025-11-25 · **Imp 4/5** — Entities: RealPage, DOJ, landlords
+
+RealPage has agreed to a settlement regarding DOJ claims that its software contributed to increased rent prices nationwide, potentially impacting landlords' pricing strategies.
+
+**[The fracturing of the world economy](https://www.ft.com/content/b5157c3c-568e-4a49-ba19-e8bda1fc7bec)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: global economy, international trade, investment
+
+The article discusses the fragmentation of the global economy, highlighting the implications for international trade and investment. It emphasizes the need for businesses to adapt to changing economic landscapes.
+
+**[Making IPOs great again has its pitfalls](https://www.ft.com/content/7c279a94-7561-4278-9207-1ca443b70017)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: FT, IPOs, finance industry
+
+The article discusses the challenges and potential drawbacks of revitalizing IPOs, emphasizing the need for careful consideration in the current financial landscape.
+
+**[Europeans scramble to protect their own security after jolt of Ukraine plan](https://www.ft.com/content/4bb16f41-11ff-48d4-ae9d-25f60f013d3c)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: Europe, Ukraine
+
+Europeans are taking urgent measures to enhance their security in response to the implications of the Ukraine plan, indicating a shift in geopolitical dynamics.
+
+**[‘Scraping for crumbs’: Americans squeezed by affordability crisis](https://www.ft.com/content/cfa60ea1-9a38-433c-a4cd-81b4d358fae3)**  
+*finance* · 2025-11-25 · **Imp 4/5** — Entities: Americans, FT editors
+
+Americans are facing an affordability crisis, struggling to manage rising costs and diminishing purchasing power. This situation highlights the economic pressures affecting consumers and could impact spending behaviors.
+
+**[Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model](https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/)**  
 *tech* · 2025-11-24 · **Imp 4/5** — Entities: Anthropic, Claude
 
-Anthropic has launched the Opus 4.5 model, which is cheaper, more powerful, and more efficient, addressing previous criticisms regarding longer chat capabilities of its Claude model.
+Anthropic has launched the Opus 4.5 model, which is cheaper, more powerful, and more efficient than its predecessors. This update aims to enhance user experience by allowing for longer chat interactions, addressing previous criticisms of the Claude model.
 
 **[Spotify to raise US prices in first quarter of next year](https://www.ft.com/content/fb490480-5d9a-495f-8c23-f34149bbcadb)**  
 *finance* · 2025-11-24 · **Imp 4/5** — Tickers: SPOT — Entities: Spotify
 
 Spotify plans to increase subscription prices in the US during Q1 2024, potentially impacting user retention and revenue growth.
-
-**[Rivals object to SpaceX’s Starship plans in Florida—who’s interfering with whom?](https://arstechnica.com/space/2025/11/rivals-object-to-spacexs-starship-plans-in-florida-whos-interfering-with-whom/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: SpaceX, LOX, methane, aerospace sector
-
-Rivals are opposing SpaceX's Starship plans in Florida, raising concerns about safety regulations regarding LOX-methane vehicles. The debate highlights tensions in the aerospace sector as companies navigate regulatory landscapes.
-
-**[US and Ukraine draft new 19-point peace plan but defer biggest decisions](https://www.ft.com/content/883e5a47-430c-4fc2-85ee-cd6af9bb599d)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Entities: US, Ukraine
-
-The US and Ukraine have developed a new 19-point peace plan, though key decisions remain postponed. This initiative may influence geopolitical stability and economic conditions in the region.
-
-**[US tech stocks notch biggest jump in six months](https://www.ft.com/content/bea68366-f644-44f8-a38d-0c041e4a646d)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Entities: US tech stocks, investors, market
-
-US tech stocks experienced their largest increase in six months, indicating a significant rebound in the sector. This surge may reflect investor confidence and market recovery.
-
-**[DOGE “cut muscle, not fat”; 26K experts rehired after brutal cuts](https://arstechnica.com/tech-policy/2025/11/doge-doesnt-exist-anymore-but-expert-says-its-still-not-dead/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: DOGE, US government
-
-DOGE has rehired 26,000 experts after significant layoffs, emphasizing a strategy to 'cut muscle, not fat'. This move follows concerns about a government brain drain impacting the US economy.
-
-**[Arduino’s new terms of service worries hobbyists ahead of Qualcomm acquisition](https://arstechnica.com/gadgets/2025/11/arduinos-new-terms-of-service-worries-hobbyists-ahead-of-qualcomm-acquisition/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Tickers: QCOM — Entities: Arduino, Qualcomm
-
-Arduino's updated terms of service, which prohibit reverse-engineering, raise concerns among hobbyists, especially in light of Qualcomm's impending acquisition. This shift may impact the open-source ethos that Arduino was built upon.
-
-**[Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: Signal
-
-Signal has introduced secure message backups on iOS, allowing users to store messages and media with end-to-end encryption. A free version offers 100MB storage, while a $1.99/month plan provides 100GB. This feature enhances user data security and will soon extend to desktop applications.
-
-**[Binance founder Changpeng Zhao accused of facilitating payments to Hamas](https://www.ft.com/content/0aea27d8-89a8-4f33-8bfa-2441a16f2b4d)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Entities: Binance, Changpeng Zhao, Hamas
-
-Binance founder Changpeng Zhao faces allegations of facilitating payments to Hamas, raising concerns about the platform's compliance and regulatory scrutiny.
-
-**[What US hedge funds are shorting right now](https://www.ft.com/content/a081aa60-eaca-4413-ba15-489762154c57)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Entities: US hedge funds
-
-The article discusses current short-selling strategies employed by US hedge funds, highlighting specific sectors and stocks they are targeting. This insight can inform investors about market sentiment and potential risks.
-
-**[UK government will buy tech to boost AI sector in $130M growth push](https://arstechnica.com/information-technology/2025/11/uk-government-will-buy-tech-to-boost-ai-sector-in-130m-growth-push/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: UK government, British startups, AI sector
-
-The UK government is investing $130 million to enhance its AI sector by purchasing technology and providing guaranteed payments to British startups focused on AI hardware development.
-
-**[Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science](https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: Rocket Lab, NASA
-
-Rocket Lab's CEO discusses delays in the Neutron rocket project, the success of the New Glenn rocket, and the importance of NASA in engaging the public's interest in space exploration.
-
-**[“Go generate a bridge and jump off it”: How video pros are navigating AI](https://arstechnica.com/features/2025/11/go-generate-a-bridge-and-jump-off-it-how-video-pros-are-navigating-ai/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: video professionals, creators, AI
-
-Video professionals are adapting to economic pressures and fan backlash while navigating the impact of AI on their work. Insights from nine creators highlight the challenges and strategies in the evolving landscape.
-
-**[Affordability is Trump’s problem now](https://www.ft.com/content/1d70c4a7-1077-4c5e-b49d-615df13a8382)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Entities: Trump, political analysts
-
-The article discusses how affordability issues are currently a significant challenge for Trump, impacting his political and financial standing.
-
-**[Israel targets top Hizbollah commander in Beirut strike](https://www.ft.com/content/c1367e64-731d-48ef-a335-4732dbf18570)**  
-*finance* · 2025-11-23 · **Imp 4/5** — Entities: Israel, Hizbollah
-
-Israel conducted a strike in Beirut aimed at a senior Hizbollah commander, escalating regional tensions. This action may impact geopolitical stability and investor sentiment in the Middle East.
