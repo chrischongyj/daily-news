@@ -175,77 +175,77 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/)**  
-*tech* · 2025-11-25 · **Imp 4/5** — Entities: GLP-1 drugs, cardiovascular health, weight management
+**[Megadeals hit new record as Wall Street’s animal spirits roar back](https://www.ft.com/content/d4bf5a2b-b7bd-4cf8-92d6-d8559effd129)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: Wall Street, investors
 
-A study indicates that 82% of participants using GLP-1 drugs experienced weight regain and deterioration in cardiovascular health after discontinuation, raising concerns about long-term efficacy and safety.
+Megadeals have reached a new record, indicating a resurgence of investor confidence on Wall Street. This uptick reflects a renewed enthusiasm for large-scale financial transactions.
 
-**[Nvidia shares fall on signs Google gaining upper hand in AI](https://www.ft.com/content/7d0cd87e-99b0-4411-b54f-f5b239af8e76)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Tickers: NVDA, GOOGL — Entities: Nvidia, Google
+**[Rachel Reeves’ Budget raises UK tax take to all-time high](https://www.ft.com/content/f8a8ad84-e351-4c7b-aa90-e5ce2bf665b4)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: Rachel Reeves, UK government
 
-Nvidia shares have declined as Google appears to be gaining a competitive advantage in the AI sector, raising concerns among investors about Nvidia's market position.
+Rachel Reeves' Budget has increased the UK's tax revenue to an all-time high, signaling significant fiscal changes that may impact economic policies and investor sentiment.
 
-**[Trump sends top envoy to Russia to finalise US peace plan for Ukraine](https://www.ft.com/content/b0d9a52c-60f8-47a3-9ea9-2afcb118c702)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: Trump, US, Russia, Ukraine
+**[‘Spend now, pay later’: Reeves’ Budget delays the fiscal pain](https://www.ft.com/content/ea8550fa-8701-4a1c-85b2-567b421ce212)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: Reeves, FT
 
-Trump has dispatched a senior envoy to Russia to finalize a US peace plan for Ukraine, indicating a potential shift in diplomatic efforts regarding the ongoing conflict.
+The recent budget by Reeves emphasizes a 'spend now, pay later' approach, potentially delaying fiscal repercussions. This strategy may impact economic stability and consumer behavior.
 
-**[Altice USA accuses creditors of forming ‘illegal cartel’](https://www.ft.com/content/0a0a3887-c340-4699-9bea-fd3044155992)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: Altice USA, creditors
+**[The end of Stranger Things: all the news from the Netflix show’s fifth and final season](https://www.theverge.com/entertainment/830031/stranger-things-5-final-season-netflix)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Stranger Things
 
-Altice USA has accused its creditors of forming an illegal cartel, potentially impacting its financial negotiations and restructuring efforts.
+Netflix's flagship series, Stranger Things, will conclude with its fifth season, releasing in three parts from November 26 to December 31. This marks a significant transition for Netflix as it shifts focus from blockbuster shows to a broader content strategy.
 
-**[GPU prices are coming to earth just as RAM costs shoot into the stratosphere](https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/)**  
-*tech* · 2025-11-25 · **Imp 4/5** — Entities: GPU, RAM, tech sector
+**[Solar’s growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: Solar energy, US electricity demand
 
-GPU prices are declining, providing relief to consumers, while RAM costs have surged, with some kits increasing over threefold in just three months. This shift in hardware pricing could impact purchasing decisions in the tech sector.
+Solar energy growth in the US is nearly compensating for the increase in electricity demand, indicating a shift towards renewable energy sources.
 
-**[Grim retail sales data fuels concerns about health of US economy](https://www.ft.com/content/62539bfd-1b5b-4cde-af0e-a210e6a3d79a)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: US economy, retail sector, consumer confidence
+**[RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines](https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: RFK Jr., CDC, Ralph Abraham
 
-Recent retail sales data raises concerns regarding the health of the US economy, potentially impacting consumer confidence and spending patterns.
+RFK Jr.'s appointment of Ralph Abraham as CDC deputy director raises concerns due to his preference for natural immunity over vaccines, potentially impacting public health policy.
 
-**[China launches an emergency lifeboat to bring three astronauts back to Earth](https://arstechnica.com/space/2025/11/china-launches-an-emergency-lifeboat-to-bring-three-astronauts-back-to-earth/)**  
-*tech* · 2025-11-25 · **Imp 4/5** — Entities: China, international space industry
+**[OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: OpenAI, ChatGPT, teen, lawyer
 
-China successfully launched an emergency lifeboat to return three astronauts to Earth, showcasing efficient emergency response capabilities in the international space industry.
+OpenAI stated that a deceased teenager violated its terms of service by using ChatGPT to plan suicide, prompting criticism from legal representatives who find the response troubling.
 
-**[Bose and Sony headphones are up to $200 off in the run-up to Black Friday](https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025)**  
-*tech* · 2025-11-25 · **Imp 4/5** — Entities: Bose, Sony, Apple, Sonos
+**[HP plans to save millions by laying off thousands, ramping up AI use](https://arstechnica.com/information-technology/2025/11/hp-plans-to-save-millions-by-laying-off-thousands-ramping-up-ai-use/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Tickers: HPQ — Entities: HP, AI, product development, internal operations
 
-Bose and Sony headphones are discounted up to $200 ahead of Black Friday, with significant savings on various models including Apple and Sonos products. Retailers are also offering extended return periods for purchases.
+HP is set to lay off thousands of employees to save millions, with a focus on enhancing AI integration in product development and internal operations.
 
-**[Landlords’ go-to tool to set rent prices to be gutted under RealPage settlement](https://arstechnica.com/tech-policy/2025/11/realpage-agrees-to-change-algorithm-so-landlords-cant-collude-on-price-hikes/)**  
-*tech* · 2025-11-25 · **Imp 4/5** — Entities: RealPage, DOJ, landlords
+**[Russia’s Soyuz 5 will soon come alive. But will anyone want to fly on it?](https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: Russia, Soyuz 5, satellite launches
 
-RealPage has agreed to a settlement regarding DOJ claims that its software contributed to increased rent prices nationwide, potentially impacting landlords' pricing strategies.
+Russia's Soyuz 5 rocket is set to launch amidst a diminished Western market for satellite launches due to geopolitical tensions following the invasion of Ukraine.
 
-**[The fracturing of the world economy](https://www.ft.com/content/b5157c3c-568e-4a49-ba19-e8bda1fc7bec)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: global economy, international trade, investment
+**[Vision Pro M5 review: It’s time for Apple to make some tough choices](https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
 
-The article discusses the fragmentation of the global economy, highlighting the implications for international trade and investment. It emphasizes the need for businesses to adapt to changing economic landscapes.
+The Vision Pro M5 review discusses the challenges Apple faces in its product strategy, emphasizing the need for decisive action to enhance user experience and market competitiveness.
 
-**[Making IPOs great again has its pitfalls](https://www.ft.com/content/7c279a94-7561-4278-9207-1ca443b70017)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: FT, IPOs, finance industry
+**[S&P downgrades Tether’s assets to lowest level](https://www.ft.com/content/974926ba-d295-4679-a4ed-7846b7f4242e)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: S&P, Tether
 
-The article discusses the challenges and potential drawbacks of revitalizing IPOs, emphasizing the need for careful consideration in the current financial landscape.
+S&P has downgraded Tether's assets to the lowest level, raising concerns about the stability and reliability of the stablecoin. This could impact investor confidence and market dynamics in the cryptocurrency sector.
 
-**[Europeans scramble to protect their own security after jolt of Ukraine plan](https://www.ft.com/content/4bb16f41-11ff-48d4-ae9d-25f60f013d3c)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: Europe, Ukraine
+**[Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: companies, cryptocurrency, stock buybacks
 
-Europeans are taking urgent measures to enhance their security in response to the implications of the Ukraine plan, indicating a shift in geopolitical dynamics.
+Companies are liquidating their cryptocurrency holdings to finance share buybacks and stabilize their stock prices amid declining share values.
 
-**[‘Scraping for crumbs’: Americans squeezed by affordability crisis](https://www.ft.com/content/cfa60ea1-9a38-433c-a4cd-81b4d358fae3)**  
-*finance* · 2025-11-25 · **Imp 4/5** — Entities: Americans, FT editors
+**[Tech firm’s new CTO gets indicted; company then claims he was never CTO](https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/)**  
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: Corvex, Brian Raymond
 
-Americans are facing an affordability crisis, struggling to manage rising costs and diminishing purchasing power. This situation highlights the economic pressures affecting consumers and could impact spending behaviors.
+Corvex's newly appointed CTO, Brian Raymond, was indicted for illegal chip exports shortly after his appointment. The company subsequently claimed he was never officially the CTO.
 
-**[Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model](https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/)**  
-*tech* · 2025-11-24 · **Imp 4/5** — Entities: Anthropic, Claude
+**[Tether gets junked by SP](https://www.ft.com/content/086f8e0b-7730-470c-bf6d-3a979066a823)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: Tether, Standard & Poor's
 
-Anthropic has launched the Opus 4.5 model, which is cheaper, more powerful, and more efficient than its predecessors. This update aims to enhance user experience by allowing for longer chat interactions, addressing previous criticisms of the Claude model.
+Tether has been downgraded by Standard & Poor's, raising concerns about its financial stability and potential impacts on the cryptocurrency market.
 
-**[Spotify to raise US prices in first quarter of next year](https://www.ft.com/content/fb490480-5d9a-495f-8c23-f34149bbcadb)**  
-*finance* · 2025-11-24 · **Imp 4/5** — Tickers: SPOT — Entities: Spotify
+**[Russia pursues peace deal — on its own terms](https://www.ft.com/content/3742ca9e-a111-49e2-8e4f-756fe57049e9)**  
+*finance* · 2025-11-26 · **Imp 4/5** — Entities: Russia, geopolitical analysts
 
-Spotify plans to increase subscription prices in the US during Q1 2024, potentially impacting user retention and revenue growth.
+Russia is seeking a peace deal that aligns with its own conditions, potentially impacting geopolitical stability and economic relations.
