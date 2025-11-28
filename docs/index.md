@@ -175,6 +175,46 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Belgium says using frozen Russian assets to fund Ukraine will endanger a peace deal](https://www.ft.com/content/320b66d1-0ff9-4cb7-bffd-47fbefcf3608)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: Belgium, Ukraine, Russia
+
+Belgium warns that utilizing frozen Russian assets to finance Ukraine could jeopardize potential peace negotiations. This stance highlights the complexities of international finance and geopolitical relations.
+
+**[Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale)**  
+*tech* · 2025-11-27 · **Imp 4/5** — Entities: Dreame, Amazon, Best Buy
+
+The Dreame X40 Ultra robovac is on sale for $499.99, offering significant savings and advanced features like AI-powered dirt detection and self-cleaning capabilities, making it a top choice for Black Friday shoppers.
+
+**[European nations to fund military-grade surveillance network in space](https://www.ft.com/content/4d61c690-f78c-4aa1-8259-35025fb6c2d7)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: European nations, military, surveillance, space
+
+European nations are collaborating to establish a military-grade surveillance network in space, enhancing security and monitoring capabilities across the continent.
+
+**[Putin plays down Ukraine peace plan as US envoys head to Moscow](https://www.ft.com/content/39cc1303-a3ec-4452-b32e-a678d09baefd)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: Putin, Ukraine, US envoys, Moscow
+
+Putin downplays the Ukraine peace plan amid US envoys' visit to Moscow, signaling potential challenges in diplomatic negotiations.
+
+**[Taming the four horsemen of the infocalypse](https://www.ft.com/content/ae156d04-d724-49f2-b9ad-b288e405b1c2)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: digital access, misinformation, data privacy, cybersecurity, digital monopolies
+
+The article discusses the challenges posed by misinformation, data privacy, cybersecurity, and digital monopolies, referred to as the 'four horsemen of the infocalypse,' and emphasizes the need for quality analysis and expert insights to navigate these issues.
+
+**[SEC probes Jefferies over First Brands](https://www.ft.com/content/86d90ce5-5800-4514-a757-f46a38aa521d)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: SEC, Jefferies, First Brands
+
+The SEC is investigating Jefferies regarding its dealings with First Brands, raising concerns about compliance and regulatory practices in the financial sector.
+
+**[The US is deregulating banks. Will the rest of the world follow?](https://www.ft.com/content/fcfd9596-a8eb-4161-b28e-91e2a3b8bdb4)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: US banks, global financial markets
+
+The US is moving towards deregulating banks, raising questions about whether other countries will adopt similar measures. This shift could impact global financial stability and investor confidence.
+
+**[Leonardo to unveil ‘Michelangelo Dome’ air shield system](https://www.ft.com/content/4b2bf3ff-ace0-4d99-bcb3-74d19862d601)**  
+*finance* · 2025-11-27 · **Imp 4/5** — Entities: Leonardo
+
+Leonardo is set to unveil its 'Michelangelo Dome' air shield system, showcasing advancements in defense technology. This development highlights the company's commitment to innovation in the aerospace and defense sector.
+
 **[Megadeals hit new record as Wall Street’s animal spirits roar back](https://www.ft.com/content/d4bf5a2b-b7bd-4cf8-92d6-d8559effd129)**  
 *finance* · 2025-11-26 · **Imp 4/5** — Entities: Wall Street, investors
 
@@ -196,56 +236,16 @@ The recent budget by Reeves emphasizes a 'spend now, pay later' approach, potent
 Netflix's flagship series, Stranger Things, will conclude with its fifth season, releasing in three parts from November 26 to December 31. This marks a significant transition for Netflix as it shifts focus from blockbuster shows to a broader content strategy.
 
 **[Solar’s growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: Solar energy, US electricity demand
+*tech* · 2025-11-26 · **Imp 4/5** — Entities: solar energy, electricity demand, US energy market
 
-Solar energy growth in the US is nearly compensating for the increase in electricity demand, indicating a shift towards renewable energy sources.
+Solar energy growth in the US is nearing a level that could offset increasing electricity demand, indicating a shift in energy consumption patterns.
 
 **[RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines](https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/)**  
 *tech* · 2025-11-26 · **Imp 4/5** — Entities: RFK Jr., CDC, Ralph Abraham
 
-RFK Jr.'s appointment of Ralph Abraham as CDC deputy director raises concerns due to his preference for natural immunity over vaccines, potentially impacting public health policy.
+RFK Jr.'s new CDC deputy director, Ralph Abraham, advocates for 'natural immunity' over vaccines, raising concerns about public health policies. His appointment has sparked debate regarding the implications for vaccine acceptance and public health strategies.
 
 **[OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)**  
 *tech* · 2025-11-26 · **Imp 4/5** — Entities: OpenAI, ChatGPT, teen, lawyer
 
-OpenAI stated that a deceased teenager violated its terms of service by using ChatGPT to plan suicide, prompting criticism from legal representatives who find the response troubling.
-
-**[HP plans to save millions by laying off thousands, ramping up AI use](https://arstechnica.com/information-technology/2025/11/hp-plans-to-save-millions-by-laying-off-thousands-ramping-up-ai-use/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Tickers: HPQ — Entities: HP, AI, product development, internal operations
-
-HP is set to lay off thousands of employees to save millions, with a focus on enhancing AI integration in product development and internal operations.
-
-**[Russia’s Soyuz 5 will soon come alive. But will anyone want to fly on it?](https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: Russia, Soyuz 5, satellite launches
-
-Russia's Soyuz 5 rocket is set to launch amidst a diminished Western market for satellite launches due to geopolitical tensions following the invasion of Ukraine.
-
-**[Vision Pro M5 review: It’s time for Apple to make some tough choices](https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Tickers: AAPL — Entities: Apple
-
-The Vision Pro M5 review discusses the challenges Apple faces in its product strategy, emphasizing the need for decisive action to enhance user experience and market competitiveness.
-
-**[S&P downgrades Tether’s assets to lowest level](https://www.ft.com/content/974926ba-d295-4679-a4ed-7846b7f4242e)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: S&P, Tether
-
-S&P has downgraded Tether's assets to the lowest level, raising concerns about the stability and reliability of the stablecoin. This could impact investor confidence and market dynamics in the cryptocurrency sector.
-
-**[Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: companies, cryptocurrency, stock buybacks
-
-Companies are liquidating their cryptocurrency holdings to finance share buybacks and stabilize their stock prices amid declining share values.
-
-**[Tech firm’s new CTO gets indicted; company then claims he was never CTO](https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: Corvex, Brian Raymond
-
-Corvex's newly appointed CTO, Brian Raymond, was indicted for illegal chip exports shortly after his appointment. The company subsequently claimed he was never officially the CTO.
-
-**[Tether gets junked by SP](https://www.ft.com/content/086f8e0b-7730-470c-bf6d-3a979066a823)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: Tether, Standard & Poor's
-
-Tether has been downgraded by Standard & Poor's, raising concerns about its financial stability and potential impacts on the cryptocurrency market.
-
-**[Russia pursues peace deal — on its own terms](https://www.ft.com/content/3742ca9e-a111-49e2-8e4f-756fe57049e9)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: Russia, geopolitical analysts
-
-Russia is seeking a peace deal that aligns with its own conditions, potentially impacting geopolitical stability and economic relations.
+OpenAI stated that a deceased teenager violated its terms of service by using ChatGPT to plan suicide, prompting criticism from legal representatives regarding the company's response to the tragic incident.
