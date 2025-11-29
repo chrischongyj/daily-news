@@ -175,6 +175,61 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[The 177 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)**  
+*tech* · 2025-11-28 · **Imp 4/5** — Entities: The Verge, HBO Max, Paramount Plus, Hulu, Disney Plus
+
+Black Friday has launched with significant discounts on tech products, including AirPods Pro 3 and Kindle Paperwhite, as well as streaming service subscriptions. The Verge highlights the best deals, emphasizing quality and rarity of discounts.
+
+**[Trump to pardon ex-Honduran president serving 45 years for drug trafficking](https://www.ft.com/content/04cdbfa0-38a4-4fef-a0b5-57d612455d90)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: Trump, Honduras, drug trafficking
+
+Former Honduran President, serving 45 years for drug trafficking, is set to be pardoned by Trump, raising significant legal and political implications.
+
+**[Airline travellers face disruption after Airbus warns A320 jets need software fix](https://www.ft.com/content/b730b275-1ec3-496d-9e19-b660621f5701)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: Airbus, airlines, travelers
+
+Airbus has announced that A320 jets require a software fix, potentially disrupting airline operations and affecting travelers. This warning highlights ongoing challenges in the aviation sector.
+
+**[I’m a laptop reviewer, and these are the Black Friday deals I’d shop—many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)**  
+*tech* · 2025-11-28 · **Imp 4/5** — Entities: Apple, Microsoft, HP, Lenovo, Asus
+
+Black Friday offers significant discounts on laptops, with savings over $400 on various models from brands like Apple, Microsoft, HP, and Lenovo. This is an opportune time for consumers to purchase current-gen laptops before new releases at CES in January.
+
+**[Zelenskyy loses brother-in-arms in Kyiv power shift](https://www.ft.com/content/56f7d3c0-7704-431b-8e4a-e332802afb9e)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: Zelenskyy, Kyiv
+
+Ukrainian President Zelenskyy faces a significant power shift in Kyiv following the loss of a key ally, impacting his administration's stability and future policies.
+
+**[The MD moment in an investment banking career](https://www.ft.com/content/e8eb966d-992e-4704-9bfb-bed0029e4650)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: investment banking, financial journalism
+
+The article discusses the significance of the Managing Director (MD) role in investment banking, highlighting career progression and the impact of digital access to financial journalism for industry insights.
+
+**[Top Zelenskyy aide quits amid corruption probe](https://www.ft.com/content/001a05d9-3ce4-4c15-903e-fbc4894085f2)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: Zelenskyy, Ukraine, corruption probe
+
+A top aide to Ukrainian President Zelenskyy has resigned amidst an ongoing corruption investigation, raising concerns about governance and stability in Ukraine.
+
+**[Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/)**  
+*tech* · 2025-11-28 · **Imp 4/5** — Entities: Soyuz, ISS
+
+A Soyuz launch was jeopardized due to a 20-ton service platform being unsecured, highlighting the critical role of the ISS in space leadership.
+
+**[War-linked assets rally on US push for peace in Ukraine](https://www.ft.com/content/6f8a8b1d-3469-4902-9bd5-056ea1654878)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: US, Ukraine, investors
+
+Assets linked to the Ukraine conflict are experiencing a rally due to the US's renewed efforts for peace negotiations. This shift may influence investor sentiment and market dynamics in related sectors.
+
+**[Former Intel chief Pat Gelsinger: ‘I’ve been called here for a purpose’](https://www.ft.com/content/0b394037-65c0-4664-9b40-10115a2c55c0)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Tickers: INTC — Entities: Pat Gelsinger, Intel
+
+Former Intel CEO Pat Gelsinger discusses his mission at Intel, emphasizing strategic goals and innovation in technology. His leadership aims to revitalize the company amidst industry challenges.
+
+**[OpenAI partners amass $100bn debt pile to fund its ambitions](https://www.ft.com/content/5605d086-289e-4b5f-803b-4c13666976a5)**  
+*finance* · 2025-11-28 · **Imp 4/5** — Entities: OpenAI
+
+OpenAI's partners have accumulated a $100 billion debt to support their growth initiatives, indicating significant financial backing for its ambitious projects.
+
 **[Belgium says using frozen Russian assets to fund Ukraine will endanger a peace deal](https://www.ft.com/content/320b66d1-0ff9-4cb7-bffd-47fbefcf3608)**  
 *finance* · 2025-11-27 · **Imp 4/5** — Entities: Belgium, Ukraine, Russia
 
@@ -194,58 +249,3 @@ European nations are collaborating to establish a military-grade surveillance ne
 *finance* · 2025-11-27 · **Imp 4/5** — Entities: Putin, Ukraine, US envoys, Moscow
 
 Putin downplays the Ukraine peace plan amid US envoys' visit to Moscow, signaling potential challenges in diplomatic negotiations.
-
-**[Taming the four horsemen of the infocalypse](https://www.ft.com/content/ae156d04-d724-49f2-b9ad-b288e405b1c2)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: digital access, misinformation, data privacy, cybersecurity, digital monopolies
-
-The article discusses the challenges posed by misinformation, data privacy, cybersecurity, and digital monopolies, referred to as the 'four horsemen of the infocalypse,' and emphasizes the need for quality analysis and expert insights to navigate these issues.
-
-**[SEC probes Jefferies over First Brands](https://www.ft.com/content/86d90ce5-5800-4514-a757-f46a38aa521d)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: SEC, Jefferies, First Brands
-
-The SEC is investigating Jefferies regarding its dealings with First Brands, raising concerns about compliance and regulatory practices in the financial sector.
-
-**[The US is deregulating banks. Will the rest of the world follow?](https://www.ft.com/content/fcfd9596-a8eb-4161-b28e-91e2a3b8bdb4)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: US banks, global financial markets
-
-The US is moving towards deregulating banks, raising questions about whether other countries will adopt similar measures. This shift could impact global financial stability and investor confidence.
-
-**[Leonardo to unveil ‘Michelangelo Dome’ air shield system](https://www.ft.com/content/4b2bf3ff-ace0-4d99-bcb3-74d19862d601)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: Leonardo
-
-Leonardo is set to unveil its 'Michelangelo Dome' air shield system, showcasing advancements in defense technology. This development highlights the company's commitment to innovation in the aerospace and defense sector.
-
-**[Megadeals hit new record as Wall Street’s animal spirits roar back](https://www.ft.com/content/d4bf5a2b-b7bd-4cf8-92d6-d8559effd129)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: Wall Street, investors
-
-Megadeals have reached a new record, indicating a resurgence of investor confidence on Wall Street. This uptick reflects a renewed enthusiasm for large-scale financial transactions.
-
-**[Rachel Reeves’ Budget raises UK tax take to all-time high](https://www.ft.com/content/f8a8ad84-e351-4c7b-aa90-e5ce2bf665b4)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: Rachel Reeves, UK government
-
-Rachel Reeves' Budget has increased the UK's tax revenue to an all-time high, signaling significant fiscal changes that may impact economic policies and investor sentiment.
-
-**[‘Spend now, pay later’: Reeves’ Budget delays the fiscal pain](https://www.ft.com/content/ea8550fa-8701-4a1c-85b2-567b421ce212)**  
-*finance* · 2025-11-26 · **Imp 4/5** — Entities: Reeves, FT
-
-The recent budget by Reeves emphasizes a 'spend now, pay later' approach, potentially delaying fiscal repercussions. This strategy may impact economic stability and consumer behavior.
-
-**[The end of Stranger Things: all the news from the Netflix show’s fifth and final season](https://www.theverge.com/entertainment/830031/stranger-things-5-final-season-netflix)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Stranger Things
-
-Netflix's flagship series, Stranger Things, will conclude with its fifth season, releasing in three parts from November 26 to December 31. This marks a significant transition for Netflix as it shifts focus from blockbuster shows to a broader content strategy.
-
-**[Solar’s growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: solar energy, electricity demand, US energy market
-
-Solar energy growth in the US is nearing a level that could offset increasing electricity demand, indicating a shift in energy consumption patterns.
-
-**[RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines](https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: RFK Jr., CDC, Ralph Abraham
-
-RFK Jr.'s new CDC deputy director, Ralph Abraham, advocates for 'natural immunity' over vaccines, raising concerns about public health policies. His appointment has sparked debate regarding the implications for vaccine acceptance and public health strategies.
-
-**[OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)**  
-*tech* · 2025-11-26 · **Imp 4/5** — Entities: OpenAI, ChatGPT, teen, lawyer
-
-OpenAI stated that a deceased teenager violated its terms of service by using ChatGPT to plan suicide, prompting criticism from legal representatives regarding the company's response to the tragic incident.
