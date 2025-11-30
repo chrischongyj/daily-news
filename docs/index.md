@@ -175,6 +175,36 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Chinese parts supplier takes stake in leading Russian drone maker](https://www.ft.com/content/e907c2fa-2d3b-4269-bc6c-b2fee4d9f688)**  
+*finance* · 2025-11-29 · **Imp 4/5** — Entities: Chinese parts supplier, Russian drone maker
+
+A Chinese parts supplier has acquired a stake in a prominent Russian drone manufacturer, signaling increased collaboration between the two countries in the defense technology sector.
+
+**[Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/)**  
+*tech* · 2025-11-29 · **Imp 4/5** — Entities: HIV, engineered antibodies, functional cures
+
+Recent trials using engineered antibodies show promise for achieving functional cures for HIV, potentially leading to lasting remission for patients.
+
+**[China launches nationwide high-rise inspections after deadly Hong Kong fire](https://www.ft.com/content/8bf428d4-b675-4296-963a-1b43ece6e739)**  
+*finance* · 2025-11-29 · **Imp 4/5** — Entities: China, Hong Kong, high-rise buildings, safety regulations
+
+China initiates nationwide inspections of high-rise buildings following a deadly fire in Hong Kong, aiming to enhance safety regulations and prevent future incidents.
+
+**[Dan Driscoll, the unlikely Ukraine envoy with his eye on the Pentagon](https://www.ft.com/content/005c1ee0-7f68-4a8e-9a24-0b5801923da0)**  
+*finance* · 2025-11-29 · **Imp 4/5** — Entities: Dan Driscoll, Ukraine, Pentagon
+
+Dan Driscoll has emerged as a key envoy for Ukraine, focusing on defense and military support from the Pentagon amid ongoing geopolitical tensions.
+
+**[Swatch activist lambasts Omega owner’s ‘worst-in-class’ governance](https://www.ft.com/content/623cc35d-2d54-4aa8-a6f3-66586c45f1b7)**  
+*finance* · 2025-11-29 · **Imp 4/5** — Entities: Swatch Group, Omega
+
+An activist investor criticizes Swatch Group's governance, labeling it as 'worst-in-class.' This highlights ongoing concerns regarding corporate governance in the luxury watch sector.
+
+**[Venezuela’s wily ruler digs in to defy Trump](https://www.ft.com/content/b6c8b7cd-68dc-4653-9446-862c8d88ebe3)**  
+*finance* · 2025-11-29 · **Imp 4/5** — Entities: Venezuela, Trump
+
+Venezuela's leadership is taking a defiant stance against U.S. policies under Trump, impacting the country's economic landscape and international relations.
+
 **[The 177 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)**  
 *tech* · 2025-11-28 · **Imp 4/5** — Entities: The Verge, HBO Max, Paramount Plus, Hulu, Disney Plus
 
@@ -213,39 +243,9 @@ A top aide to Ukrainian President Zelenskyy has resigned amidst an ongoing corru
 **[Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/)**  
 *tech* · 2025-11-28 · **Imp 4/5** — Entities: Soyuz, ISS
 
-A Soyuz launch was jeopardized due to a 20-ton service platform being unsecured, highlighting the critical role of the ISS in space leadership.
+A 20-ton service platform was not secured before a Soyuz launch, raising concerns about operational protocols and safety in space missions. This incident highlights the critical role of the ISS in maintaining leadership in space exploration.
 
 **[War-linked assets rally on US push for peace in Ukraine](https://www.ft.com/content/6f8a8b1d-3469-4902-9bd5-056ea1654878)**  
 *finance* · 2025-11-28 · **Imp 4/5** — Entities: US, Ukraine, investors
 
 Assets linked to the Ukraine conflict are experiencing a rally due to the US's renewed efforts for peace negotiations. This shift may influence investor sentiment and market dynamics in related sectors.
-
-**[Former Intel chief Pat Gelsinger: ‘I’ve been called here for a purpose’](https://www.ft.com/content/0b394037-65c0-4664-9b40-10115a2c55c0)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Tickers: INTC — Entities: Pat Gelsinger, Intel
-
-Former Intel CEO Pat Gelsinger discusses his mission at Intel, emphasizing strategic goals and innovation in technology. His leadership aims to revitalize the company amidst industry challenges.
-
-**[OpenAI partners amass $100bn debt pile to fund its ambitions](https://www.ft.com/content/5605d086-289e-4b5f-803b-4c13666976a5)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: OpenAI
-
-OpenAI's partners have accumulated a $100 billion debt to support their growth initiatives, indicating significant financial backing for its ambitious projects.
-
-**[Belgium says using frozen Russian assets to fund Ukraine will endanger a peace deal](https://www.ft.com/content/320b66d1-0ff9-4cb7-bffd-47fbefcf3608)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: Belgium, Ukraine, Russia
-
-Belgium warns that utilizing frozen Russian assets to finance Ukraine could jeopardize potential peace negotiations. This stance highlights the complexities of international finance and geopolitical relations.
-
-**[Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale)**  
-*tech* · 2025-11-27 · **Imp 4/5** — Entities: Dreame, Amazon, Best Buy
-
-The Dreame X40 Ultra robovac is on sale for $499.99, offering significant savings and advanced features like AI-powered dirt detection and self-cleaning capabilities, making it a top choice for Black Friday shoppers.
-
-**[European nations to fund military-grade surveillance network in space](https://www.ft.com/content/4d61c690-f78c-4aa1-8259-35025fb6c2d7)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: European nations, military, surveillance, space
-
-European nations are collaborating to establish a military-grade surveillance network in space, enhancing security and monitoring capabilities across the continent.
-
-**[Putin plays down Ukraine peace plan as US envoys head to Moscow](https://www.ft.com/content/39cc1303-a3ec-4452-b32e-a678d09baefd)**  
-*finance* · 2025-11-27 · **Imp 4/5** — Entities: Putin, Ukraine, US envoys, Moscow
-
-Putin downplays the Ukraine peace plan amid US envoys' visit to Moscow, signaling potential challenges in diplomatic negotiations.
