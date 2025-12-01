@@ -175,6 +175,56 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)**  
+*tech* · 2025-11-30 · **Imp 4/5** — Entities: Apple, Razer, HP, Microsoft, Lenovo, Asus, Nuphy, Insta360
+
+Cyber Monday offers significant discounts on laptops from major brands like Apple, HP, and Lenovo, making it an ideal time for tech purchases ahead of new releases at CES in January.
+
+**[Ukraine says it held ‘difficult but productive’ talks with US on peace plan](https://www.ft.com/content/feea78a5-364a-4296-895b-a68323fe4944)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: Ukraine, United States
+
+Ukraine reported 'difficult but productive' discussions with the US regarding a peace plan, indicating ongoing diplomatic efforts amidst conflict.
+
+**[My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)**  
+*tech* · 2025-11-30 · **Imp 4/5** — Entities: Samsung, Sony, Hisense, Sonos
+
+Cyber Monday offers up to 50% off on TVs, streaming devices, and soundbars from major brands like Samsung and Sony, with significant discounts on both last year's and current models, enhancing home theater setups.
+
+**[Nato considers being ‘more aggressive’ against Russia’s hybrid warfare](https://www.ft.com/content/dbd93caa-3c62-48bb-9eba-08c25f31ab02)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: NATO, Russia
+
+NATO is contemplating a more aggressive stance in response to Russia's hybrid warfare tactics, emphasizing the need for enhanced strategic measures.
+
+**[US strike on Venezuelan vessel could be war crime, say lawmakers](https://www.ft.com/content/16a45061-99a6-4db3-a361-6d960d32335c)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: US lawmakers, Venezuelan vessel
+
+US lawmakers suggest that a recent strike on a Venezuelan vessel may constitute a war crime, raising concerns about international law and military engagement.
+
+**[Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)**  
+*tech* · 2025-11-30 · **Imp 4/5** — Entities: Apple, Sony, Bose, Sonos, Nothing
+
+Cyber Monday offers significant discounts on headphones and earbuds from brands like Apple, Sony, and Bose, with prices at all-time lows. Retailers are also extending return periods, enhancing buyer confidence.
+
+**[Swiss voters reject 50% inheritance tax for the super-rich](https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: Swiss voters, super-rich, tax policy
+
+Swiss voters have rejected a proposal for a 50% inheritance tax aimed at the super-rich, impacting wealth distribution and tax policy discussions in the country.
+
+**[Netanyahu asks Israeli president for pardon to end corruption case](https://www.ft.com/content/800512dc-ebc1-4fee-b6cd-0e65bbd62dea)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: Netanyahu, Israeli president
+
+Israeli Prime Minister Netanyahu has requested a pardon from the president to conclude his ongoing corruption case, which could have significant political and economic implications.
+
+**[Doge, crypto and the end of the lol era](https://www.ft.com/content/80e4c6f2-faa5-491e-a12c-4ab65cc7eb82)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: Dogecoin, cryptocurrency, investors
+
+The article discusses the decline of the 'lol era' in cryptocurrency, particularly focusing on Dogecoin and its implications for the market. It highlights the shift in investor sentiment and the need for serious analysis in the crypto space.
+
+**[OpenAI’s lead under pressure as rivals start to close the gap](https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3)**  
+*finance* · 2025-11-30 · **Imp 4/5** — Entities: OpenAI, competitors, investors
+
+OpenAI faces increasing competition as rivals enhance their capabilities, potentially impacting its market position and investor confidence.
+
 **[Chinese parts supplier takes stake in leading Russian drone maker](https://www.ft.com/content/e907c2fa-2d3b-4269-bc6c-b2fee4d9f688)**  
 *finance* · 2025-11-29 · **Imp 4/5** — Entities: Chinese parts supplier, Russian drone maker
 
@@ -183,7 +233,7 @@ A Chinese parts supplier has acquired a stake in a prominent Russian drone manuf
 **[Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/)**  
 *tech* · 2025-11-29 · **Imp 4/5** — Entities: HIV, engineered antibodies, functional cures
 
-Recent trials using engineered antibodies show promise for achieving functional cures for HIV, potentially leading to lasting remission for patients.
+Recent trials with engineered antibodies show potential for achieving functional cures for HIV, indicating a significant advancement in treatment options.
 
 **[China launches nationwide high-rise inspections after deadly Hong Kong fire](https://www.ft.com/content/8bf428d4-b675-4296-963a-1b43ece6e739)**  
 *finance* · 2025-11-29 · **Imp 4/5** — Entities: China, Hong Kong, high-rise buildings, safety regulations
@@ -199,53 +249,3 @@ Dan Driscoll has emerged as a key envoy for Ukraine, focusing on defense and mil
 *finance* · 2025-11-29 · **Imp 4/5** — Entities: Swatch Group, Omega
 
 An activist investor criticizes Swatch Group's governance, labeling it as 'worst-in-class.' This highlights ongoing concerns regarding corporate governance in the luxury watch sector.
-
-**[Venezuela’s wily ruler digs in to defy Trump](https://www.ft.com/content/b6c8b7cd-68dc-4653-9446-862c8d88ebe3)**  
-*finance* · 2025-11-29 · **Imp 4/5** — Entities: Venezuela, Trump
-
-Venezuela's leadership is taking a defiant stance against U.S. policies under Trump, impacting the country's economic landscape and international relations.
-
-**[The 177 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)**  
-*tech* · 2025-11-28 · **Imp 4/5** — Entities: The Verge, HBO Max, Paramount Plus, Hulu, Disney Plus
-
-Black Friday has launched with significant discounts on tech products, including AirPods Pro 3 and Kindle Paperwhite, as well as streaming service subscriptions. The Verge highlights the best deals, emphasizing quality and rarity of discounts.
-
-**[Trump to pardon ex-Honduran president serving 45 years for drug trafficking](https://www.ft.com/content/04cdbfa0-38a4-4fef-a0b5-57d612455d90)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: Trump, Honduras, drug trafficking
-
-Former Honduran President, serving 45 years for drug trafficking, is set to be pardoned by Trump, raising significant legal and political implications.
-
-**[Airline travellers face disruption after Airbus warns A320 jets need software fix](https://www.ft.com/content/b730b275-1ec3-496d-9e19-b660621f5701)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: Airbus, airlines, travelers
-
-Airbus has announced that A320 jets require a software fix, potentially disrupting airline operations and affecting travelers. This warning highlights ongoing challenges in the aviation sector.
-
-**[I’m a laptop reviewer, and these are the Black Friday deals I’d shop—many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)**  
-*tech* · 2025-11-28 · **Imp 4/5** — Entities: Apple, Microsoft, HP, Lenovo, Asus
-
-Black Friday offers significant discounts on laptops, with savings over $400 on various models from brands like Apple, Microsoft, HP, and Lenovo. This is an opportune time for consumers to purchase current-gen laptops before new releases at CES in January.
-
-**[Zelenskyy loses brother-in-arms in Kyiv power shift](https://www.ft.com/content/56f7d3c0-7704-431b-8e4a-e332802afb9e)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: Zelenskyy, Kyiv
-
-Ukrainian President Zelenskyy faces a significant power shift in Kyiv following the loss of a key ally, impacting his administration's stability and future policies.
-
-**[The MD moment in an investment banking career](https://www.ft.com/content/e8eb966d-992e-4704-9bfb-bed0029e4650)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: investment banking, financial journalism
-
-The article discusses the significance of the Managing Director (MD) role in investment banking, highlighting career progression and the impact of digital access to financial journalism for industry insights.
-
-**[Top Zelenskyy aide quits amid corruption probe](https://www.ft.com/content/001a05d9-3ce4-4c15-903e-fbc4894085f2)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: Zelenskyy, Ukraine, corruption probe
-
-A top aide to Ukrainian President Zelenskyy has resigned amidst an ongoing corruption investigation, raising concerns about governance and stability in Ukraine.
-
-**[Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/)**  
-*tech* · 2025-11-28 · **Imp 4/5** — Entities: Soyuz, ISS
-
-A 20-ton service platform was not secured before a Soyuz launch, raising concerns about operational protocols and safety in space missions. This incident highlights the critical role of the ISS in maintaining leadership in space exploration.
-
-**[War-linked assets rally on US push for peace in Ukraine](https://www.ft.com/content/6f8a8b1d-3469-4902-9bd5-056ea1654878)**  
-*finance* · 2025-11-28 · **Imp 4/5** — Entities: US, Ukraine, investors
-
-Assets linked to the Ukraine conflict are experiencing a rally due to the US's renewed efforts for peace negotiations. This shift may influence investor sentiment and market dynamics in related sectors.
