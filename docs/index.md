@@ -175,77 +175,77 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)**  
-*tech* · 2025-11-30 · **Imp 4/5** — Entities: Apple, Razer, HP, Microsoft, Lenovo, Asus, Nuphy, Insta360
+**[We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Entities: Microsoft, Apple, Razer, HP, Elgato
 
-Cyber Monday offers significant discounts on laptops from major brands like Apple, HP, and Lenovo, making it an ideal time for tech purchases ahead of new releases at CES in January.
+Cyber Monday offers significant discounts on laptops from major brands like Microsoft, Apple, and Razer. This is an optimal time for consumers to purchase laptops and accessories before new models are announced at CES, which may not see discounts for months.
 
-**[Ukraine says it held ‘difficult but productive’ talks with US on peace plan](https://www.ft.com/content/feea78a5-364a-4296-895b-a68323fe4944)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: Ukraine, United States
+**[Supreme Court hears case that could trigger big crackdown on Internet piracy](https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Entities: Supreme Court, Cox Communications, Sony
 
-Ukraine reported 'difficult but productive' discussions with the US regarding a peace plan, indicating ongoing diplomatic efforts amidst conflict.
+The Supreme Court is deliberating a case that may lead to significant measures against Internet piracy, focusing on Cox Communications' responsibilities and questioning Sony's stringent requirements.
 
-**[My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)**  
-*tech* · 2025-11-30 · **Imp 4/5** — Entities: Samsung, Sony, Hisense, Sonos
+**[OpenAI desperate to avoid explaining why it deleted pirated book datasets](https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Entities: OpenAI
 
-Cyber Monday offers up to 50% off on TVs, streaming devices, and soundbars from major brands like Samsung and Sony, with significant discounts on both last year's and current models, enhancing home theater setups.
+OpenAI faces potential fines for deleting datasets of pirated books, raising concerns about transparency and compliance in data management.
 
-**[Nato considers being ‘more aggressive’ against Russia’s hybrid warfare](https://www.ft.com/content/dbd93caa-3c62-48bb-9eba-08c25f31ab02)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: NATO, Russia
+**[In Myanmar, illicit rare-earth mining is taking a heavy toll](https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Entities: Myanmar, ethnic armies, rare-earth mining
 
-NATO is contemplating a more aggressive stance in response to Russia's hybrid warfare tactics, emphasizing the need for enhanced strategic measures.
+Illicit rare-earth mining in Myanmar, dominated by ethnic armies, is causing significant environmental and social damage. This uncontrolled activity raises concerns about sustainability and ethical sourcing in the tech industry.
 
-**[US strike on Venezuelan vessel could be war crime, say lawmakers](https://www.ft.com/content/16a45061-99a6-4db3-a361-6d960d32335c)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: US lawmakers, Venezuelan vessel
+**[Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off](https://www.ft.com/content/b7fdf1c7-c819-4687-8827-a5e3efd39a13)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Strategy, Bitcoin
 
-US lawmakers suggest that a recent strike on a Venezuelan vessel may constitute a war crime, raising concerns about international law and military engagement.
+Strategy, a pro-Bitcoin firm, introduces a 'dollar reserve' during a significant crypto sell-off, aiming to provide stability and attract investors amid market volatility.
 
-**[Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)**  
-*tech* · 2025-11-30 · **Imp 4/5** — Entities: Apple, Sony, Bose, Sonos, Nothing
+**[Global bonds slide after hawkish Bank of Japan comments](https://www.ft.com/content/1fa982a7-90b9-4499-bdb5-cf95ac61c75c)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Bank of Japan
 
-Cyber Monday offers significant discounts on headphones and earbuds from brands like Apple, Sony, and Bose, with prices at all-time lows. Retailers are also extending return periods, enhancing buyer confidence.
+Global bonds experienced a decline following hawkish comments from the Bank of Japan, signaling potential shifts in monetary policy that could impact interest rates and investor sentiment.
 
-**[Swiss voters reject 50% inheritance tax for the super-rich](https://www.ft.com/content/f03fdcf8-d032-40ef-9ea1-ff32c182df8a)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: Swiss voters, super-rich, tax policy
+**[After a Witcher-free decade, CDPR still promises three sequels in six years](https://arstechnica.com/gaming/2025/12/after-a-witcher-free-decade-cdpr-still-promises-three-sequels-in-six-years/)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Tickers: CDR — Entities: CD Projekt Red, Unreal Engine, Witcher
 
-Swiss voters have rejected a proposal for a 50% inheritance tax aimed at the super-rich, impacting wealth distribution and tax policy discussions in the country.
+CD Projekt Red (CDPR) plans to release three sequels over the next six years, leveraging Unreal Engine for accelerated development, following a decade without new Witcher titles.
 
-**[Netanyahu asks Israeli president for pardon to end corruption case](https://www.ft.com/content/800512dc-ebc1-4fee-b6cd-0e65bbd62dea)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: Netanyahu, Israeli president
+**[Blackstone, Apollo and KKR sign up to UK stress test of private credit](https://www.ft.com/content/31387dbd-6a86-4449-8ea1-4de0e8861615)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Blackstone, Apollo, KKR, UK
 
-Israeli Prime Minister Netanyahu has requested a pardon from the president to conclude his ongoing corruption case, which could have significant political and economic implications.
+Blackstone, Apollo, and KKR participate in a UK stress test for private credit, indicating a proactive approach to risk management in the sector.
 
-**[Doge, crypto and the end of the lol era](https://www.ft.com/content/80e4c6f2-faa5-491e-a12c-4ab65cc7eb82)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: Dogecoin, cryptocurrency, investors
+**[Steve Cohen moves closer to gaining lucrative New York City casino licence](https://www.ft.com/content/9fe3f250-4fc4-46be-821c-a730e6a6556b)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Steve Cohen, New York City, casino industry
 
-The article discusses the decline of the 'lol era' in cryptocurrency, particularly focusing on Dogecoin and its implications for the market. It highlights the shift in investor sentiment and the need for serious analysis in the crypto space.
+Steve Cohen is advancing towards acquiring a valuable casino license in New York City, potentially impacting the gaming and entertainment sectors.
 
-**[OpenAI’s lead under pressure as rivals start to close the gap](https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3)**  
-*finance* · 2025-11-30 · **Imp 4/5** — Entities: OpenAI, competitors, investors
+**[Space CEO explains why he believes private space stations are a viable business](https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/)**  
+*tech* · 2025-12-01 · **Imp 4/5** — Entities: Dylan Taylor, Voyager Technologies
 
-OpenAI faces increasing competition as rivals enhance their capabilities, potentially impacting its market position and investor confidence.
+Dylan Taylor, CEO of Voyager Technologies, discusses the potential of private space stations as a viable business opportunity, highlighting advancements in the space industry.
 
-**[Chinese parts supplier takes stake in leading Russian drone maker](https://www.ft.com/content/e907c2fa-2d3b-4269-bc6c-b2fee4d9f688)**  
-*finance* · 2025-11-29 · **Imp 4/5** — Entities: Chinese parts supplier, Russian drone maker
+**[OpenAI takes stake in Thrive Holdings in latest circular deal](https://www.ft.com/content/53e2003e-c5c0-42a1-937a-eaea77ac4d41)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: OpenAI, Thrive Holdings
 
-A Chinese parts supplier has acquired a stake in a prominent Russian drone manufacturer, signaling increased collaboration between the two countries in the defense technology sector.
+OpenAI has acquired a stake in Thrive Holdings, marking a significant circular deal in the tech and finance sectors.
 
-**[Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/)**  
-*tech* · 2025-11-29 · **Imp 4/5** — Entities: HIV, engineered antibodies, functional cures
+**[Trump, Xi, Putin and the strongman race](https://www.ft.com/content/00910b52-72c7-4e0d-9bc5-b54f4f86f094)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Trump, Xi, Putin
 
-Recent trials with engineered antibodies show potential for achieving functional cures for HIV, indicating a significant advancement in treatment options.
+The article discusses the competitive dynamics among global leaders Trump, Xi, and Putin, highlighting their influence on international finance and politics.
 
-**[China launches nationwide high-rise inspections after deadly Hong Kong fire](https://www.ft.com/content/8bf428d4-b675-4296-963a-1b43ece6e739)**  
-*finance* · 2025-11-29 · **Imp 4/5** — Entities: China, Hong Kong, high-rise buildings, safety regulations
+**[Yen rises and bonds fall after BoJ governor hints at rate increase](https://www.ft.com/content/673f8283-79db-462c-9b07-8b44fc1edb69)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Bank of Japan, Japanese yen, bond market
 
-China initiates nationwide inspections of high-rise buildings following a deadly fire in Hong Kong, aiming to enhance safety regulations and prevent future incidents.
+The Japanese yen appreciates while bond prices decline following comments from the Bank of Japan's governor suggesting a potential interest rate hike, signaling a shift in monetary policy.
 
-**[Dan Driscoll, the unlikely Ukraine envoy with his eye on the Pentagon](https://www.ft.com/content/005c1ee0-7f68-4a8e-9a24-0b5801923da0)**  
-*finance* · 2025-11-29 · **Imp 4/5** — Entities: Dan Driscoll, Ukraine, Pentagon
+**[Who killed Europe’s single market dream?](https://www.ft.com/content/cbfd8af4-b3a8-4ade-9831-6cb7cf836745)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: Europe, single market
 
-Dan Driscoll has emerged as a key envoy for Ukraine, focusing on defense and military support from the Pentagon amid ongoing geopolitical tensions.
+The article discusses the challenges and setbacks facing Europe's single market, questioning its viability and future prospects.
 
-**[Swatch activist lambasts Omega owner’s ‘worst-in-class’ governance](https://www.ft.com/content/623cc35d-2d54-4aa8-a6f3-66586c45f1b7)**  
-*finance* · 2025-11-29 · **Imp 4/5** — Entities: Swatch Group, Omega
+**[The best time to buy quality stocks is now](https://www.ft.com/content/98bcb80f-d629-4533-9f30-6a2f74558996)**  
+*finance* · 2025-12-01 · **Imp 4/5** — Entities: FT, quality stocks, investors
 
-An activist investor criticizes Swatch Group's governance, labeling it as 'worst-in-class.' This highlights ongoing concerns regarding corporate governance in the luxury watch sector.
+The article emphasizes that now is an opportune time to invest in quality stocks, suggesting potential benefits for investors. It also promotes a subscription offer for access to expert financial journalism.
