@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/)**  
+*tech* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Google, Gemini, ChatGPT
+
+OpenAI's CEO has issued a 'code red' as Google's Gemini rapidly acquires 200 million users within three months, signaling a significant shift in the competitive landscape of AI technology.
+
+**[OpenAI’s Sam Altman declares ‘code red’ after rivals make advances](https://www.ft.com/content/7a42396f-487a-47b0-8121-8d8f2112fa53)**  
+*finance* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Sam Altman
+
+OpenAI's CEO Sam Altman has issued a 'code red' alert in response to significant advancements made by competitors in the AI space, highlighting the urgency for innovation and strategic action.
+
 **[Google is a near-$4tn monument to monopoly power](https://www.ft.com/content/26584ead-1d6d-4775-96d7-492066837255)**  
 *finance* · 2025-11-25 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, FT
 
@@ -175,77 +185,67 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[More FDA drama: Top drug regulator calls it quits after 3 weeks](https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Entities: FDA, Trump administration
+
+The FDA faces turmoil as the top drug regulator resigns after just three weeks, following allegations of petty revenge. This departure raises concerns about leadership stability within the agency.
+
+**[This Chinese company could become the country’s first to land a reusable rocket](https://arstechnica.com/space/2025/12/this-chinese-company-could-become-the-countrys-first-to-land-a-reusable-rocket/)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Entities: Zhuque-3, SpaceX
+
+China's Zhuque-3 rocket, resembling SpaceX's Falcon 9, is poised to become the country's first reusable rocket, marking a significant advancement in China's space capabilities.
+
+**[Trump sons’ bitcoin venture sheds almost 40% of its value in crypto turmoil](https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: Trump sons, bitcoin venture, cryptocurrency market
+
+The bitcoin venture led by Trump's sons has experienced a significant decline, losing nearly 40% of its value amid ongoing turmoil in the cryptocurrency market.
+
+**[India orders device makers to put government-run security app on all phones](https://arstechnica.com/tech-policy/2025/12/apple-will-refuse-to-preload-state-run-snooping-app-on-iphones-report-says/)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Tickers: AAPL — Entities: India, Apple
+
+India mandates device manufacturers to install a government security app on all smartphones. Apple reportedly plans to resist this requirement for iPhones, citing privacy concerns.
+
+**[Trump says he will nominate Fed chair in ‘early’ 2026](https://www.ft.com/content/d84661cb-26e6-4f55-8096-8ab4a8d47755)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: Trump, Federal Reserve
+
+Trump announced plans to nominate a new Federal Reserve chair in early 2026, signaling potential shifts in monetary policy that could impact the economy and financial markets.
+
+**[The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Entities: Nintendo, Amazon, Walmart, Best Buy
+
+The Nintendo Switch 2 is still available at a $50 discount from major retailers like Amazon, Walmart, and Best Buy, priced at $449.99. This deal includes a free digital copy of Mario Kart World, making it a timely purchase amidst rising console prices due to tariffs.
+
+**[Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price](https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Tickers: SSNLF — Entities: Samsung
+
+Samsung is set to launch its Galaxy Z TriFold, featuring a 10-inch foldable screen, in Korea this month, with a US release planned for early next year. The device comes with a high price tag.
+
+**[Mistral unveils new models in race to gain edge in ‘open’ AI](https://www.ft.com/content/bc9339a6-a8e4-4c6d-b77a-f9cffafb8a9f)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: Mistral
+
+Mistral has launched new AI models aimed at enhancing its competitive position in the open AI market, signaling a significant development in the tech landscape.
+
+**[Police detain Federica Mogherini in EU fraud probe](https://www.ft.com/content/01abaad7-6c47-4895-8656-b1861460a8f4)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: Federica Mogherini, EU
+
+Federica Mogherini has been detained by police in connection with an EU fraud investigation, raising concerns about governance and accountability within the EU institutions.
+
+**[Syntax hacking: Researchers discover sentence structure can bypass AI safety rules](https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/)**  
+*tech* · 2025-12-02 · **Imp 4/5** — Entities: AI researchers, cybersecurity experts
+
+Researchers have uncovered how specific sentence structures can exploit vulnerabilities in AI safety protocols, shedding light on the mechanics behind successful prompt injection attacks.
+
+**[Trump-style regime change in Venezuela](https://www.ft.com/content/abf8b0b1-7f04-4a61-85bd-001f7cfec30b)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: Venezuela, Trump
+
+The article discusses the implications of a potential regime change in Venezuela, drawing parallels to Trump's approach. It highlights the financial and geopolitical consequences of such a shift.
+
+**[Will the next blockbuster drug come from China?](https://www.ft.com/content/3bfe96d3-593c-498a-9da4-0c1ed359ff74)**  
+*finance* · 2025-12-02 · **Imp 4/5** — Entities: China, pharmaceutical industry
+
+The article discusses the potential for China to produce the next blockbuster drug, highlighting the country's growing influence in the pharmaceutical industry.
+
 **[We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)**  
 *tech* · 2025-12-01 · **Imp 4/5** — Entities: Microsoft, Apple, Razer, HP, Elgato
 
 Cyber Monday offers significant discounts on laptops from major brands like Microsoft, Apple, and Razer. This is an optimal time for consumers to purchase laptops and accessories before new models are announced at CES, which may not see discounts for months.
-
-**[Supreme Court hears case that could trigger big crackdown on Internet piracy](https://arstechnica.com/tech-policy/2025/12/supreme-court-debates-whether-isps-must-kick-pirates-off-the-internet/)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Entities: Supreme Court, Cox Communications, Sony
-
-The Supreme Court is deliberating a case that may lead to significant measures against Internet piracy, focusing on Cox Communications' responsibilities and questioning Sony's stringent requirements.
-
-**[OpenAI desperate to avoid explaining why it deleted pirated book datasets](https://arstechnica.com/tech-policy/2025/12/openai-desperate-to-avoid-explaining-why-it-deleted-pirated-book-datasets/)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Entities: OpenAI
-
-OpenAI faces potential fines for deleting datasets of pirated books, raising concerns about transparency and compliance in data management.
-
-**[In Myanmar, illicit rare-earth mining is taking a heavy toll](https://arstechnica.com/science/2025/12/in-myanmar-illicit-rare-earth-mining-is-taking-a-heavy-toll/)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Entities: Myanmar, ethnic armies, rare-earth mining
-
-Illicit rare-earth mining in Myanmar, dominated by ethnic armies, is causing significant environmental and social damage. This uncontrolled activity raises concerns about sustainability and ethical sourcing in the tech industry.
-
-**[Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off](https://www.ft.com/content/b7fdf1c7-c819-4687-8827-a5e3efd39a13)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Strategy, Bitcoin
-
-Strategy, a pro-Bitcoin firm, introduces a 'dollar reserve' during a significant crypto sell-off, aiming to provide stability and attract investors amid market volatility.
-
-**[Global bonds slide after hawkish Bank of Japan comments](https://www.ft.com/content/1fa982a7-90b9-4499-bdb5-cf95ac61c75c)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Bank of Japan
-
-Global bonds experienced a decline following hawkish comments from the Bank of Japan, signaling potential shifts in monetary policy that could impact interest rates and investor sentiment.
-
-**[After a Witcher-free decade, CDPR still promises three sequels in six years](https://arstechnica.com/gaming/2025/12/after-a-witcher-free-decade-cdpr-still-promises-three-sequels-in-six-years/)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Tickers: CDR — Entities: CD Projekt Red, Unreal Engine, Witcher
-
-CD Projekt Red (CDPR) plans to release three sequels over the next six years, leveraging Unreal Engine for accelerated development, following a decade without new Witcher titles.
-
-**[Blackstone, Apollo and KKR sign up to UK stress test of private credit](https://www.ft.com/content/31387dbd-6a86-4449-8ea1-4de0e8861615)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Blackstone, Apollo, KKR, UK
-
-Blackstone, Apollo, and KKR participate in a UK stress test for private credit, indicating a proactive approach to risk management in the sector.
-
-**[Steve Cohen moves closer to gaining lucrative New York City casino licence](https://www.ft.com/content/9fe3f250-4fc4-46be-821c-a730e6a6556b)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Steve Cohen, New York City, casino industry
-
-Steve Cohen is advancing towards acquiring a valuable casino license in New York City, potentially impacting the gaming and entertainment sectors.
-
-**[Space CEO explains why he believes private space stations are a viable business](https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Entities: Dylan Taylor, Voyager Technologies
-
-Dylan Taylor, CEO of Voyager Technologies, discusses the potential of private space stations as a viable business opportunity, highlighting advancements in the space industry.
-
-**[OpenAI takes stake in Thrive Holdings in latest circular deal](https://www.ft.com/content/53e2003e-c5c0-42a1-937a-eaea77ac4d41)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: OpenAI, Thrive Holdings
-
-OpenAI has acquired a stake in Thrive Holdings, marking a significant circular deal in the tech and finance sectors.
-
-**[Trump, Xi, Putin and the strongman race](https://www.ft.com/content/00910b52-72c7-4e0d-9bc5-b54f4f86f094)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Trump, Xi, Putin
-
-The article discusses the competitive dynamics among global leaders Trump, Xi, and Putin, highlighting their influence on international finance and politics.
-
-**[Yen rises and bonds fall after BoJ governor hints at rate increase](https://www.ft.com/content/673f8283-79db-462c-9b07-8b44fc1edb69)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Bank of Japan, Japanese yen, bond market
-
-The Japanese yen appreciates while bond prices decline following comments from the Bank of Japan's governor suggesting a potential interest rate hike, signaling a shift in monetary policy.
-
-**[Who killed Europe’s single market dream?](https://www.ft.com/content/cbfd8af4-b3a8-4ade-9831-6cb7cf836745)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: Europe, single market
-
-The article discusses the challenges and setbacks facing Europe's single market, questioning its viability and future prospects.
-
-**[The best time to buy quality stocks is now](https://www.ft.com/content/98bcb80f-d629-4533-9f30-6a2f74558996)**  
-*finance* · 2025-12-01 · **Imp 4/5** — Entities: FT, quality stocks, investors
-
-The article emphasizes that now is an opportune time to invest in quality stocks, suggesting potential benefits for investors. It also promotes a subscription offer for access to expert financial journalism.
