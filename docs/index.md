@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Maximum-severity vulnerability threatens 6% of all websites](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)**  
+*tech* · 2025-12-03 · **Imp 5/5** — Entities: React, websites, open source
+
+A critical vulnerability in open source React could impact 6% of all websites by allowing execution of malicious code through malformed HTML without authentication. This poses significant security risks for web developers and users.
+
 **[OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/)**  
 *tech* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Google, Gemini, ChatGPT
 
@@ -185,67 +190,62 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[More FDA drama: Top drug regulator calls it quits after 3 weeks](https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Entities: FDA, Trump administration
+**[Great handling, advanced EV tech: We drive the 2027 BMW iX3](https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Tickers: BMW — Entities: BMW, electric vehicles, Neue Klasse
 
-The FDA faces turmoil as the top drug regulator resigns after just three weeks, following allegations of petty revenge. This departure raises concerns about leadership stability within the agency.
+The 2027 BMW iX3, part of BMW's new 'Neue Klasse' EV lineup, showcases exceptional handling and advanced electric vehicle technology, setting a high standard in the EV market.
 
-**[This Chinese company could become the country’s first to land a reusable rocket](https://arstechnica.com/space/2025/12/this-chinese-company-could-become-the-countrys-first-to-land-a-reusable-rocket/)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Entities: Zhuque-3, SpaceX
+**[Meta poaches senior Apple designer Dye to support AI glasses push](https://www.ft.com/content/b9b1d92a-7856-4058-adde-417a0b24fe62)**  
+*finance* · 2025-12-03 · **Imp 4/5** — Tickers: META,AAPL — Entities: Meta, Apple, Dye
 
-China's Zhuque-3 rocket, resembling SpaceX's Falcon 9, is poised to become the country's first reusable rocket, marking a significant advancement in China's space capabilities.
+Meta has hired senior Apple designer Dye to enhance its development of AI glasses, signaling a strategic move to strengthen its position in the augmented reality market.
 
-**[Trump sons’ bitcoin venture sheds almost 40% of its value in crypto turmoil](https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: Trump sons, bitcoin venture, cryptocurrency market
+**[Republicans drop Trump-ordered block on state AI laws from defense bill](https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: Republicans, Trump, AI regulations
 
-The bitcoin venture led by Trump's sons has experienced a significant decline, losing nearly 40% of its value amid ongoing turmoil in the cryptocurrency market.
+Republicans have removed a Trump-ordered provision that would have blocked state-level AI regulations from a defense bill, indicating a significant shift in legislative approach to artificial intelligence governance.
 
-**[India orders device makers to put government-run security app on all phones](https://arstechnica.com/tech-policy/2025/12/apple-will-refuse-to-preload-state-run-snooping-app-on-iphones-report-says/)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Tickers: AAPL — Entities: India, Apple
+**[Apple’s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: Apple, Meta
 
-India mandates device manufacturers to install a government security app on all smartphones. Apple reportedly plans to resist this requirement for iPhones, citing privacy concerns.
+Apple's head of UI design is departing to join Meta, where a new studio will focus on integrating design, fashion, and technology for future products. The initiative aims to enhance design at Meta by leveraging intelligence as a core material.
 
-**[Trump says he will nominate Fed chair in ‘early’ 2026](https://www.ft.com/content/d84661cb-26e6-4f55-8096-8ab4a8d47755)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: Trump, Federal Reserve
+**[After nearly 30 years, Crucial will stop selling RAM to consumers](https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Tickers: MU — Entities: Micron, Crucial
 
-Trump announced plans to nominate a new Federal Reserve chair in early 2026, signaling potential shifts in monetary policy that could impact the economy and financial markets.
+Micron will discontinue its Crucial RAM brand for consumers after nearly 30 years, shifting focus to AI data center demand. This move reflects a strategic pivot towards higher-margin enterprise solutions.
 
-**[The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Entities: Nintendo, Amazon, Walmart, Best Buy
+**[NASA nominee appears before Congress, defends plans to revamp space agency](https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: NASA, Congress
 
-The Nintendo Switch 2 is still available at a $50 discount from major retailers like Amazon, Walmart, and Best Buy, priced at $449.99. This deal includes a free digital copy of Mario Kart World, making it a timely purchase amidst rising console prices due to tariffs.
+NASA's nominee addressed Congress, advocating for a comprehensive overhaul of the agency to enhance its competitive edge against global rivals. The nominee emphasized the importance of maintaining American leadership in space exploration.
 
-**[Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price](https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Tickers: SSNLF — Entities: Samsung
+**[Rare win for renewable energy: Trump admin funds geothermal network expansion](https://arstechnica.com/science/2025/12/rare-win-for-renewable-energy-trump-admin-funds-geothermal-network-expansion/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: Trump administration, Massachusetts, geothermal energy
 
-Samsung is set to launch its Galaxy Z TriFold, featuring a 10-inch foldable screen, in Korea this month, with a US release planned for early next year. The device comes with a high price tag.
+The Trump administration has announced funding for the expansion of a geothermal heating and cooling network in Massachusetts, marking a significant advancement in renewable energy infrastructure.
 
-**[Mistral unveils new models in race to gain edge in ‘open’ AI](https://www.ft.com/content/bc9339a6-a8e4-4c6d-b77a-f9cffafb8a9f)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: Mistral
+**[Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
 
-Mistral has launched new AI models aimed at enhancing its competitive position in the open AI market, signaling a significant development in the tech landscape.
+Microsoft has halved its AI sales targets following disappointing performance from sales teams, indicating a lack of demand from enterprise customers despite earlier optimism about AI agents.
 
-**[Police detain Federica Mogherini in EU fraud probe](https://www.ft.com/content/01abaad7-6c47-4895-8656-b1861460a8f4)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: Federica Mogherini, EU
+**[Bond investors warned US Treasury over picking Hassett as Fed chair](https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab)**  
+*finance* · 2025-12-03 · **Imp 4/5** — Entities: US Treasury, bond investors, Fed, Hassett
 
-Federica Mogherini has been detained by police in connection with an EU fraud investigation, raising concerns about governance and accountability within the EU institutions.
+US Treasury faces criticism from bond investors regarding the selection of Hassett as the new Fed chair, raising concerns about potential impacts on monetary policy and market stability.
 
-**[Syntax hacking: Researchers discover sentence structure can bypass AI safety rules](https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/)**  
-*tech* · 2025-12-02 · **Imp 4/5** — Entities: AI researchers, cybersecurity experts
+**[FCC boss Brendan Carr claims another victory over DEI as AT&T drops programs](https://arstechnica.com/tech-policy/2025/12/fcc-boss-brendan-carr-claims-another-victory-over-dei-as-att-drops-programs/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Tickers: T — Entities: FCC, AT&T, Brendan Carr, Trump administration
 
-Researchers have uncovered how specific sentence structures can exploit vulnerabilities in AI safety protocols, shedding light on the mechanics behind successful prompt injection attacks.
+FCC Chairman Brendan Carr celebrates AT&T's decision to drop diversity, equity, and inclusion (DEI) programs, alleging it as a strategic move to gain favor with the Trump administration. This shift raises questions about corporate governance and political influence in tech.
 
-**[Trump-style regime change in Venezuela](https://www.ft.com/content/abf8b0b1-7f04-4a61-85bd-001f7cfec30b)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: Venezuela, Trump
+**[A spectacular explosion shows China is close to obtaining reusable rockets](https://arstechnica.com/space/2025/12/a-little-known-chinese-company-nearly-landed-a-rocket-from-space-on-its-first-try/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: China, space exploration, reusable rockets
 
-The article discusses the implications of a potential regime change in Venezuela, drawing parallels to Trump's approach. It highlights the financial and geopolitical consequences of such a shift.
+China's successful rocket recovery attempt marks a significant step towards developing reusable rocket technology, enhancing its capabilities in space exploration and commercial launches.
 
-**[Will the next blockbuster drug come from China?](https://www.ft.com/content/3bfe96d3-593c-498a-9da4-0c1ed359ff74)**  
-*finance* · 2025-12-02 · **Imp 4/5** — Entities: China, pharmaceutical industry
+**[Fraudulent gambling network may actually be something more nefarious](https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/)**  
+*tech* · 2025-12-03 · **Imp 4/5** — Entities: fraudulent gambling network, researchers
 
-The article discusses the potential for China to produce the next blockbuster drug, highlighting the country's growing influence in the pharmaceutical industry.
-
-**[We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)**  
-*tech* · 2025-12-01 · **Imp 4/5** — Entities: Microsoft, Apple, Razer, HP, Elgato
-
-Cyber Monday offers significant discounts on laptops from major brands like Microsoft, Apple, and Razer. This is an optimal time for consumers to purchase laptops and accessories before new models are announced at CES, which may not see discounts for months.
+A fraudulent gambling network, active for 14 years, is suspected of being involved in more serious criminal activities, according to researchers. This revelation raises concerns about the broader implications of such networks in the tech landscape.
