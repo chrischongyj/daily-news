@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
-**[Maximum-severity vulnerability threatens 6% of all websites](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)**  
-*tech* · 2025-12-03 · **Imp 5/5** — Entities: React, websites, open source
+**[In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)**  
+*tech* · 2025-12-04 · **Imp 5/5** — Entities: Netscape, JavaScript
 
-A critical vulnerability in open source React could impact 6% of all websites by allowing execution of malicious code through malformed HTML without authentication. This poses significant security risks for web developers and users.
+JavaScript, initially developed by a Netscape employee in 1995, has become essential for the interactive web, significantly influencing web development and user experience over the past three decades.
+
+**[Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)**  
+*tech* · 2025-12-03 · **Imp 5/5** — Entities: React, open source software, server security
+
+A critical vulnerability in open source React allows execution of malicious code through malformed HTML without requiring authentication, posing significant risks to server security.
 
 **[OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/)**  
 *tech* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Google, Gemini, ChatGPT
@@ -190,62 +195,57 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Great handling, advanced EV tech: We drive the 2027 BMW iX3](https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Tickers: BMW — Entities: BMW, electric vehicles, Neue Klasse
+**[Congress warned that NASA’s current plan for Artemis “cannot work”](https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/)**  
+*tech* · 2025-12-04 · **Imp 4/5** — Entities: NASA, Congress
 
-The 2027 BMW iX3, part of BMW's new 'Neue Klasse' EV lineup, showcases exceptional handling and advanced electric vehicle technology, setting a high standard in the EV market.
+Congress has raised concerns that NASA's Artemis program, particularly the Artemis III mission, is unfeasible and should be canceled, potentially impacting future space exploration initiatives.
 
-**[Meta poaches senior Apple designer Dye to support AI glasses push](https://www.ft.com/content/b9b1d92a-7856-4058-adde-417a0b24fe62)**  
-*finance* · 2025-12-03 · **Imp 4/5** — Tickers: META,AAPL — Entities: Meta, Apple, Dye
+**[In comedy of errors, men accused of wiping gov databases turned to an AI tool](https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/)**  
+*tech* · 2025-12-04 · **Imp 4/5** — Entities: defendants, AI tool, government databases
 
-Meta has hired senior Apple designer Dye to enhance its development of AI glasses, signaling a strategic move to strengthen its position in the augmented reality market.
+Two defendants, previously convicted of database tampering, have been cleared of charges after utilizing an AI tool. This case highlights the evolving role of technology in legal defenses and the complexities of digital evidence.
 
-**[Republicans drop Trump-ordered block on state AI laws from defense bill](https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: Republicans, Trump, AI regulations
+**[Engineer proves that Kohler’s smart toilet cameras aren’t very private](https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/)**  
+*tech* · 2025-12-04 · **Imp 4/5** — Entities: Kohler, smart toilets, privacy, data security
 
-Republicans have removed a Trump-ordered provision that would have blocked state-level AI regulations from a defense bill, indicating a significant shift in legislative approach to artificial intelligence governance.
+An engineer has revealed that Kohler's smart toilets, equipped with cameras, compromise user privacy. This raises concerns about data security and consumer trust in smart home technology.
 
-**[Apple’s head of UI design is leaving for Meta](https://www.theverge.com/news/837654/apple-meta-alan-dye-designer)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: Apple, Meta
+**[Americans head to dollar stores as affordability crunch pinches consumers](https://www.ft.com/content/8fbfde16-70e9-482b-8c58-2f836db5fa9f)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Entities: Americans, dollar stores, consumers
 
-Apple's head of UI design is departing to join Meta, where a new studio will focus on integrating design, fashion, and technology for future products. The initiative aims to enhance design at Meta by leveraging intelligence as a core material.
+As affordability issues rise, Americans increasingly turn to dollar stores for budget-friendly shopping options, reflecting changing consumer behavior amid economic pressures.
 
-**[After nearly 30 years, Crucial will stop selling RAM to consumers](https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Tickers: MU — Entities: Micron, Crucial
+**[Meta set to slash spending on metaverse as Zuckerberg shifts focus to AI](https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Tickers: META — Entities: Meta, Mark Zuckerberg, artificial intelligence, metaverse
 
-Micron will discontinue its Crucial RAM brand for consumers after nearly 30 years, shifting focus to AI data center demand. This move reflects a strategic pivot towards higher-margin enterprise solutions.
+Meta plans to reduce its metaverse spending as CEO Mark Zuckerberg pivots the company's focus towards artificial intelligence, reflecting a strategic shift in priorities.
 
-**[NASA nominee appears before Congress, defends plans to revamp space agency](https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: NASA, Congress
+**[US senators seek to block Nvidia sales of advanced chips to China](https://www.ft.com/content/0e4e4799-b340-4cee-bdbc-6a6325f77eac)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, US Senate, China
 
-NASA's nominee addressed Congress, advocating for a comprehensive overhaul of the agency to enhance its competitive edge against global rivals. The nominee emphasized the importance of maintaining American leadership in space exploration.
+US senators are attempting to prevent Nvidia from selling advanced chips to China, citing national security concerns. This move could impact Nvidia's revenue and its relationship with the Chinese market.
 
-**[Rare win for renewable energy: Trump admin funds geothermal network expansion](https://arstechnica.com/science/2025/12/rare-win-for-renewable-energy-trump-admin-funds-geothermal-network-expansion/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: Trump administration, Massachusetts, geothermal energy
+**[ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/)**  
+*tech* · 2025-12-04 · **Imp 4/5** — Entities: ChatGPT, DOJ, podcaster
 
-The Trump administration has announced funding for the expansion of a geothermal heating and cooling network in Massachusetts, marking a significant advancement in renewable energy infrastructure.
+A podcaster, influenced by ChatGPT, faces severe legal consequences for stalking, with potential penalties of up to 70 years in prison and a $3.5 million fine, according to the DOJ. This case raises concerns about AI's role in facilitating harmful behavior.
 
-**[Microsoft drops AI sales targets in half after salespeople miss their quotas](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Tickers: MSFT — Entities: Microsoft
+**[OpenAI’s ‘code red’ moment](https://www.ft.com/content/780b9b62-81ca-4a1f-bb1d-0226d0a719a8)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Entities: OpenAI, Financial Times
 
-Microsoft has halved its AI sales targets following disappointing performance from sales teams, indicating a lack of demand from enterprise customers despite earlier optimism about AI agents.
+OpenAI is experiencing a critical situation, referred to as a 'code red' moment, highlighting urgent challenges in the tech landscape. This situation may impact its operations and strategic direction.
 
-**[Bond investors warned US Treasury over picking Hassett as Fed chair](https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab)**  
-*finance* · 2025-12-03 · **Imp 4/5** — Entities: US Treasury, bond investors, Fed, Hassett
+**[Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis](https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/)**  
+*tech* · 2025-12-04 · **Imp 4/5** — Entities: 3D printing, mosquito proboscis, manufacturing
 
-US Treasury faces criticism from bond investors regarding the selection of Hassett as the new Fed chair, raising concerns about potential impacts on monetary policy and market stability.
+Researchers have developed a 3D printer nozzle inspired by mosquito proboscis, offering a cost-effective alternative to traditional nozzles. This innovation could disrupt manufacturing processes in the 3D printing industry.
 
-**[FCC boss Brendan Carr claims another victory over DEI as AT&T drops programs](https://arstechnica.com/tech-policy/2025/12/fcc-boss-brendan-carr-claims-another-victory-over-dei-as-att-drops-programs/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Tickers: T — Entities: FCC, AT&T, Brendan Carr, Trump administration
+**[Witkoff to meet Ukrainians after fruitless Putin talks](https://www.ft.com/content/ab4d5d26-2936-44a6-be8e-4035a51d3b9b)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Entities: Witkoff, Ukrainians, Putin
 
-FCC Chairman Brendan Carr celebrates AT&T's decision to drop diversity, equity, and inclusion (DEI) programs, alleging it as a strategic move to gain favor with the Trump administration. This shift raises questions about corporate governance and political influence in tech.
+Witkoff is set to meet with Ukrainian officials following unproductive discussions with Putin, indicating ongoing geopolitical tensions that may affect investment strategies in the region.
 
-**[A spectacular explosion shows China is close to obtaining reusable rockets](https://arstechnica.com/space/2025/12/a-little-known-chinese-company-nearly-landed-a-rocket-from-space-on-its-first-try/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: China, space exploration, reusable rockets
+**[The US may be running the wrong AI race](https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f)**  
+*finance* · 2025-12-04 · **Imp 4/5** — Entities: US, AI sector, global markets
 
-China's successful rocket recovery attempt marks a significant step towards developing reusable rocket technology, enhancing its capabilities in space exploration and commercial launches.
-
-**[Fraudulent gambling network may actually be something more nefarious](https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/)**  
-*tech* · 2025-12-03 · **Imp 4/5** — Entities: fraudulent gambling network, researchers
-
-A fraudulent gambling network, active for 14 years, is suspected of being involved in more serious criminal activities, according to researchers. This revelation raises concerns about the broader implications of such networks in the tech landscape.
+The article discusses concerns that the US may be pursuing the wrong strategies in the AI sector, potentially impacting its competitive edge in global markets.
