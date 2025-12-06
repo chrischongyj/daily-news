@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Musk’s SpaceX targets $800bn valuation in latest share sale](https://www.ft.com/content/b969a57a-cf09-43c1-a7cf-6dec16ba59fd)**  
+*finance* · 2025-12-05 · **Imp 5/5** — Entities: SpaceX, Elon Musk
+
+SpaceX aims for an $800 billion valuation in its latest share sale, reflecting significant growth and investor interest in the aerospace sector.
+
+**[Netflix is buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)**  
+*tech* · 2025-12-05 · **Imp 5/5** — Tickers: NFLX, WBD — Entities: Netflix, Warner Bros., HBO, Paramount, Comcast, Amazon, Apple
+
+Netflix has agreed to acquire Warner Bros. for $82.7 billion, gaining assets like HBO and Warner Games, while excluding certain cable and sports properties. The deal has sparked regulatory scrutiny.
+
 **[In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)**  
 *tech* · 2025-12-04 · **Imp 5/5** — Entities: Netscape, JavaScript
 
@@ -195,57 +205,47 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Congress warned that NASA’s current plan for Artemis “cannot work”](https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/)**  
-*tech* · 2025-12-04 · **Imp 4/5** — Entities: NASA, Congress
+**[How Netflix stole Warner Bros from David Ellison](https://www.ft.com/content/0fb6c3dc-7e14-45c1-9a63-b960c82512bd)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: Netflix, Warner Bros, David Ellison
 
-Congress has raised concerns that NASA's Artemis program, particularly the Artemis III mission, is unfeasible and should be canceled, potentially impacting future space exploration initiatives.
+The article discusses how Netflix has outmaneuvered Warner Bros, particularly in the context of competition for digital content and market share, impacting industry dynamics.
 
-**[In comedy of errors, men accused of wiping gov databases turned to an AI tool](https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/)**  
-*tech* · 2025-12-04 · **Imp 4/5** — Entities: defendants, AI tool, government databases
+**[Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/)**  
+*tech* · 2025-12-05 · **Imp 4/5** — Entities: Fubo
 
-Two defendants, previously convicted of database tampering, have been cleared of charges after utilizing an AI tool. This case highlights the evolving role of technology in legal defenses and the complexities of digital evidence.
+Fubo has announced a rare decision to lower its monthly fees, potentially benefiting both the company and its subscribers. This move may enhance customer retention and attract new users in a competitive streaming market.
 
-**[Engineer proves that Kohler’s smart toilet cameras aren’t very private](https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/)**  
-*tech* · 2025-12-04 · **Imp 4/5** — Entities: Kohler, smart toilets, privacy, data security
+**[Crypto treasury underwriter Clear Street plans to list in new year](https://www.ft.com/content/e3c88930-c62e-4aea-bf67-2c0517703fcc)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: Clear Street, cryptocurrency, finance
 
-An engineer has revealed that Kohler's smart toilets, equipped with cameras, compromise user privacy. This raises concerns about data security and consumer trust in smart home technology.
+Crypto treasury underwriter Clear Street is set to go public in the upcoming year, indicating a significant move in the cryptocurrency finance sector.
 
-**[Americans head to dollar stores as affordability crunch pinches consumers](https://www.ft.com/content/8fbfde16-70e9-482b-8c58-2f836db5fa9f)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Entities: Americans, dollar stores, consumers
+**[US watchdogs drop post-crisis safeguard on risky lending](https://www.ft.com/content/1e089ea7-0011-4efe-b795-867664d26dfb)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: US regulators, financial institutions
 
-As affordability issues rise, Americans increasingly turn to dollar stores for budget-friendly shopping options, reflecting changing consumer behavior amid economic pressures.
+US regulators have removed post-crisis safeguards on risky lending practices, potentially increasing financial instability. This decision may impact investor confidence and lending standards in the market.
 
-**[Meta set to slash spending on metaverse as Zuckerberg shifts focus to AI](https://www.ft.com/content/d8e798a8-65db-44f1-8490-035b50303ee3)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Tickers: META — Entities: Meta, Mark Zuckerberg, artificial intelligence, metaverse
+**[Supreme Court to rule on Trump’s effort to end birthright citizenship](https://www.ft.com/content/2e1f8623-c3ff-45ca-93a2-fbd311b49629)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: Supreme Court, Trump
 
-Meta plans to reduce its metaverse spending as CEO Mark Zuckerberg pivots the company's focus towards artificial intelligence, reflecting a strategic shift in priorities.
+The Supreme Court is set to rule on former President Trump's initiative to eliminate birthright citizenship, a significant legal issue with potential implications for immigration policy and civil rights.
 
-**[US senators seek to block Nvidia sales of advanced chips to China](https://www.ft.com/content/0e4e4799-b340-4cee-bdbc-6a6325f77eac)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, US Senate, China
+**[Crypto’s rocky year](https://www.ft.com/content/728a469e-34f7-433d-90a5-631b8c10aa51)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: cryptocurrency market, investors, regulators
 
-US senators are attempting to prevent Nvidia from selling advanced chips to China, citing national security concerns. This move could impact Nvidia's revenue and its relationship with the Chinese market.
+The article discusses the challenges faced by the cryptocurrency market in 2023, highlighting volatility and regulatory issues that have impacted investor sentiment and market stability.
 
-**[ChatGPT hyped up violent stalker who believed he was “God’s assassin,” DOJ says](https://arstechnica.com/tech-policy/2025/12/chatgpt-hyped-up-violent-stalker-who-believed-he-was-gods-assassin-doj-says/)**  
-*tech* · 2025-12-04 · **Imp 4/5** — Entities: ChatGPT, DOJ, podcaster
+**[Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/)**  
+*tech* · 2025-12-05 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Warner Bros., HBO Max, DC Comics, Harry Potter
 
-A podcaster, influenced by ChatGPT, faces severe legal consequences for stalking, with potential penalties of up to 70 years in prison and a $3.5 million fine, according to the DOJ. This case raises concerns about AI's role in facilitating harmful behavior.
+Netflix's proposed $72 billion acquisition of Warner Bros. raises concerns about the future of movie theaters and streaming services, with potential regulatory challenges ahead.
 
-**[OpenAI’s ‘code red’ moment](https://www.ft.com/content/780b9b62-81ca-4a1f-bb1d-0226d0a719a8)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Entities: OpenAI, Financial Times
+**[Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO](https://www.ft.com/content/3dd07583-21f7-42ec-be8f-78c58279ecc4)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: Dario Amodei, Anthropic
 
-OpenAI is experiencing a critical situation, referred to as a 'code red' moment, highlighting urgent challenges in the tech landscape. This situation may impact its operations and strategic direction.
+Dario Amodei, a proponent of 'safe AI', is considering an IPO for Anthropic, signaling potential growth in the AI sector and attracting investor interest.
 
-**[Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis](https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/)**  
-*tech* · 2025-12-04 · **Imp 4/5** — Entities: 3D printing, mosquito proboscis, manufacturing
+**[Are Warner takeovers the harbingers of financial apocalypse?](https://www.ft.com/content/c4032a50-f6e4-4dde-9faf-13d24ce6743f)**  
+*finance* · 2025-12-05 · **Imp 4/5** — Entities: Warner
 
-Researchers have developed a 3D printer nozzle inspired by mosquito proboscis, offering a cost-effective alternative to traditional nozzles. This innovation could disrupt manufacturing processes in the 3D printing industry.
-
-**[Witkoff to meet Ukrainians after fruitless Putin talks](https://www.ft.com/content/ab4d5d26-2936-44a6-be8e-4035a51d3b9b)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Entities: Witkoff, Ukrainians, Putin
-
-Witkoff is set to meet with Ukrainian officials following unproductive discussions with Putin, indicating ongoing geopolitical tensions that may affect investment strategies in the region.
-
-**[The US may be running the wrong AI race](https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f)**  
-*finance* · 2025-12-04 · **Imp 4/5** — Entities: US, AI sector, global markets
-
-The article discusses concerns that the US may be pursuing the wrong strategies in the AI sector, potentially impacting its competitive edge in global markets.
+The article discusses the implications of Warner's takeovers, questioning whether they signal a financial crisis. It highlights concerns regarding the sustainability of such acquisitions in the current economic climate.
