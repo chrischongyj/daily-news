@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Netflix leans on $59bn bank loan to fund Warner Bros takeover](https://www.ft.com/content/f82583ba-03ec-4cca-9560-a7a2e1d55574)**  
+*finance* · 2025-12-06 · **Imp 5/5** — Tickers: NFLX — Entities: Netflix, Warner Bros
+
+Netflix is utilizing a $59 billion bank loan to finance its acquisition of Warner Bros, marking a significant move in the media landscape.
+
 **[Musk’s SpaceX targets $800bn valuation in latest share sale](https://www.ft.com/content/b969a57a-cf09-43c1-a7cf-6dec16ba59fd)**  
 *finance* · 2025-12-05 · **Imp 5/5** — Entities: SpaceX, Elon Musk
 
@@ -13,7 +18,7 @@ Netflix has agreed to acquire Warner Bros. for $82.7 billion, gaining assets lik
 **[In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)**  
 *tech* · 2025-12-04 · **Imp 5/5** — Entities: Netscape, JavaScript
 
-JavaScript, initially developed by a Netscape employee in 1995, has become essential for the interactive web, significantly influencing web development and user experience over the past three decades.
+JavaScript, initially developed by a Netscape employee in 1995, has become essential for the interactive web, serving as its foundational technology over the past 30 years.
 
 **[Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)**  
 *tech* · 2025-12-03 · **Imp 5/5** — Entities: React, open source software, server security
@@ -205,6 +210,21 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
+**[Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)**  
+*tech* · 2025-12-06 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Johny Srouji, Tim Cook, Jeff Williams, John Giannandrea, Lisa Jackson, Kate Adams, Alan Dye, Meta
+
+Apple's chip chief Johny Srouji is reportedly considering leaving the company, adding to recent high-profile executive departures. This raises concerns about leadership stability as Apple navigates challenges in the AI sector.
+
+**[A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/)**  
+*tech* · 2025-12-06 · **Imp 4/5** — Entities: Amazon Rainforest, Chinese-backed port, global trade
+
+A new Chinese-backed port project threatens the Amazon Rainforest, potentially leading to significant ecological damage while promising to transform global trade dynamics.
+
+**[Why Americans are feeling poorer even though they’re not](https://www.ft.com/content/3fa9b486-1cc2-4bc7-9557-552266570362)**  
+*finance* · 2025-12-06 · **Imp 4/5** — Entities: Americans, inflation, living costs, consumer behavior
+
+Despite stable financial metrics, many Americans perceive a decline in their wealth due to inflation and rising living costs. This sentiment may impact consumer behavior and economic confidence.
+
 **[How Netflix stole Warner Bros from David Ellison](https://www.ft.com/content/0fb6c3dc-7e14-45c1-9a63-b960c82512bd)**  
 *finance* · 2025-12-05 · **Imp 4/5** — Entities: Netflix, Warner Bros, David Ellison
 
@@ -229,23 +249,3 @@ US regulators have removed post-crisis safeguards on risky lending practices, po
 *finance* · 2025-12-05 · **Imp 4/5** — Entities: Supreme Court, Trump
 
 The Supreme Court is set to rule on former President Trump's initiative to eliminate birthright citizenship, a significant legal issue with potential implications for immigration policy and civil rights.
-
-**[Crypto’s rocky year](https://www.ft.com/content/728a469e-34f7-433d-90a5-631b8c10aa51)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: cryptocurrency market, investors, regulators
-
-The article discusses the challenges faced by the cryptocurrency market in 2023, highlighting volatility and regulatory issues that have impacted investor sentiment and market stability.
-
-**[Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/)**  
-*tech* · 2025-12-05 · **Imp 4/5** — Tickers: NFLX — Entities: Netflix, Warner Bros., HBO Max, DC Comics, Harry Potter
-
-Netflix's proposed $72 billion acquisition of Warner Bros. raises concerns about the future of movie theaters and streaming services, with potential regulatory challenges ahead.
-
-**[Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO](https://www.ft.com/content/3dd07583-21f7-42ec-be8f-78c58279ecc4)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: Dario Amodei, Anthropic
-
-Dario Amodei, a proponent of 'safe AI', is considering an IPO for Anthropic, signaling potential growth in the AI sector and attracting investor interest.
-
-**[Are Warner takeovers the harbingers of financial apocalypse?](https://www.ft.com/content/c4032a50-f6e4-4dde-9faf-13d24ce6743f)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: Warner
-
-The article discusses the implications of Warner's takeovers, questioning whether they signal a financial crisis. It highlights concerns regarding the sustainability of such acquisitions in the current economic climate.
