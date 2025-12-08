@@ -210,42 +210,42 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave)**  
-*tech* · 2025-12-06 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, Johny Srouji, Tim Cook, Jeff Williams, John Giannandrea, Lisa Jackson, Kate Adams, Alan Dye, Meta
+**[America’s widening economic divide endangers Trump’s midterm hopes](https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: Trump, America, voters
 
-Apple's chip chief Johny Srouji is reportedly considering leaving the company, adding to recent high-profile executive departures. This raises concerns about leadership stability as Apple navigates challenges in the AI sector.
+The growing economic divide in America poses a significant threat to Trump's prospects in the midterm elections, potentially impacting voter sentiment and support.
+
+**[Fed expected to cut rates despite deep divisions over US economic outlook](https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: Federal Reserve, US economy
+
+The Federal Reserve is anticipated to lower interest rates, even amid significant disagreements regarding the US economic forecast. This decision could influence market dynamics and investor strategies.
+
+**[Lawmakers warn Trump administration against heavily redacting ‘Epstein files’](https://www.ft.com/content/f7371d9e-8b53-4e43-9fc7-493ed2a89a3c)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: Trump administration, lawmakers, Epstein case
+
+Lawmakers are cautioning the Trump administration about the extensive redaction of documents related to the Epstein case, emphasizing the need for transparency.
+
+**[America’s economy is at the mercy of crony capitalism](https://www.ft.com/content/85fd3200-55b1-4e58-9e6f-613e97a1e36a)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: America, crony capitalism, economy
+
+The article discusses how crony capitalism affects America's economy, highlighting the implications for market dynamics and economic fairness.
+
+**[Japan frustrated at Trump administration’s silence over row with China](https://www.ft.com/content/bf8b5def-db4d-43ac-91cf-bea5fcfa3189)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: Japan, Trump administration, China
+
+Japan expresses frustration over the Trump administration's lack of communication regarding ongoing tensions with China, highlighting geopolitical concerns that may impact trade and economic relations.
+
+**[Hollywood fears job cuts as opposition to Netflix-Warner deal grows](https://www.ft.com/content/7c901bb2-c9d9-4921-a5aa-99235d4ad12f)**  
+*finance* · 2025-12-07 · **Imp 4/5** — Entities: Hollywood, Netflix, Warner
+
+Concerns rise in Hollywood over potential job cuts as opposition mounts against the Netflix-Warner deal, signaling possible disruptions in the entertainment industry.
 
 **[A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/)**  
-*tech* · 2025-12-06 · **Imp 4/5** — Entities: Amazon Rainforest, Chinese-backed port, global trade
+*tech* · 2025-12-06 · **Imp 4/5** — Entities: Chinese-backed port, Amazon Rainforest, global trade
 
-A new Chinese-backed port project threatens the Amazon Rainforest, potentially leading to significant ecological damage while promising to transform global trade dynamics.
+A new Chinese-backed port is set to transform global trade but poses significant threats to the Amazon Rainforest, potentially leading to environmental degradation and loss of biodiversity.
 
 **[Why Americans are feeling poorer even though they’re not](https://www.ft.com/content/3fa9b486-1cc2-4bc7-9557-552266570362)**  
 *finance* · 2025-12-06 · **Imp 4/5** — Entities: Americans, inflation, living costs, consumer behavior
 
 Despite stable financial metrics, many Americans perceive a decline in their wealth due to inflation and rising living costs. This sentiment may impact consumer behavior and economic confidence.
-
-**[How Netflix stole Warner Bros from David Ellison](https://www.ft.com/content/0fb6c3dc-7e14-45c1-9a63-b960c82512bd)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: Netflix, Warner Bros, David Ellison
-
-The article discusses how Netflix has outmaneuvered Warner Bros, particularly in the context of competition for digital content and market share, impacting industry dynamics.
-
-**[Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/)**  
-*tech* · 2025-12-05 · **Imp 4/5** — Entities: Fubo
-
-Fubo has announced a rare decision to lower its monthly fees, potentially benefiting both the company and its subscribers. This move may enhance customer retention and attract new users in a competitive streaming market.
-
-**[Crypto treasury underwriter Clear Street plans to list in new year](https://www.ft.com/content/e3c88930-c62e-4aea-bf67-2c0517703fcc)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: Clear Street, cryptocurrency, finance
-
-Crypto treasury underwriter Clear Street is set to go public in the upcoming year, indicating a significant move in the cryptocurrency finance sector.
-
-**[US watchdogs drop post-crisis safeguard on risky lending](https://www.ft.com/content/1e089ea7-0011-4efe-b795-867664d26dfb)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: US regulators, financial institutions
-
-US regulators have removed post-crisis safeguards on risky lending practices, potentially increasing financial instability. This decision may impact investor confidence and lending standards in the market.
-
-**[Supreme Court to rule on Trump’s effort to end birthright citizenship](https://www.ft.com/content/2e1f8623-c3ff-45ca-93a2-fbd311b49629)**  
-*finance* · 2025-12-05 · **Imp 4/5** — Entities: Supreme Court, Trump
-
-The Supreme Court is set to rule on former President Trump's initiative to eliminate birthright citizenship, a significant legal issue with potential implications for immigration policy and civil rights.
