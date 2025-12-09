@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid](https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6)**  
+*finance* · 2025-12-08 · **Imp 5/5** — Entities: Paramount, Warner Bros, Netflix
+
+Paramount has launched a $108 billion hostile bid to acquire Warner Bros, challenging Netflix's recent deal. This move signifies a major shift in the media landscape, potentially reshaping competition among streaming giants.
+
 **[Netflix leans on $59bn bank loan to fund Warner Bros takeover](https://www.ft.com/content/f82583ba-03ec-4cca-9560-a7a2e1d55574)**  
 *finance* · 2025-12-06 · **Imp 5/5** — Tickers: NFLX — Entities: Netflix, Warner Bros
 
@@ -210,42 +215,37 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[America’s widening economic divide endangers Trump’s midterm hopes](https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: Trump, America, voters
+**[PepsiCo reaches deal with activist Elliott to stave off proxy fight](https://www.ft.com/content/7a1e1522-d613-4ffe-82a1-ca369f0bd01a)**  
+*finance* · 2025-12-08 · **Imp 4/5** — Tickers: PEP — Entities: PepsiCo, Elliott Management
 
-The growing economic divide in America poses a significant threat to Trump's prospects in the midterm elections, potentially impacting voter sentiment and support.
+PepsiCo has reached an agreement with activist investor Elliott Management to avoid a proxy fight, signaling a collaborative approach to governance and strategy.
 
-**[Fed expected to cut rates despite deep divisions over US economic outlook](https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: Federal Reserve, US economy
+**[Nvidia can sell H200 AI chips to China, Trump says](https://www.ft.com/content/ac63139d-5143-4aed-a1e4-980a06551b51)**  
+*finance* · 2025-12-08 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Trump, China
 
-The Federal Reserve is anticipated to lower interest rates, even amid significant disagreements regarding the US economic forecast. This decision could influence market dynamics and investor strategies.
+Former President Trump announced that Nvidia is permitted to sell its H200 AI chips to China, potentially impacting the semiconductor market and international trade relations.
 
-**[Lawmakers warn Trump administration against heavily redacting ‘Epstein files’](https://www.ft.com/content/f7371d9e-8b53-4e43-9fc7-493ed2a89a3c)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: Trump administration, lawmakers, Epstein case
+**[ICEBlock lawsuit: Trump admin bragged about demanding App Store removal](https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/)**  
+*tech* · 2025-12-08 · **Imp 4/5** — Entities: ICEBlock, Trump administration, Apple
 
-Lawmakers are cautioning the Trump administration about the extensive redaction of documents related to the Epstein case, emphasizing the need for transparency.
+The creator of ICEBlock has filed a lawsuit against the Trump administration, alleging that it pressured Apple to remove the app from the App Store, which crowdsources ICE sightings. This case raises significant questions about app censorship and user rights.
 
-**[America’s economy is at the mercy of crony capitalism](https://www.ft.com/content/85fd3200-55b1-4e58-9e6f-613e97a1e36a)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: America, crony capitalism, economy
+**[Kushner, Gulf money and desperate texts: inside Paramount’s hostile bid for Warner Bros](https://www.ft.com/content/e5da7064-3a46-4bab-9a6c-12ae03eead16)**  
+*finance* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros, Gulf investors
 
-The article discusses how crony capitalism affects America's economy, highlighting the implications for market dynamics and economic fairness.
+Paramount's hostile bid for Warner Bros involves significant financial backing from Gulf investors and highlights the desperation of the situation through internal communications. This move could reshape the media landscape.
 
-**[Japan frustrated at Trump administration’s silence over row with China](https://www.ft.com/content/bf8b5def-db4d-43ac-91cf-bea5fcfa3189)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: Japan, Trump administration, China
+**[Paramount’s WBD bid relegates Netflix to a supporting role](https://www.ft.com/content/9dcf3098-964e-4884-b2ea-ba9702be4981)**  
+*finance* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros. Discovery, Netflix
 
-Japan expresses frustration over the Trump administration's lack of communication regarding ongoing tensions with China, highlighting geopolitical concerns that may impact trade and economic relations.
+Paramount's bid for Warner Bros. Discovery (WBD) positions Netflix in a diminished role within the competitive streaming landscape, highlighting shifts in market dynamics.
 
-**[Hollywood fears job cuts as opposition to Netflix-Warner deal grows](https://www.ft.com/content/7c901bb2-c9d9-4921-a5aa-99235d4ad12f)**  
-*finance* · 2025-12-07 · **Imp 4/5** — Entities: Hollywood, Netflix, Warner
+**[Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover](https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/)**  
+*tech* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros., Netflix
 
-Concerns rise in Hollywood over potential job cuts as opposition mounts against the Netflix-Warner deal, signaling possible disruptions in the entertainment industry.
+Paramount is attempting a hostile takeover of Warner Bros. to compete with Netflix, leveraging its experience from previous mergers.
 
-**[A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/)**  
-*tech* · 2025-12-06 · **Imp 4/5** — Entities: Chinese-backed port, Amazon Rainforest, global trade
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**  
+*finance* · 2025-12-08 · **Imp 4/5** — Entities: Strategy, Bitcoin
 
-A new Chinese-backed port is set to transform global trade but poses significant threats to the Amazon Rainforest, potentially leading to environmental degradation and loss of biodiversity.
-
-**[Why Americans are feeling poorer even though they’re not](https://www.ft.com/content/3fa9b486-1cc2-4bc7-9557-552266570362)**  
-*finance* · 2025-12-06 · **Imp 4/5** — Entities: Americans, inflation, living costs, consumer behavior
-
-Despite stable financial metrics, many Americans perceive a decline in their wealth due to inflation and rising living costs. This sentiment may impact consumer behavior and economic confidence.
+Strategy's stock decline is impacting Bitcoin's major supporter, limiting their options for future investments and strategies.
