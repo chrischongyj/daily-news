@@ -215,37 +215,37 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[PepsiCo reaches deal with activist Elliott to stave off proxy fight](https://www.ft.com/content/7a1e1522-d613-4ffe-82a1-ca369f0bd01a)**  
-*finance* · 2025-12-08 · **Imp 4/5** — Tickers: PEP — Entities: PepsiCo, Elliott Management
+**[Empire AI](https://avc.com/2024/01/empire-ai/)**  
+*startup* · 2024-01-09 · **Imp 5/5** — Entities: Empire AI, Tom Secunda, Governor Hochul, Jim Simons, New York State Government
 
-PepsiCo has reached an agreement with activist investor Elliott Management to avoid a proxy fight, signaling a collaborative approach to governance and strategy.
+Empire AI, announced by Governor Hochul, will establish a state-of-the-art AI/ML facility in Upstate New York, funded by $400mm from public and private sources. This initiative aims to enhance academic research capabilities and promote job creation in AI, positioning New York as a leading AI center.
 
-**[Nvidia can sell H200 AI chips to China, Trump says](https://www.ft.com/content/ac63139d-5143-4aed-a1e4-980a06551b51)**  
-*finance* · 2025-12-08 · **Imp 4/5** — Tickers: NVDA — Entities: Nvidia, Trump, China
+**[US-Indonesia trade deal at risk of collapse](https://www.ft.com/content/4d407d2b-2f91-4858-b3b7-3167a7584da6)**  
+*finance* · 2025-12-09 · **Imp 4/5** — Entities: US, Indonesia
 
-Former President Trump announced that Nvidia is permitted to sell its H200 AI chips to China, potentially impacting the semiconductor market and international trade relations.
+The US-Indonesia trade deal faces potential collapse, raising concerns about economic relations and trade stability between the two nations.
 
-**[ICEBlock lawsuit: Trump admin bragged about demanding App Store removal](https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/)**  
-*tech* · 2025-12-08 · **Imp 4/5** — Entities: ICEBlock, Trump administration, Apple
+**[Netflix vs Paramount: politics could decide battle for Warner Bros](https://www.ft.com/content/bbfebdc3-80ce-4dec-b88d-94535a63ed14)**  
+*finance* · 2025-12-09 · **Imp 4/5** — Tickers: NFLX, PARAA — Entities: Netflix, Paramount, Warner Bros
 
-The creator of ICEBlock has filed a lawsuit against the Trump administration, alleging that it pressured Apple to remove the app from the App Store, which crowdsources ICE sightings. This case raises significant questions about app censorship and user rights.
+The competition between Netflix and Paramount for Warner Bros may hinge on political factors, influencing strategic decisions in the media landscape.
 
-**[Kushner, Gulf money and desperate texts: inside Paramount’s hostile bid for Warner Bros](https://www.ft.com/content/e5da7064-3a46-4bab-9a6c-12ae03eead16)**  
-*finance* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros, Gulf investors
+**[Donald Trump to pit Kevin Hassett against trio of Fed chair finalists](https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175)**  
+*finance* · 2025-12-09 · **Imp 4/5** — Entities: Donald Trump, Kevin Hassett, Federal Reserve
 
-Paramount's hostile bid for Warner Bros involves significant financial backing from Gulf investors and highlights the desperation of the situation through internal communications. This move could reshape the media landscape.
+Donald Trump is set to challenge Kevin Hassett against three finalists for the Federal Reserve chair position, indicating potential shifts in monetary policy direction.
 
-**[Paramount’s WBD bid relegates Netflix to a supporting role](https://www.ft.com/content/9dcf3098-964e-4884-b2ea-ba9702be4981)**  
-*finance* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros. Discovery, Netflix
+**[Big Tech joins forces with Linux Foundation to standardize AI agents](https://arstechnica.com/ai/2025/12/big-tech-joins-forces-with-linux-foundation-to-standardize-ai-agents/)**  
+*tech* · 2025-12-09 · **Imp 4/5** — Entities: Big Tech, Linux Foundation, Agentic AI Foundation
 
-Paramount's bid for Warner Bros. Discovery (WBD) positions Netflix in a diminished role within the competitive streaming landscape, highlighting shifts in market dynamics.
+Big Tech collaborates with the Linux Foundation to establish the Agentic AI Foundation, aimed at standardizing AI agents through initiatives like MCP, AGENTS.md, and goose.
 
-**[Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover](https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/)**  
-*tech* · 2025-12-08 · **Imp 4/5** — Entities: Paramount, Warner Bros., Netflix
+**[JPMorgan shares slide as bank says expenses will jump $9bn in 2026](https://www.ft.com/content/52566296-350d-4324-a978-51e99601870a)**  
+*finance* · 2025-12-09 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan
 
-Paramount is attempting a hostile takeover of Warner Bros. to compete with Netflix, leveraging its experience from previous mergers.
+JPMorgan announced a projected $9 billion increase in expenses for 2026, leading to a decline in its share price. This forecast raises concerns among investors regarding future profitability.
 
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**  
-*finance* · 2025-12-08 · **Imp 4/5** — Entities: Strategy, Bitcoin
+**[Supreme Court appears likely to approve Trump’s firing of FTC Democrat](https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/)**  
+*tech* · 2025-12-09 · **Imp 4/5** — Entities: Supreme Court, Trump, FTC
 
-Strategy's stock decline is impacting Bitcoin's major supporter, limiting their options for future investments and strategies.
+The Supreme Court is poised to support Trump's authority to dismiss FTC Democrats, indicating a shift in control over independent agencies. This could have significant implications for regulatory practices.
