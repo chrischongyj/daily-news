@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
+*tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI
+
+SpaceX has announced plans to go public, marking a significant shift after years of resistance. This move is driven by the competitive landscape of AI, where asset accumulation and deployment are crucial.
+
 **[Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid](https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6)**  
 *finance* · 2025-12-08 · **Imp 5/5** — Entities: Paramount, Warner Bros, Netflix
 
@@ -215,37 +220,32 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Empire AI](https://avc.com/2024/01/empire-ai/)**  
-*startup* · 2024-01-09 · **Imp 5/5** — Entities: Empire AI, Tom Secunda, Governor Hochul, Jim Simons, New York State Government
+**[US seizes oil tanker off coast of Venezuela, says Trump](https://www.ft.com/content/1f0627d0-a9c4-48d7-9a13-307bc59dea66)**  
+*finance* · 2025-12-10 · **Imp 4/5** — Entities: US, Venezuela, Trump
 
-Empire AI, announced by Governor Hochul, will establish a state-of-the-art AI/ML facility in Upstate New York, funded by $400mm from public and private sources. This initiative aims to enhance academic research capabilities and promote job creation in AI, positioning New York as a leading AI center.
+The US has seized an oil tanker off the coast of Venezuela, as announced by former President Trump. This action may impact oil markets and geopolitical relations.
 
-**[US-Indonesia trade deal at risk of collapse](https://www.ft.com/content/4d407d2b-2f91-4858-b3b7-3167a7584da6)**  
-*finance* · 2025-12-09 · **Imp 4/5** — Entities: US, Indonesia
+**[US central bank to launch $40bn debt-buying scheme after money market strains](https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64)**  
+*finance* · 2025-12-10 · **Imp 4/5** — Entities: US central bank, money market
 
-The US-Indonesia trade deal faces potential collapse, raising concerns about economic relations and trade stability between the two nations.
+The US central bank is set to initiate a $40 billion debt-buying scheme in response to recent strains in the money market, aiming to stabilize financial conditions.
 
-**[Netflix vs Paramount: politics could decide battle for Warner Bros](https://www.ft.com/content/bbfebdc3-80ce-4dec-b88d-94535a63ed14)**  
-*finance* · 2025-12-09 · **Imp 4/5** — Tickers: NFLX, PARAA — Entities: Netflix, Paramount, Warner Bros
+**[Oracle shares slide as data centre spending mounts](https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc)**  
+*finance* · 2025-12-10 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle
 
-The competition between Netflix and Paramount for Warner Bros may hinge on political factors, influencing strategic decisions in the media landscape.
+Oracle shares have declined due to increasing spending on data centers, indicating potential challenges in managing operational costs and profitability.
 
-**[Donald Trump to pit Kevin Hassett against trio of Fed chair finalists](https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175)**  
-*finance* · 2025-12-09 · **Imp 4/5** — Entities: Donald Trump, Kevin Hassett, Federal Reserve
+**[Spotify’s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)**  
+*tech* · 2025-12-10 · **Imp 4/5** — Entities: Spotify, AI, Instagram
 
-Donald Trump is set to challenge Kevin Hassett against three finalists for the Federal Reserve chair position, indicating potential shifts in monetary policy direction.
+Spotify's new beta feature, Prompted Playlists, allows users to dictate their playlist preferences using AI, enhancing user control over music selection. This feature is part of Spotify's broader strategy to improve user engagement and personalization.
 
-**[Big Tech joins forces with Linux Foundation to standardize AI agents](https://arstechnica.com/ai/2025/12/big-tech-joins-forces-with-linux-foundation-to-standardize-ai-agents/)**  
-*tech* · 2025-12-09 · **Imp 4/5** — Entities: Big Tech, Linux Foundation, Agentic AI Foundation
+**[Zelenskyy talks Ukraine postwar plan with Bessent, Kushner and Fink](https://www.ft.com/content/cc834260-4ae6-44d3-ad70-7c4e2205d0d3)**  
+*finance* · 2025-12-10 · **Imp 4/5** — Entities: Zelenskyy, Bessent, Kushner, Fink
 
-Big Tech collaborates with the Linux Foundation to establish the Agentic AI Foundation, aimed at standardizing AI agents through initiatives like MCP, AGENTS.md, and goose.
+Ukrainian President Zelenskyy discusses postwar recovery plans with influential figures including Bessent, Kushner, and Fink, focusing on strategies for rebuilding the nation after conflict.
 
-**[JPMorgan shares slide as bank says expenses will jump $9bn in 2026](https://www.ft.com/content/52566296-350d-4324-a978-51e99601870a)**  
-*finance* · 2025-12-09 · **Imp 4/5** — Tickers: JPM — Entities: JPMorgan
+**[Fed cuts rates to three-year low after fractious meeting](https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec)**  
+*finance* · 2025-12-10 · **Imp 4/5** — Entities: Federal Reserve
 
-JPMorgan announced a projected $9 billion increase in expenses for 2026, leading to a decline in its share price. This forecast raises concerns among investors regarding future profitability.
-
-**[Supreme Court appears likely to approve Trump’s firing of FTC Democrat](https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/)**  
-*tech* · 2025-12-09 · **Imp 4/5** — Entities: Supreme Court, Trump, FTC
-
-The Supreme Court is poised to support Trump's authority to dismiss FTC Democrats, indicating a shift in control over independent agencies. This could have significant implications for regulatory practices.
+The Federal Reserve has reduced interest rates to a three-year low following a contentious meeting, impacting borrowing costs and economic outlook.
