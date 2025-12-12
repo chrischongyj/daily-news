@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
-**[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
-*tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI
+**[OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/)**  
+*tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
 
-SpaceX has announced plans to go public, marking a significant shift after years of resistance. This move is driven by the competitive landscape of AI, where asset accumulation and deployment are crucial.
+OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and achieves human-level performance on 70% of tasks. This release follows a heightened alert from Google regarding competitive AI advancements.
+
+**[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
+*tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI industry
+
+SpaceX has announced plans to go public, marking a significant shift after years of resistance. This move is seen as a strategic response to the competitive AI landscape, where asset accumulation and deployment are crucial.
 
 **[Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid](https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6)**  
 *finance* · 2025-12-08 · **Imp 5/5** — Entities: Paramount, Warner Bros, Netflix
@@ -220,32 +225,27 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[US seizes oil tanker off coast of Venezuela, says Trump](https://www.ft.com/content/1f0627d0-a9c4-48d7-9a13-307bc59dea66)**  
-*finance* · 2025-12-10 · **Imp 4/5** — Entities: US, Venezuela, Trump
+**[With GWM-1 family of “world models,” Runway shows ambitions beyond Hollywood](https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/)**  
+*tech* · 2025-12-11 · **Imp 4/5** — Entities: Runway, Google, Nvidia
 
-The US has seized an oil tanker off the coast of Venezuela, as announced by former President Trump. This action may impact oil markets and geopolitical relations.
+Runway introduces the GWM-1 family of 'world models,' signaling its ambitions to expand beyond Hollywood in the competitive tech landscape, which includes major players like Google and Nvidia.
 
-**[US central bank to launch $40bn debt-buying scheme after money market strains](https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64)**  
-*finance* · 2025-12-10 · **Imp 4/5** — Entities: US central bank, money market
+**[Crypto founder Do Kwon sentenced to 15 years in prison](https://www.ft.com/content/1bacfc09-6a29-4be9-8da8-ed0960e0c774)**  
+*finance* · 2025-12-11 · **Imp 4/5** — Entities: Do Kwon, cryptocurrency, regulatory landscape
 
-The US central bank is set to initiate a $40 billion debt-buying scheme in response to recent strains in the money market, aiming to stabilize financial conditions.
+Do Kwon, the founder of a prominent cryptocurrency project, has been sentenced to 15 years in prison, marking a significant development in the crypto regulatory landscape.
 
-**[Oracle shares slide as data centre spending mounts](https://www.ft.com/content/3633f277-d23b-44d0-b818-5fa3a89086cc)**  
-*finance* · 2025-12-10 · **Imp 4/5** — Tickers: ORCL — Entities: Oracle
+**[Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)**  
+*tech* · 2025-12-11 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini, Chrome, iPhone, iPad
 
-Oracle shares have declined due to increasing spending on data centers, indicating potential challenges in managing operational costs and profitability.
+Google has integrated its Gemini AI features into the iOS version of Chrome, allowing users to ask questions and summarize webpages. This rollout follows the desktop version's launch in September and is gradually becoming available to iPhone and iPad users.
 
-**[Spotify’s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)**  
-*tech* · 2025-12-10 · **Imp 4/5** — Entities: Spotify, AI, Instagram
+**[Fed reappoints regional chiefs in move that allays Trump challenge fears](https://www.ft.com/content/6b1f7439-f11a-4b7e-9250-3369497d4877)**  
+*finance* · 2025-12-11 · **Imp 4/5** — Entities: Federal Reserve, Trump
 
-Spotify's new beta feature, Prompted Playlists, allows users to dictate their playlist preferences using AI, enhancing user control over music selection. This feature is part of Spotify's broader strategy to improve user engagement and personalization.
+The Federal Reserve has reappointed regional chiefs, a decision that mitigates concerns regarding potential challenges from former President Trump. This move is seen as stabilizing for the financial sector amidst political uncertainties.
 
-**[Zelenskyy talks Ukraine postwar plan with Bessent, Kushner and Fink](https://www.ft.com/content/cc834260-4ae6-44d3-ad70-7c4e2205d0d3)**  
-*finance* · 2025-12-10 · **Imp 4/5** — Entities: Zelenskyy, Bessent, Kushner, Fink
+**[S&P 500 closes at record high as consumer-led rally blunts Oracle slide](https://www.ft.com/content/e4ae8299-e0a4-4e36-8c8f-d59b22202284)**  
+*finance* · 2025-12-11 · **Imp 4/5** — Tickers: SPY, ORCL — Entities: S&P 500, Oracle
 
-Ukrainian President Zelenskyy discusses postwar recovery plans with influential figures including Bessent, Kushner, and Fink, focusing on strategies for rebuilding the nation after conflict.
-
-**[Fed cuts rates to three-year low after fractious meeting](https://www.ft.com/content/86872584-c844-4d71-af16-60157c1585ec)**  
-*finance* · 2025-12-10 · **Imp 4/5** — Entities: Federal Reserve
-
-The Federal Reserve has reduced interest rates to a three-year low following a contentious meeting, impacting borrowing costs and economic outlook.
+The S&P 500 reached a record high, driven by a consumer-led rally, despite a decline in Oracle's stock performance.
