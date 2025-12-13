@@ -3,7 +3,7 @@
 **[OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/)**  
 *tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
 
-OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and achieves human-level performance on 70% of tasks. This release follows a heightened alert from Google regarding competitive AI advancements.
+OpenAI has launched GPT-5.2, asserting it surpasses Google's Gemini and achieves human-level performance on 70% of tasks. This release follows a significant threat alert from Google, highlighting the competitive landscape in AI development.
 
 **[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
 *tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI industry
@@ -225,27 +225,27 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[With GWM-1 family of “world models,” Runway shows ambitions beyond Hollywood](https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/)**  
-*tech* · 2025-12-11 · **Imp 4/5** — Entities: Runway, Google, Nvidia
+**[OpenAI built an AI coding agent and uses it to improve the agent itself](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/)**  
+*tech* · 2025-12-12 · **Imp 4/5** — Entities: OpenAI,Codex
 
-Runway introduces the GWM-1 family of 'world models,' signaling its ambitions to expand beyond Hollywood in the competitive tech landscape, which includes major players like Google and Nvidia.
+OpenAI has developed an AI coding agent that autonomously improves its own capabilities, primarily using its own Codex framework.
 
-**[Crypto founder Do Kwon sentenced to 15 years in prison](https://www.ft.com/content/1bacfc09-6a29-4be9-8da8-ed0960e0c774)**  
-*finance* · 2025-12-11 · **Imp 4/5** — Entities: Do Kwon, cryptocurrency, regulatory landscape
+**[US has failed to stop massive Chinese cyber campaign, warns senator](https://www.ft.com/content/50e45bac-c16b-48e8-b788-e6b106be9490)**  
+*finance* · 2025-12-12 · **Imp 4/5** — Entities: US government, Chinese government, cybersecurity
 
-Do Kwon, the founder of a prominent cryptocurrency project, has been sentenced to 15 years in prison, marking a significant development in the crypto regulatory landscape.
+A US senator warns that the country has not effectively countered a significant Chinese cyber campaign, highlighting ongoing cybersecurity challenges.
 
-**[Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)**  
-*tech* · 2025-12-11 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, Gemini, Chrome, iPhone, iPad
+**[US prosecutors probe last-ditch funding pleas before First Brands collapsed](https://www.ft.com/content/31b5eb7b-128d-4952-bfce-c507c9479a5a)**  
+*finance* · 2025-12-12 · **Imp 4/5** — Entities: US prosecutors, First Brands
 
-Google has integrated its Gemini AI features into the iOS version of Chrome, allowing users to ask questions and summarize webpages. This rollout follows the desktop version's launch in September and is gradually becoming available to iPhone and iPad users.
+US prosecutors are investigating funding requests made by First Brands prior to its collapse, raising concerns about financial practices and transparency.
 
-**[Fed reappoints regional chiefs in move that allays Trump challenge fears](https://www.ft.com/content/6b1f7439-f11a-4b7e-9250-3369497d4877)**  
-*finance* · 2025-12-11 · **Imp 4/5** — Entities: Federal Reserve, Trump
+**[US tech stocks slide as fears over AI boom flare up](https://www.ft.com/content/8b9519df-9154-4eb5-ab3b-d3da0115b65e)**  
+*finance* · 2025-12-12 · **Imp 4/5** — Entities: US tech stocks, AI boom
 
-The Federal Reserve has reappointed regional chiefs, a decision that mitigates concerns regarding potential challenges from former President Trump. This move is seen as stabilizing for the financial sector amidst political uncertainties.
+US tech stocks are experiencing a decline due to rising concerns regarding the sustainability of the AI boom, impacting investor sentiment and market stability.
 
-**[S&P 500 closes at record high as consumer-led rally blunts Oracle slide](https://www.ft.com/content/e4ae8299-e0a4-4e36-8c8f-d59b22202284)**  
-*finance* · 2025-12-11 · **Imp 4/5** — Tickers: SPY, ORCL — Entities: S&P 500, Oracle
+**[Google Translate expands live translation to all earbuds on Android](https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/)**  
+*tech* · 2025-12-12 · **Imp 4/5** — Entities: Google, Android, iOS
 
-The S&P 500 reached a record high, driven by a consumer-led rally, despite a decline in Oracle's stock performance.
+Google Translate has announced the expansion of its live translation feature to all earbuds on Android devices, with plans to extend this capability to iOS in the coming months.
