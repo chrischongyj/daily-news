@@ -3,7 +3,7 @@
 **[OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/)**  
 *tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
 
-OpenAI has launched GPT-5.2, claiming it outperforms Google's Gemini and matches human performance on 70% of tasks. This release follows a 'code red' alert from Google, indicating heightened competition in AI development.
+OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and can match human performance on 70% of work tasks. This release follows a 'code red' alert from Google regarding AI competition.
 
 **[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
 *tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI industry
@@ -225,27 +225,27 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Elite college sports group nears $500mn private capital deal](https://www.ft.com/content/591042d5-3067-4b8c-9e54-5fb734bfd4f2)**  
-*finance* · 2025-12-13 · **Imp 4/5** — Entities: elite college sports, private capital
+**[Conservative hardliner wins Chile’s presidential election in landslide](https://www.ft.com/content/16d4709c-f0f8-44c6-b1fd-91b4ff6e8279)**  
+*finance* · 2025-12-14 · **Imp 4/5** — Entities: Chile, presidential election, conservative hardliner
 
-An elite college sports organization is approaching a $500 million private capital deal, indicating significant financial movement within the sector.
+A conservative hardliner has won Chile's presidential election by a significant margin, signaling a shift in the country's political landscape.
 
-**[A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox)**  
-*tech* · 2025-12-13 · **Imp 4/5** — Entities: Nex
+**[Ukraine offers to drop Nato membership demands](https://www.ft.com/content/c98d24a4-0df3-43dd-a008-56feb0266f45)**  
+*finance* · 2025-12-14 · **Imp 4/5** — Entities: Ukraine, NATO, Western allies
 
-Nex's Playground console for kids is projected to sell 600,000 units this year, significantly up from 150,000 last year. The company anticipates over $150 million in sales, marking a turnaround from previous losses to potential profitability.
+Ukraine has proposed to abandon its demands for NATO membership, potentially altering its geopolitical stance and relations with Western allies.
 
-**[Hamas accuses Israel of sabotaging ceasefire after commander is targeted](https://www.ft.com/content/07181074-5c6f-417a-8723-e221a1cb5afa)**  
-*finance* · 2025-12-13 · **Imp 4/5** — Entities: Hamas, Israel
+**[France tries to delay EU-Mercosur trade deal](https://www.ft.com/content/a77bb74e-70c5-40cd-93e5-2f0d99b87aba)**  
+*finance* · 2025-12-14 · **Imp 4/5** — Entities: France, EU, Mercosur
 
-Hamas has accused Israel of undermining a ceasefire agreement following the targeting of one of its commanders, escalating tensions in the region.
+France is seeking to postpone the EU-Mercosur trade agreement, which could impact trade relations and economic dynamics between Europe and South America.
 
-**[Belarus frees Nobel laureate after US lifts potash sanctions](https://www.ft.com/content/b344814e-4725-4924-9871-b3170d74d1ef)**  
-*finance* · 2025-12-13 · **Imp 4/5** — Entities: Belarus, Nobel laureate, US
+**[How the EU can make the single market work better](https://www.ft.com/content/0ee6b7ae-d782-4483-beb3-b9de8ebc030e)**  
+*finance* · 2025-12-14 · **Imp 4/5** — Entities: EU, single market, journalism
 
-Belarus has released a Nobel laureate following the lifting of US sanctions on potash, potentially impacting the country's economy and international relations.
+The article discusses strategies for the EU to enhance the efficiency of its single market, focusing on digital access and quality journalism as key components.
 
-**[More than 9mn US borrowers miss student loan payments as delinquencies rise](https://www.ft.com/content/b6ca2ab2-2d3a-40d7-9a61-12a6fda0625d)**  
-*finance* · 2025-12-13 · **Imp 4/5** — Entities: US borrowers, student loans, financial stability
+**[Investors seek protection from risk of AI debt bust](https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f)**  
+*finance* · 2025-12-14 · **Imp 4/5** — Entities: investors, AI, debt crisis
 
-Over 9 million US borrowers are currently missing student loan payments, indicating a rise in delinquencies. This trend may impact the financial stability of borrowers and the broader economy.
+Investors are increasingly looking for strategies to mitigate risks associated with potential AI-related debt crises, highlighting concerns over the sustainability of AI investments.
