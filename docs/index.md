@@ -225,27 +225,27 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Conservative hardliner wins Chile’s presidential election in landslide](https://www.ft.com/content/16d4709c-f0f8-44c6-b1fd-91b4ff6e8279)**  
-*finance* · 2025-12-14 · **Imp 4/5** — Entities: Chile, presidential election, conservative hardliner
+**[PayPal applies for US banking licence](https://www.ft.com/content/420e25da-d8a3-4da1-8852-c4786c4c04f4)**  
+*finance* · 2025-12-15 · **Imp 4/5** — Tickers: PYPL — Entities: PayPal
 
-A conservative hardliner has won Chile's presidential election by a significant margin, signaling a shift in the country's political landscape.
+PayPal has applied for a US banking license, aiming to expand its financial services and enhance digital payment offerings.
 
-**[Ukraine offers to drop Nato membership demands](https://www.ft.com/content/c98d24a4-0df3-43dd-a008-56feb0266f45)**  
-*finance* · 2025-12-14 · **Imp 4/5** — Entities: Ukraine, NATO, Western allies
+**[Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content](https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/)**  
+*tech* · 2025-12-15 · **Imp 4/5** — Entities: Merriam-Webster, AI content, tech industry
 
-Ukraine has proposed to abandon its demands for NATO membership, potentially altering its geopolitical stance and relations with Western allies.
+Merriam-Webster has named a term for low-quality AI-generated content as its word of the year for 2024, highlighting growing concerns over the proliferation of junk AI content in the tech landscape.
 
-**[France tries to delay EU-Mercosur trade deal](https://www.ft.com/content/a77bb74e-70c5-40cd-93e5-2f0d99b87aba)**  
-*finance* · 2025-12-14 · **Imp 4/5** — Entities: France, EU, Mercosur
+**[Ford to take $19.5bn hit as US carmaker overhauls EV strategy](https://www.ft.com/content/93e352c0-4fee-49e4-9f0d-a86e4d2aeb47)**  
+*finance* · 2025-12-15 · **Imp 4/5** — Tickers: F — Entities: Ford
 
-France is seeking to postpone the EU-Mercosur trade agreement, which could impact trade relations and economic dynamics between Europe and South America.
+Ford is set to incur a $19.5 billion loss as it revamps its electric vehicle strategy, signaling significant shifts in its operational focus and financial outlook.
 
-**[How the EU can make the single market work better](https://www.ft.com/content/0ee6b7ae-d782-4483-beb3-b9de8ebc030e)**  
-*finance* · 2025-12-14 · **Imp 4/5** — Entities: EU, single market, journalism
+**[Steve Cohen wins approval for New York City casino project](https://www.ft.com/content/c79c3955-085f-451c-9b24-8ad24b824afa)**  
+*finance* · 2025-12-15 · **Imp 4/5** — Entities: Steve Cohen, New York City, casino project
 
-The article discusses strategies for the EU to enhance the efficiency of its single market, focusing on digital access and quality journalism as key components.
+Steve Cohen has received approval for his casino project in New York City, marking a significant development in the gaming industry.
 
-**[Investors seek protection from risk of AI debt bust](https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f)**  
-*finance* · 2025-12-14 · **Imp 4/5** — Entities: investors, AI, debt crisis
+**[Trump says Ukraine deal ‘closer than ever’ after talks in Berlin](https://www.ft.com/content/24b9f90f-ee39-4fde-9efb-559c0cc8596c)**  
+*finance* · 2025-12-15 · **Imp 4/5** — Entities: Trump, Ukraine, Berlin
 
-Investors are increasingly looking for strategies to mitigate risks associated with potential AI-related debt crises, highlighting concerns over the sustainability of AI investments.
+Trump claims a Ukraine deal is 'closer than ever' following discussions in Berlin, indicating potential shifts in geopolitical finance and investment opportunities.
