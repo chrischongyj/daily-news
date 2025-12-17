@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Medline raises more than $6bn in biggest IPO of 2025](https://www.ft.com/content/3c4e481b-2dd9-4ebd-abfb-abac6d7d1599)**  
+*finance* · 2025-12-16 · **Imp 5/5** — Entities: Medline
+
+Medline has successfully raised over $6 billion in what is being hailed as the largest IPO of 2025, marking a significant milestone in the finance sector.
+
 **[OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/)**  
 *tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
 
@@ -225,27 +230,22 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[PayPal applies for US banking licence](https://www.ft.com/content/420e25da-d8a3-4da1-8852-c4786c4c04f4)**  
-*finance* · 2025-12-15 · **Imp 4/5** — Tickers: PYPL — Entities: PayPal
+**[Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor](https://www.ft.com/content/b63a902d-aefc-400c-9a1f-b61ae63b29c9)**  
+*finance* · 2025-12-16 · **Imp 4/5** — Entities: Andersen, Enron
 
-PayPal has applied for a US banking license, aiming to expand its financial services and enhance digital payment offerings.
+Andersen, the consulting spin-off of the former Enron auditor, has been valued at $1.75 billion following its IPO, marking a significant milestone in its recovery and rebranding efforts.
 
-**[Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content](https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/)**  
-*tech* · 2025-12-15 · **Imp 4/5** — Entities: Merriam-Webster, AI content, tech industry
+**[Warner Bros to rebuff $108bn Paramount hostile offer](https://www.ft.com/content/6443abe1-c1ee-4f28-8a8a-408a3e8f6077)**  
+*finance* · 2025-12-16 · **Imp 4/5** — Entities: Warner Bros, Paramount
 
-Merriam-Webster has named a term for low-quality AI-generated content as its word of the year for 2024, highlighting growing concerns over the proliferation of junk AI content in the tech landscape.
+Warner Bros is set to reject a $108 billion hostile takeover bid from Paramount, indicating strong resistance to acquisition attempts in the media sector.
 
-**[Ford to take $19.5bn hit as US carmaker overhauls EV strategy](https://www.ft.com/content/93e352c0-4fee-49e4-9f0d-a86e4d2aeb47)**  
-*finance* · 2025-12-15 · **Imp 4/5** — Tickers: F — Entities: Ford
+**[Texas sues biggest TV makers, alleging smart TVs spy on users without consent](https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/)**  
+*tech* · 2025-12-16 · **Imp 4/5** — Entities: Texas, TV manufacturers, smart TVs, Automated Content Recognition
 
-Ford is set to incur a $19.5 billion loss as it revamps its electric vehicle strategy, signaling significant shifts in its operational focus and financial outlook.
+Texas has filed a lawsuit against major TV manufacturers, claiming that their smart TVs engage in unauthorized data collection through Automated Content Recognition, constituting 'mass surveillance' of users.
 
-**[Steve Cohen wins approval for New York City casino project](https://www.ft.com/content/c79c3955-085f-451c-9b24-8ad24b824afa)**  
-*finance* · 2025-12-15 · **Imp 4/5** — Entities: Steve Cohen, New York City, casino project
+**[The $4.3 billion space telescope Trump tried to cancel is now complete](https://arstechnica.com/space/2025/12/the-4-3-billion-space-telescope-trump-tried-to-cancel-is-now-complete/)**  
+*tech* · 2025-12-16 · **Imp 4/5** — Entities: Trump, space telescope, Milky Way galaxy
 
-Steve Cohen has received approval for his casino project in New York City, marking a significant development in the gaming industry.
-
-**[Trump says Ukraine deal ‘closer than ever’ after talks in Berlin](https://www.ft.com/content/24b9f90f-ee39-4fde-9efb-559c0cc8596c)**  
-*finance* · 2025-12-15 · **Imp 4/5** — Entities: Trump, Ukraine, Berlin
-
-Trump claims a Ukraine deal is 'closer than ever' following discussions in Berlin, indicating potential shifts in geopolitical finance and investment opportunities.
+The $4.3 billion space telescope, initially targeted for cancellation by Trump, is now complete and will produce 3D movies of the Milky Way galaxy.
