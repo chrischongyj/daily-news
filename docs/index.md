@@ -230,22 +230,22 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor](https://www.ft.com/content/b63a902d-aefc-400c-9a1f-b61ae63b29c9)**  
-*finance* · 2025-12-16 · **Imp 4/5** — Entities: Andersen, Enron
+**[Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor)**  
+*tech* · 2025-12-17 · **Imp 4/5** — Tickers: SNAP — Entities: Snap, Snapchat
 
-Andersen, the consulting spin-off of the former Enron auditor, has been valued at $1.75 billion following its IPO, marking a significant milestone in its recovery and rebranding efforts.
+Snapchat has launched Quick Cut, a video editing tool that allows users to create beat-synced videos from multiple clips and photos. The feature includes automatic music syncing and is currently available on iOS, with plans for Android expansion.
 
-**[Warner Bros to rebuff $108bn Paramount hostile offer](https://www.ft.com/content/6443abe1-c1ee-4f28-8a8a-408a3e8f6077)**  
-*finance* · 2025-12-16 · **Imp 4/5** — Entities: Warner Bros, Paramount
+**[BP replaces CEO Murray Auchincloss after less than two years](https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66)**  
+*finance* · 2025-12-17 · **Imp 4/5** — Tickers: BP — Entities: BP, Murray Auchincloss
 
-Warner Bros is set to reject a $108 billion hostile takeover bid from Paramount, indicating strong resistance to acquisition attempts in the media sector.
+BP has replaced CEO Murray Auchincloss after a tenure of less than two years, signaling potential shifts in leadership strategy and company direction.
 
-**[Texas sues biggest TV makers, alleging smart TVs spy on users without consent](https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/)**  
-*tech* · 2025-12-16 · **Imp 4/5** — Entities: Texas, TV manufacturers, smart TVs, Automated Content Recognition
+**[OpenAI’s new ChatGPT image generator makes faking photos easy](https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/)**  
+*tech* · 2025-12-17 · **Imp 4/5** — Entities: OpenAI, ChatGPT, digital media
 
-Texas has filed a lawsuit against major TV manufacturers, claiming that their smart TVs engage in unauthorized data collection through Automated Content Recognition, constituting 'mass surveillance' of users.
+OpenAI's ChatGPT Image 1.5 introduces advanced conversational image editing capabilities, enhancing the ease of creating realistic fake photos, which raises ethical concerns in digital media.
 
-**[The $4.3 billion space telescope Trump tried to cancel is now complete](https://arstechnica.com/space/2025/12/the-4-3-billion-space-telescope-trump-tried-to-cancel-is-now-complete/)**  
-*tech* · 2025-12-16 · **Imp 4/5** — Entities: Trump, space telescope, Milky Way galaxy
+**[Amazon overhauls AI team as chief declares an ‘inflection point’](https://www.ft.com/content/f3092c2d-f428-4ff4-bdbd-9a27b12bcae2)**  
+*finance* · 2025-12-17 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, AI team, chief executive
 
-The $4.3 billion space telescope, initially targeted for cancellation by Trump, is now complete and will produce 3D movies of the Milky Way galaxy.
+Amazon is restructuring its AI team, signaling a critical shift in strategy as the chief executive identifies an 'inflection point' in the company's approach to artificial intelligence.
