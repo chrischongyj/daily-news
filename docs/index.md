@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[The inside story of SpaceX’s historic rocket landing that changed launch forever](https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/)**  
+*tech* · 2025-12-18 · **Imp 5/5** — Entities: SpaceX, Falcon 9, aerospace industry
+
+SpaceX's successful Falcon 9 rocket landing marked a pivotal moment in aerospace history, showcasing advancements in reusable rocket technology and altering the landscape of space launches.
+
 **[Medline raises more than $6bn in biggest IPO of 2025](https://www.ft.com/content/3c4e481b-2dd9-4ebd-abfb-abac6d7d1599)**  
 *finance* · 2025-12-16 · **Imp 5/5** — Entities: Medline
 
@@ -230,22 +235,17 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor)**  
-*tech* · 2025-12-17 · **Imp 4/5** — Tickers: SNAP — Entities: Snap, Snapchat
+**[Flawed inflation data dashes Trump’s hopes of a quick affordability victory](https://www.ft.com/content/c90d704f-8efc-4870-a04a-5d0d6a637571)**  
+*finance* · 2025-12-18 · **Imp 4/5** — Entities: Trump, inflation data, affordability
 
-Snapchat has launched Quick Cut, a video editing tool that allows users to create beat-synced videos from multiple clips and photos. The feature includes automatic music syncing and is currently available on iOS, with plans for Android expansion.
+Recent flawed inflation data undermines former President Trump's aspirations for a swift improvement in affordability, impacting economic perceptions ahead of upcoming elections.
 
-**[BP replaces CEO Murray Auchincloss after less than two years](https://www.ft.com/content/802414de-72a1-4db1-9886-f21ccd6cca66)**  
-*finance* · 2025-12-17 · **Imp 4/5** — Tickers: BP — Entities: BP, Murray Auchincloss
+**[Trump commits to Moon landing by 2028, followed by a lunar outpost two years later](https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/)**  
+*tech* · 2025-12-18 · **Imp 4/5** — Entities: Trump administration, NASA, lunar exploration
 
-BP has replaced CEO Murray Auchincloss after a tenure of less than two years, signaling potential shifts in leadership strategy and company direction.
+Trump pledges to achieve a Moon landing by 2028, with plans for a lunar outpost by 2030, including the deployment of nuclear power reactors on the Moon.
 
-**[OpenAI’s new ChatGPT image generator makes faking photos easy](https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/)**  
-*tech* · 2025-12-17 · **Imp 4/5** — Entities: OpenAI, ChatGPT, digital media
+**[Nike shares fall sharply as weak China sales dent faith in turnaround](https://www.ft.com/content/a7ef61fa-4c2a-4bb6-aadb-4bed15b41a46)**  
+*finance* · 2025-12-18 · **Imp 4/5** — Tickers: NKE — Entities: Nike
 
-OpenAI's ChatGPT Image 1.5 introduces advanced conversational image editing capabilities, enhancing the ease of creating realistic fake photos, which raises ethical concerns in digital media.
-
-**[Amazon overhauls AI team as chief declares an ‘inflection point’](https://www.ft.com/content/f3092c2d-f428-4ff4-bdbd-9a27b12bcae2)**  
-*finance* · 2025-12-17 · **Imp 4/5** — Tickers: AMZN — Entities: Amazon, AI team, chief executive
-
-Amazon is restructuring its AI team, signaling a critical shift in strategy as the chief executive identifies an 'inflection point' in the company's approach to artificial intelligence.
+Nike's shares have declined significantly due to disappointing sales in China, raising concerns about the company's turnaround strategy.
