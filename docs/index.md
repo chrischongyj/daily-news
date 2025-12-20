@@ -235,17 +235,17 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Flawed inflation data dashes Trump’s hopes of a quick affordability victory](https://www.ft.com/content/c90d704f-8efc-4870-a04a-5d0d6a637571)**  
-*finance* · 2025-12-18 · **Imp 4/5** — Entities: Trump, inflation data, affordability
+**[Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/)**  
+*tech* · 2025-12-19 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, SerpApi
 
-Recent flawed inflation data undermines former President Trump's aspirations for a swift improvement in affordability, impacting economic perceptions ahead of upcoming elections.
+Google has filed a lawsuit against SerpApi, a firm accused of scraping search results, stating it is a last resort to protect its data integrity.
 
-**[Trump commits to Moon landing by 2028, followed by a lunar outpost two years later](https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/)**  
-*tech* · 2025-12-18 · **Imp 4/5** — Entities: Trump administration, NASA, lunar exploration
+**[Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)**  
+*tech* · 2025-12-19 · **Imp 4/5** — Entities: National Defense Authorization Act, Trump administration, US military, International Nuclear Energy Act, US International Development Finance Corporation, Third Way
 
-Trump pledges to achieve a Moon landing by 2028, with plans for a lunar outpost by 2030, including the deployment of nuclear power reactors on the Moon.
+The National Defense Authorization Act (NDAA) for FY 2026 supports next-generation nuclear reactors, promoting bipartisan efforts for cleaner energy sources. It includes measures for funding and cooperation in nuclear technology development, enhancing US nuclear exports and military applications.
 
-**[Nike shares fall sharply as weak China sales dent faith in turnaround](https://www.ft.com/content/a7ef61fa-4c2a-4bb6-aadb-4bed15b41a46)**  
-*finance* · 2025-12-18 · **Imp 4/5** — Tickers: NKE — Entities: Nike
+**[Delaware high court reinstates Musk’s $56bn Tesla pay package](https://www.ft.com/content/9d7b443d-793d-47cb-940f-ff42741236c2)**  
+*finance* · 2025-12-19 · **Imp 4/5** — Tickers: TSLA — Entities: Elon Musk, Tesla, Delaware Supreme Court
 
-Nike's shares have declined significantly due to disappointing sales in China, raising concerns about the company's turnaround strategy.
+The Delaware Supreme Court has reinstated Elon Musk's $56 billion pay package from Tesla, affirming its legality and the board's decision-making process. This ruling could influence executive compensation structures and governance practices in tech companies.
