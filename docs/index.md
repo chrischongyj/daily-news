@@ -235,17 +235,17 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/)**  
-*tech* · 2025-12-19 · **Imp 4/5** — Tickers: GOOGL — Entities: Google, SerpApi
+**[How Europe’s new carbon tax on imported goods will change global trade](https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/)**  
+*tech* · 2025-12-20 · **Imp 4/5** — Entities: European Union, global trade, carbon tax
 
-Google has filed a lawsuit against SerpApi, a firm accused of scraping search results, stating it is a last resort to protect its data integrity.
+Europe's upcoming carbon tax on imported goods, effective January 1, aims to reshape global trade dynamics by imposing costs on carbon-intensive products, potentially impacting pricing and supply chains.
 
-**[Next-generation nuclear reactors could get a boost from the National Defense Authorization Act](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill)**  
-*tech* · 2025-12-19 · **Imp 4/5** — Entities: National Defense Authorization Act, Trump administration, US military, International Nuclear Energy Act, US International Development Finance Corporation, Third Way
+**[Epstein files release leaves Trump facing fresh row over limited disclosures](https://www.ft.com/content/d45702ed-ea92-40e1-958c-777d33779567)**  
+*finance* · 2025-12-20 · **Imp 4/5** — Entities: Trump, Epstein
 
-The National Defense Authorization Act (NDAA) for FY 2026 supports next-generation nuclear reactors, promoting bipartisan efforts for cleaner energy sources. It includes measures for funding and cooperation in nuclear technology development, enhancing US nuclear exports and military applications.
+The release of Epstein files has reignited scrutiny over Trump's financial disclosures, potentially impacting investor confidence and public perception. This controversy may affect Trump's business dealings and political aspirations.
 
-**[Delaware high court reinstates Musk’s $56bn Tesla pay package](https://www.ft.com/content/9d7b443d-793d-47cb-940f-ff42741236c2)**  
-*finance* · 2025-12-19 · **Imp 4/5** — Tickers: TSLA — Entities: Elon Musk, Tesla, Delaware Supreme Court
+**[Have we reached a tipping point on public debt?](https://www.ft.com/content/bee3d60f-adfd-49d2-9e82-a7e35ecf867a)**  
+*finance* · 2025-12-20 · **Imp 4/5** — Entities: public debt, economy, investors
 
-The Delaware Supreme Court has reinstated Elon Musk's $56 billion pay package from Tesla, affirming its legality and the board's decision-making process. This ruling could influence executive compensation structures and governance practices in tech companies.
+The article discusses the potential tipping point of public debt, highlighting its implications for the economy and investors. It emphasizes the need for expert analysis to navigate the changing financial landscape.
