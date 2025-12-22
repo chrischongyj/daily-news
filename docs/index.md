@@ -235,17 +235,17 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[How Europe’s new carbon tax on imported goods will change global trade](https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/)**  
-*tech* · 2025-12-20 · **Imp 4/5** — Entities: European Union, global trade, carbon tax
+**[US steps up blockade of Venezuela by seeking to board third oil tanker](https://www.ft.com/content/4bdc644b-a756-4434-83e1-9591dbe38249)**  
+*finance* · 2025-12-21 · **Imp 4/5** — Entities: US, Venezuela, oil tanker
 
-Europe's upcoming carbon tax on imported goods, effective January 1, aims to reshape global trade dynamics by imposing costs on carbon-intensive products, potentially impacting pricing and supply chains.
+The US intensifies its blockade on Venezuela by attempting to board a third oil tanker, signaling a stronger stance on sanctions and trade restrictions.
 
-**[Epstein files release leaves Trump facing fresh row over limited disclosures](https://www.ft.com/content/d45702ed-ea92-40e1-958c-777d33779567)**  
-*finance* · 2025-12-20 · **Imp 4/5** — Entities: Trump, Epstein
+**[JPMorgan questioned Tricolor’s accounting a year before its collapse](https://www.ft.com/content/0d1aa459-cf00-42c3-9e4d-35ed2107b88e)**  
+*finance* · 2025-12-21 · **Imp 4/5** — Entities: JPMorgan, Tricolor
 
-The release of Epstein files has reignited scrutiny over Trump's financial disclosures, potentially impacting investor confidence and public perception. This controversy may affect Trump's business dealings and political aspirations.
+JPMorgan raised concerns about Tricolor's accounting practices a year prior to the company's collapse, highlighting potential financial mismanagement.
 
-**[Have we reached a tipping point on public debt?](https://www.ft.com/content/bee3d60f-adfd-49d2-9e82-a7e35ecf867a)**  
-*finance* · 2025-12-20 · **Imp 4/5** — Entities: public debt, economy, investors
+**[Betting against New York is always a losing proposition](https://www.ft.com/content/ff116162-49c2-4b85-8a4a-0aaec20b2c85)**  
+*finance* · 2025-12-21 · **Imp 4/5** — Entities: New York economy, investors, analysts
 
-The article discusses the potential tipping point of public debt, highlighting its implications for the economy and investors. It emphasizes the need for expert analysis to navigate the changing financial landscape.
+The article argues that betting against New York's economy is often unwise, highlighting the city's resilience and potential for recovery.
