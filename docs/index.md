@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)**  
+*tech* · 2025-12-22 · **Imp 5/5** — Entities: Vince Zampella, Call of Duty, Titanfall, Apex Legends, Star Wars Jedi, Battlefield
+
+Vince Zampella, the influential developer behind franchises like Call of Duty and Titanfall, has passed away at 55. His leadership and vision significantly shaped modern shooters and action games, leaving a lasting legacy in the gaming community.
+
+**[Larry Ellison gives $40bn personal backing to Warner Bros Discovery bid](https://www.ft.com/content/4df74892-456a-47aa-a80f-77d1360571a2)**  
+*finance* · 2025-12-22 · **Imp 5/5** — Entities: Larry Ellison, Warner Bros Discovery
+
+Larry Ellison has pledged $40 billion in personal backing for Warner Bros Discovery's bid, signaling strong confidence in the company's potential and future growth.
+
 **[The inside story of SpaceX’s historic rocket landing that changed launch forever](https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/)**  
 *tech* · 2025-12-18 · **Imp 5/5** — Entities: SpaceX, Falcon 9, aerospace industry
 
@@ -235,17 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[US steps up blockade of Venezuela by seeking to board third oil tanker](https://www.ft.com/content/4bdc644b-a756-4434-83e1-9591dbe38249)**  
-*finance* · 2025-12-21 · **Imp 4/5** — Entities: US, Venezuela, oil tanker
+**[In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance](https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/)**  
+*tech* · 2025-12-22 · **Imp 4/5** — Entities: Tory Bruno, United Launch Alliance, Vulcan
 
-The US intensifies its blockade on Venezuela by attempting to board a third oil tanker, signaling a stronger stance on sanctions and trade restrictions.
-
-**[JPMorgan questioned Tricolor’s accounting a year before its collapse](https://www.ft.com/content/0d1aa459-cf00-42c3-9e4d-35ed2107b88e)**  
-*finance* · 2025-12-21 · **Imp 4/5** — Entities: JPMorgan, Tricolor
-
-JPMorgan raised concerns about Tricolor's accounting practices a year prior to the company's collapse, highlighting potential financial mismanagement.
-
-**[Betting against New York is always a losing proposition](https://www.ft.com/content/ff116162-49c2-4b85-8a4a-0aaec20b2c85)**  
-*finance* · 2025-12-21 · **Imp 4/5** — Entities: New York economy, investors, analysts
-
-The article argues that betting against New York's economy is often unwise, highlighting the city's resilience and potential for recovery.
+Tory Bruno has unexpectedly stepped down as CEO of United Launch Alliance, marking a significant leadership change as the company prepares to launch its Vulcan rocket.
