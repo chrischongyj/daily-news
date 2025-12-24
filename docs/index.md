@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance](https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/)**  
-*tech* · 2025-12-22 · **Imp 4/5** — Entities: Tory Bruno, United Launch Alliance, Vulcan
+**[Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems)**  
+*tech* · 2025-12-23 · **Imp 4/5** — Tickers: AAPL — Entities: Apple, CADE
 
-Tory Bruno has unexpectedly stepped down as CEO of United Launch Alliance, marking a significant leadership change as the company prepares to launch its Vulcan rocket.
+Apple will permit third-party app stores in Brazil to comply with CADE regulations, potentially increasing privacy and security risks for users while maintaining some safeguards, especially for younger users.
