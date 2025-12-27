@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[AI ‘world models’ promise to reshape $190bn video games industry](https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112)**  
-*finance* · 2025-12-25 · **Imp 4/5** — Entities: AI, video games industry
+**[So long, American exceptionalism](https://www.ft.com/content/a9f5e37c-dd0f-4681-bddf-f20b6a6ce4e3)**  
+*finance* · 2025-12-26 · **Imp 4/5** — Entities: FT, American exceptionalism, journalism, finance
 
-AI 'world models' are set to transform the $190 billion video games industry, enhancing gameplay and development processes. This innovation could significantly impact market dynamics and investment opportunities.
+The article discusses the decline of American exceptionalism in the context of finance, highlighting the need for quality journalism and expert analysis in navigating these changes.
