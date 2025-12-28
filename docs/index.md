@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[So long, American exceptionalism](https://www.ft.com/content/a9f5e37c-dd0f-4681-bddf-f20b6a6ce4e3)**  
-*finance* · 2025-12-26 · **Imp 4/5** — Entities: FT, American exceptionalism, journalism, finance
+**[Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics)**  
+*tech* · 2025-12-27 · **Imp 4/5** — Tickers: SSNLF — Entities: Samsung, Erwan Bouroullec
 
-The article discusses the decline of American exceptionalism in the context of finance, highlighting the need for quality journalism and expert analysis in navigating these changes.
+Samsung's new Music Studio speakers, debuting at CES 2026, blend aesthetics with audio quality, featuring designs by Erwan Bouroullec and advanced sound technology. The Music Studio 5 and 7 offer high-resolution audio and AI Dynamic Bass Control, enhancing both form and function.
