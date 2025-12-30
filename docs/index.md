@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)**  
-*tech* · 2025-12-28 · **Imp 4/5** — Entities: LG, Apple
+**[Lululemon founder calls for board overhaul at struggling fitness brand](https://www.ft.com/content/e46824b3-e80f-4c63-9ab0-69aad4f651dd)**  
+*finance* · 2025-12-29 · **Imp 4/5** — Tickers: LULU — Entities: Lululemon, fitness industry
 
-LG has launched its UltraGear evo gaming monitors featuring 5K resolution and AI upscaling. The lineup includes three flagship models: 39GX950B, 27GM950B, and 52G930B, each with unique technologies aimed at enhancing gaming experiences. Details on pricing and availability are pending.
+Lululemon's founder advocates for a complete board overhaul to address the company's struggles, signaling potential shifts in leadership and strategy.
