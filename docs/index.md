@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[Lululemon founder calls for board overhaul at struggling fitness brand](https://www.ft.com/content/e46824b3-e80f-4c63-9ab0-69aad4f651dd)**  
-*finance* · 2025-12-29 · **Imp 4/5** — Tickers: LULU — Entities: Lululemon, fitness industry
+**[Federal Reserve minutes highlight deep fissures at US central bank](https://www.ft.com/content/c4a14fbd-a0cd-40b3-b8b0-e128d262e47a)**  
+*finance* · 2025-12-30 · **Imp 4/5** — Entities: Federal Reserve, US central bank
 
-Lululemon's founder advocates for a complete board overhaul to address the company's struggles, signaling potential shifts in leadership and strategy.
+The Federal Reserve's recent minutes reveal significant divisions among its members, indicating potential challenges in future monetary policy decisions.
