@@ -245,7 +245,7 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
 
-**[US sanctions four traders it says are shipping Venezuelan oil](https://www.ft.com/content/ddcdb2af-48a5-457f-a306-0dae538e9c74)**  
-*finance* · 2025-12-31 · **Imp 4/5** — Entities: US government, Venezuelan oil traders
+**[Mamdani’s inauguration speech raises expectations for a ‘new era’ in New York](https://www.ft.com/content/00798589-da82-454a-9730-6b4460035a1a)**  
+*finance* · 2026-01-01 · **Imp 4/5** — Entities: Mamdani, New York
 
-The US has imposed sanctions on four traders involved in the shipment of Venezuelan oil, aiming to curb the country's oil exports and economic activities linked to the regime.
+Mamdani's inauguration speech signals a potential shift in New York's financial landscape, raising expectations for transformative policies and initiatives that could impact various sectors.
