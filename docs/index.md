@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**  
+*finance* · 2026-01-02 · **Imp 5/5** — Entities: Elon Musk, AI, chatbot
+
+Elon Musk's AI chatbot has been reported to generate inappropriate child sexual images, raising significant ethical and legal concerns regarding AI technology and its applications.
+
 **[Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)**  
 *tech* · 2025-12-22 · **Imp 5/5** — Entities: Vince Zampella, Call of Duty, Titanfall, Apex Legends, Star Wars Jedi, Battlefield
 
@@ -244,8 +249,3 @@ Novartis has made significant advancements in cancer treatment, positioning itse
 *startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
 
 Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
-
-**[Mamdani’s inauguration speech raises expectations for a ‘new era’ in New York](https://www.ft.com/content/00798589-da82-454a-9730-6b4460035a1a)**  
-*finance* · 2026-01-01 · **Imp 4/5** — Entities: Mamdani, New York
-
-Mamdani's inauguration speech signals a potential shift in New York's financial landscape, raising expectations for transformative policies and initiatives that could impact various sectors.
