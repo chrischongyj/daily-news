@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Musk’s xAI raises $20bn in funding round that doubles valuation](https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9)**  
+*finance* · 2026-01-06 · **Imp 5/5** — Entities: Musk, xAI
+
+Musk's xAI has successfully raised $20 billion in its latest funding round, resulting in a doubled valuation. This significant capital influx positions xAI as a major player in the AI sector.
+
 **[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**  
 *finance* · 2026-01-02 · **Imp 5/5** — Entities: Elon Musk, AI, chatbot
 
@@ -244,8 +249,3 @@ The US government is engaged in an antitrust case against Google, focusing on it
 *finance* · 2025-09-02 · **Imp 5/5** — Tickers: NVS — Entities: Novartis
 
 Novartis has made significant advancements in cancer treatment, positioning itself as a leader in the pharmaceutical sector with an 'incredible' breakthrough. This development could reshape investor confidence and market dynamics in oncology.
-
-**[Investors are loving Lovable](https://techcrunch.com/2025/08/28/investors-are-loving-lovable/)**  
-*startup* · 2025-08-28 · **Imp 5/5** — Entities: Lovable, Accel, Anysphere
-
-Swedish startup Lovable is attracting significant investor interest, with unsolicited offers valuing it over $4 billion, following a recent $200 million funding round at a $1.8 billion valuation. The company has quickly surpassed $100 million in annual recurring revenue within nine months of launch.
