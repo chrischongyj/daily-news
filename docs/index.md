@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[The ‘catastrophic’ state of Venezuela’s oil facilities](https://www.ft.com/content/cef0a0c5-59be-4b53-83da-4f7fc609c2a8)**  
+*finance* · 2026-01-07 · **Imp 5/5** — Entities: Venezuela, oil facilities, foreign investment
+
+Venezuela's oil facilities are in a 'catastrophic' state, severely impacting production and revenue. This deterioration poses significant challenges for the country's economy and its ability to attract foreign investment.
+
 **[Musk’s xAI raises $20bn in funding round that doubles valuation](https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9)**  
 *finance* · 2026-01-06 · **Imp 5/5** — Entities: Musk, xAI
 
@@ -244,8 +249,3 @@ Jane Street has achieved a significant milestone, with quarterly revenue surpass
 *tech* · 2025-09-02 · **Imp 5/5** — Tickers: GOOGL — Entities: US government, Google
 
 The US government is engaged in an antitrust case against Google, focusing on its dominance in the search engine market. The proceedings are taking place at the E. Barrett Prettyman Courthouse in Washington, DC, and could have significant implications for the tech industry and regulatory landscape.
-
-**[How Novartis got ahead on ‘incredible’ cancer breakthrough](https://www.ft.com/content/a955b66c-89ac-4d2f-83dc-2b93baa4d56a)**  
-*finance* · 2025-09-02 · **Imp 5/5** — Tickers: NVS — Entities: Novartis
-
-Novartis has made significant advancements in cancer treatment, positioning itself as a leader in the pharmaceutical sector with an 'incredible' breakthrough. This development could reshape investor confidence and market dynamics in oncology.
