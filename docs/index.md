@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)**  
+*finance* · 2026-01-08 · **Imp 5/5** — Entities: Glencore, Rio Tinto
+
+Glencore and Rio Tinto have resumed negotiations for a potential $260 billion mining megadeal, signaling significant consolidation in the mining sector.
+
 **[The ‘catastrophic’ state of Venezuela’s oil facilities](https://www.ft.com/content/cef0a0c5-59be-4b53-83da-4f7fc609c2a8)**  
 *finance* · 2026-01-07 · **Imp 5/5** — Entities: Venezuela, oil facilities, foreign investment
 
@@ -244,8 +249,3 @@ Tesla plans to grant Elon Musk a $1 trillion award contingent on achieving ambit
 *finance* · 2025-09-02 · **Imp 5/5** — Entities: Jane Street
 
 Jane Street has achieved a significant milestone, with quarterly revenue surpassing $10 billion for the first time, indicating robust growth and performance in the financial sector.
-
-**[US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)**  
-*tech* · 2025-09-02 · **Imp 5/5** — Tickers: GOOGL — Entities: US government, Google
-
-The US government is engaged in an antitrust case against Google, focusing on its dominance in the search engine market. The proceedings are taking place at the E. Barrett Prettyman Courthouse in Washington, DC, and could have significant implications for the tech industry and regulatory landscape.
