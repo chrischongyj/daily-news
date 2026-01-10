@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[How Elon Musk’s Grok spread sexual deepfakes and child exploitation images](https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc)**  
+*finance* · 2026-01-09 · **Imp 5/5** — Entities: Elon Musk, Grok
+
+Elon Musk's Grok has been implicated in the distribution of sexual deepfakes and child exploitation images, raising significant ethical and legal concerns regarding content moderation and platform responsibility.
+
 **[Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)**  
 *finance* · 2026-01-08 · **Imp 5/5** — Entities: Glencore, Rio Tinto
 
@@ -244,8 +249,3 @@ Anglo American is close to finalizing a $20 billion acquisition of Teck Resource
 *finance* · 2025-09-05 · **Imp 5/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
 
 Tesla plans to grant Elon Musk a $1 trillion award contingent on achieving ambitious performance targets, signaling the company's aggressive growth strategy and potential market impact.
-
-**[Jane Street revenue eclipses $10bn in a quarter for first time](https://www.ft.com/content/c1d7ba02-3983-4940-b3ef-1f4e28094fa7)**  
-*finance* · 2025-09-02 · **Imp 5/5** — Entities: Jane Street
-
-Jane Street has achieved a significant milestone, with quarterly revenue surpassing $10 billion for the first time, indicating robust growth and performance in the financial sector.
