@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)**  
+*tech* · 2026-01-11 · **Imp 5/5** — Entities: Google, pancreatic cancer, liver disease
+
+Google has removed AI-generated overviews for certain medical searches after providing dangerous and misleading health advice, including incorrect dietary recommendations for pancreatic cancer and erroneous information on liver function tests.
+
 **[How Elon Musk’s Grok spread sexual deepfakes and child exploitation images](https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc)**  
 *finance* · 2026-01-09 · **Imp 5/5** — Entities: Elon Musk, Grok
 
@@ -244,8 +249,3 @@ Oracle shares rose 27% to a record high, driven by an anticipated increase in fu
 *finance* · 2025-09-08 · **Imp 5/5** — Entities: Anglo American, Teck Resources
 
 Anglo American is close to finalizing a $20 billion acquisition of Teck Resources, marking a significant move in the mining sector.
-
-**[Tesla seeks to award Musk $1tn if carmaker hits formidable targets](https://www.ft.com/content/9068b01a-35c0-4d05-ad48-c0e4678fe315)**  
-*finance* · 2025-09-05 · **Imp 5/5** — Tickers: TSLA — Entities: Tesla, Elon Musk
-
-Tesla plans to grant Elon Musk a $1 trillion award contingent on achieving ambitious performance targets, signaling the company's aggressive growth strategy and potential market impact.
