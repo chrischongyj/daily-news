@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Alphabet hits $4tn valuation on AI hopes](https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9)**  
+*finance* · 2026-01-12 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet, artificial intelligence
+
+Alphabet has reached a $4 trillion valuation, driven by optimism surrounding its artificial intelligence initiatives. This milestone reflects growing investor confidence in AI's potential to enhance the company's growth prospects.
+
 **[Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)**  
 *tech* · 2026-01-11 · **Imp 5/5** — Entities: Google, pancreatic cancer, liver disease
 
@@ -244,8 +249,3 @@ Alphabet's market value has surpassed $3 trillion, marking a significant milesto
 *finance* · 2025-09-09 · **Imp 5/5** — Tickers: ORCL — Entities: Oracle
 
 Oracle shares rose 27% to a record high, driven by an anticipated increase in future AI revenue, reflecting strong investor confidence in the company's growth potential in the tech sector.
-
-**[Anglo American nears $20bn takeover of Teck Resources](https://www.ft.com/content/786c4546-3a40-4388-97aa-74b94d63e568)**  
-*finance* · 2025-09-08 · **Imp 5/5** — Entities: Anglo American, Teck Resources
-
-Anglo American is close to finalizing a $20 billion acquisition of Teck Resources, marking a significant move in the mining sector.
