@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[‘Welcome to hell’: Venezuela’s most notorious torture chamber](https://www.ft.com/content/810f5931-5138-4ad2-a71e-a4812608c85e)**  
+*finance* · 2026-01-14 · **Imp 5/5** — Entities: Venezuela, human rights, torture
+
+The article discusses the notorious torture chamber in Venezuela, highlighting the severe human rights abuses occurring in the country. It sheds light on the dire situation faced by many Venezuelans under the current regime.
+
 **[Alphabet hits $4tn valuation on AI hopes](https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9)**  
 *finance* · 2026-01-12 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet, artificial intelligence
 
@@ -244,8 +249,3 @@ Amazon, Google, and Microsoft urge H-1B visa holders to return to the U.S. befor
 *finance* · 2025-09-15 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet
 
 Alphabet's market value has surpassed $3 trillion, marking a significant milestone for the tech giant and reflecting its strong position in the market.
-
-**[Oracle shares surge 27% to record high on jump in future AI revenue](https://www.ft.com/content/d467e51e-8e03-4390-9f91-6874bd48a7f2)**  
-*finance* · 2025-09-09 · **Imp 5/5** — Tickers: ORCL — Entities: Oracle
-
-Oracle shares rose 27% to a record high, driven by an anticipated increase in future AI revenue, reflecting strong investor confidence in the company's growth potential in the tech sector.
