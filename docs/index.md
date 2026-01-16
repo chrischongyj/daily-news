@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[US and Taiwan strike trade deal tied to $250bn chip investment](https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57)**  
+*finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
+
+The US and Taiwan have finalized a trade deal linked to a substantial $250 billion investment in semiconductor manufacturing, enhancing collaboration in the tech sector.
+
+**[BlackRock assets surge above $14tn after record quarter](https://www.ft.com/content/a1b78279-4ff1-4208-a12f-786c736e5cf1)**  
+*finance* · 2026-01-15 · **Imp 5/5** — Tickers: BLK — Entities: BlackRock
+
+BlackRock's assets have surpassed $14 trillion following a record quarter, highlighting the firm's strong performance in the asset management sector.
+
 **[‘Welcome to hell’: Venezuela’s most notorious torture chamber](https://www.ft.com/content/810f5931-5138-4ad2-a71e-a4812608c85e)**  
 *finance* · 2026-01-14 · **Imp 5/5** — Entities: Venezuela, human rights, torture
 
@@ -239,13 +249,3 @@ Nvidia's $100 billion deal with OpenAI highlights significant investment in AI t
 *finance* · 2025-09-22 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI
 
 Nvidia plans to invest up to $100 billion in OpenAI, signaling a significant commitment to AI development and collaboration.
-
-**[Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)**  
-*tech* · 2025-09-20 · **Imp 5/5** — Tickers: AMZN, GOOGL, MSFT — Entities: Amazon, Google, Microsoft
-
-Amazon, Google, and Microsoft urge H-1B visa holders to return to the U.S. before a new Proclamation imposes a $100,000 re-entry fee, potentially delaying or preventing re-entry. Employees are advised against international travel if currently in the U.S.
-
-**[Alphabet market value exceeds $3tn](https://www.ft.com/content/a18ce1c4-d610-4cdf-b853-2d8f43ff4be1)**  
-*finance* · 2025-09-15 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet
-
-Alphabet's market value has surpassed $3 trillion, marking a significant milestone for the tech giant and reflecting its strong position in the market.
