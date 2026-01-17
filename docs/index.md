@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[TSMC says AI demand is “endless” after record Q4 earnings](https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/)**  
+*tech* · 2026-01-16 · **Imp 5/5** — Tickers: TSM — Entities: TSMC
+
+TSMC reports record Q4 earnings, attributing growth to relentless AI demand, despite concerns of a potential bubble in the sector.
+
 **[US and Taiwan strike trade deal tied to $250bn chip investment](https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57)**  
 *finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
 
@@ -244,8 +249,3 @@ TechCrunch Disrupt 2025, taking place October 27-29, is a crucial event for star
 *finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
 
 Nvidia's $100 billion deal with OpenAI highlights significant investment in AI technology, impacting the tech landscape and investor sentiment.
-
-**[Nvidia to invest up to $100bn in OpenAI](https://www.ft.com/content/d3caeac1-def8-45ae-b56b-e34c7c435ccc)**  
-*finance* · 2025-09-22 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI
-
-Nvidia plans to invest up to $100 billion in OpenAI, signaling a significant commitment to AI development and collaboration.
