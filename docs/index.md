@@ -3,7 +3,7 @@
 **[TSMC says AI demand is “endless” after record Q4 earnings](https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/)**  
 *tech* · 2026-01-16 · **Imp 5/5** — Tickers: TSM — Entities: TSMC
 
-TSMC reports record Q4 earnings, attributing growth to relentless AI demand, despite concerns of a potential bubble in the sector.
+TSMC reports record Q4 earnings, attributing growth to relentless AI demand. Despite concerns of a potential bubble, the chipmaker emphasizes that customer requests continue to surge.
 
 **[US and Taiwan strike trade deal tied to $250bn chip investment](https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57)**  
 *finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
