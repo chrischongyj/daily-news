@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
-**[TSMC says AI demand is “endless” after record Q4 earnings](https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/)**  
-*tech* · 2026-01-16 · **Imp 5/5** — Tickers: TSM — Entities: TSMC
+**[Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/)**  
+*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
 
-TSMC reports record Q4 earnings, attributing growth to relentless AI demand. Despite concerns of a potential bubble, the chipmaker emphasizes that customer requests continue to surge.
+The neglect of the blue economy significantly inflates the costs associated with climate change, potentially reaching multi-trillion-dollar losses. Addressing ocean damage is crucial for effective climate finance.
+
+**[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**  
+*finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
+
+China is poised to take the lead in the global AI race, leveraging its vast resources and talent pool to advance technology.
 
 **[US and Taiwan strike trade deal tied to $250bn chip investment](https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57)**  
 *finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
@@ -244,8 +249,3 @@ The article discusses the significant investment and reliance on AI technologies
 *startup* · 2025-09-30 · **Imp 5/5** — Entities: TechCrunch, startups, investors, founders
 
 TechCrunch Disrupt 2025, taking place October 27-29, is a crucial event for startups to secure visibility and investor engagement. Exhibitors risk losing opportunities to competitors as tables sell quickly. Booking a table enhances brand exposure and networking potential.
-
-**[Nvidia’s $100bn deal with OpenAI: an Alphaville FAQ](https://www.ft.com/content/7f1426ab-9f70-44e0-bb06-d83df348b64b)**  
-*finance* · 2025-09-23 · **Imp 5/5** — Entities: Nvidia, OpenAI
-
-Nvidia's $100 billion deal with OpenAI highlights significant investment in AI technology, impacting the tech landscape and investor sentiment.
