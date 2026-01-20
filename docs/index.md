@@ -1,9 +1,9 @@
 # AI Curated News Analyst — Latest
 
 **[Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/)**  
-*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
+*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance
 
-The neglect of the blue economy significantly inflates the costs associated with climate change, potentially reaching multi-trillion-dollar losses. Addressing ocean damage is crucial for effective climate finance.
+The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight represents a critical gap in climate finance strategies.
 
 **[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**  
 *finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
