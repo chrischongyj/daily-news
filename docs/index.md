@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
-**[Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/)**  
-*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance
+**[Russia knocks out Kyiv’s power, heating and water](https://www.ft.com/content/49518cbe-ff28-48c6-86fc-b729b4c05e44)**  
+*finance* · 2026-01-20 · **Imp 5/5** — Entities: Russia, Kyiv
 
-The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight represents a critical gap in climate finance strategies.
+Russia's recent attacks have disrupted power, heating, and water supplies in Kyiv, significantly impacting the city's infrastructure and civilian life.
+
+**[Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/)**  
+*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
+
+The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight presents a critical opportunity for investment in sustainable ocean-related initiatives.
 
 **[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**  
 *finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
@@ -244,8 +249,3 @@ OpenAI is enabling developers to create apps that integrate with ChatGPT, enhanc
 *finance* · 2025-10-06 · **Imp 5/5** — Entities: AI, U.S. economy, businesses
 
 The article discusses the significant investment and reliance on AI technologies in the U.S. economy, highlighting the growing trend of businesses betting on AI for future growth and innovation.
-
-**[Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table](https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/)**  
-*startup* · 2025-09-30 · **Imp 5/5** — Entities: TechCrunch, startups, investors, founders
-
-TechCrunch Disrupt 2025, taking place October 27-29, is a crucial event for startups to secure visibility and investor engagement. Exhibitors risk losing opportunities to competitors as tables sell quickly. Booking a table enhances brand exposure and networking potential.
