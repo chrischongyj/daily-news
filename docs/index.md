@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say](https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/)**  
+*tech* · 2026-01-21 · **Imp 5/5** — Tickers: MRNA, MRK — Entities: Moderna, Merck
+
+Moderna and Merck report that their mRNA cancer vaccine demonstrates protective effects at a 5-year follow-up, highlighting its potential in personalized cancer treatment.
+
 **[Russia knocks out Kyiv’s power, heating and water](https://www.ft.com/content/49518cbe-ff28-48c6-86fc-b729b4c05e44)**  
 *finance* · 2026-01-20 · **Imp 5/5** — Entities: Russia, Kyiv
 
@@ -244,8 +249,3 @@ Judge Brinkema ruled that Google illegally maintained monopoly power in online a
 *tech* · 2025-10-06 · **Imp 5/5** — Entities: OpenAI, Canva, Zillow, Booking.com, Coursera, Expedia, Figma, Spotify, DoorDash, OpenTable, Target, Uber
 
 OpenAI is enabling developers to create apps that integrate with ChatGPT, enhancing user experience by allowing task completion with contextual assistance. Initial partners include Canva, Zillow, and Booking.com, with more apps to be added soon. The SDK is available for developers, with monetization guidance forthcoming.
-
-**[America is now one big bet on AI](https://www.ft.com/content/6cc87bd9-cb2f-4f82-99c5-c38748986a2e)**  
-*finance* · 2025-10-06 · **Imp 5/5** — Entities: AI, U.S. economy, businesses
-
-The article discusses the significant investment and reliance on AI technologies in the U.S. economy, highlighting the growing trend of businesses betting on AI for future growth and innovation.
