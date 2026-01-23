@@ -1,9 +1,14 @@
 # AI Curated News Analyst — Latest
 
+**[Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO](https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606)**  
+*finance* · 2026-01-22 · **Imp 5/5** — Entities: SpaceX, Elon Musk, banks
+
+SpaceX has secured partnerships with four banks to facilitate its upcoming initial public offering (IPO), signaling a significant move in the aerospace sector.
+
 **[mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say](https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/)**  
 *tech* · 2026-01-21 · **Imp 5/5** — Tickers: MRNA, MRK — Entities: Moderna, Merck
 
-Moderna and Merck report that their mRNA cancer vaccine demonstrates protective effects at a 5-year follow-up, highlighting its potential in personalized cancer treatment.
+Moderna and Merck report that their mRNA cancer vaccine demonstrates protective effects at a 5-year follow-up, showcasing its potential in personalized cancer treatment.
 
 **[Russia knocks out Kyiv’s power, heating and water](https://www.ft.com/content/49518cbe-ff28-48c6-86fc-b729b4c05e44)**  
 *finance* · 2026-01-20 · **Imp 5/5** — Entities: Russia, Kyiv
@@ -244,8 +249,3 @@ Intel is making significant investments to revitalize US chip manufacturing, aim
 *tech* · 2025-10-06 · **Imp 5/5** — Entities: Google, DOJ
 
 Judge Brinkema ruled that Google illegally maintained monopoly power in online advertising, leading to a trial on potential breakup and sale of its AdX exchange. The DOJ argues Google locked up the ad tech market, while Google claims it offers efficient products amidst competition.
-
-**[OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)**  
-*tech* · 2025-10-06 · **Imp 5/5** — Entities: OpenAI, Canva, Zillow, Booking.com, Coursera, Expedia, Figma, Spotify, DoorDash, OpenTable, Target, Uber
-
-OpenAI is enabling developers to create apps that integrate with ChatGPT, enhancing user experience by allowing task completion with contextual assistance. Initial partners include Canva, Zillow, and Booking.com, with more apps to be added soon. The SDK is available for developers, with monetization guidance forthcoming.
