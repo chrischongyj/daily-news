@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)**  
+*tech* · 2026-01-31 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI, Jensen Huang, Sam Altman
+
+Nvidia CEO Jensen Huang confirms a significant investment in OpenAI, emphasizing his support for the company and its CEO, Sam Altman. This investment is expected to be Nvidia's largest to date.
+
+**[Waymo finalises $16bn funding round at $110bn valuation](https://www.ft.com/content/94663caf-6c98-4883-b3f0-cc763a3b95ff)**  
+*finance* · 2026-01-31 · **Imp 5/5** — Entities: Waymo
+
+Waymo has completed a $16 billion funding round, achieving a valuation of $110 billion. This significant investment underscores the growing confidence in autonomous vehicle technology.
+
 **[Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO](https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606)**  
 *finance* · 2026-01-22 · **Imp 5/5** — Entities: SpaceX, Elon Musk, banks
 
@@ -239,13 +249,3 @@ OpenAI partners with Broadcom to develop custom AI accelerator hardware, estimat
 *finance* · 2025-10-10 · **Imp 5/5** — Entities: OpenAI
 
 OpenAI has positioned itself at the core of a $1 trillion network of deals, enhancing its influence in the tech and finance sectors. This strategic positioning could significantly impact its valuation and partnerships.
-
-**[Inside Intel’s big bet to save US chipmaking — and itself](https://www.ft.com/content/e4b1fa29-6027-44d9-8375-b3368132dd1b)**  
-*finance* · 2025-10-09 · **Imp 5/5** — Tickers: INTC — Entities: Intel, US chipmaking
-
-Intel is making significant investments to revitalize US chip manufacturing, aiming to strengthen its market position and reduce reliance on foreign production. This strategic move is crucial for the company's future and the broader tech industry.
-
-**[US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)**  
-*tech* · 2025-10-06 · **Imp 5/5** — Entities: Google, DOJ
-
-Judge Brinkema ruled that Google illegally maintained monopoly power in online advertising, leading to a trial on potential breakup and sale of its AdX exchange. The DOJ argues Google locked up the ad tech market, while Google claims it offers efficient products amidst competition.
