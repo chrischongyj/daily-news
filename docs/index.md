@@ -1,7 +1,7 @@
 # AI Curated News Analyst — Latest
 
 **[Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)**  
-*tech* · 2026-01-31 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI, Jensen Huang, Sam Altman
+*tech* · 2026-01-31 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI, Sam Altman, Jensen Huang
 
 Nvidia CEO Jensen Huang confirms a significant investment in OpenAI, emphasizing his support for the company and its CEO, Sam Altman. This investment is expected to be Nvidia's largest to date.
 
