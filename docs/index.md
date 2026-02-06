@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Microsoft releases urgent Office patch. Russian-state hackers pounce.](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/)**  
+*tech* · 2026-02-04 · **Imp 5/5** — Tickers: MSFT — Entities: Microsoft, Russian-state hackers, cybersecurity
+
+Microsoft has issued an urgent patch for Office to address vulnerabilities exploited by Russian-state hackers, highlighting the increasing urgency for cybersecurity measures.
+
 **[Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)**  
 *tech* · 2026-01-31 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI, Sam Altman, Jensen Huang
 
@@ -244,8 +249,3 @@ F5's network breach poses significant risks to BIG-IP users, including potential
 *startup* · 2025-10-14 · **Imp 5/5** — Entities: OpenAI,Broadcom,AMD,Nvidia,Oracle
 
 OpenAI partners with Broadcom to develop custom AI accelerator hardware, estimated to cost $350-$500 billion. This collaboration aims to enhance AI capabilities in OpenAI's data centers from 2026 to 2029, following recent deals with AMD and Nvidia.
-
-**[How OpenAI put itself at the centre of a $1tn network of deals](https://www.ft.com/content/4e39d081-ab26-4bc2-9c4c-256d766f28e2)**  
-*finance* · 2025-10-10 · **Imp 5/5** — Entities: OpenAI
-
-OpenAI has positioned itself at the core of a $1 trillion network of deals, enhancing its influence in the tech and finance sectors. This strategic positioning could significantly impact its valuation and partnerships.
