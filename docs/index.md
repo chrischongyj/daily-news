@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)**  
+*finance* · 2026-02-08 · **Imp 5/5** — Entities: Big Tech, AI industry
+
+Major tech companies are competing to invest a record $660 billion in artificial intelligence, signaling a significant shift in industry focus and potential growth areas.
+
 **[Microsoft releases urgent Office patch. Russian-state hackers pounce.](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/)**  
 *tech* · 2026-02-04 · **Imp 5/5** — Tickers: MSFT — Entities: Microsoft, Russian-state hackers, cybersecurity
 
@@ -244,8 +249,3 @@ Apple's latest iPhone overhaul has sparked a significant upgrade frenzy among co
 *tech* · 2025-10-15 · **Imp 5/5** — Entities: F5, BIG-IP
 
 F5's network breach poses significant risks to BIG-IP users, including potential supply-chain attacks, credential loss, and vulnerability exploits, endangering thousands of customers.
-
-**[OpenAI and Broadcom partner on AI hardware](https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/)**  
-*startup* · 2025-10-14 · **Imp 5/5** — Entities: OpenAI,Broadcom,AMD,Nvidia,Oracle
-
-OpenAI partners with Broadcom to develop custom AI accelerator hardware, estimated to cost $350-$500 billion. This collaboration aims to enhance AI capabilities in OpenAI's data centers from 2026 to 2029, following recent deals with AMD and Nvidia.
