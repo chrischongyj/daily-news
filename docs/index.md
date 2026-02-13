@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Anthropic raises $30bn at a $350bn valuation in latest funding round](https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283)**  
+*finance* · 2026-02-12 · **Imp 5/5** — Entities: Anthropic
+
+Anthropic has successfully raised $30 billion, achieving a valuation of $350 billion in its latest funding round, signaling strong investor confidence in AI technology.
+
 **[Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)**  
 *finance* · 2026-02-08 · **Imp 5/5** — Entities: Big Tech, AI industry
 
@@ -244,8 +249,3 @@ Andreessen Horowitz has secured $10 billion for investments in technology, signa
 *finance* · 2025-10-19 · **Imp 5/5** — Tickers: AAPL — Entities: Apple
 
 Apple's latest iPhone overhaul has sparked a significant upgrade frenzy among consumers, indicating strong demand and potential revenue growth for the company.
-
-**[Thousands of customers imperiled after nation-state ransacks F5’s network](https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/)**  
-*tech* · 2025-10-15 · **Imp 5/5** — Entities: F5, BIG-IP
-
-F5's network breach poses significant risks to BIG-IP users, including potential supply-chain attacks, credential loss, and vulnerability exploits, endangering thousands of customers.
