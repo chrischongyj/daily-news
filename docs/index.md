@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok)**  
+*tech* · 2026-02-18 · **Imp 5/5** — Entities: Meta, Snap, TikTok, YouTube, Mark Zuckerberg
+
+Social media giants face significant lawsuits regarding their impact on teen mental health and safety, with executives like Meta's Mark Zuckerberg set to testify. These cases challenge the protections offered by Section 230, marking a pivotal moment for accountability in the tech industry.
+
 **[Anthropic raises $30bn at a $350bn valuation in latest funding round](https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283)**  
 *finance* · 2026-02-12 · **Imp 5/5** — Entities: Anthropic
 
@@ -244,8 +249,3 @@ The US and China have initiated trade talks in anticipation of a crucial summit 
 *finance* · 2025-10-22 · **Imp 5/5** — Entities: Andreessen Horowitz
 
 Andreessen Horowitz has secured $10 billion for investments in technology, signaling strong confidence in the tech sector's growth potential.
-
-**[Apple’s biggest iPhone overhaul in years ignites upgrade frenzy](https://www.ft.com/content/be3f6853-286b-4296-9cef-fd0a9da624f8)**  
-*finance* · 2025-10-19 · **Imp 5/5** — Tickers: AAPL — Entities: Apple
-
-Apple's latest iPhone overhaul has sparked a significant upgrade frenzy among consumers, indicating strong demand and potential revenue growth for the company.
