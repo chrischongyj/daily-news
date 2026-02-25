@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[AI upheaval forces software industry to ask if this is an ‘adapt or die’ moment](https://www.ft.com/content/8867bff7-8632-40b7-8fde-7c95b3e624f9)**  
+*finance* · 2026-02-24 · **Imp 5/5** — Entities: software industry, AI advancements
+
+The software industry faces a critical juncture as AI advancements prompt companies to reconsider their strategies, emphasizing the need for adaptation to survive in a rapidly evolving market.
+
 **[Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok)**  
 *tech* · 2026-02-18 · **Imp 5/5** — Entities: Meta, Snap, TikTok, YouTube, Mark Zuckerberg
 
@@ -244,8 +249,3 @@ AMD and the Department of Energy have partnered on a $1 billion AI supercomputer
 *finance* · 2025-10-25 · **Imp 5/5** — Entities: US, China, Trump, Xi
 
 The US and China have initiated trade talks in anticipation of a crucial summit between President Trump and President Xi, aiming to address ongoing trade tensions.
-
-**[Andreessen Horowitz lines up $10bn for tech bets](https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e)**  
-*finance* · 2025-10-22 · **Imp 5/5** — Entities: Andreessen Horowitz
-
-Andreessen Horowitz has secured $10 billion for investments in technology, signaling strong confidence in the tech sector's growth potential.
