@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[OpenAI secures up to $110bn in record funding deal](https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f)**  
+*finance* · 2026-02-27 · **Imp 5/5** — Entities: OpenAI
+
+OpenAI has secured up to $110 billion in a record funding deal, significantly boosting its financial resources for future projects and innovations in AI technology.
+
 **[AI upheaval forces software industry to ask if this is an ‘adapt or die’ moment](https://www.ft.com/content/8867bff7-8632-40b7-8fde-7c95b3e624f9)**  
 *finance* · 2026-02-24 · **Imp 5/5** — Entities: software industry, AI advancements
 
@@ -244,8 +249,3 @@ OpenAI's restructuring has led to a significant increase in Microsoft's valuatio
 *tech* · 2025-10-27 · **Imp 5/5** — Tickers: AMD — Entities: AMD, Department of Energy
 
 AMD and the Department of Energy have partnered on a $1 billion AI supercomputer initiative aimed at advancing energy, biology, and manufacturing technologies.
-
-**[US and China kick off trade talks ahead of high-stakes Trump-Xi summit](https://www.ft.com/content/219b23f2-a189-4137-a58e-acd0f60f4ed0)**  
-*finance* · 2025-10-25 · **Imp 5/5** — Entities: US, China, Trump, Xi
-
-The US and China have initiated trade talks in anticipation of a crucial summit between President Trump and President Xi, aiming to address ongoing trade tensions.
