@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[What will war in Iran do to the global economy?](https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456)**  
+*finance* · 2026-03-01 · **Imp 5/5** — Entities: Iran, global economy, oil prices, trade routes, geopolitical stability
+
+The potential for war in Iran poses significant risks to the global economy, affecting oil prices, trade routes, and geopolitical stability. Investors should closely monitor developments as they could lead to market volatility and shifts in energy supply dynamics.
+
 **[OpenAI secures up to $110bn in record funding deal](https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f)**  
 *finance* · 2026-02-27 · **Imp 5/5** — Entities: OpenAI
 
@@ -244,8 +249,3 @@ Apple has joined Microsoft and Nvidia in the exclusive $4 trillion valuation clu
 *finance* · 2025-10-28 · **Imp 5/5** — Tickers: MSFT — Entities: OpenAI, Microsoft
 
 OpenAI's restructuring has led to a significant increase in Microsoft's valuation, surpassing $4 trillion. This development highlights the growing influence of AI on major tech companies' market positions.
-
-**[AMD, Department of Energy announce $1 billion AI supercomputer partnership](https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership)**  
-*tech* · 2025-10-27 · **Imp 5/5** — Tickers: AMD — Entities: AMD, Department of Energy
-
-AMD and the Department of Energy have partnered on a $1 billion AI supercomputer initiative aimed at advancing energy, biology, and manufacturing technologies.
