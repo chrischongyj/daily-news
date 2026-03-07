@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Qatar warns war will force Gulf to stop energy exports ‘within days’](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea)**  
+*finance* · 2026-03-06 · **Imp 5/5** — Entities: Qatar, Gulf region, energy sector
+
+Qatar has issued a warning that ongoing conflicts could lead to a halt in energy exports from the Gulf region within days, raising concerns over global energy supply stability.
+
 **[What will war in Iran do to the global economy?](https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456)**  
 *finance* · 2026-03-01 · **Imp 5/5** — Entities: Iran, global economy, oil prices, trade routes, geopolitical stability
 
@@ -244,8 +249,3 @@ ChatGPT's creator is reportedly planning a $1 trillion IPO, potentially one of t
 *finance* · 2025-10-28 · **Imp 5/5** — Tickers: AAPL, MSFT, NVDA — Entities: Apple, Microsoft, Nvidia
 
 Apple has joined Microsoft and Nvidia in the exclusive $4 trillion valuation club, marking a significant milestone in the tech industry.
-
-**[OpenAI restructuring pushes Microsoft’s valuation above $4tn](https://www.ft.com/content/74d537c6-bd80-4797-9897-3d5455dfc414)**  
-*finance* · 2025-10-28 · **Imp 5/5** — Tickers: MSFT — Entities: OpenAI, Microsoft
-
-OpenAI's restructuring has led to a significant increase in Microsoft's valuation, surpassing $4 trillion. This development highlights the growing influence of AI on major tech companies' market positions.
