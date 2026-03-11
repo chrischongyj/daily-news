@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Amazon leads record US corporate borrowing rush with nearly $50bn bond sales](https://www.ft.com/content/6a509e25-e8bc-41cb-a727-6b7b2bc387e0)**  
+*finance* · 2026-03-10 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon
+
+Amazon has led a significant surge in US corporate borrowing, raising nearly $50 billion through bond sales, marking a record for corporate debt issuance.
+
 **[Qatar warns war will force Gulf to stop energy exports ‘within days’](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea)**  
 *finance* · 2026-03-06 · **Imp 5/5** — Entities: Qatar, Gulf region, energy sector
 
@@ -244,8 +249,3 @@ Amazon's shares surged 13% following a report of accelerated cloud growth driven
 *tech* · 2025-10-30 · **Imp 5/5** — Entities: ChatGPT, Reuters
 
 ChatGPT's creator is reportedly planning a $1 trillion IPO, potentially one of the largest in history, despite facing significant quarterly losses.
-
-**[Apple joins Microsoft and Nvidia in elite $4tn valuation club](https://www.ft.com/content/cac347b9-279f-4652-9b42-4f01f3b8f040)**  
-*finance* · 2025-10-28 · **Imp 5/5** — Tickers: AAPL, MSFT, NVDA — Entities: Apple, Microsoft, Nvidia
-
-Apple has joined Microsoft and Nvidia in the exclusive $4 trillion valuation club, marking a significant milestone in the tech industry.
