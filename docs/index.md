@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Elon Musk's xAI sued for turning three girls' real photos into AI CSAM](https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/)**  
+*tech* · 2026-03-16 · **Imp 5/5** — Entities: Elon Musk, xAI, Discord
+
+Elon Musk's xAI faces a lawsuit for allegedly generating child sexual abuse material (CSAM) using real photos of three girls. The case highlights concerns over AI-generated content and its implications for privacy and safety.
+
+**[Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1)**  
+*finance* · 2026-03-16 · **Imp 5/5** — Entities: Iran, Strait of Hormuz, global economy
+
+Iran's control over the Strait of Hormuz poses a significant threat to global economic stability, impacting oil supply and prices, which could have lasting effects post-conflict.
+
 **[Amazon leads record US corporate borrowing rush with nearly $50bn bond sales](https://www.ft.com/content/6a509e25-e8bc-41cb-a727-6b7b2bc387e0)**  
 *finance* · 2026-03-10 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon
 
@@ -239,13 +249,3 @@ Microsoft and Nvidia plan to invest up to $15 billion in Anthropic, a competitor
 *finance* · 2025-11-12 · **Imp 5/5** — Entities: US House, government, federal operations
 
 The US House is set to vote on a deal aimed at ending the longest government shutdown in history, which could have significant implications for federal operations and economic stability.
-
-**[Amazon shares jump 13% as AI powers fastest cloud growth in years](https://www.ft.com/content/71e29546-661e-4c9f-b401-0428585fbc42)**  
-*finance* · 2025-10-30 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon, AI, cloud computing
-
-Amazon's shares surged 13% following a report of accelerated cloud growth driven by AI advancements, marking the fastest growth in years.
-
-**[ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses](https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/)**  
-*tech* · 2025-10-30 · **Imp 5/5** — Entities: ChatGPT, Reuters
-
-ChatGPT's creator is reportedly planning a $1 trillion IPO, potentially one of the largest in history, despite facing significant quarterly losses.
