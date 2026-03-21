@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Iran war will scar the global economy](https://www.ft.com/content/2897893a-2b0b-417f-9a11-3e2ab3ae8ab4)**  
+*finance* · 2026-03-20 · **Imp 5/5** — Entities: Iran, global economy
+
+The ongoing conflict in Iran is expected to have significant negative repercussions on the global economy, affecting various sectors and potentially leading to increased volatility in financial markets.
+
 **[Elon Musk's xAI sued for turning three girls' real photos into AI CSAM](https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/)**  
 *tech* · 2026-03-16 · **Imp 5/5** — Entities: Elon Musk, xAI, Discord
 
@@ -244,8 +249,3 @@ Musk's xAI is approaching a $230 billion valuation through a recent fundraising 
 *finance* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic, OpenAI
 
 Microsoft and Nvidia plan to invest up to $15 billion in Anthropic, a competitor to OpenAI, signaling a significant shift in AI funding dynamics.
-
-**[US House to vote on deal to end longest government shutdown](https://www.ft.com/content/48d46c20-878c-4c91-8b09-82e4062a393c)**  
-*finance* · 2025-11-12 · **Imp 5/5** — Entities: US House, government, federal operations
-
-The US House is set to vote on a deal aimed at ending the longest government shutdown in history, which could have significant implications for federal operations and economic stability.
