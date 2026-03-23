@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f)**  
+*finance* · 2026-03-22 · **Imp 5/5** — Entities: Gulf, LNG, energy market
+
+The world is nearing a gas supply crisis as the last LNG shipments from the Gulf approach ports, raising concerns about energy security and market stability.
+
 **[Iran war will scar the global economy](https://www.ft.com/content/2897893a-2b0b-417f-9a11-3e2ab3ae8ab4)**  
 *finance* · 2026-03-20 · **Imp 5/5** — Entities: Iran, global economy
 
@@ -244,8 +249,3 @@ Nvidia reports strong demand for its chips, dismissing concerns about an 'AI bub
 *finance* · 2025-11-19 · **Imp 5/5** — Entities: Musk, xAI
 
 Musk's xAI is approaching a $230 billion valuation through a recent fundraising deal, highlighting significant investor interest in AI technologies.
-
-**[Microsoft and Nvidia to invest up to $15bn in OpenAI rival Anthropic](https://www.ft.com/content/2f82a42c-7b41-40a4-b549-bce7805166f3)**  
-*finance* · 2025-11-18 · **Imp 5/5** — Tickers: MSFT,NVDA — Entities: Microsoft, Nvidia, Anthropic, OpenAI
-
-Microsoft and Nvidia plan to invest up to $15 billion in Anthropic, a competitor to OpenAI, signaling a significant shift in AI funding dynamics.
