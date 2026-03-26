@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX boosts IPO ambition with plans to raise $75bn](https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1)**  
+*finance* · 2026-03-25 · **Imp 5/5** — Entities: SpaceX, Elon Musk
+
+SpaceX aims to raise $75 billion in its IPO, targeting a valuation of $1.75 trillion. This move signals increased ambition for the company as it prepares for public markets.
+
 **[World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f)**  
 *finance* · 2026-03-22 · **Imp 5/5** — Entities: Gulf, LNG, energy market
 
@@ -244,8 +249,3 @@ Google's AI infrastructure chief emphasizes the need to double capacity every si
 *finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
 
 Nvidia reports strong demand for its chips, dismissing concerns about an 'AI bubble'. The company's performance highlights its resilience and growth potential in the tech sector.
-
-**[Musk’s xAI nears $230bn valuation in fundraising deal](https://www.ft.com/content/b13c6f36-7810-42cd-af8e-526828b04682)**  
-*finance* · 2025-11-19 · **Imp 5/5** — Entities: Musk, xAI
-
-Musk's xAI is approaching a $230 billion valuation through a recent fundraising deal, highlighting significant investor interest in AI technologies.
