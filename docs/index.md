@@ -1,5 +1,20 @@
 # AI Curated News Analyst — Latest
 
+**[Oil soars 60% in March as Middle East crisis chokes energy supplies](https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb)**  
+*finance* · 2026-03-31 · **Imp 5/5** — Entities: Tehran, US, Israel, Strait of Hormuz
+
+Oil prices surged 60% in March due to the closure of the Strait of Hormuz by Tehran, following US-Israeli military actions, leading to significant disruptions in energy supplies.
+
+**[OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e)**  
+*finance* · 2026-03-31 · **Imp 5/5** — Entities: OpenAI, retail investors
+
+OpenAI has raised $3 billion from retail investors, marking its first foray into individual funding. This contributes to a total funding of up to $122 billion, setting a record in the tech industry.
+
+**[After more than 53 years, humans may finally return to the Moon this week](https://arstechnica.com/space/2026/03/after-more-than-53-years-humans-may-finally-return-to-the-moon-this-week/)**  
+*tech* · 2026-03-31 · **Imp 5/5** — Entities: NASA, Cape Canaveral
+
+Humans are poised to return to the Moon after over 53 years, marking a significant milestone in space exploration. Preparations at Cape Canaveral are underway, signaling a new era in lunar missions.
+
 **[SpaceX boosts IPO ambition with plans to raise $75bn](https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1)**  
 *finance* · 2026-03-25 · **Imp 5/5** — Entities: SpaceX, Elon Musk
 
@@ -234,18 +249,3 @@ Google's valuation approaches $4 trillion, highlighting its dominance in the dig
 *tech* · 2025-11-21 · **Imp 5/5** — Entities: Google, Justice Department, Judge Leonie Brinkema, Meta, TikTok
 
 Judge Leonie Brinkema is set to rule on whether Google must divest parts of its ad tech business to address its monopoly. The DOJ seeks a forced sale of Google's AdX exchange, while Google argues for behavioral changes. Timing is critical as appeals could delay enforcement.
-
-**[Eli Lilly becomes first pharma group to join $1tn club](https://www.ft.com/content/62063045-388a-4bae-b533-ea733ed85627)**  
-*finance* · 2025-11-21 · **Imp 5/5** — Tickers: LLY — Entities: Eli Lilly
-
-Eli Lilly has achieved a significant milestone by becoming the first pharmaceutical company to join the $1 trillion market capitalization club, highlighting its strong performance and growth potential in the industry.
-
-**[Google tells employees it must double capacity every 6 months to meet AI demand](https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/)**  
-*tech* · 2025-11-21 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI infrastructure
-
-Google's AI infrastructure chief emphasizes the need to double capacity every six months to meet surging AI demand, projecting a thousandfold increase in five years.
-
-**[Nvidia shrugs off ‘AI bubble’ concerns with bumper chip demand](https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1)**  
-*finance* · 2025-11-19 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
-
-Nvidia reports strong demand for its chips, dismissing concerns about an 'AI bubble'. The company's performance highlights its resilience and growth potential in the tech sector.
