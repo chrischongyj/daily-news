@@ -1,5 +1,25 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX filing kicks off largest IPO process in history](https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb)**  
+*finance* · 2026-04-01 · **Imp 5/5** — Entities: SpaceX, US regulators
+
+SpaceX has initiated the largest IPO process in history with a confidential filing to US regulators, paving the way for a potential summer listing.
+
+**[SpaceX finally files for IPO, targets $1.75 trillion valuation](https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/)**  
+*tech* · 2026-04-01 · **Imp 5/5** — Entities: SpaceX, SEC
+
+SpaceX has filed for an IPO, aiming for a valuation of $1.75 trillion, potentially marking the largest IPO in history. The confidential submission to the SEC indicates significant growth and investor interest.
+
+**[Shutting Hormuz is a template for China in Taiwan](https://www.ft.com/content/9372be58-8521-4946-96ee-eb566ccfc851)**  
+*finance* · 2026-04-01 · **Imp 5/5** — Entities: China, Taiwan, Iran
+
+China may adopt Iran's strategy of closing the Strait of Hormuz in the Taiwan Strait, potentially leading to severe global economic repercussions.
+
+**[Launch day has arrived for NASA's Artemis II mission—here's what to expect](https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/)**  
+*tech* · 2026-04-01 · **Imp 5/5** — Entities: NASA, Artemis II, lunar exploration
+
+NASA's Artemis II mission has officially launched, marking a significant step in lunar exploration. The mission aims to return humans to the Moon and pave the way for future space missions.
+
 **[Oil soars 60% in March as Middle East crisis chokes energy supplies](https://www.ft.com/content/5a5b3220-d260-4355-baa5-1986ac1523fb)**  
 *finance* · 2026-03-31 · **Imp 5/5** — Entities: Tehran, US, Israel, Strait of Hormuz
 
@@ -229,23 +249,3 @@ JavaScript, initially developed by a Netscape employee in 1995, has become essen
 *tech* · 2025-12-03 · **Imp 5/5** — Entities: React, open source software, server security
 
 A critical vulnerability in open source React allows execution of malicious code through malformed HTML without requiring authentication, posing significant risks to server security.
-
-**[OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/)**  
-*tech* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Google, Gemini, ChatGPT
-
-OpenAI's CEO has issued a 'code red' as Google's Gemini rapidly acquires 200 million users within three months, signaling a significant shift in the competitive landscape of AI technology.
-
-**[OpenAI’s Sam Altman declares ‘code red’ after rivals make advances](https://www.ft.com/content/7a42396f-487a-47b0-8121-8d8f2112fa53)**  
-*finance* · 2025-12-02 · **Imp 5/5** — Entities: OpenAI, Sam Altman
-
-OpenAI's CEO Sam Altman has issued a 'code red' alert in response to significant advancements made by competitors in the AI space, highlighting the urgency for innovation and strategic action.
-
-**[Google is a near-$4tn monument to monopoly power](https://www.ft.com/content/26584ead-1d6d-4775-96d7-492066837255)**  
-*finance* · 2025-11-25 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, FT
-
-Google's valuation approaches $4 trillion, highlighting its dominance in the digital market and raising concerns about monopoly power in the tech industry.
-
-**[Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)**  
-*tech* · 2025-11-21 · **Imp 5/5** — Entities: Google, Justice Department, Judge Leonie Brinkema, Meta, TikTok
-
-Judge Leonie Brinkema is set to rule on whether Google must divest parts of its ad tech business to address its monopoly. The DOJ seeks a forced sale of Google's AdX exchange, while Google argues for behavioral changes. Timing is critical as appeals could delay enforcement.
