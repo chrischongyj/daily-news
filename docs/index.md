@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX IPO is Musk’s biggest financial moonshot](https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62)**  
+*finance* · 2026-04-02 · **Imp 5/5** — Entities: SpaceX, Elon Musk
+
+Elon Musk plans to launch SpaceX's IPO, aiming to leverage investor excitement and FOMO to maximize market interest. This move represents a significant financial opportunity for investors and could reshape the aerospace industry.
+
 **[SpaceX filing kicks off largest IPO process in history](https://www.ft.com/content/c212f37a-031c-4475-b728-da053820a1bb)**  
 *finance* · 2026-04-01 · **Imp 5/5** — Entities: SpaceX, US regulators
 
@@ -8,7 +13,7 @@ SpaceX has initiated the largest IPO process in history with a confidential fili
 **[SpaceX finally files for IPO, targets $1.75 trillion valuation](https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/)**  
 *tech* · 2026-04-01 · **Imp 5/5** — Entities: SpaceX, SEC
 
-SpaceX has filed for an IPO, aiming for a valuation of $1.75 trillion, potentially marking the largest IPO in history. The confidential submission to the SEC indicates significant growth and investor interest.
+SpaceX has filed for an IPO, aiming for a valuation of $1.75 trillion, potentially marking the largest IPO in history. This confidential SEC submission signals a significant move in the tech and finance sectors.
 
 **[Shutting Hormuz is a template for China in Taiwan](https://www.ft.com/content/9372be58-8521-4946-96ee-eb566ccfc851)**  
 *finance* · 2026-04-01 · **Imp 5/5** — Entities: China, Taiwan, Iran
@@ -244,8 +249,3 @@ Netflix has agreed to acquire Warner Bros. for $82.7 billion, gaining assets lik
 *tech* · 2025-12-04 · **Imp 5/5** — Entities: Netscape, JavaScript
 
 JavaScript, initially developed by a Netscape employee in 1995, has become essential for the interactive web, serving as its foundational technology over the past 30 years.
-
-**[Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)**  
-*tech* · 2025-12-03 · **Imp 5/5** — Entities: React, open source software, server security
-
-A critical vulnerability in open source React allows execution of malicious code through malformed HTML without requiring authentication, posing significant risks to server security.
