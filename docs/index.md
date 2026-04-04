@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[OpenClaw gives users yet another reason to be freaked out about security](https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/)**  
+*tech* · 2026-04-03 · **Imp 5/5** — Entities: OpenClaw, AI, security
+
+OpenClaw, a viral AI tool, has exposed a significant security vulnerability allowing attackers to gain unauthorized admin access without authentication, raising concerns among users about data security.
+
 **[SpaceX IPO is Musk’s biggest financial moonshot](https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62)**  
 *finance* · 2026-04-02 · **Imp 5/5** — Entities: SpaceX, Elon Musk
 
@@ -244,8 +249,3 @@ SpaceX aims for an $800 billion valuation in its latest share sale, reflecting s
 *tech* · 2025-12-05 · **Imp 5/5** — Tickers: NFLX, WBD — Entities: Netflix, Warner Bros., HBO, Paramount, Comcast, Amazon, Apple
 
 Netflix has agreed to acquire Warner Bros. for $82.7 billion, gaining assets like HBO and Warner Games, while excluding certain cable and sports properties. The deal has sparked regulatory scrutiny.
-
-**[In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/)**  
-*tech* · 2025-12-04 · **Imp 5/5** — Entities: Netscape, JavaScript
-
-JavaScript, initially developed by a Netscape employee in 1995, has become essential for the interactive web, serving as its foundational technology over the past 30 years.
