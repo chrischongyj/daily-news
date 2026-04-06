@@ -3,7 +3,7 @@
 **[OpenClaw gives users yet another reason to be freaked out about security](https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/)**  
 *tech* · 2026-04-03 · **Imp 5/5** — Entities: OpenClaw, AI, security
 
-OpenClaw, a viral AI tool, has been found to allow attackers to gain unauthorized admin access without authentication, raising significant security concerns.
+OpenClaw, a viral AI tool, has exposed a significant security vulnerability allowing attackers to gain unauthorized admin access without authentication, raising concerns about user data safety.
 
 **[SpaceX IPO is Musk’s biggest financial moonshot](https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62)**  
 *finance* · 2026-04-02 · **Imp 5/5** — Entities: SpaceX, Elon Musk
