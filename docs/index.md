@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[The AI RAM shortage is also driving up SSD prices](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases)**  
+*tech* · 2026-04-08 · **Imp 5/5** — Entities: Samsung, SK Hynix, Micron, WD, Seagate
+
+The AI RAM shortage is causing SSD prices to soar, with consumer SSDs nearly quadrupling in price since late 2025. Major manufacturers like Samsung, SK Hynix, and Micron dominate the NAND market, leading to reduced inventory for consumers as demand from AI companies increases.
+
 **[OpenClaw gives users yet another reason to be freaked out about security](https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/)**  
 *tech* · 2026-04-03 · **Imp 5/5** — Entities: OpenClaw, AI, security
 
@@ -244,8 +249,3 @@ Netflix is utilizing a $59 billion bank loan to finance its acquisition of Warne
 *finance* · 2025-12-05 · **Imp 5/5** — Entities: SpaceX, Elon Musk
 
 SpaceX aims for an $800 billion valuation in its latest share sale, reflecting significant growth and investor interest in the aerospace sector.
-
-**[Netflix is buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)**  
-*tech* · 2025-12-05 · **Imp 5/5** — Tickers: NFLX, WBD — Entities: Netflix, Warner Bros., HBO, Paramount, Comcast, Amazon, Apple
-
-Netflix has agreed to acquire Warner Bros. for $82.7 billion, gaining assets like HBO and Warner Games, while excluding certain cable and sports properties. The deal has sparked regulatory scrutiny.
