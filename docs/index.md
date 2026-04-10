@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[North Sea oil prices hit record high as Iran keeps hold over Hormuz](https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9)**  
+*finance* · 2026-04-09 · **Imp 5/5** — Entities: North Sea, Iran, Washington, Hormuz
+
+North Sea oil prices reach record highs amid ongoing tensions in the Strait of Hormuz, exacerbated by a failed ceasefire agreement between Washington and Tehran, contributing to the global energy crisis.
+
+**[Lebanon’s 10 minutes from hell](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)**  
+*finance* · 2026-04-09 · **Imp 5/5** — Entities: Lebanon, Israel
+
+Recent Israeli attacks in Lebanon have resulted in hundreds of casualties, marking one of the deadliest periods in the country's history. The escalating violence raises concerns about regional stability and humanitarian crises.
+
 **[The AI RAM shortage is also driving up SSD prices](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases)**  
 *tech* · 2026-04-08 · **Imp 5/5** — Entities: Samsung, SK Hynix, Micron, WD, Seagate
 
@@ -239,13 +249,3 @@ SpaceX has announced plans to go public, marking a significant shift after years
 *finance* · 2025-12-08 · **Imp 5/5** — Entities: Paramount, Warner Bros, Netflix
 
 Paramount has launched a $108 billion hostile bid to acquire Warner Bros, challenging Netflix's recent deal. This move signifies a major shift in the media landscape, potentially reshaping competition among streaming giants.
-
-**[Netflix leans on $59bn bank loan to fund Warner Bros takeover](https://www.ft.com/content/f82583ba-03ec-4cca-9560-a7a2e1d55574)**  
-*finance* · 2025-12-06 · **Imp 5/5** — Tickers: NFLX — Entities: Netflix, Warner Bros
-
-Netflix is utilizing a $59 billion bank loan to finance its acquisition of Warner Bros, marking a significant move in the media landscape.
-
-**[Musk’s SpaceX targets $800bn valuation in latest share sale](https://www.ft.com/content/b969a57a-cf09-43c1-a7cf-6dec16ba59fd)**  
-*finance* · 2025-12-05 · **Imp 5/5** — Entities: SpaceX, Elon Musk
-
-SpaceX aims for an $800 billion valuation in its latest share sale, reflecting significant growth and investor interest in the aerospace sector.
