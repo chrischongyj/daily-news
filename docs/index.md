@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail](https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c)**  
+*finance* · 2026-04-12 · **Imp 5/5** — Entities: Trump, Iran, Strait of Hormuz, global energy market
+
+Trump's announcement of a naval blockade in the Strait of Hormuz amid failed Iran peace talks could exacerbate global energy supply issues, impacting oil prices and market stability.
+
 **[North Sea oil prices hit record high as Iran keeps hold over Hormuz](https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9)**  
 *finance* · 2026-04-09 · **Imp 5/5** — Entities: North Sea, Iran, Washington, Hormuz
 
@@ -244,8 +249,3 @@ OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and can match
 *tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI industry
 
 SpaceX has announced plans to go public, marking a significant shift after years of resistance. This move is seen as a strategic response to the competitive AI landscape, where asset accumulation and deployment are crucial.
-
-**[Paramount gatecrashes Warner Bros-Netflix deal with $108bn hostile bid](https://www.ft.com/content/7981af0e-ad93-4c11-8c1c-09b0167bf4d6)**  
-*finance* · 2025-12-08 · **Imp 5/5** — Entities: Paramount, Warner Bros, Netflix
-
-Paramount has launched a $108 billion hostile bid to acquire Warner Bros, challenging Netflix's recent deal. This move signifies a major shift in the media landscape, potentially reshaping competition among streaming giants.
