@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Iran used Chinese spy satellite to target US bases](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355)**  
+*finance* · 2026-04-15 · **Imp 5/5** — Entities: Iran, Chinese government, IRGC, US military
+
+Leaked documents reveal that Iran's IRGC utilized a Chinese spy satellite to target US bases during strikes in March, indicating a significant advancement in military capabilities and intelligence operations.
+
 **[Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail](https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c)**  
 *finance* · 2026-04-12 · **Imp 5/5** — Entities: Trump, Iran, Strait of Hormuz, global energy market
 
@@ -244,8 +249,3 @@ Medline has successfully raised over $6 billion in what is being hailed as the l
 *tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
 
 OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and can match human performance on 70% of work tasks. This release follows a 'code red' alert from Google regarding AI competition.
-
-**[After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/)**  
-*tech* · 2025-12-10 · **Imp 5/5** — Entities: SpaceX, AI industry
-
-SpaceX has announced plans to go public, marking a significant shift after years of resistance. This move is seen as a strategic response to the competitive AI landscape, where asset accumulation and deployment are crucial.
