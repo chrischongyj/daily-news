@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Months-old start-up Recursive raises $500mn for self-teaching AI](https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4)**  
+*finance* · 2026-04-17 · **Imp 5/5** — Entities: Recursive, Google, Nvidia, DeepMind, OpenAI
+
+Start-up Recursive, founded by ex-DeepMind and OpenAI engineers, has raised $500 million for its self-teaching AI technology, achieving a $4 billion valuation through investments from Google's venture arm and Nvidia.
+
 **[Iran used Chinese spy satellite to target US bases](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355)**  
 *finance* · 2026-04-15 · **Imp 5/5** — Entities: Iran, Chinese government, IRGC, US military
 
@@ -244,8 +249,3 @@ SpaceX's successful Falcon 9 rocket landing marked a pivotal moment in aerospace
 *finance* · 2025-12-16 · **Imp 5/5** — Entities: Medline
 
 Medline has successfully raised over $6 billion in what is being hailed as the largest IPO of 2025, marking a significant milestone in the finance sector.
-
-**[OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/)**  
-*tech* · 2025-12-11 · **Imp 5/5** — Entities: OpenAI, Google
-
-OpenAI has launched GPT-5.2, claiming it surpasses Google's Gemini and can match human performance on 70% of work tasks. This release follows a 'code red' alert from Google regarding AI competition.
