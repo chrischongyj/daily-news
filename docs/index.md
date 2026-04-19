@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[The coming global food crisis](https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df)**  
+*finance* · 2026-04-18 · **Imp 5/5** — Entities: Iran, global food crisis, poorest populations
+
+The ongoing conflict involving Iran is projected to lead to a global food crisis, risking hunger and famine, particularly affecting the poorest populations. Immediate action is necessary to mitigate these long-term consequences.
+
 **[Months-old start-up Recursive raises $500mn for self-teaching AI](https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4)**  
 *finance* · 2026-04-17 · **Imp 5/5** — Entities: Recursive, Google, Nvidia, DeepMind, OpenAI
 
@@ -244,8 +249,3 @@ Larry Ellison has pledged $40 billion in personal backing for Warner Bros Discov
 *tech* · 2025-12-18 · **Imp 5/5** — Entities: SpaceX, Falcon 9, aerospace industry
 
 SpaceX's successful Falcon 9 rocket landing marked a pivotal moment in aerospace history, showcasing advancements in reusable rocket technology and altering the landscape of space launches.
-
-**[Medline raises more than $6bn in biggest IPO of 2025](https://www.ft.com/content/3c4e481b-2dd9-4ebd-abfb-abac6d7d1599)**  
-*finance* · 2025-12-16 · **Imp 5/5** — Entities: Medline
-
-Medline has successfully raised over $6 billion in what is being hailed as the largest IPO of 2025, marking a significant milestone in the finance sector.
