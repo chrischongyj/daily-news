@@ -10,6 +10,11 @@ The ongoing conflict involving Iran is projected to lead to a global food crisis
 
 Start-up Recursive, founded by ex-DeepMind and OpenAI engineers, has raised $500 million for its self-teaching AI technology, achieving a $4 billion valuation through investments from Google's venture arm and Nvidia.
 
+**[Recent advances push Big Tech closer to the Q-Day danger zone](https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/)**  
+*tech* · 2026-04-17 · **Imp 5/5** — Entities: Big Tech, quantum computing, cryptography
+
+Big Tech is nearing the critical Q-Day, where quantum computing could break current cryptographic systems. Companies are racing to adopt post-quantum cryptography to secure data and maintain trust.
+
 **[Iran used Chinese spy satellite to target US bases](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355)**  
 *finance* · 2026-04-15 · **Imp 5/5** — Entities: Iran, Chinese government, IRGC, US military
 
@@ -244,8 +249,3 @@ Vince Zampella, the influential developer behind franchises like Call of Duty an
 *finance* · 2025-12-22 · **Imp 5/5** — Entities: Larry Ellison, Warner Bros Discovery
 
 Larry Ellison has pledged $40 billion in personal backing for Warner Bros Discovery's bid, signaling strong confidence in the company's potential and future growth.
-
-**[The inside story of SpaceX’s historic rocket landing that changed launch forever](https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/)**  
-*tech* · 2025-12-18 · **Imp 5/5** — Entities: SpaceX, Falcon 9, aerospace industry
-
-SpaceX's successful Falcon 9 rocket landing marked a pivotal moment in aerospace history, showcasing advancements in reusable rocket technology and altering the landscape of space launches.
