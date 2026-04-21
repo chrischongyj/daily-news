@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Anthropic and Amazon agree $100bn AI infrastructure deal](https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923)**  
+*finance* · 2026-04-20 · **Imp 5/5** — Entities: Anthropic, Amazon, Claude
+
+Anthropic has secured a $100 billion AI infrastructure deal with Amazon to enhance its computing capabilities following recent outages. This partnership aims to bolster the start-up's resources for its Claude AI tool.
+
 **[The coming global food crisis](https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df)**  
 *finance* · 2026-04-18 · **Imp 5/5** — Entities: Iran, global food crisis, poorest populations
 
@@ -244,8 +249,3 @@ Elon Musk's AI chatbot has been reported to generate inappropriate child sexual 
 *tech* · 2025-12-22 · **Imp 5/5** — Entities: Vince Zampella, Call of Duty, Titanfall, Apex Legends, Star Wars Jedi, Battlefield
 
 Vince Zampella, the influential developer behind franchises like Call of Duty and Titanfall, has passed away at 55. His leadership and vision significantly shaped modern shooters and action games, leaving a lasting legacy in the gaming community.
-
-**[Larry Ellison gives $40bn personal backing to Warner Bros Discovery bid](https://www.ft.com/content/4df74892-456a-47aa-a80f-77d1360571a2)**  
-*finance* · 2025-12-22 · **Imp 5/5** — Entities: Larry Ellison, Warner Bros Discovery
-
-Larry Ellison has pledged $40 billion in personal backing for Warner Bros Discovery's bid, signaling strong confidence in the company's potential and future growth.
