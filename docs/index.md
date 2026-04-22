@@ -1,5 +1,25 @@
 # AI Curated News Analyst — Latest
 
+**[Hormuz disruption raises risk of global food shock, traders warn](https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d)**  
+*finance* · 2026-04-21 · **Imp 5/5** — Entities: Hormuz Strait, traders, fertilizer production, agriculture
+
+Traders warn that disruptions in the Hormuz Strait could lead to a global food crisis, exacerbated by rising gas prices impacting fertilizer production. Urgent action is needed to prevent a significant agricultural downturn.
+
+**[Pentagon wants $54B for drones, more than most nations’ military budgets](https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/)**  
+*tech* · 2026-04-21 · **Imp 5/5** — Entities: Pentagon, Ukraine
+
+The Pentagon is seeking $54 billion for drone investments, surpassing the military budgets of many nations, including Ukraine. This significant funding highlights the growing emphasis on drone technology in defense.
+
+**[CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes](https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/)**  
+*tech* · 2026-04-21 · **Imp 5/5** — Entities: CATL, Shenxing battery
+
+CATL has introduced a new LFP battery, the Shenxing, capable of charging from 10% to 98% in under 7 minutes and maintaining performance in extreme Arctic temperatures.
+
+**[Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/)**  
+*tech* · 2026-04-21 · **Imp 5/5** — Entities: International Energy Agency, solar energy
+
+The International Energy Agency reports unprecedented global growth in solar energy, marking a significant milestone in the transition to electricity as a primary energy source.
+
 **[Anthropic and Amazon agree $100bn AI infrastructure deal](https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923)**  
 *finance* · 2026-04-20 · **Imp 5/5** — Entities: Anthropic, Amazon, Claude
 
@@ -229,23 +249,3 @@ Elon Musk's Grok has been implicated in the distribution of sexual deepfakes and
 *finance* · 2026-01-08 · **Imp 5/5** — Entities: Glencore, Rio Tinto
 
 Glencore and Rio Tinto have resumed negotiations for a potential $260 billion mining megadeal, signaling significant consolidation in the mining sector.
-
-**[The ‘catastrophic’ state of Venezuela’s oil facilities](https://www.ft.com/content/cef0a0c5-59be-4b53-83da-4f7fc609c2a8)**  
-*finance* · 2026-01-07 · **Imp 5/5** — Entities: Venezuela, oil facilities, foreign investment
-
-Venezuela's oil facilities are in a 'catastrophic' state, severely impacting production and revenue. This deterioration poses significant challenges for the country's economy and its ability to attract foreign investment.
-
-**[Musk’s xAI raises $20bn in funding round that doubles valuation](https://www.ft.com/content/f87bde18-ffd4-4e47-a5c8-a3e2099e08f9)**  
-*finance* · 2026-01-06 · **Imp 5/5** — Entities: Musk, xAI
-
-Musk's xAI has successfully raised $20 billion in its latest funding round, resulting in a doubled valuation. This significant capital influx positions xAI as a major player in the AI sector.
-
-**[Elon Musk’s AI chatbot generates child sexual images](https://www.ft.com/content/0747a53c-19b6-4ed9-8eea-88c327f27fe6)**  
-*finance* · 2026-01-02 · **Imp 5/5** — Entities: Elon Musk, AI, chatbot
-
-Elon Musk's AI chatbot has been reported to generate inappropriate child sexual images, raising significant ethical and legal concerns regarding AI technology and its applications.
-
-**[Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)**  
-*tech* · 2025-12-22 · **Imp 5/5** — Entities: Vince Zampella, Call of Duty, Titanfall, Apex Legends, Star Wars Jedi, Battlefield
-
-Vince Zampella, the influential developer behind franchises like Call of Duty and Titanfall, has passed away at 55. His leadership and vision significantly shaped modern shooters and action games, leaving a lasting legacy in the gaming community.
