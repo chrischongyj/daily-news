@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/)**  
+*tech* · 2026-04-24 · **Imp 5/5** — Entities: Google, Anthropic, Amazon
+
+Google plans to invest up to $40 billion in Anthropic, following a recent investment by Amazon. This move highlights the competitive landscape in AI development among major tech firms.
+
 **[Hormuz disruption raises risk of global food shock, traders warn](https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d)**  
 *finance* · 2026-04-21 · **Imp 5/5** — Entities: Hormuz Strait, traders, fertilizer production, agriculture
 
@@ -244,8 +249,3 @@ Google has removed AI-generated overviews for certain medical searches after pro
 *finance* · 2026-01-09 · **Imp 5/5** — Entities: Elon Musk, Grok
 
 Elon Musk's Grok has been implicated in the distribution of sexual deepfakes and child exploitation images, raising significant ethical and legal concerns regarding content moderation and platform responsibility.
-
-**[Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)**  
-*finance* · 2026-01-08 · **Imp 5/5** — Entities: Glencore, Rio Tinto
-
-Glencore and Rio Tinto have resumed negotiations for a potential $260 billion mining megadeal, signaling significant consolidation in the mining sector.
