@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[The most severe Linux threat to surface in years catches the world flat-footed](https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/)**  
+*tech* · 2026-04-30 · **Imp 5/5** — Entities: Linux, CopyFail, Kubernetes
+
+The CopyFail vulnerability poses a significant risk to Linux systems, affecting multi-tenant servers, CI/CD workflows, and Kubernetes containers, highlighting a critical security threat in the tech landscape.
+
+**[US stocks hit record highs in Wall Street’s best month since 2020](https://www.ft.com/content/63133c10-dac7-41f0-8c9f-831fc5f9ebf6)**  
+*finance* · 2026-04-30 · **Imp 5/5** — Entities: US stocks, Wall Street, AI spending, Middle East conflict
+
+US stocks reached record highs, marking Wall Street's best month since 2020, driven by investor optimism over significant AI spending despite concerns from the Middle East conflict.
+
 **[Hormuz disruption raises risk of global food shock, traders warn](https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d)**  
 *finance* · 2026-04-21 · **Imp 5/5** — Entities: Hormuz Strait, traders, fertilizer production, agriculture
 
@@ -239,13 +249,3 @@ Alphabet has reached a $4 trillion valuation, driven by optimism surrounding its
 *tech* · 2026-01-11 · **Imp 5/5** — Entities: Google, pancreatic cancer, liver disease
 
 Google has removed AI-generated overviews for certain medical searches after providing dangerous and misleading health advice, including incorrect dietary recommendations for pancreatic cancer and erroneous information on liver function tests.
-
-**[How Elon Musk’s Grok spread sexual deepfakes and child exploitation images](https://www.ft.com/content/117af7cc-3fe6-4292-a706-7204b82bb8dc)**  
-*finance* · 2026-01-09 · **Imp 5/5** — Entities: Elon Musk, Grok
-
-Elon Musk's Grok has been implicated in the distribution of sexual deepfakes and child exploitation images, raising significant ethical and legal concerns regarding content moderation and platform responsibility.
-
-**[Glencore and Rio Tinto resume talks on $260bn mining megadeal](https://www.ft.com/content/33b05a8b-9de0-4e70-8530-7237df1bf0d9)**  
-*finance* · 2026-01-08 · **Imp 5/5** — Entities: Glencore, Rio Tinto
-
-Glencore and Rio Tinto have resumed negotiations for a potential $260 billion mining megadeal, signaling significant consolidation in the mining sector.
