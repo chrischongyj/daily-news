@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Chinese AI start-up DeepSeek nears $45bn valuation](https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7)**  
+*finance* · 2026-05-06 · **Imp 5/5** — Entities: DeepSeek, Tencent
+
+Chinese AI start-up DeepSeek is approaching a $45 billion valuation amid ongoing fundraising talks, attracting interest from investors like Tencent.
+
 **[The most severe Linux threat to surface in years catches the world flat-footed](https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/)**  
 *tech* · 2026-04-30 · **Imp 5/5** — Entities: Linux, CopyFail, Kubernetes
 
@@ -244,8 +249,3 @@ The article discusses the notorious torture chamber in Venezuela, highlighting t
 *finance* · 2026-01-12 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet, artificial intelligence
 
 Alphabet has reached a $4 trillion valuation, driven by optimism surrounding its artificial intelligence initiatives. This milestone reflects growing investor confidence in AI's potential to enhance the company's growth prospects.
-
-**[Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews)**  
-*tech* · 2026-01-11 · **Imp 5/5** — Entities: Google, pancreatic cancer, liver disease
-
-Google has removed AI-generated overviews for certain medical searches after providing dangerous and misleading health advice, including incorrect dietary recommendations for pancreatic cancer and erroneous information on liver function tests.
