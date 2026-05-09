@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Jane Street earned $10bn in first quarter as it doubled trading revenue](https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a)**  
+*finance* · 2026-05-08 · **Imp 5/5** — Entities: Jane Street
+
+Jane Street reported $10 billion in earnings for Q1, doubling its trading revenue and solidifying its position as one of Wall Street's most profitable proprietary trading firms.
+
 **[Chinese AI start-up DeepSeek nears $45bn valuation](https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7)**  
 *finance* · 2026-05-06 · **Imp 5/5** — Entities: DeepSeek, Tencent
 
@@ -244,8 +249,3 @@ BlackRock's assets have surpassed $14 trillion following a record quarter, highl
 *finance* · 2026-01-14 · **Imp 5/5** — Entities: Venezuela, human rights, torture
 
 The article discusses the notorious torture chamber in Venezuela, highlighting the severe human rights abuses occurring in the country. It sheds light on the dire situation faced by many Venezuelans under the current regime.
-
-**[Alphabet hits $4tn valuation on AI hopes](https://www.ft.com/content/02d44794-815f-40dc-9b49-0e10432147a9)**  
-*finance* · 2026-01-12 · **Imp 5/5** — Tickers: GOOGL — Entities: Alphabet, artificial intelligence
-
-Alphabet has reached a $4 trillion valuation, driven by optimism surrounding its artificial intelligence initiatives. This milestone reflects growing investor confidence in AI's potential to enhance the company's growth prospects.
