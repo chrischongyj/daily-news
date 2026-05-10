@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Drone start-up Helsing set for $18bn valuation as investors pile into defence](https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c)**  
+*finance* · 2026-05-09 · **Imp 5/5** — Entities: Helsing, Daniel Ek, Spotify
+
+Drone start-up Helsing is poised for an $18 billion valuation, bolstered by a $1.2 billion funding round led by investors including Spotify's Daniel Ek, highlighting growing interest in defense technology.
+
 **[Jane Street earned $10bn in first quarter as it doubled trading revenue](https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a)**  
 *finance* · 2026-05-08 · **Imp 5/5** — Entities: Jane Street
 
@@ -244,8 +249,3 @@ The US and Taiwan have finalized a trade deal linked to a substantial $250 billi
 *finance* · 2026-01-15 · **Imp 5/5** — Tickers: BLK — Entities: BlackRock
 
 BlackRock's assets have surpassed $14 trillion following a record quarter, highlighting the firm's strong performance in the asset management sector.
-
-**[‘Welcome to hell’: Venezuela’s most notorious torture chamber](https://www.ft.com/content/810f5931-5138-4ad2-a71e-a4812608c85e)**  
-*finance* · 2026-01-14 · **Imp 5/5** — Entities: Venezuela, human rights, torture
-
-The article discusses the notorious torture chamber in Venezuela, highlighting the severe human rights abuses occurring in the country. It sheds light on the dire situation faced by many Venezuelans under the current regime.
