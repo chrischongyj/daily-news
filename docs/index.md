@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Fuel, munitions and food: Trump’s Iran war rips across US economy](https://www.ft.com/content/145eccf2-14d8-4819-bd75-5674a5818f7c)**  
+*finance* · 2026-05-11 · **Imp 5/5** — Entities: Trump, US economy, American businesses, consumers
+
+The ongoing conflict in Iran, linked to Trump's policies, is projected to cost the US economy hundreds of billions in lost output, impacting businesses and consumers significantly.
+
 **[Drone start-up Helsing set for $18bn valuation as investors pile into defence](https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c)**  
 *finance* · 2026-05-09 · **Imp 5/5** — Entities: Helsing, Daniel Ek, Spotify
 
@@ -244,8 +249,3 @@ China is poised to take the lead in the global AI race, leveraging its vast reso
 *finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
 
 The US and Taiwan have finalized a trade deal linked to a substantial $250 billion investment in semiconductor manufacturing, enhancing collaboration in the tech sector.
-
-**[BlackRock assets surge above $14tn after record quarter](https://www.ft.com/content/a1b78279-4ff1-4208-a12f-786c736e5cf1)**  
-*finance* · 2026-01-15 · **Imp 5/5** — Tickers: BLK — Entities: BlackRock
-
-BlackRock's assets have surpassed $14 trillion following a record quarter, highlighting the firm's strong performance in the asset management sector.
