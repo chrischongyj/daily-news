@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Cerebras boosts IPO price to raise $5.5bn](https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814)**  
+*finance* · 2026-05-13 · **Imp 5/5** — Entities: Cerebras
+
+Cerebras has increased its IPO price to raise $5.5 billion, achieving a valuation of $40 billion, reflecting strong demand for AI-related stocks.
+
 **[Fuel, munitions and food: Trump’s Iran war rips across US economy](https://www.ft.com/content/145eccf2-14d8-4819-bd75-5674a5818f7c)**  
 *finance* · 2026-05-11 · **Imp 5/5** — Entities: Trump, US economy, American businesses, consumers
 
@@ -244,8 +249,3 @@ The neglect of the blue economy significantly inflates the financial implication
 *finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
 
 China is poised to take the lead in the global AI race, leveraging its vast resources and talent pool to advance technology.
-
-**[US and Taiwan strike trade deal tied to $250bn chip investment](https://www.ft.com/content/d3465ce9-ee23-44e4-82f5-9c9c6c990c57)**  
-*finance* · 2026-01-15 · **Imp 5/5** — Entities: US, Taiwan, semiconductor industry
-
-The US and Taiwan have finalized a trade deal linked to a substantial $250 billion investment in semiconductor manufacturing, enhancing collaboration in the tech sector.
