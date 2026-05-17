@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works](https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/)**  
+*tech* · 2026-05-15 · **Imp 5/5** — Entities: SpaceX, Starship
+
+SpaceX's upgraded Starship is poised for its inaugural test flight on May 19, marking a significant milestone in the company's ambitions for space exploration and satellite deployment.
+
 **[Cerebras boosts IPO price to raise $5.5bn](https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814)**  
 *finance* · 2026-05-13 · **Imp 5/5** — Entities: Cerebras
 
@@ -244,8 +249,3 @@ Russia's recent attacks have disrupted power, heating, and water supplies in Kyi
 *tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
 
 The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight presents a critical opportunity for investment in sustainable ocean-related initiatives.
-
-**[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**  
-*finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
-
-China is poised to take the lead in the global AI race, leveraging its vast resources and talent pool to advance technology.
