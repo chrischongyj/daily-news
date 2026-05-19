@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX IPO set to hand $20bn stake to one hedge fund](https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038)**  
+*finance* · 2026-05-18 · **Imp 5/5** — Entities: SpaceX, D1 Capital
+
+D1 Capital is poised to receive a $20 billion stake in SpaceX as the company prepares for its IPO next month, potentially benefiting significantly from the listing.
+
 **[Cerebras boosts IPO price to raise $5.5bn](https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814)**  
 *finance* · 2026-05-13 · **Imp 5/5** — Entities: Cerebras
 
@@ -244,8 +249,3 @@ Russia's recent attacks have disrupted power, heating, and water supplies in Kyi
 *tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
 
 The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight presents a critical opportunity for investment in sustainable ocean-related initiatives.
-
-**[China will clinch the AI race](https://www.ft.com/content/d9af562c-1d37-41b7-9aa7-a838dce3f571)**  
-*finance* · 2026-01-18 · **Imp 5/5** — Entities: China, AI
-
-China is poised to take the lead in the global AI race, leveraging its vast resources and talent pool to advance technology.
