@@ -1,5 +1,15 @@
 # AI Curated News Analyst — Latest
 
+**[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)**  
+*tech* · 2026-05-19 · **Imp 5/5** — Entities: Demis Hassabis, Google
+
+Demis Hassabis suggests we are at the 'foothills of the singularity,' indicating that Google's advancements in AGI could lead to significant global benefits and a new era of scientific progress.
+
+**[In stunning display of stupid, secret CISA credentials found in public GitHub repo](https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/)**  
+*tech* · 2026-05-19 · **Imp 5/5** — Entities: CISA, GitHub
+
+Sensitive CISA credentials, including SSH keys and plaintext passwords, were discovered in a public GitHub repository, raising serious security concerns. The data had been exposed since November 2025.
+
 **[SpaceX IPO set to hand $20bn stake to one hedge fund](https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038)**  
 *finance* · 2026-05-18 · **Imp 5/5** — Entities: SpaceX, D1 Capital
 
@@ -239,13 +249,3 @@ SpaceX has secured partnerships with four banks to facilitate its upcoming initi
 *tech* · 2026-01-21 · **Imp 5/5** — Tickers: MRNA, MRK — Entities: Moderna, Merck
 
 Moderna and Merck report that their mRNA cancer vaccine demonstrates protective effects at a 5-year follow-up, showcasing its potential in personalized cancer treatment.
-
-**[Russia knocks out Kyiv’s power, heating and water](https://www.ft.com/content/49518cbe-ff28-48c6-86fc-b729b4c05e44)**  
-*finance* · 2026-01-20 · **Imp 5/5** — Entities: Russia, Kyiv
-
-Russia's recent attacks have disrupted power, heating, and water supplies in Kyiv, significantly impacting the city's infrastructure and civilian life.
-
-**[Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/)**  
-*tech* · 2026-01-18 · **Imp 5/5** — Entities: blue economy, climate finance, ocean damage
-
-The neglect of the blue economy significantly inflates the financial implications of climate change, with ocean damage nearly doubling associated costs. This oversight presents a critical opportunity for investment in sustainable ocean-related initiatives.
