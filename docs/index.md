@@ -1,5 +1,30 @@
 # AI Curated News Analyst — Latest
 
+**[Elon Musk’s SpaceX sets out plans for biggest IPO in history](https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75)**  
+*finance* · 2026-05-20 · **Imp 5/5** — Entities: SpaceX, Elon Musk, Wall Street
+
+SpaceX, led by Elon Musk, is preparing for what could be the largest IPO in history, signaling a potential surge in significant Wall Street listings, particularly in the AI and satellite sectors.
+
+**[Famously secret about its finances, SpaceX opens its books for the first time](https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/)**  
+*tech* · 2026-05-20 · **Imp 5/5** — Entities: SpaceX
+
+SpaceX has disclosed its financials for the first time, claiming to have identified the largest Total Addressable Market (TAM) in history, which could significantly impact its valuation and investor interest.
+
+**[Nvidia to return more than $80bn to shareholders as it reaps rewards of AI boom](https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0)**  
+*finance* · 2026-05-20 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia
+
+Nvidia plans to return over $80 billion to shareholders, capitalizing on its strong revenue growth driven by the AI boom. The company reported better-than-expected financial results and forecasts.
+
+**[Buckle up: Google is set to remake search with agentic AI in 2026](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/)**  
+*tech* · 2026-05-20 · **Imp 5/5** — Tickers: GOOGL — Entities: Google, AI, search technology
+
+Google plans to transform its search capabilities with agentic AI by 2026, marking a significant evolution in its technology strategy.
+
+**[OpenAI readies IPO filing to list as soon as September](https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318)**  
+*finance* · 2026-05-20 · **Imp 5/5** — Entities: OpenAI, Goldman Sachs, Morgan Stanley, Cooley
+
+OpenAI is preparing to file for an IPO, aiming for a valuation of $1 trillion, with Goldman Sachs and Morgan Stanley as underwriters and Cooley as legal counsel. The listing could occur as soon as September.
+
 **[Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)**  
 *tech* · 2026-05-19 · **Imp 5/5** — Entities: Demis Hassabis, Google
 
@@ -224,28 +249,3 @@ Anthropic has successfully raised $30 billion, achieving a valuation of $350 bil
 *finance* · 2026-02-08 · **Imp 5/5** — Entities: Big Tech, AI industry
 
 Major tech companies are competing to invest a record $660 billion in artificial intelligence, signaling a significant shift in industry focus and potential growth areas.
-
-**[Microsoft releases urgent Office patch. Russian-state hackers pounce.](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/)**  
-*tech* · 2026-02-04 · **Imp 5/5** — Tickers: MSFT — Entities: Microsoft, Russian-state hackers, cybersecurity
-
-Microsoft has issued an urgent patch for Office to address vulnerabilities exploited by Russian-state hackers, highlighting the increasing urgency for cybersecurity measures.
-
-**[Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai)**  
-*tech* · 2026-01-31 · **Imp 5/5** — Tickers: NVDA — Entities: Nvidia, OpenAI, Sam Altman, Jensen Huang
-
-Nvidia CEO Jensen Huang confirms a significant investment in OpenAI, emphasizing his support for the company and its CEO, Sam Altman. This investment is expected to be Nvidia's largest to date.
-
-**[Waymo finalises $16bn funding round at $110bn valuation](https://www.ft.com/content/94663caf-6c98-4883-b3f0-cc763a3b95ff)**  
-*finance* · 2026-01-31 · **Imp 5/5** — Entities: Waymo
-
-Waymo has completed a $16 billion funding round, achieving a valuation of $110 billion. This significant investment underscores the growing confidence in autonomous vehicle technology.
-
-**[Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO](https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606)**  
-*finance* · 2026-01-22 · **Imp 5/5** — Entities: SpaceX, Elon Musk, banks
-
-SpaceX has secured partnerships with four banks to facilitate its upcoming initial public offering (IPO), signaling a significant move in the aerospace sector.
-
-**[mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say](https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/)**  
-*tech* · 2026-01-21 · **Imp 5/5** — Tickers: MRNA, MRK — Entities: Moderna, Merck
-
-Moderna and Merck report that their mRNA cancer vaccine demonstrates protective effects at a 5-year follow-up, showcasing its potential in personalized cancer treatment.
