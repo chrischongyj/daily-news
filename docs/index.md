@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation](https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268)**  
+*finance* · 2026-05-28 · **Imp 5/5** — Entities: Anthropic, OpenAI, Claude AI
+
+Anthropic has secured a $65 billion funding deal, raising its valuation to $965 billion, surpassing OpenAI. This significant investment highlights the competitive landscape in AI development.
+
 **[Elon Musk’s SpaceX sets out plans for biggest IPO in history](https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75)**  
 *finance* · 2026-05-20 · **Imp 5/5** — Entities: SpaceX, Elon Musk, Wall Street
 
@@ -244,8 +249,3 @@ Social media giants face significant lawsuits regarding their impact on teen men
 *finance* · 2026-02-12 · **Imp 5/5** — Entities: Anthropic
 
 Anthropic has successfully raised $30 billion, achieving a valuation of $350 billion in its latest funding round, signaling strong investor confidence in AI technology.
-
-**[Big Tech groups race to fund unprecedented $660bn AI spending spree](https://www.ft.com/content/d503afd5-1012-40f0-8f9d-620dcb39a9a2)**  
-*finance* · 2026-02-08 · **Imp 5/5** — Entities: Big Tech, AI industry
-
-Major tech companies are competing to invest a record $660 billion in artificial intelligence, signaling a significant shift in industry focus and potential growth areas.
