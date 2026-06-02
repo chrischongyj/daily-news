@@ -1,5 +1,30 @@
 # AI Curated News Analyst — Latest
 
+**[Alphabet to sell $80bn in stock to fund AI spending spree](https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257)**  
+*finance* · 2026-06-01 · **Imp 5/5** — Tickers: GOOGL, BRK.A — Entities: Alphabet, Berkshire Hathaway
+
+Alphabet plans to raise $80 billion through stock sales, including a $10 billion private placement to Berkshire Hathaway, to finance its AI initiatives.
+
+**[HPE shares soar 37% on booming demand for AI infrastructure](https://www.ft.com/content/3ddf001d-d7f6-40f1-8fe4-1cc577868da0)**  
+*finance* · 2026-06-01 · **Imp 5/5** — Tickers: HPE — Entities: HPE, AI infrastructure, data centre equipment
+
+HPE shares surged 37% due to increased demand for AI infrastructure, with significant growth in sales of servers and networking equipment.
+
+**[Dozens of Red Hat packages backdoored through its official NPM channel](https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/)**  
+*tech* · 2026-06-01 · **Imp 5/5** — Entities: Red Hat, NPM
+
+Dozens of Red Hat packages have been compromised via its official NPM channel, urging users to investigate any downloaded packages immediately.
+
+**[Anthropic files for blockbuster initial public offering](https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e)**  
+*finance* · 2026-06-01 · **Imp 5/5** — Entities: Anthropic, OpenAI, SpaceX, Wall Street
+
+Anthropic has filed for an initial public offering, intensifying competition with OpenAI and SpaceX and gauging Wall Street's interest in the burgeoning AI sector.
+
+**[An OpenAI model solved a famous math problem that stumped humans for 80 years](https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/)**  
+*tech* · 2026-06-01 · **Imp 5/5** — Entities: OpenAI
+
+An OpenAI model has successfully solved a long-standing math problem that remained unsolved for 80 years, showcasing advancements in AI capabilities in tackling complex challenges.
+
 **[Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation](https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268)**  
 *finance* · 2026-05-28 · **Imp 5/5** — Entities: Anthropic, OpenAI, Claude AI
 
@@ -224,28 +249,3 @@ Amazon has led a significant surge in US corporate borrowing, raising nearly $50
 *finance* · 2026-03-06 · **Imp 5/5** — Entities: Qatar, Gulf region, energy sector
 
 Qatar has issued a warning that ongoing conflicts could lead to a halt in energy exports from the Gulf region within days, raising concerns over global energy supply stability.
-
-**[What will war in Iran do to the global economy?](https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456)**  
-*finance* · 2026-03-01 · **Imp 5/5** — Entities: Iran, global economy, oil prices, trade routes, geopolitical stability
-
-The potential for war in Iran poses significant risks to the global economy, affecting oil prices, trade routes, and geopolitical stability. Investors should closely monitor developments as they could lead to market volatility and shifts in energy supply dynamics.
-
-**[OpenAI secures up to $110bn in record funding deal](https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f)**  
-*finance* · 2026-02-27 · **Imp 5/5** — Entities: OpenAI
-
-OpenAI has secured up to $110 billion in a record funding deal, significantly boosting its financial resources for future projects and innovations in AI technology.
-
-**[AI upheaval forces software industry to ask if this is an ‘adapt or die’ moment](https://www.ft.com/content/8867bff7-8632-40b7-8fde-7c95b3e624f9)**  
-*finance* · 2026-02-24 · **Imp 5/5** — Entities: software industry, AI advancements
-
-The software industry faces a critical juncture as AI advancements prompt companies to reconsider their strategies, emphasizing the need for adaptation to survive in a rapidly evolving market.
-
-**[Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok)**  
-*tech* · 2026-02-18 · **Imp 5/5** — Entities: Meta, Snap, TikTok, YouTube, Mark Zuckerberg
-
-Social media giants face significant lawsuits regarding their impact on teen mental health and safety, with executives like Meta's Mark Zuckerberg set to testify. These cases challenge the protections offered by Section 230, marking a pivotal moment for accountability in the tech industry.
-
-**[Anthropic raises $30bn at a $350bn valuation in latest funding round](https://www.ft.com/content/d21f4583-a05d-4a94-8404-f1e02a332283)**  
-*finance* · 2026-02-12 · **Imp 5/5** — Entities: Anthropic
-
-Anthropic has successfully raised $30 billion, achieving a valuation of $350 billion in its latest funding round, signaling strong investor confidence in AI technology.
