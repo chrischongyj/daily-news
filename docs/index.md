@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX pitches investors $1.8tn valuation in historic IPO](https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8)**  
+*finance* · 2026-06-03 · **Imp 5/5** — Entities: SpaceX, investors, Wall Street
+
+SpaceX is targeting a $1.8 trillion valuation in its upcoming IPO, aiming to raise up to $86 billion, which would mark the largest debut in Wall Street history.
+
 **[Alphabet to sell $80bn in stock to fund AI spending spree](https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257)**  
 *finance* · 2026-06-01 · **Imp 5/5** — Tickers: GOOGL, BRK.A — Entities: Alphabet, Berkshire Hathaway
 
@@ -244,8 +249,3 @@ Iran's control over the Strait of Hormuz poses a significant threat to global ec
 *finance* · 2026-03-10 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon
 
 Amazon has led a significant surge in US corporate borrowing, raising nearly $50 billion through bond sales, marking a record for corporate debt issuance.
-
-**[Qatar warns war will force Gulf to stop energy exports ‘within days’](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea)**  
-*finance* · 2026-03-06 · **Imp 5/5** — Entities: Qatar, Gulf region, energy sector
-
-Qatar has issued a warning that ongoing conflicts could lead to a halt in energy exports from the Gulf region within days, raising concerns over global energy supply stability.
