@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030](https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4)**  
+*finance* · 2026-06-04 · **Imp 5/5** — Entities: Goldman Sachs, SpaceX
+
+Goldman Sachs forecasts a 100-fold increase in SpaceX's AI revenue by 2030, supporting the company's projected $1.78 trillion valuation for its upcoming IPO.
+
 **[SpaceX pitches investors $1.8tn valuation in historic IPO](https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8)**  
 *finance* · 2026-06-03 · **Imp 5/5** — Entities: SpaceX, investors, Wall Street
 
@@ -244,8 +249,3 @@ Elon Musk's xAI faces a lawsuit for allegedly generating child sexual abuse mate
 *finance* · 2026-03-16 · **Imp 5/5** — Entities: Iran, Strait of Hormuz, global economy
 
 Iran's control over the Strait of Hormuz poses a significant threat to global economic stability, impacting oil supply and prices, which could have lasting effects post-conflict.
-
-**[Amazon leads record US corporate borrowing rush with nearly $50bn bond sales](https://www.ft.com/content/6a509e25-e8bc-41cb-a727-6b7b2bc387e0)**  
-*finance* · 2026-03-10 · **Imp 5/5** — Tickers: AMZN — Entities: Amazon
-
-Amazon has led a significant surge in US corporate borrowing, raising nearly $50 billion through bond sales, marking a record for corporate debt issuance.
