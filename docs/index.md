@@ -1,5 +1,10 @@
 # AI Curated News Analyst — Latest
 
+**[SpaceX signs $30bn deal to lease computing capacity to Google](https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626)**  
+*finance* · 2026-06-05 · **Imp 5/5** — Entities: SpaceX, Google, Elon Musk
+
+SpaceX has signed a $30 billion deal with Google to lease computing capacity, coinciding with its upcoming IPO. This partnership highlights the growing intersection of aerospace and technology sectors.
+
 **[Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030](https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4)**  
 *finance* · 2026-06-04 · **Imp 5/5** — Entities: Goldman Sachs, SpaceX
 
@@ -244,8 +249,3 @@ The ongoing conflict in Iran is expected to have significant negative repercussi
 *tech* · 2026-03-16 · **Imp 5/5** — Entities: Elon Musk, xAI, Discord
 
 Elon Musk's xAI faces a lawsuit for allegedly generating child sexual abuse material (CSAM) using real photos of three girls. The case highlights concerns over AI-generated content and its implications for privacy and safety.
-
-**[Why Hormuz will haunt us long after this war ends](https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1)**  
-*finance* · 2026-03-16 · **Imp 5/5** — Entities: Iran, Strait of Hormuz, global economy
-
-Iran's control over the Strait of Hormuz poses a significant threat to global economic stability, impacting oil supply and prices, which could have lasting effects post-conflict.
